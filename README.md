@@ -1,7 +1,6 @@
 # brefsearch-data
 
-Data processing scripts for the
-[brefsearch](https://github.com/pixelastic/brefsearch) project.
+Data processing scripts for the [brefsearch](https://github.com/pixelastic/brefsearch) project.
 
 This repository contains all the scripts and tools needed to extract subtitles
 from YouTube videos, generate thumbnails and animated previews, and push the
@@ -13,31 +12,18 @@ data to Algolia for search indexing.
 yarn install
 ```
 
-## Configuration
-
-Create a `.envrc` file (or set environment variables) with your Algolia credentials:
-
-```bash
-export ALGOLIA_ADMIN_API_KEY="your_admin_api_key"
-```
-
-The Algolia app configuration is in `lib/config.js`:
-- App ID: `O3F8QXYK6R`
-- Index Name: `brefsearch`
-- Search API Key: `6a47b9b62c58a7a4cd2338f095630b15`
-
 ## Data Pipeline
 
 ### 1. Download Videos and Audio
 
-Download the YouTube videos and audio files manually using `yt-dlp`:
+This is a manual process, no scripts are provided. I "manually" downloaded the YouTube videos and audio files using `yt-dlp`:
 
 ```bash
 # Download videos (for thumbnails/previews)
-yt-dlp "{playlistId}" -o "./tmp/mp4/%(title)s.%(ext)s"
+cd ./tmp/mp4 && yt-dlp "PLlFikkv2B2ffwYiFQJmcao3RKtw1DFMz5"
 
 # Download audio only (for subtitle generation)
-yt-dlp "{playlistId}" --extract-audio -o "./tmp/mp3/%(title)s.%(ext)s"
+cd ./tmp/mp3 && yt-dlp --extract-audio "PLlFikkv2B2ffwYiFQJmcao3RKtw1DFMz5"
 ```
 
 Files should be named like: `S01E75_brefJaiToutCasse.mp3`
@@ -109,6 +95,16 @@ yarn deploy-assets
 ### 9. Push to Algolia
 
 Upload records to Algolia and configure the index:
+
+Create a `.envrc` file (or set environment variables) with your Algolia credentials:
+
+```bash
+export ALGOLIA_ADMIN_API_KEY="your_admin_api_key"
+```
+
+The Algolia app configuration is in `lib/config.js`:
+- App ID: `O3F8QXYK6R`
+- Index Name: `brefsearch`
 
 ```bash
 yarn deploy-algolia
