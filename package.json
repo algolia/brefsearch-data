@@ -1,0 +1,31 @@
+{
+  "name": "brefsearch-data",
+  "version": "1.0.0",
+  "private": true,
+  "author": "algolia",
+  "description": "Data processing scripts for brefsearch - subtitle extraction, thumbnail generation, and Algolia indexing",
+  "repository": "algolia/brefsearch-data",
+  "homepage": "https://github.com/algolia/brefsearch-data",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "packageManager": "yarn@4.6.0",
+  "dependencies": {
+    "algolia-indexing": "2.0.0",
+    "firost": "5.2.1",
+    "golgoth": "3.0.0",
+    "imoen": "2.0.0"
+  },
+  "scripts": {
+    "update-lines": "node ./scripts/update-episode-lines.js",
+    "update-counts": "node ./scripts/update-episode-counts.js",
+    "update-thumbnails": "node ./scripts/update-episode-thumbnails.js",
+    "update-animated": "node ./scripts/update-episode-animated.js",
+    "update-records": "node ./scripts/update-episode-records.js",
+    "deploy-assets": "./scripts/deploy-data-assets",
+    "deploy-algolia": "node ./scripts/deploy-data-algolia.js",
+    "update-and-deploy": "./scripts/update-and-deploy"
+  }
+}
