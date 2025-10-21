@@ -12,6 +12,9 @@
     "node": ">=18.18.0"
   },
   "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "aberlaas": "2.18.1"
+  },
   "dependencies": {
     "algolia-indexing": "2.0.0",
     "firost": "5.2.1",
@@ -26,6 +29,10 @@
     "update-records": "node ./scripts/update-episode-records.js",
     "deploy-assets": "./scripts/deploy-data-assets",
     "deploy-algolia": "node ./scripts/deploy-data-algolia.js",
-    "update-and-deploy": "./scripts/update-and-deploy"
+    "update-and-deploy": "./scripts/update-and-deploy",
+    "lint": "./scripts/lint",
+    "lint:fix": "./scripts/lint-fix",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
   }
 }

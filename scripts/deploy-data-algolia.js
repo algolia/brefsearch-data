@@ -1,7 +1,7 @@
 import indexing from 'algolia-indexing';
 import { absolute, glob, readJson } from 'firost';
 import { pMap } from 'golgoth';
-import config from '../config.js';
+import config from '../lib/config.js';
 
 (async function () {
   const credentials = {

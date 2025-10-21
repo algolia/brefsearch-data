@@ -10,7 +10,7 @@ import {
   writeJson,
 } from 'firost';
 import { _, pMap } from 'golgoth';
-import { convertCounts } from '../convertCounts.js';
+import { convertCounts } from '../lib/convertCounts.js';
 
 const episodes = await glob('*.json', {
   cwd: absolute('<gitRoot>/data/episodes'),
