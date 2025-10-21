@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-set -e
+set -ex
 
-yarn run aberlaas lint --fix "$@"
+arg=${@:-.}
+yarn run aberlaas lint --fix "${arg}"

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 set -e
 
-yarn run aberlaas test --watch "$@"
+arg=${@:-.}
+yarn run aberlaas test "${arg}"

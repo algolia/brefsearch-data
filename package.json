@@ -30,6 +30,7 @@
     "deploy-assets": "./scripts/deploy-data-assets",
     "deploy-algolia": "node ./scripts/deploy-data-algolia.js",
     "update-and-deploy": "./scripts/update-and-deploy",
+    "ci": "./scripts/ci",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "test": "./scripts/test",
