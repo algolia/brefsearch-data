@@ -5,5 +5,191 @@
     "index": 32,
     "name": "Bref. Je sais pas dire non.",
     "slug": "brefJeSaisPasDireNon"
-  }
+  },
+  "subtitles": [
+    {
+      "content": "Bref, j'étais au supermarché,\nune femme m'a proposé du saucisson.",
+      "start": 1
+    },
+    {
+      "content": "J'ai dit:\n— Non.\nElle m'a dit:\n— C'est gratuit.",
+      "start": 3
+    },
+    {
+      "content": "J'ai dit:\n— Oui.",
+      "start": 5
+    },
+    {
+      "content": "Elle m'a demandé:\n— C'est bon ?\nJ'ai répondu:\n— Oui.",
+      "start": 6
+    },
+    {
+      "content": "Elle m'a dit:\n— Vous voulez en acheter ?\nJ'ai dit:\n— Non.",
+      "start": 8
+    },
+    {
+      "content": "Elle avait l'air déçue.",
+      "start": 10
+    },
+    {
+      "content": "Je me suis sentie coupable,\nj'en ai acheté.",
+      "start": 11
+    },
+    {
+      "content": "Trois.\nJe suis comme ça, je ne sais pas dire non.",
+      "start": 13
+    },
+    {
+      "content": "J'ai couché trois fois de suite\navec une fille parce que j'osais pas\nlui dire qu'elle me plaisait pas.",
+      "start": 15
+    },
+    {
+      "content": "J'ai aidé un mec à déménager,\nje le connaissais même pas.",
+      "start": 17
+    },
+    {
+      "content": "Quand quelqu'un me marche\nsur le pied...\n— Hey !",
+      "start": 19
+    },
+    {
+      "content": "Je dis pardon.\n— Pardon.",
+      "start": 22
+    },
+    {
+      "content": "Je fais souvent\ndes heures sup pas payées parce que\nmon boss doit partir en week-end.",
+      "start": 23
+    },
+    {
+      "content": "Je laisse régulièrement un pourboire\nà un serveur que je déteste.",
+      "start": 25
+    },
+    {
+      "content": "Je donne à toutes les ONG\nqui viennent me demander, même celles\navec lesquelles je suis pas d'accord.",
+      "start": 28
+    },
+    {
+      "content": "Pour compenser, je donne\naussi à des ONG opposées.",
+      "start": 31
+    },
+    {
+      "content": "À chaque fois qu'un vendeur fait\npitié, je lui achète une rose.",
+      "start": 33
+    },
+    {
+      "content": "— C'est clair, moi, je voulais partir aussi.",
+      "start": 38
+    },
+    {
+      "content": "— Attends, c'est le Mexique ?",
+      "start": 41
+    },
+    {
+      "content": "J'en ai parlé à mon psy, il m'a\ndit:",
+      "start": 44
+    },
+    {
+      "content": "— Je propose qu'on se voit deux fois par semaine.\nJ'avais pas les moyens.",
+      "start": 45
+    },
+    {
+      "content": "J'ai dit:\n— D'accord.",
+      "start": 47
+    },
+    {
+      "content": "Une copine m'a recommandé\nun livre: \"Savoir dire non\".",
+      "start": 47
+    },
+    {
+      "content": "Je l'ai lu, j'ai pas aimé,\nelle m'a demandé:",
+      "start": 49
+    },
+    {
+      "content": "— T'as aimé ?\nJ'ai dit:\n— Oui.",
+      "start": 51
+    },
+    {
+      "content": "J'ai participé à des cadeaux communs\nde mecs que je connaissais pas.",
+      "start": 52
+    },
+    {
+      "content": "Un jour, j'en ai parlé\nà Baptiste, il m'a dit:",
+      "start": 54
+    },
+    {
+      "content": "— Tiens au fait, je peux pas payer le loyer ce mois-ci.",
+      "start": 55
+    },
+    {
+      "content": "— Ça t'embête ou pas ?\nÇa m'embêtait.",
+      "start": 58
+    },
+    {
+      "content": "J'ai dit:\n— Non.",
+      "start": 60
+    },
+    {
+      "content": "J'ai déjà mangé un truc\ndégueulasse en souriant.",
+      "start": 61
+    },
+    {
+      "content": "On m'en a reproposé.\nJ'ai dit oui.",
+      "start": 63
+    },
+    {
+      "content": "— Bha, avec plaisir.\nJe trouve tout ce que mes potes créent:",
+      "start": 64
+    },
+    {
+      "content": "— Pas mal.\n— Super.",
+      "start": 66
+    },
+    {
+      "content": "— Excellent.",
+      "start": 67
+    },
+    {
+      "content": "Un jour, Fabien m'a dit:\n— Ça te dérange pas si j'écoute de la musique ?",
+      "start": 68
+    },
+    {
+      "content": "— Non.",
+      "start": 72
+    },
+    {
+      "content": "— Cool.",
+      "start": 75
+    },
+    {
+      "content": "— Ils s'appellent Euforik, ils sont Norvégiens.",
+      "start": 81
+    },
+    {
+      "content": "— 18 kilos de son, mon pote !",
+      "start": 83
+    },
+    {
+      "content": "— Écoute la basse, écoute la basse.",
+      "start": 84
+    },
+    {
+      "content": "Bref, je sais pas dire non.",
+      "start": 88
+    },
+    {
+      "content": "— Non. Non je peux pas, j'ai pas les moyens ce mois-ci.",
+      "start": 89
+    },
+    {
+      "content": "— Non, non.",
+      "start": 94
+    },
+    {
+      "content": "— Et au fait, c'est\ntoujours cool pour le loyer ?",
+      "start": 96
+    },
+    {
+      "content": "— Euh, ouais.",
+      "start": 99
+    }
+  ]
 }

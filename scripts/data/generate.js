@@ -4,6 +4,7 @@
 import { absolute, gitRoot, glob, readJson, writeJson } from 'firost';
 import { pMap } from 'golgoth';
 import { getBasename } from '../../lib/helper.js';
+import { convertVtt } from '../../lib/convertVtt.js';
 
 const episodesGlob = await glob('data/source/episodes/*.json', {
   cwd: gitRoot(),
@@ -13,9 +14,18 @@ await pMap(episodesGlob, async (filepath) => {
   const episode = await readJson(filepath);
   const basename = getBasename(episode);
   const outputFilepath = absolute(`<gitRoot>/data/generated/${basename}.json`);
+
+  // Subtitles
+  const subtitlePath = absolute(
+    `<gitRoot>/data/source/subtitles/${basename}.vtt`,
+  );
+  const subtitles = await convertVtt(subtitlePath);
+
   const data = {
     episode,
+    subtitles,
   };
+  console.log(data);
   await writeJson(data, outputFilepath);
   // const { slug, index } = k;
 });

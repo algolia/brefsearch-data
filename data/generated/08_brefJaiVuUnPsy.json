@@ -5,5 +5,103 @@
     "index": 8,
     "name": "Bref. J'ai vu un psy.",
     "slug": "brefJaiVuUnPsy"
-  }
+  },
+  "subtitles": [
+    {
+      "content": "J'ai pleuré.",
+      "start": 0
+    },
+    {
+      "content": "Les 19 séances suivantes,\nil a dit:\n— Ah. Et ?",
+      "start": 2
+    },
+    {
+      "content": "— Hmm. Et ? Et ? Ah. Hmm. Pourquoi ?\n— Donc. Ah. Hein? Hein? Mais ? Pourquoi ?\n— Soixante-douze euros.",
+      "start": 9
+    },
+    {
+      "content": "À la 22ème séance, je lui ai\ndit:\n— J'ai rencontré une fille.",
+      "start": 12
+    },
+    {
+      "content": "À la 23ème:\n— Comment elle a pu me faire ça ?",
+      "start": 15
+    },
+    {
+      "content": "— C'est vraiment une salope.",
+      "start": 16
+    },
+    {
+      "content": "À la 24ème:\n— Ce n'est pas\ndu tout ce que je croyais.",
+      "start": 17
+    },
+    {
+      "content": "— Je crois que je l'aime bien.",
+      "start": 19
+    },
+    {
+      "content": "25ème:\n— Non, je crois\nque je vais laisser tomber.",
+      "start": 20
+    },
+    {
+      "content": "26ème:\n— J'ai rencontré une autre fille.",
+      "start": 22
+    },
+    {
+      "content": "27ème:\n— C'est vraiment une salope.\n28ème:\n— Je crois que je l'aime bien.",
+      "start": 24
+    },
+    {
+      "content": "29:\n— Je crois que je vais laisser tomber.\n— Une fille.\n— Salope.",
+      "start": 26
+    },
+    {
+      "content": "— Bien.\n— Tomber.",
+      "start": 28
+    },
+    {
+      "content": "À la 34ème séance, je lui ai dit:\n— Vous croyez\nque je vais finir seul comme mon père ?",
+      "start": 28
+    },
+    {
+      "content": "— On se revoit la semaine prochaine. 72 €.",
+      "start": 33
+    },
+    {
+      "content": "À la 35ème séance, j'ai surpris\nmon psy en slip avec un chat.",
+      "start": 35
+    },
+    {
+      "content": "Il m'a regardé, je l'ai\nregardé, il m'a regardé.",
+      "start": 39
+    },
+    {
+      "content": "J'ai regardé le chat, le chat m'a\nregardé, il a regardé le chat.",
+      "start": 41
+    },
+    {
+      "content": "Le mec qui filmait nous a regardé.",
+      "start": 43
+    },
+    {
+      "content": "J'ai regardé Christine.",
+      "start": 47
+    },
+    {
+      "content": "Christine m'a regardé.",
+      "start": 50
+    },
+    {
+      "content": "On était passé à l'heure d'été,\nj'étais arrivé une heure en retard.",
+      "start": 51
+    },
+    {
+      "content": "Bref, j'ai vu un psy.",
+      "start": 54
+    },
+    {
+      "content": "— Pan, dans ta face !",
+      "start": 58
+    }
+  ]
 }
