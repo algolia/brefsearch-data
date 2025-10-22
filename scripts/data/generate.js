@@ -14,6 +14,7 @@ import { setMostReplayedScore } from '../../lib/setMostReplayedScore.js';
 await forEachEpisode(async function (episode) {
   const basename = getBasename(episode);
   const outputFilepath = absolute(`<gitRoot>/data/generated/${basename}.json`);
+  episode.basename = basename;
 
   // Popularity
   const popularityPath = await getPopularityPath(basename);
