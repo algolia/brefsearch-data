@@ -11,218 +11,218 @@
     {
       "content": "Bref, ce jour-là, j'avais\nrendez-vous avec les autres au cinéma.",
       "index": 0,
-      "start": 0,
-      "stop": 2
+      "mostReplayedScore": 5,
+      "start": 0
     },
     {
       "content": "Il faisait beau, alors\nj'ai coupé par le parc.",
       "index": 1,
-      "start": 2,
-      "stop": 4
+      "mostReplayedScore": 5,
+      "start": 2
     },
     {
       "content": "J'étais déjà passé 117 fois exactement\ndevant ce parc sans jamais y entrer.",
       "index": 2,
-      "start": 4,
-      "stop": 6
+      "mostReplayedScore": 5,
+      "start": 4
     },
     {
       "content": "Je me suis demandé pourquoi.",
       "index": 3,
-      "start": 6,
-      "stop": 7
+      "mostReplayedScore": 5,
+      "start": 6
     },
     {
       "content": "Bref. Ce qui m'a toujours énervé, c'est pas les\ngens qui jettent leur papier par terre,\nc'est les gens qui jettent leur papier\npar terre juste à côté de la poubelle.",
       "index": 4,
-      "start": 7,
-      "stop": 11
+      "mostReplayedScore": 5,
+      "start": 7
     },
     {
       "content": "Je me suis toujours dit\nque si j'en attrapais un,\nje raterais pas la poubelle.\nOn s'était retrouvé dans ce square. À un moment, on a arrêté de parler.",
       "index": 5,
-      "start": 11,
-      "stop": 15
+      "mostReplayedScore": 4,
+      "start": 11
     },
     {
       "content": "J'ai eu envie de l'embrasser.",
       "index": 6,
-      "start": 15,
-      "stop": 16
+      "mostReplayedScore": 3,
+      "start": 15
     },
     {
       "content": "Je l'ai regardé, il m'a regardé,\nje l'ai regardé, il m'a regardé.",
       "index": 7,
-      "start": 16,
-      "stop": 19
+      "mostReplayedScore": 3,
+      "start": 16
     },
     {
       "content": "Je me suis assis\nsur un banc pour l'attendre.",
       "index": 8,
-      "start": 19,
-      "stop": 20
+      "mostReplayedScore": 3,
+      "start": 19
     },
     {
       "content": "À chaque fois que je m'assois dans\nun parc, je me demande où je me placerais\nsi j'étais un sniper dans un jeu vidéo.",
       "index": 9,
-      "start": 20,
-      "stop": 24
+      "mostReplayedScore": 4,
+      "start": 20
     },
     {
       "content": "Je scruque le décor,\nj'imagine les ennemis.",
       "index": 10,
-      "start": 24,
-      "stop": 26
+      "mostReplayedScore": 5,
+      "start": 24
     },
     {
       "content": "Demain je rentre dans le bureau de mon boss\net je lui dis c'est fini.",
       "index": 11,
-      "start": 26,
-      "stop": 28
+      "mostReplayedScore": 3,
+      "start": 26
     },
     {
       "content": "Je démissionne.\nJe veux plus être un mec dans un bureau.",
       "index": 12,
-      "start": 28,
-      "stop": 29
+      "mostReplayedScore": 2,
+      "start": 28
     },
     {
       "content": "Je vais me lancer dans l'humanitaire,\nje veux aider les gens.",
       "index": 13,
-      "start": 29,
-      "stop": 30
+      "mostReplayedScore": 2,
+      "start": 29
     },
     {
       "content": "En plus, j'avais plus\nde batterie dans mon lecteur MP3.",
       "index": 14,
-      "start": 30,
-      "stop": 32
+      "mostReplayedScore": 2,
+      "start": 30
     },
     {
       "content": "J'ai quand même mis mes écouteurs\npour éviter les relous\nqui m'abordent dans la rue.",
       "index": 15,
-      "start": 32,
-      "stop": 35
+      "mostReplayedScore": 2,
+      "start": 32
     },
     {
       "content": "Quand cette fille est arrivée, je me suis dit\nqu'elle allait lui jouer\nmon morceau Special Meuf.\n— Je suis seul...",
       "index": 16,
-      "start": 35,
-      "stop": 37
+      "mostReplayedScore": 1,
+      "start": 35
     },
     {
       "content": "Mais bon, elle avait des écouteurs.",
       "index": 17,
-      "start": 37,
-      "stop": 39
+      "mostReplayedScore": 1,
+      "start": 37
     },
     {
       "content": "Je me suis demandé pourquoi\nles jolies filles avaient des écouteurs.",
       "index": 18,
-      "start": 39,
-      "stop": 41
+      "mostReplayedScore": 1,
+      "start": 39
     },
     {
       "content": "Et puis j'ai vu ce panneau: interdit\nde marcher sur la pelouse.",
       "index": 19,
-      "start": 43,
-      "stop": 45
+      "mostReplayedScore": 1,
+      "start": 43
     },
     {
       "content": "À chaque fois que je vois un panneau:\ninterdit de marcher sur la pelouse,\nje me demande comment le mec\nqui l'a posé a pas marché sur la pelouse.",
       "index": 20,
-      "start": 45,
-      "stop": 49
+      "mostReplayedScore": 2,
+      "start": 45
     },
     {
       "content": "J'avais envie de l'embrasser,\nalors je l'ai regardée.",
       "index": 21,
-      "start": 49,
-      "stop": 51
+      "mostReplayedScore": 3,
+      "start": 49
     },
     {
       "content": "Elle m'a regardé.\nJe l'ai regardée.",
       "index": 22,
-      "start": 51,
-      "stop": 52
+      "mostReplayedScore": 4,
+      "start": 51
     },
     {
       "content": "Je me suis toujours demandé:\nSi on coupe un bébé en deux,\nquelle moitié meurt en premier ?",
       "index": 23,
-      "start": 52,
-      "stop": 56
+      "mostReplayedScore": 4,
+      "start": 52
     },
     {
       "content": "Mais j'ai jamais posé la question.",
       "index": 24,
-      "start": 56,
-      "stop": 57
+      "mostReplayedScore": 5,
+      "start": 56
     },
     {
       "content": "J'ai peur qu'on dise que je suis bizarre.\nJe me suis...",
       "index": 25,
-      "start": 57,
-      "stop": 61
+      "mostReplayedScore": 5,
+      "start": 57
     },
     {
       "content": "Je me sens bien.",
       "index": 26,
-      "start": 62,
-      "stop": 64
+      "mostReplayedScore": 4,
+      "start": 62
     },
     {
       "content": "Manger, jouer, jouer, manger, jouer,\njouer, manger, jouer, jouer, jouer,\njouer. Oh un pigeon, un pigeon, un pigeon,\nun pigeon.",
       "index": 27,
-      "start": 64,
-      "stop": 70
+      "mostReplayedScore": 4,
+      "start": 64
     },
     {
       "content": "Manger, jouer, jouer, manger, jouer,\njouer, manger, jouer, jouer, jouer,\nOh, une meuf. Baiser. Baiser. Baiser.",
       "index": 28,
-      "start": 70,
-      "stop": 77
+      "mostReplayedScore": 4,
+      "start": 70
     },
     {
       "content": "Connasse qui me bouscule. J'ai regardé ma montre, j'étais en retard.",
       "index": 29,
-      "start": 75,
-      "stop": 76
+      "mostReplayedScore": 4,
+      "start": 75
     },
     {
       "content": "À chaque fois que je suis en retard, je me\nfais la liste des raisons de ce retard.",
       "index": 30,
-      "start": 77,
-      "stop": 79
+      "mostReplayedScore": 3,
+      "start": 77
     },
     {
       "content": "Les gens sont trop pressés.",
       "index": 31,
-      "start": 79,
-      "stop": 81
+      "mostReplayedScore": 2,
+      "start": 79
     },
     {
       "content": "J'ai regardé les gens dans le parc,\nil y avait des joggers.",
       "index": 32,
-      "start": 81,
-      "stop": 86
+      "mostReplayedScore": 3,
+      "start": 81
     },
     {
       "content": "Bref.",
       "index": 33,
-      "start": 102,
-      "stop": 104
+      "mostReplayedScore": 2,
+      "start": 102
     },
     {
       "content": "— Ouais ?",
       "index": 34,
-      "start": 107,
-      "stop": 108
+      "mostReplayedScore": 2,
+      "start": 107
     },
     {
       "content": "— Ouais, t'inquiète, j'arrive au cinéma.\nÀ tout de suite.",
       "index": 35,
-      "start": 109,
-      "stop": 113
+      "mostReplayedScore": 3,
+      "start": 109
     }
   ]
 }

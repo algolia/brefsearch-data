@@ -11,230 +11,230 @@
     {
       "content": "— Je suis gay.",
       "index": 0,
-      "start": 2,
-      "stop": 2
+      "mostReplayedScore": 5,
+      "start": 2
     },
     {
       "content": "Bref, quand mon frère a annoncé\nqu'il était gay, tout\nle monde a eu sa réaction.",
       "index": 1,
-      "start": 2,
-      "stop": 5
+      "mostReplayedScore": 5,
+      "start": 2
     },
     {
       "content": "Ma mère a dit:\n— L'important, c'est qu'il soit heureux.",
       "index": 2,
-      "start": 5,
-      "stop": 6
+      "mostReplayedScore": 5,
+      "start": 5
     },
     {
       "content": "Mon père a dit:\n— L'important, c'est qu'il soit actif.",
       "index": 3,
-      "start": 6,
-      "stop": 8
+      "mostReplayedScore": 5,
+      "start": 6
     },
     {
       "content": "Mon oncle a dit:\n— S'il a envie de se prendre une bonne\n*gros mots*\n*gros mots*",
       "index": 4,
-      "start": 8,
-      "stop": 11
+      "mostReplayedScore": 5,
+      "start": 8
     },
     {
       "content": "— Moi, je m'n bats les *gros mots*.",
       "index": 5,
-      "start": 11,
-      "stop": 12
+      "mostReplayedScore": 5,
+      "start": 11
     },
     {
       "content": "Ma tante s'est excusée.\n— Excusez-le.",
       "index": 6,
-      "start": 12,
-      "stop": 14
+      "mostReplayedScore": 4,
+      "start": 12
     },
     {
       "content": "Ma copine a dit.",
       "index": 7,
-      "start": 14,
-      "stop": 15
+      "mostReplayedScore": 4,
+      "start": 14
     },
     {
       "content": "En tout cas, j'ai plein\nd'échantillons pour lui.",
       "index": 8,
-      "start": 15,
-      "stop": 17
+      "mostReplayedScore": 4,
+      "start": 15
     },
     {
       "content": "Steve m'a dit.\n— Et toi, du coup, ça t'as fait réfléchir ?",
       "index": 9,
-      "start": 17,
-      "stop": 19
+      "mostReplayedScore": 4,
+      "start": 17
     },
     {
       "content": "Kheiron a ajouté tous\nses contacts fille sur Facebook.",
       "index": 10,
-      "start": 19,
-      "stop": 21
+      "mostReplayedScore": 5,
+      "start": 19
     },
     {
       "content": "Charles a dit.\n— Tu vois ça ? Ben ça c'est un beau combat.",
       "index": 11,
-      "start": 21,
-      "stop": 22
+      "mostReplayedScore": 5,
+      "start": 21
     },
     {
       "content": "Ben a dit:",
       "index": 12,
-      "start": 22,
-      "stop": 24
+      "mostReplayedScore": 4,
+      "start": 22
     },
     {
       "content": "— Ah bon ? Pourquoi ?",
       "index": 13,
-      "start": 24,
-      "stop": 25
+      "mostReplayedScore": 3,
+      "start": 24
     },
     {
       "content": "Julien a dit:\n— C'est pas de sa faute.",
       "index": 14,
-      "start": 25,
-      "stop": 25
+      "mostReplayedScore": 3,
+      "start": 25
     },
     {
       "content": "Maud a dit:\n— C'est de ma faute.",
       "index": 15,
-      "start": 25,
-      "stop": 27
+      "mostReplayedScore": 3,
+      "start": 25
     },
     {
       "content": "Et moi, j'ai dit:\n— …\nParce qu'en fait, je savais pas quoi en penser.",
       "index": 16,
-      "start": 27,
-      "stop": 31
+      "mostReplayedScore": 3,
+      "start": 27
     },
     {
       "content": "Pour moi, il y avait trois types de gays.\nLa brute.",
       "index": 17,
-      "start": 31,
-      "stop": 33
+      "mostReplayedScore": 3,
+      "start": 31
     },
     {
       "content": "— Salut les copains.",
       "index": 18,
-      "start": 33,
-      "stop": 34
+      "mostReplayedScore": 4,
+      "start": 33
     },
     {
       "content": "La folle.\n— Salut les copines.",
       "index": 19,
-      "start": 34,
-      "stop": 35
+      "mostReplayedScore": 4,
+      "start": 34
     },
     {
       "content": "Et le parano.\n— C'est parce que je suis gay, c'est ça ?",
       "index": 20,
-      "start": 35,
-      "stop": 37
+      "mostReplayedScore": 4,
+      "start": 35
     },
     {
       "content": "— Non, votre voiture est vraiment\nsur mon pied, monsieur.",
       "index": 21,
-      "start": 37,
-      "stop": 40
+      "mostReplayedScore": 3,
+      "start": 37
     },
     {
       "content": "Mais quand mon frère a compris qu'il était\ngay, moi, j'ai compris que j'étais con.",
       "index": 22,
-      "start": 42,
-      "stop": 45
+      "mostReplayedScore": 3,
+      "start": 42
     },
     {
       "content": "J'avais envie de lui en parler\net de pas lui en parler en même temps.",
       "index": 23,
-      "start": 45,
-      "stop": 46
+      "mostReplayedScore": 2,
+      "start": 45
     },
     {
       "content": "— C'est toi qui... Ou tu te...",
       "index": 24,
-      "start": 46,
-      "stop": 49
+      "mostReplayedScore": 2,
+      "start": 46
     },
     {
       "content": "— Non, dis pas.",
       "index": 25,
-      "start": 49,
-      "stop": 50
+      "mostReplayedScore": 1,
+      "start": 49
     },
     {
       "content": "— Si, enfin... Non, tu sais quoi ? Oublie.",
       "index": 26,
-      "start": 51,
-      "stop": 52
+      "mostReplayedScore": 1,
+      "start": 51
     },
     {
       "content": "Du coup, je l'ai observé pour savoir quoi\nen penser et j'ai remarqué qu'il toussait\nquand il mangeait du tiramisu à cause du\nchocolat en poudre, qu'il m'avait envoyé un",
       "index": 27,
-      "start": 54,
-      "stop": 59
+      "mostReplayedScore": 2,
+      "start": 54
     },
     {
       "content": "second mail avec marqué à l'intérieur\n\"Avec la pièce jointe, c'est mieux\".",
       "index": 28,
-      "start": 59,
-      "stop": 61
+      "mostReplayedScore": 2,
+      "start": 59
     },
     {
       "content": "Qu'il avait 15 Seb et 11 Nico\nsans nom de famille dans son répertoire.",
       "index": 29,
-      "start": 61,
-      "stop": 63
+      "mostReplayedScore": 2,
+      "start": 61
     },
     {
       "content": "— Ouais Nico c'est pour savoir, t'es quel Nico?",
       "index": 30,
-      "start": 63,
-      "stop": 65
+      "mostReplayedScore": 2,
+      "start": 63
     },
     {
       "content": "— Ah, c'est Seb. Cool.",
       "index": 31,
-      "start": 65,
-      "stop": 66
+      "mostReplayedScore": 1,
+      "start": 65
     },
     {
       "content": "— On se voit ce soir ?",
       "index": 32,
-      "start": 67,
-      "stop": 68
+      "mostReplayedScore": 1,
+      "start": 67
     },
     {
       "content": "Il m'avait déjà dit\nqu'il avait entendu parler d'un truc\ndont il avait jamais entendu parler.\n— Ouais, j'en ai déjà entendu parler.",
       "index": 33,
-      "start": 68,
-      "stop": 71
+      "mostReplayedScore": 1,
+      "start": 68
     },
     {
       "content": "Il sait jamais sur quel bouton\nappuyer sur l'interphone, alors\nil appuie sur tous les boutons.",
       "index": 34,
-      "start": 71,
-      "stop": 73
+      "mostReplayedScore": 1,
+      "start": 71
     },
     {
       "content": "Il a déjà mis une clé USB dans un sens,\npuis dans l'autre, puis dans l'autre.",
       "index": 35,
-      "start": 73,
-      "stop": 76
+      "mostReplayedScore": 2,
+      "start": 73
     },
     {
       "content": "Bref, mon frère est comme tout le monde.",
       "index": 36,
-      "start": 76,
-      "stop": 81
+      "mostReplayedScore": 2,
+      "start": 76
     },
     {
       "content": "— Ah désolé, parfois, je conduis\nvraiment comme un noir.",
       "index": 37,
-      "start": 81,
-      "stop": 83
+      "mostReplayedScore": 3,
+      "start": 81
     }
   ]
 }

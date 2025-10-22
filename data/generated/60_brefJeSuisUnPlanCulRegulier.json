@@ -11,212 +11,212 @@
     {
       "content": "Bref, j'avais beau avoir\ndu mal à oublier mon ex,\nça m'empêchait pas de voir ce mec.",
       "index": 0,
-      "start": 2,
-      "stop": 6
+      "mostReplayedScore": 5,
+      "start": 2
     },
     {
       "content": "Ce mec, c'est un garçon que je vois.",
       "index": 1,
-      "start": 6,
-      "stop": 8
+      "mostReplayedScore": 4,
+      "start": 6
     },
     {
       "content": "Mais comme j'ai pas envie\nde retomber amoureuse, j'hésite\npendant trois mois, je finis par craquer,\non couche ensemble et je repars.",
       "index": 2,
-      "start": 8,
-      "stop": 13
+      "mostReplayedScore": 4,
+      "start": 8
     },
     {
       "content": "Des fois, je reste.",
       "index": 3,
-      "start": 13,
-      "stop": 15
+      "mostReplayedScore": 4,
+      "start": 13
     },
     {
       "content": "Je sais pas pourquoi,\nmais chez lui, je dors bien.",
       "index": 4,
-      "start": 15,
-      "stop": 17
+      "mostReplayedScore": 3,
+      "start": 15
     },
     {
       "content": "Vachement bien.",
       "index": 5,
-      "start": 17,
-      "stop": 18
+      "mostReplayedScore": 1,
+      "start": 17
     },
     {
       "content": "En fait, il y a que chez lui\nque j'arrive à dormir.",
       "index": 6,
-      "start": 18,
-      "stop": 20
+      "mostReplayedScore": 1,
+      "start": 18
     },
     {
       "content": "Parfois, c'est un pote.",
       "index": 7,
-      "start": 20,
-      "stop": 22
+      "mostReplayedScore": 1,
+      "start": 20
     },
     {
       "content": "Parfois, c'est un mec.",
       "index": 8,
-      "start": 22,
-      "stop": 24
+      "mostReplayedScore": 2,
+      "start": 22
     },
     {
       "content": "— T'es qu'un con\n— Aïe.",
       "index": 9,
-      "start": 24,
-      "stop": 26
+      "mostReplayedScore": 2,
+      "start": 24
     },
     {
       "content": "Des fois, j'ai envie de lui dire\nque je l'aime, alors je lui dis:",
       "index": 10,
-      "start": 26,
-      "stop": 28
+      "mostReplayedScore": 2,
+      "start": 26
     },
     {
       "content": "— Je t'aime pas, hein.\n— Ouais, c'est cool.\nJe crois qu'il s'en fout.",
       "index": 11,
-      "start": 28,
-      "stop": 32
+      "mostReplayedScore": 1,
+      "start": 28
     },
     {
       "content": "Du coup, j'essaie de lui dire autrement.",
       "index": 12,
-      "start": 32,
-      "stop": 35
+      "mostReplayedScore": 1,
+      "start": 32
     },
     {
       "content": "— C'est pas mal.",
       "index": 13,
-      "start": 35,
-      "stop": 36
+      "mostReplayedScore": 2,
+      "start": 35
     },
     {
       "content": "Je crois que ça fait son effet.",
       "index": 14,
-      "start": 36,
-      "stop": 37
+      "mostReplayedScore": 2,
+      "start": 36
     },
     {
       "content": "On joue souvent à la console.",
       "index": 15,
-      "start": 37,
-      "stop": 39
+      "mostReplayedScore": 3,
+      "start": 37
     },
     {
       "content": "J'essaie de marquer des points,\nmais j'y arrive pas.",
       "index": 16,
-      "start": 39,
-      "stop": 40
+      "mostReplayedScore": 2,
+      "start": 39
     },
     {
       "content": "— Moi, c'est facile pour gagner,\nj'appuie sur tous les boutons.",
       "index": 17,
-      "start": 40,
-      "stop": 43
+      "mostReplayedScore": 2,
+      "start": 40
     },
     {
       "content": "— Pam,  dans ta face.\n— Putain, t'es qu'un con.",
       "index": 18,
-      "start": 43,
-      "stop": 46
+      "mostReplayedScore": 3,
+      "start": 43
     },
     {
       "content": "Ça m'énerve.",
       "index": 19,
-      "start": 46,
-      "stop": 46
+      "mostReplayedScore": 3,
+      "start": 46
     },
     {
       "content": "Je mange ce que je veux\net il me fait pas de remarques.",
       "index": 20,
-      "start": 46,
-      "stop": 49
+      "mostReplayedScore": 4,
+      "start": 46
     },
     {
       "content": "Des fois, j'ai l'impression\nqu'il y a que nous deux sur Terre.",
       "index": 21,
-      "start": 49,
-      "stop": 51
+      "mostReplayedScore": 4,
+      "start": 49
     },
     {
       "content": "— Hey, les bouffons !\n— Hey, vas-y, je t'emmerde, toi.\n— Non, non, c'est pas grave.",
       "index": 22,
-      "start": 51,
-      "stop": 54
+      "mostReplayedScore": 5,
+      "start": 51
     },
     {
       "content": "Mais bon, il y a les autres.",
       "index": 23,
-      "start": 54,
-      "stop": 55
+      "mostReplayedScore": 5,
+      "start": 54
     },
     {
       "content": "— Bonjour.",
       "index": 24,
-      "start": 55,
-      "stop": 57
+      "mostReplayedScore": 5,
+      "start": 55
     },
     {
       "content": "Parfois, on baise.",
       "index": 25,
-      "start": 57,
-      "stop": 60
+      "mostReplayedScore": 5,
+      "start": 57
     },
     {
       "content": "Parfois, on fait l'amour.",
       "index": 26,
-      "start": 60,
-      "stop": 62
+      "mostReplayedScore": 5,
+      "start": 60
     },
     {
       "content": "Un jour, Marie m'a dit:\n— Dis-lui que t'es enceinte, tu verras s'il t'aime.",
       "index": 27,
-      "start": 64,
-      "stop": 68
+      "mostReplayedScore": 5,
+      "start": 64
     },
     {
       "content": "Alors, je lui ai dit:\n— Je suis enceinte.",
       "index": 28,
-      "start": 68,
-      "stop": 70
+      "mostReplayedScore": 4,
+      "start": 68
     },
     {
       "content": "Il a dit:\n— De qui ?\nJe lui ai dit:\n— T'es qu'un con.",
       "index": 29,
-      "start": 70,
-      "stop": 72
+      "mostReplayedScore": 4,
+      "start": 70
     },
     {
       "content": "Il a dit:\n— Tu vas faire quoi ?\nJe lui ai dit:\n— Je déconne.",
       "index": 30,
-      "start": 72,
-      "stop": 74
+      "mostReplayedScore": 3,
+      "start": 72
     },
     {
       "content": "— C'était pour voir si t'étais qu'un con.",
       "index": 31,
-      "start": 75,
-      "stop": 76
+      "mostReplayedScore": 3,
+      "start": 75
     },
     {
       "content": "— T'étais vraiment qu'un con.",
       "index": 32,
-      "start": 76,
-      "stop": 77
+      "mostReplayedScore": 3,
+      "start": 76
     },
     {
       "content": "J'ai voulu le quitter,\nmais on n'était pas ensemble.",
       "index": 33,
-      "start": 77,
-      "stop": 80
+      "mostReplayedScore": 1,
+      "start": 77
     },
     {
       "content": "Bref, je suis qu'un plan cul régulier.",
       "index": 34,
-      "start": 80,
-      "stop": 81
+      "mostReplayedScore": 1,
+      "start": 80
     }
   ]
 }

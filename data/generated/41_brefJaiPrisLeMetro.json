@@ -11,206 +11,206 @@
     {
       "content": "Bref, dans la vie,\nj'étais obligé de manger.",
       "index": 0,
-      "start": 4,
-      "stop": 6
+      "mostReplayedScore": 5,
+      "start": 4
     },
     {
       "content": "Du coup, j'étais obligé de travailler.",
       "index": 1,
-      "start": 6,
-      "stop": 7
+      "mostReplayedScore": 5,
+      "start": 6
     },
     {
       "content": "Du coup, j'étais obligé de prendre\nle métro tous les matins.",
       "index": 2,
-      "start": 7,
-      "stop": 9
+      "mostReplayedScore": 5,
+      "start": 7
     },
     {
       "content": "Le métro, c'est blanc, ça sent mauvais.\nIl y a du carrelage.",
       "index": 3,
-      "start": 9,
-      "stop": 12
+      "mostReplayedScore": 4,
+      "start": 9
     },
     {
       "content": "En gros, c'est comme 215 kilomètres\nde chiottes en dessous de Paris.",
       "index": 4,
-      "start": 12,
-      "stop": 14
+      "mostReplayedScore": 3,
+      "start": 12
     },
     {
       "content": "Du coup, il y en a qui confondent.",
       "index": 5,
-      "start": 14,
-      "stop": 16
+      "mostReplayedScore": 3,
+      "start": 14
     },
     {
       "content": "Et y a pas de lavabo.",
       "index": 6,
-      "start": 16,
-      "stop": 18
+      "mostReplayedScore": 2,
+      "start": 16
     },
     {
       "content": "Dans le métro, il y a\ndes bancs spécialement conçus\npar des mecs dans des bureaux\npour qu'on puisse pas s'allonger dessus.",
       "index": 7,
-      "start": 19,
-      "stop": 24
+      "mostReplayedScore": 2,
+      "start": 19
     },
     {
       "content": "Parce qu'avant, les pauvres gens\ndormaient dans le métro.",
       "index": 8,
-      "start": 24,
-      "stop": 26
+      "mostReplayedScore": 3,
+      "start": 24
     },
     {
       "content": "Maintenant, ils dorment mal dans le métro.",
       "index": 9,
-      "start": 26,
-      "stop": 27
+      "mostReplayedScore": 3,
+      "start": 26
     },
     {
       "content": "Le métro, ça attaque tes cinq sens.",
       "index": 10,
-      "start": 27,
-      "stop": 29
+      "mostReplayedScore": 3,
+      "start": 27
     },
     {
       "content": "La vue, l'odorat, le toucher, l'ouïe.",
       "index": 11,
-      "start": 29,
-      "stop": 32
+      "mostReplayedScore": 4,
+      "start": 29
     },
     {
       "content": "Pour le goût, un jour,\nj'ai vu un mec faire ça.",
       "index": 12,
-      "start": 32,
-      "stop": 36
+      "mostReplayedScore": 4,
+      "start": 32
     },
     {
       "content": "Dans le métro, il y a des pubs\navec des mecs super contents de parler anglais.",
       "index": 13,
-      "start": 36,
-      "stop": 39
+      "mostReplayedScore": 3,
+      "start": 36
     },
     {
       "content": "Des enfants super heureux\nde faire leurs devoirs.",
       "index": 14,
-      "start": 39,
-      "stop": 41
+      "mostReplayedScore": 2,
+      "start": 39
     },
     {
       "content": "Et des familles super contentes de s'endetter\n20 ans pour une machine à laver.",
       "index": 15,
-      "start": 41,
-      "stop": 43
+      "mostReplayedScore": 3,
+      "start": 41
     },
     {
       "content": "Sur ma ligne, il y a un mec,\nça fait six mois qu'il s'est fait virer\nla semaine dernière.",
       "index": 16,
-      "start": 43,
-      "stop": 46
+      "mostReplayedScore": 4,
+      "start": 43
     },
     {
       "content": "— Ayant perdu mon emploi\nla semaine dernière.",
       "index": 17,
-      "start": 46,
-      "stop": 48
+      "mostReplayedScore": 4,
+      "start": 46
     },
     {
       "content": "Et comme tous les mendiants,\nil avait la même mélodie.",
       "index": 18,
-      "start": 48,
-      "stop": 49
+      "mostReplayedScore": 5,
+      "start": 48
     },
     {
       "content": "— Mes trois enfants sont morts.",
       "index": 19,
-      "start": 49,
-      "stop": 51
+      "mostReplayedScore": 5,
+      "start": 49
     },
     {
       "content": "— Car je ne sais pas lire.",
       "index": 20,
-      "start": 51,
-      "stop": 52
+      "mostReplayedScore": 5,
+      "start": 51
     },
     {
       "content": "— Nin nin nin nin nin nin.",
       "index": 21,
-      "start": 53,
-      "stop": 54
+      "mostReplayedScore": 5,
+      "start": 53
     },
     {
       "content": "Je me suis dit que ça ferait\nun super tube de l'été.",
       "index": 22,
-      "start": 54,
-      "stop": 60
+      "mostReplayedScore": 4,
+      "start": 54
     },
     {
       "content": "— 🎵 Nin nin nin nin nin nin.",
       "index": 23,
-      "start": 58,
-      "stop": 61
+      "mostReplayedScore": 4,
+      "start": 58
     },
     {
       "content": "Quand je m'ennuie, je m'amuse à bailler\net compter les gens que je fais bailler.",
       "index": 24,
-      "start": 64,
-      "stop": 68
+      "mostReplayedScore": 2,
+      "start": 64
     },
     {
       "content": "Un, deux, trois, quatre, cinq, six, sept.",
       "index": 25,
-      "start": 68,
-      "stop": 75
+      "mostReplayedScore": 2,
+      "start": 68
     },
     {
       "content": "Yes !",
       "index": 26,
-      "start": 75,
-      "stop": 75
+      "mostReplayedScore": 2,
+      "start": 75
     },
     {
       "content": "Puis, parfois, le wagon s'arrête\nau milieu de nulle part, alors on attend.",
       "index": 27,
-      "start": 75,
-      "stop": 79
+      "mostReplayedScore": 2,
+      "start": 75
     },
     {
       "content": "Et le machiniste nous demande d'attendre.",
       "index": 28,
-      "start": 80,
-      "stop": 82
+      "mostReplayedScore": 1,
+      "start": 80
     },
     {
       "content": "— Merci d'attendre.\nAu cas où...",
       "index": 29,
-      "start": 82,
-      "stop": 85
+      "mostReplayedScore": 1,
+      "start": 82
     },
     {
       "content": "— Ah nan, hein. Moi, j'attends pas ici.",
       "index": 30,
-      "start": 85,
-      "stop": 89
+      "mostReplayedScore": 1,
+      "start": 85
     },
     {
       "content": "— Allez, salut !",
       "index": 31,
-      "start": 89,
-      "stop": 92
+      "mostReplayedScore": 1,
+      "start": 89
     },
     {
       "content": "— Oh, cool, des rats.",
       "index": 32,
-      "start": 93,
-      "stop": 94
+      "mostReplayedScore": 1,
+      "start": 93
     },
     {
       "content": "Bref, j'ai pris le métro.",
       "index": 33,
-      "start": 94,
-      "stop": 97
+      "mostReplayedScore": 1,
+      "start": 94
     }
   ]
 }

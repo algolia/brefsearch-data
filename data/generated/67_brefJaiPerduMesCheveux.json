@@ -11,140 +11,140 @@
     {
       "content": "Bref, ça, c'est moi.",
       "index": 0,
-      "start": 0,
-      "stop": 1
+      "mostReplayedScore": 5,
+      "start": 0
     },
     {
       "content": "Cette journée a l'air normale,\nmais en vérité, c'est le dernier jour\nde ma vie où j'avais tous mes cheveux.",
       "index": 1,
-      "start": 1,
-      "stop": 6
+      "mostReplayedScore": 5,
+      "start": 1
     },
     {
       "content": "Et ça, c'est le premier\njour où je l'ai accepté.",
       "index": 2,
-      "start": 6,
-      "stop": 9
+      "mostReplayedScore": 5,
+      "start": 6
     },
     {
       "content": "Entre les deux, il s'est\npassé plein de choses.",
       "index": 3,
-      "start": 9,
-      "stop": 10
+      "mostReplayedScore": 4,
+      "start": 9
     },
     {
       "content": "Quand j'ai commencé à perdre\nmes cheveux, je me suis pas rendu compte\nque je perdais mes cheveux.",
       "index": 4,
-      "start": 10,
-      "stop": 13
+      "mostReplayedScore": 3,
+      "start": 10
     },
     {
       "content": "Je me suis rendu compte\nqu'on me regardait plus dans les yeux,\nmais au-dessus des yeux.\n— Qu'est-ce qu'il y a ?",
       "index": 5,
-      "start": 13,
-      "stop": 17
+      "mostReplayedScore": 3,
+      "start": 13
     },
     {
       "content": "— Rien.",
       "index": 6,
-      "start": 17,
-      "stop": 18
+      "mostReplayedScore": 3,
+      "start": 17
     },
     {
       "content": "Que j'étais le premier à savoir\nquand il pleuvait, qu'il y avait\ndes signes évidents, mais que\nje refusais de les voir.",
       "index": 7,
-      "start": 18,
-      "stop": 22
+      "mostReplayedScore": 4,
+      "start": 18
     },
     {
       "content": "Quand je me coiffais, je faisais\nça, mais je voyais ça.",
       "index": 8,
-      "start": 22,
-      "stop": 26
+      "mostReplayedScore": 4,
+      "start": 22
     },
     {
       "content": "Et puis un jour, j'ai vu ça.",
       "index": 9,
-      "start": 26,
-      "stop": 29
+      "mostReplayedScore": 3,
+      "start": 26
     },
     {
       "content": "Et j'ai arrêté.",
       "index": 10,
-      "start": 30,
-      "stop": 31
+      "mostReplayedScore": 2,
+      "start": 30
     },
     {
       "content": "J'étais obligé de le reconnaître.\n— Je perds mes cheveux, quoi.",
       "index": 11,
-      "start": 32,
-      "stop": 33
+      "mostReplayedScore": 3,
+      "start": 32
     },
     {
       "content": "Le truc énervant, c'est\nque tous ceux qui te disent\n\"C'est pas grave\" ont des cheveux.\n— C'est pas grave.\n— C'est pas grave. Enfin...",
       "index": 12,
-      "start": 33,
-      "stop": 37
+      "mostReplayedScore": 4,
+      "start": 33
     },
     {
       "content": "J'avais l'impression de dire:\n— J'ai perdu ma bite.",
       "index": 13,
-      "start": 37,
-      "stop": 40
+      "mostReplayedScore": 5,
+      "start": 37
     },
     {
       "content": "Et qu'on me répondait:\n— C'est pas grave.",
       "index": 14,
-      "start": 40,
-      "stop": 42
+      "mostReplayedScore": 5,
+      "start": 40
     },
     {
       "content": "Quand je croisais un autre chauve,\non s'échangeait un regard de compassion.",
       "index": 15,
-      "start": 42,
-      "stop": 45
+      "mostReplayedScore": 4,
+      "start": 42
     },
     {
       "content": "Je suis allé sur Internet et des mots sont\napparus dans mon vocabulaire: Shampoing,\nralentissant la chute, shampoing\nanti-chute, shampoing après-chute,",
       "index": 16,
-      "start": 45,
-      "stop": 50
+      "mostReplayedScore": 2,
+      "start": 45
     },
     {
       "content": "fortifiant, volumateur,\nshampoing pour la repousse, propecia,\nalopexil, implants, compléments capillaires.",
       "index": 17,
-      "start": 50,
-      "stop": 53
+      "mostReplayedScore": 1,
+      "start": 50
     },
     {
       "content": "Des mots qui servent à rien,\nmais qui rapportent beaucoup d'argent\nà des mecs avec des blouses.",
       "index": 18,
-      "start": 53,
-      "stop": 56
+      "mostReplayedScore": 2,
+      "start": 53
     },
     {
       "content": "— Merci les chauves.",
       "index": 19,
-      "start": 56,
-      "stop": 58
+      "mostReplayedScore": 2,
+      "start": 56
     },
     {
       "content": "Et puis un jour, j'ai décidé\nde m'en battre les couilles.",
       "index": 20,
-      "start": 58,
-      "stop": 61
+      "mostReplayedScore": 2,
+      "start": 58
     },
     {
       "content": "Par contre, il fallait que\nje règle ce problème de poids.",
       "index": 21,
-      "start": 61,
-      "stop": 65
+      "mostReplayedScore": 1,
+      "start": 61
     },
     {
       "content": "Bref, j'ai perdu mes cheveux.",
       "index": 22,
-      "start": 65,
-      "stop": 67
+      "mostReplayedScore": 1,
+      "start": 65
     }
   ]
 }

@@ -11,224 +11,224 @@
     {
       "content": "Bref, c'est un repas de famille\nclassique qui part en couille.",
       "index": 0,
-      "start": 0,
-      "stop": 1
+      "mostReplayedScore": 5,
+      "start": 0
     },
     {
       "content": "Et pour que ça parte en couille,\nil faut une bonne équipe.",
       "index": 1,
-      "start": 1,
-      "stop": 3
+      "mostReplayedScore": 5,
+      "start": 1
     },
     {
       "content": "Il faut un père qui n'aime plus\nsa femme et qui fait avec.",
       "index": 2,
-      "start": 3,
-      "stop": 5
+      "mostReplayedScore": 5,
+      "start": 3
     },
     {
       "content": "Une mère qui n'aime plus\nson mari et qui fait du ragoût.",
       "index": 3,
-      "start": 5,
-      "stop": 7
+      "mostReplayedScore": 4,
+      "start": 5
     },
     {
       "content": "— J'ai fait du ragoût.",
       "index": 4,
-      "start": 7,
-      "stop": 9
+      "mostReplayedScore": 4,
+      "start": 7
     },
     {
       "content": "Un oncle un peu vulgaire.",
       "index": 5,
-      "start": 9,
-      "stop": 10
+      "mostReplayedScore": 4,
+      "start": 9
     },
     {
       "content": "— Je reviens des chiottes,\nn'y allez pas avant 2h00.",
       "index": 6,
-      "start": 10,
-      "stop": 12
+      "mostReplayedScore": 4,
+      "start": 10
     },
     {
       "content": "Une tante qui s'excuse.\n— Excusez-le.",
       "index": 7,
-      "start": 12,
-      "stop": 14
+      "mostReplayedScore": 3,
+      "start": 12
     },
     {
       "content": "Un frère complice.\nEt moi.",
       "index": 8,
-      "start": 14,
-      "stop": 16
+      "mostReplayedScore": 3,
+      "start": 14
     },
     {
       "content": "Comme d'hab, j'avais mangé trop\nde pain parce que l'apéro\navait duré 2h et 34 minutes.",
       "index": 9,
-      "start": 16,
-      "stop": 20
+      "mostReplayedScore": 3,
+      "start": 16
     },
     {
       "content": "Et comme d'hab, ils parlaient politique\nparce que l'apéro avait duré\n2 bouteilles et 34 verres.\n— Tu peux pas dire ça.",
       "index": 10,
-      "start": 20,
-      "stop": 24
+      "mostReplayedScore": 1,
+      "start": 20
     },
     {
       "content": "Mon oncle dit vraiment trop de gros mots.\nMais qu'elle aille se faire *gros mots*.",
       "index": 11,
-      "start": 24,
-      "stop": 26
+      "mostReplayedScore": 1,
+      "start": 24
     },
     {
       "content": "Je te jure, *gros mots*, sept.",
       "index": 12,
-      "start": 26,
-      "stop": 27
+      "mostReplayedScore": 1,
+      "start": 26
     },
     {
       "content": "*gros mots*\n— Excusez-le.",
       "index": 13,
-      "start": 27,
-      "stop": 31
+      "mostReplayedScore": 1,
+      "start": 27
     },
     {
       "content": "À un moment, ma mère a dit:\n— Dis-leur.\n— Quoi ?",
       "index": 14,
-      "start": 31,
-      "stop": 35
+      "mostReplayedScore": 2,
+      "start": 31
     },
     {
       "content": "— Quoi ?\n— On divorce.",
       "index": 15,
-      "start": 35,
-      "stop": 38
+      "mostReplayedScore": 2,
+      "start": 35
     },
     {
       "content": "*Gros mots*\n*Gros mots*",
       "index": 16,
-      "start": 38,
-      "stop": 40
+      "mostReplayedScore": 2,
+      "start": 38
     },
     {
       "content": "*Gros mots.*\n*Gros mots.*",
       "index": 17,
-      "start": 40,
-      "stop": 41
+      "mostReplayedScore": 2,
+      "start": 40
     },
     {
       "content": "*Gros mots.*\n*Gros mots.*",
       "index": 18,
-      "start": 41,
-      "stop": 43
+      "mostReplayedScore": 2,
+      "start": 41
     },
     {
       "content": "*Gros mots.*\n— Excusez-le.",
       "index": 19,
-      "start": 43,
-      "stop": 44
+      "mostReplayedScore": 1,
+      "start": 43
     },
     {
       "content": "J'ai dit:\n— Pourquoi ?\nMon père a fait...\n— Hein?",
       "index": 20,
-      "start": 44,
-      "stop": 47
+      "mostReplayedScore": 2,
+      "start": 44
     },
     {
       "content": "J'ai fait... Mon père a fait...\nJ'ai fait...",
       "index": 21,
-      "start": 47,
-      "stop": 49
+      "mostReplayedScore": 2,
+      "start": 47
     },
     {
       "content": "Mon père a fait...\nJ'ai fait...",
       "index": 22,
-      "start": 49,
-      "stop": 52
+      "mostReplayedScore": 2,
+      "start": 49
     },
     {
       "content": "Mon frère a fait...\nMon oncle a fait...",
       "index": 23,
-      "start": 52,
-      "stop": 55
+      "mostReplayedScore": 3,
+      "start": 52
     },
     {
       "content": "Ma tante a fait...",
       "index": 24,
-      "start": 55,
-      "stop": 57
+      "mostReplayedScore": 3,
+      "start": 55
     },
     {
       "content": "Et ma mère a fait la gueule.\nJ'ai redemandé:\n— Pourquoi ?",
       "index": 25,
-      "start": 57,
-      "stop": 59
+      "mostReplayedScore": 3,
+      "start": 57
     },
     {
       "content": "Ma mère a dit:\n— Une petite *gros mots*\nMon père a dit:\n— Je l'aime, elle me comprend.",
       "index": 26,
-      "start": 59,
-      "stop": 63
+      "mostReplayedScore": 4,
+      "start": 59
     },
     {
       "content": "Mon oncle a dit:\n— Eh ben mon *gros mots*\n— Tu te fais pas *gros mots*\n— Excusez-le.",
       "index": 27,
-      "start": 63,
-      "stop": 66
+      "mostReplayedScore": 5,
+      "start": 63
     },
     {
       "content": "La raison, c'était Manuela,\n22 ans, étudiante en LEA.",
       "index": 28,
-      "start": 67,
-      "stop": 69
+      "mostReplayedScore": 5,
+      "start": 67
     },
     {
       "content": "C'était ma mère avec 35 ans\nde moins, 15 kilos de moins\net trois tailles de bonnet en plus.\nElle était bonne, bonne et bonne.",
       "index": 29,
-      "start": 69,
-      "stop": 75
+      "mostReplayedScore": 5,
+      "start": 69
     },
     {
       "content": "— Bon, j'y vais.",
       "index": 30,
-      "start": 75,
-      "stop": 76
+      "mostReplayedScore": 5,
+      "start": 75
     },
     {
       "content": "— Elle, elle me comprend.",
       "index": 31,
-      "start": 76,
-      "stop": 78
+      "mostReplayedScore": 5,
+      "start": 76
     },
     {
       "content": "Il l'avait mal compris.",
       "index": 32,
-      "start": 83,
-      "stop": 85
+      "mostReplayedScore": 4,
+      "start": 83
     },
     {
       "content": "Depuis, mon père dort chez moi.",
       "index": 33,
-      "start": 85,
-      "stop": 87
+      "mostReplayedScore": 4,
+      "start": 85
     },
     {
       "content": "— Oh putain, la vie, c'est de la merde.",
       "index": 34,
-      "start": 87,
-      "stop": 89
+      "mostReplayedScore": 4,
+      "start": 87
     },
     {
       "content": "Bon, là, il y avait des gros\nmots, mais j'étais d'accord.",
       "index": 35,
-      "start": 89,
-      "stop": 91
+      "mostReplayedScore": 3,
+      "start": 89
     },
     {
       "content": "Bref, j'ai fait un repas de famille.",
       "index": 36,
-      "start": 91,
-      "stop": 93
+      "mostReplayedScore": 3,
+      "start": 91
     }
   ]
 }

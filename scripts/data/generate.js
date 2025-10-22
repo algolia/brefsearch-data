@@ -1,43 +1,34 @@
 /**
  * Reads source data files, merge them, and create the generated files
  **/
-import { absolute, exists, firostError, readJson, writeJson } from 'firost';
-import { forEachEpisode, getBasename } from '../../lib/helper.js';
+import { absolute, readJson, writeJson } from 'firost';
+import {
+  forEachEpisode,
+  getBasename,
+  getPopularityPath,
+  getSubtitlePath,
+} from '../../lib/helper.js';
 import { convertVtt } from '../../lib/convertVtt.js';
+import { setMostReplayedScore } from '../../lib/setMostReplayedScore.js';
 
 await forEachEpisode(async function (episode) {
   const basename = getBasename(episode);
   const outputFilepath = absolute(`<gitRoot>/data/generated/${basename}.json`);
 
-  // Subtitles
-  const subtitlePath = absolute(
-    `<gitRoot>/data/source/subtitles/${basename}.vtt`,
-  );
-  if (!(await exists(subtitlePath))) {
-    throw firostError(
-      'GENERATE_NO_SUBTITLES',
-      `Subtitle file not found: ${subtitlePath}`,
-    );
-  }
-  const subtitles = await convertVtt(subtitlePath);
-
   // Popularity
-  const popularityPath = absolute(
-    `<gitRoot>/data/source/popularity/${basename}.json`,
-  );
-  if (!(await exists(popularityPath))) {
-    throw firostError(
-      'GENERATE_NO_POPULARITY',
-      `Popularity file not found: ${popularityPath}`,
-    );
-  }
-  const popularity = await readJson(popularityPath);
-  episode.viewCount = popularity.viewCount;
+  const popularityPath = await getPopularityPath(basename);
+  const { viewCount, heatmap } = await readJson(popularityPath);
+  episode.viewCount = viewCount;
+
+  // Subtitles
+  const subtitlePath = await getSubtitlePath(basename);
+  const subtitles = await convertVtt(subtitlePath);
+  const subtitlesWithPopularity = setMostReplayedScore(subtitles, heatmap);
 
   const data = {
     episode,
-    subtitles,
+    subtitles: subtitlesWithPopularity,
   };
-  console.log(data);
+  // console.log(data);
   await writeJson(data, outputFilepath);
-});
+}, 10);
