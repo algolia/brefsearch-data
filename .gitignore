@@ -8,6 +8,9 @@ dist/
 node_modules/
 tmp/
 
+# Data
+data/tmp
+
 # Files
 Thumbs.db
 lerna-debug.log
