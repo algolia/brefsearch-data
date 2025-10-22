@@ -9,214 +9,267 @@
   "subtitles": [
     {
       "content": "— Putain, j'ai perdu mes clés.",
+      "index": 0,
       "start": 0
     },
     {
       "content": "Bref, s'il y a un truc qui m'énerve encore\nplus que perdre mes clés, c'est les mecs\nqui me donnent des conseils pourris.\n— T'as regardé dans ton autre poche ?",
+      "index": 1,
       "start": 1
     },
     {
       "content": "Et qui ont raison.",
+      "index": 2,
       "start": 6
     },
     {
       "content": "Je suis comme ça, il y a\ndes gens qui m'énervent.",
+      "index": 3,
       "start": 7
     },
     {
       "content": "Il y a les gens, quand tu leur racontes\nun truc marrant, au lieu de rigoler,\nils disent:\n— Ouais, c'est marrant.",
+      "index": 4,
       "start": 9
     },
     {
       "content": "Et quand tu leur racontes un truc pas\nmarrant, ils disent:\n— Ouais, c'est marrant.",
+      "index": 5,
       "start": 12
     },
     {
       "content": "Il y a les filles qui te parlent\npendant des heures de trucs\nqui t'intéressent pas.",
+      "index": 6,
       "start": 15
     },
     {
       "content": "— Il faudra un shampoing\naux extraits naturels de quetsches.",
+      "index": 7,
       "start": 17
     },
     {
       "content": "— J'ai pas de cheveux.",
+      "index": 8,
       "start": 20
     },
     {
       "content": "— C'est bien une réponse de mec, ça.",
+      "index": 9,
       "start": 21
     },
     {
       "content": "Les mecs qui ont toujours\nplus de classe que moi.",
+      "index": 10,
       "start": 22
     },
     {
       "content": "— Moi, franchement,\nça me fait un petit style.",
+      "index": 11,
       "start": 24
     },
     {
       "content": "Même avec des pompes de bowling.\n— Je suis à Châtelet, gros bordel...",
+      "index": 12,
       "start": 25
     },
     {
       "content": "Les mecs qui te coupent\ndans ton histoire pour te\nraconter une autre histoire.\n— Non, non mais on dit \"au Châtelet\".",
+      "index": 13,
       "start": 28
     },
     {
       "content": "— Excuse-moi de te reprendre.\nOn dit pas \"à Châtelet\", on dit \"au Châtelet\".",
+      "index": 14,
       "start": 32
     },
     {
       "content": "Parce qu'avant d'être une station\nde métro, le Châtelet, c'était\nune petite forteresse qui a permis\naux Parisiens de résister face",
+      "index": 15,
       "start": 33
     },
     {
       "content": "à la grande invasion des Vikings en 885.",
+      "index": 16,
       "start": 38
     },
     {
       "content": "— Vas-y, je t'en prie,\nc'est quoi ton histoire ?",
+      "index": 17,
       "start": 40
     },
     {
       "content": "— Le mec me bouscule et me dit pas pardon.",
+      "index": 18,
       "start": 42
     },
     {
       "content": "— Ça m'étonne pas.",
+      "index": 19,
       "start": 46
     },
     {
       "content": "Les mecs qui t'offrent un truc\nparce qu'ils l'ont déjà en double.",
+      "index": 20,
       "start": 48
     },
     {
       "content": "— Tu va voir, c'est un super passe-papier.",
+      "index": 21,
       "start": 50
     },
     {
       "content": "Du coup, je le refile à quelqu'un.\n— Tiens, c'est un super passe-papier.",
+      "index": 22,
       "start": 52
     },
     {
       "content": "Et je suis sûr qu'il va\nle remettre à quelqu'un d'autre.",
+      "index": 23,
       "start": 54
     },
     {
       "content": "— Joyeux anniversaire\nUn autre truc qui m'énerve,\nc'est les mecs qui passent toute",
+      "index": 24,
       "start": 55
     },
     {
       "content": "leur soirée au téléphone.",
+      "index": 25,
       "start": 58
     },
     {
       "content": "Et les mecs qui se déguisent pas\ndans les soirées déguisées.",
+      "index": 26,
       "start": 59
     },
     {
       "content": "— T'es pas déguisé ?",
+      "index": 27,
       "start": 60
     },
     {
       "content": "— Je suis le roi.",
+      "index": 28,
       "start": 66
     },
     {
       "content": "— Tu viens de la prendre sur la galette.",
+      "index": 29,
       "start": 69
     },
     {
       "content": "— C'est pas faux, hein.",
+      "index": 30,
       "start": 72
     },
     {
       "content": "Les mecs qui font\ndes fausses petites annonces.",
+      "index": 31,
       "start": 74
     },
     {
       "content": "— Mais vous aviez dit vélo tout terrain.\n— C'est un tout terrain.",
+      "index": 32,
       "start": 76
     },
     {
       "content": "— Vous pouvez le mettre où vous voulez, dans\nla rue, à la campagne, même dans un lac.",
+      "index": 33,
       "start": 78
     },
     {
       "content": "— Bon, c'est bon, tu le prends ?",
+      "index": 34,
       "start": 82
     },
     {
       "content": "Les mecs qui bougent les lèvres en\nmême temps que toi pendant que tu parles.",
+      "index": 35,
       "start": 84
     },
     {
       "content": "— Quand vous partez aux États-Unis,\nje sais pas trop parce que...",
+      "index": 36,
       "start": 86
     },
     {
       "content": "— Ça va ?",
+      "index": 37,
       "start": 89
     },
     {
       "content": "— Ouais.",
+      "index": 38,
       "start": 91
     },
     {
       "content": "Les mecs qui posent des questions\nqui servent à rien.",
+      "index": 39,
       "start": 91
     },
     {
       "content": "— Dis donc, pourquoi est-ce\nque le café il monte dans le sucre ?",
+      "index": 40,
       "start": 93
     },
     {
       "content": "Et les mecs qui ont la réponse.\n— Mais c'est la capillarité.",
+      "index": 41,
       "start": 96
     },
     {
       "content": "— C'est les molécules d'eau\nqui sont attirées par les molécules\ndu sucre et ça remonte.",
+      "index": 42,
       "start": 98
     },
     {
       "content": "Quand une fille me dit:\n— J'ai 30 ans passé.\nMoi, j'entends:",
+      "index": 43,
       "start": 103
     },
     {
       "content": "— J'ais bientôt 40.\nEt ça m'énerve.",
+      "index": 44,
       "start": 106
     },
     {
       "content": "Par contre, quand une fille me dit:\n— J'ai 40 ans.",
+      "index": 45,
       "start": 108
     },
     {
       "content": "Moi j'entends:\n— Je suce très bien.",
+      "index": 46,
       "start": 109
     },
     {
       "content": "Et j'aime bien.",
+      "index": 47,
       "start": 111
     },
     {
       "content": "Ça m'énerve les gens qui disent:\n— Euh...\nQuand ils n'ont rien à dire.",
+      "index": 48,
       "start": 112
     },
     {
       "content": "Par contre, je ne sais pas\npourquoi, j'aime bien les gens\nqui disent:\n— Bref.\nBref, il y a des gens qui m'énervent.",
+      "index": 49,
       "start": 115
     },
     {
       "content": "— Excusez-moi.\n— Oui ?",
+      "index": 50,
       "start": 126
     },
     {
       "content": "— Vous êtes Chantal Lauby ?",
+      "index": 51,
       "start": 127
     },
     {
       "content": "— Non, je suis le pape et j'attends ma sœur.",
+      "index": 52,
       "start": 128
     }
   ]

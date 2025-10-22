@@ -9,126 +9,157 @@
   "subtitles": [
     {
       "content": "Bref, ce jour-là, Marla m'a appelé.\nC'est rare qu'elle m'appelle.",
+      "index": 0,
       "start": 2
     },
     {
       "content": "D'habitude, elle débarque à l'improviste.",
+      "index": 1,
       "start": 4
     },
     {
       "content": "On couche ensemble et puis elle s'en va.\nAlors j'ai décroché.",
+      "index": 2,
       "start": 5
     },
     {
       "content": "J'ai dit:\n— Ça va ?\nElle a dit:\n— Non, il est mort.",
+      "index": 3,
       "start": 7
     },
     {
       "content": "J'ai dit:\n— Ah merde, qui ?\nElle a dit:\n— Croquette, mon chat.",
+      "index": 4,
       "start": 10
     },
     {
       "content": "J'ai dit:\n— Ah putain, j'ai eu peur.\nElle a dit:\n— T'es qu'un con.",
+      "index": 5,
       "start": 12
     },
     {
       "content": "J'ai pas su quoi dire.\nJe détestais son chat.",
+      "index": 6,
       "start": 15
     },
     {
       "content": "— Oh putain, il m'a griffé ton chat.\n— Oh, Croquette.",
+      "index": 7,
       "start": 17
     },
     {
       "content": "— Rha, le con.",
+      "index": 8,
       "start": 19
     },
     {
       "content": "J'ai dit:\n— On peut se voir demain, si tu veux.",
+      "index": 9,
       "start": 20
     },
     {
       "content": "Elle a dit:\n— OK. Pour l'enterrement.",
+      "index": 10,
       "start": 22
     },
     {
       "content": "— Pour l'enterrement ?\nElle a raccroché. J'y suis allé.",
+      "index": 11,
       "start": 24
     },
     {
       "content": "On était deux au fond de son jardin.",
+      "index": 12,
       "start": 26
     },
     {
       "content": "Je m'étais jamais Je lui ai demandé\nsi elle avait d'autres amis.",
+      "index": 13,
       "start": 29
     },
     {
       "content": "J'avais le costard que je mets\naux mariages, aux entretiens d'embauche\net aux enterrements.",
+      "index": 14,
       "start": 31
     },
     {
       "content": "Croquette était dans un sac plastique.",
+      "index": 15,
       "start": 34
     },
     {
       "content": "Elle était vraiment triste.",
+      "index": 16,
       "start": 36
     },
     {
       "content": "J'ai dit:\n— Un de perdu...",
+      "index": 17,
       "start": 37
     },
     {
       "content": "Elle a dit:\n— Arrête de parler.",
+      "index": 18,
       "start": 38
     },
     {
       "content": "J'ai arrêté de parler.\n— Arrête de penser.",
+      "index": 19,
       "start": 41
     },
     {
       "content": "C'était long.\n— Arrête de penser, j'ai dis.",
+      "index": 20,
       "start": 46
     },
     {
       "content": "— Croquette, tu vas nous manquer.",
+      "index": 21,
       "start": 51
     },
     {
       "content": "— Toi et tes petites patounettes.",
+      "index": 22,
       "start": 59
     },
     {
       "content": "J'ai ri intérieurement, elle m'a\nregardé, j'ai arrêté de rire.",
+      "index": 23,
       "start": 70
     },
     {
       "content": "Elle me connaissait bien,\nje Je me suis dit que ça allait\nêtre compliqué de coucher avec elle.\nElle a dit:\n— Je peux venir chez toi ?",
+      "index": 24,
       "start": 74
     },
     {
       "content": "Ah, non.\nOn a couché ensemble, elle m'a dit:\n— Merci.",
+      "index": 25,
       "start": 77
     },
     {
       "content": "J'ai dit:\n— Pas de quoi.",
+      "index": 26,
       "start": 82
     },
     {
       "content": "— T'es qu'un con.\nBref, on a enterré Croquette.",
+      "index": 27,
       "start": 85
     },
     {
       "content": "— Croquette, tu va nous manquer.",
+      "index": 28,
       "start": 88
     },
     {
       "content": "— Toi et tes petites patounettes.",
+      "index": 29,
       "start": 95
     },
     {
       "content": "— T'es qu'un con.",
+      "index": 30,
       "start": 102
     }
   ]

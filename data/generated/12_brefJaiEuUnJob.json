@@ -9,186 +9,232 @@
   "subtitles": [
     {
       "content": "Bref, j'avais passé un entretien\nd'embauche que je pensais avoir raté.",
+      "index": 0,
       "start": 3
     },
     {
       "content": "— Do you speak English ?\n— Yes.",
+      "index": 1,
       "start": 6
     },
     {
       "content": "— Where are you from ?",
+      "index": 2,
       "start": 8
     },
     {
       "content": "— Yes.\nMais ils m'ont engagé,\nà l'intendance.",
+      "index": 3,
       "start": 8
     },
     {
       "content": "Ils m'ont dit que je ferais tout et rien.\n— Vous ferez tout et rien.",
+      "index": 4,
       "start": 10
     },
     {
       "content": "Je me suis rendu compte que je faisais\ntout, eux, ils faisaient rien.",
+      "index": 5,
       "start": 11
     },
     {
       "content": "En y repensant, j'ai compris\npourquoi ils m'avaient pris.",
+      "index": 6,
       "start": 15
     },
     {
       "content": "— Vous demandez quoi en termes de salaire ?",
+      "index": 7,
       "start": 17
     },
     {
       "content": "— De l'argent.",
+      "index": 8,
       "start": 20
     },
     {
       "content": "— Merde.",
+      "index": 9,
       "start": 21
     },
     {
       "content": "Je faisais du café,\nje rechargeais les photocopieuses.",
+      "index": 10,
       "start": 22
     },
     {
       "content": "Un jour, Fabien m'a dit:\n— C'est les chiffres, putain,\nça marche plus, regarde.",
+      "index": 11,
       "start": 24
     },
     {
       "content": "J'ai fait semblant de taper\ndes trucs compliqués.",
+      "index": 12,
       "start": 27
     },
     {
       "content": "J'ai pas utilisé la souris\npour faire américain et à un moment,\nj'ai juste appuyé sur \"vernum\".\nJ'ai dit:\n— C'est réparé.",
+      "index": 13,
       "start": 28
     },
     {
       "content": "Il m'a dit:\n— T'es un génie.",
+      "index": 14,
       "start": 34
     },
     {
       "content": "J'ai pensé: T'es un couillon.\n— De rien.",
+      "index": 15,
       "start": 35
     },
     {
       "content": "Au bout d'un mois, j'ai compris\npourquoi un bureau s'appelait un bureau.",
+      "index": 16,
       "start": 37
     },
     {
       "content": "Jean-louis est à le trombone.",
+      "index": 17,
       "start": 39
     },
     {
       "content": "Tout le monde le pliait\ndans tous les sens.",
+      "index": 18,
       "start": 40
     },
     {
       "content": "Il reprendra jamais sa forme initiale.",
+      "index": 19,
       "start": 41
     },
     {
       "content": "— Vous avez entendu ce\nque j'ai dit, Jean-Louis ?",
+      "index": 20,
       "start": 42
     },
     {
       "content": "— Oui.\nFrancis, c'est le scotch, il te lâche pas.",
+      "index": 21,
       "start": 43
     },
     {
       "content": "— Vous êtes sûr ?",
+      "index": 22,
       "start": 46
     },
     {
       "content": "— Oui.",
+      "index": 23,
       "start": 47
     },
     {
       "content": "Elle, c'est la colle.\nElle sent bon, mais elle est saoulante.",
+      "index": 24,
       "start": 48
     },
     {
       "content": "— Je t'ai pas raconté mon week-end.",
+      "index": 25,
       "start": 50
     },
     {
       "content": "— Comme il faisait beau avec mon mari,\nChristian, on est allé à la campagne\nprès d'un lac, on a fait du pédalo.\nJe m'en bats les steaks.",
+      "index": 26,
       "start": 52
     },
     {
       "content": "— C'est incroyable.",
+      "index": 27,
       "start": 58
     },
     {
       "content": "Jean-michel, c'est l'agraffeuse.\nOn le trouve jamais.",
+      "index": 28,
       "start": 60
     },
     {
       "content": "Et Fabien, c'est le post-it.",
+      "index": 29,
       "start": 63
     },
     {
       "content": "Il est voyant, collant\net il s'affiche partout.",
+      "index": 30,
       "start": 64
     },
     {
       "content": "— Elle a un cul. Elle me dit oui, je lui dis pas prout, hein !",
+      "index": 31,
       "start": 66
     },
     {
       "content": "Je me suis demandé si j'étais aussi\nune fourniture de bureau.",
+      "index": 32,
       "start": 67
     },
     {
       "content": "J'ai compris que j'étais la poubelle.",
+      "index": 33,
       "start": 70
     },
     {
       "content": "À leurs pieds, à les débarrasser\nde ce qu'ils voulaient pas.",
+      "index": 34,
       "start": 71
     },
     {
       "content": "J'ai tout jeté, j'ai dit:\n— Je pars.",
+      "index": 35,
       "start": 75
     },
     {
       "content": "Le scotch m'a dit:\n— Vous êtes sûr ?\nJ'ai dit:\n— Oui.",
+      "index": 36,
       "start": 80
     },
     {
       "content": "Il m'a dit:\n— Vous aurez rien, hein.\nJ'ai dit:\n— C'est pas un problème.",
+      "index": 37,
       "start": 82
     },
     {
       "content": "C'était un problème.\n— Vous êtes sûr ?",
+      "index": 38,
       "start": 84
     },
     {
       "content": "Non.",
+      "index": 39,
       "start": 85
     },
     {
       "content": "— Oui.",
+      "index": 40,
       "start": 87
     },
     {
       "content": "En partant, je lui aurais dit\nd'aller bien se faire foutre.",
+      "index": 41,
       "start": 89
     },
     {
       "content": "— Au revoir.\nBref, j'ai eu un job.",
+      "index": 42,
       "start": 91
     },
     {
       "content": "— Vous avez bien entendu, Jean-Louis ?\n— C'est sûr ?",
+      "index": 43,
       "start": 96
     },
     {
       "content": "— J'ai pas entendu, c'est sûr ?",
+      "index": 44,
       "start": 97
     },
     {
       "content": "— Vous êtes sûr ?",
+      "index": 45,
       "start": 100
     }
   ]

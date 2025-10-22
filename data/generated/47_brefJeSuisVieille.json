@@ -9,174 +9,217 @@
   "subtitles": [
     {
       "content": "Je m'étais préparé un rendez-vous.",
+      "index": 0,
       "start": 2
     },
     {
       "content": "J'attendais sur un banc quand\nj'ai aperçu cette vieille dame.",
+      "index": 1,
       "start": 3
     },
     {
       "content": "Bon, alors, pour résumer, à chaque fois\nque je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
+      "index": 2,
       "start": 7
     },
     {
       "content": "Ensuite, je prends un bain\npendant 10 minutes et puis\nje sors du bain pendant deux heures.",
+      "index": 3,
       "start": 12
     },
     {
       "content": "Je mets du parfum, j'oublie,\nj'en remets, je réoublie.",
+      "index": 4,
       "start": 17
     },
     {
       "content": "Alors, je remets et vu\nque je cocotte trop, je reprends\nun bain et je suis prête.",
+      "index": 5,
       "start": 21
     },
     {
       "content": "Lui, c'est la solitude.\nIl m'accompagne partout.",
+      "index": 6,
       "start": 27
     },
     {
       "content": "Je le vois tous les jours\ndepuis que Paul est parti.",
+      "index": 7,
       "start": 29
     },
     {
       "content": "Paul, je l'oublie jamais.",
+      "index": 8,
       "start": 31
     },
     {
       "content": "Parce que j'ai plus toute ma tête,\nmais j'ai encore tout mon cœur.",
+      "index": 9,
       "start": 32
     },
     {
       "content": "Par contre, je sais plus\nsi j'ai mis du parfum.",
+      "index": 10,
       "start": 35
     },
     {
       "content": "Alors j'en remets.",
+      "index": 11,
       "start": 37
     },
     {
       "content": "Ensuite, avec Geneviève,\nje parle du temps.",
+      "index": 12,
       "start": 39
     },
     {
       "content": "— Il fait pas très beau aujourd'hui.",
+      "index": 13,
       "start": 41
     },
     {
       "content": "Avec Jean-Pierre, je parle du temps.",
+      "index": 14,
       "start": 42
     },
     {
       "content": "— Il fait pas très beau aujourd'hui.",
+      "index": 15,
       "start": 44
     },
     {
       "content": "Avec les gens au supermarché,\nje parle du temps.",
+      "index": 16,
       "start": 46
     },
     {
       "content": "— Il fait pas très beau, hein ?",
+      "index": 17,
       "start": 48
     },
     {
       "content": "— Oui, oui, avancez, madame.",
+      "index": 18,
       "start": 50
     },
     {
       "content": "Mais ils n'ont pas le temps.",
+      "index": 19,
       "start": 52
     },
     {
       "content": "Des fois, je passe du temps\navec mon petit-fils.",
+      "index": 20,
       "start": 53
     },
     {
       "content": "Je l'emmène au parc, il joue.",
+      "index": 21,
       "start": 56
     },
     {
       "content": "— Mamie, tu me regardes !",
+      "index": 22,
       "start": 57
     },
     {
       "content": "— Oui, oui.\n— Aïe.",
+      "index": 23,
       "start": 59
     },
     {
       "content": "Et des fois, il me demande:\n— À qui tu parles ?",
+      "index": 24,
       "start": 61
     },
     {
       "content": "— À personne. Allez, viens.",
+      "index": 25,
       "start": 66
     },
     {
       "content": "C'est mon petit trésor.",
+      "index": 26,
       "start": 68
     },
     {
       "content": "Je lui apprends à siffler avec de l'herbe.",
+      "index": 27,
       "start": 69
     },
     {
       "content": "Il est content.",
+      "index": 28,
       "start": 71
     },
     {
       "content": "Un jour, j'ai eu son âge.",
+      "index": 29,
       "start": 73
     },
     {
       "content": "Parfois, ça me rend triste.",
+      "index": 30,
       "start": 75
     },
     {
       "content": "Et puis, j'oublie.",
+      "index": 31,
       "start": 78
     },
     {
       "content": "Après, on rentre à la maison, on joue\nensemble et son père vient le chercher.",
+      "index": 32,
       "start": 80
     },
     {
       "content": "— Je n'en sais rien, je ne sais pas,\nj'ai pas la solution. Ça va, maman ?",
+      "index": 33,
       "start": 84
     },
     {
       "content": "Et ils repartent tous les deux.",
+      "index": 34,
       "start": 86
     },
     {
       "content": "— Salut, mamie !\n— Oh, j'ai pas le temps, là, je suis mal garé. On se voit demain, hein.",
+      "index": 35,
       "start": 87
     },
     {
       "content": "— À demain.",
+      "index": 36,
       "start": 90
     },
     {
       "content": "— Tiens, tu es là, toi ?",
+      "index": 37,
       "start": 93
     },
     {
       "content": "— Viens, on va regarder la télé.",
+      "index": 38,
       "start": 95
     },
     {
       "content": "Bon, alors, pour résumer, je suis vieille.",
+      "index": 39,
       "start": 97
     },
     {
       "content": "— Bonjour.",
+      "index": 40,
       "start": 104
     },
     {
       "content": "— Bonjour.",
+      "index": 41,
       "start": 107
     },
     {
       "content": "— Il ne fait pas très beau aujourd'hui, hein ?\n— Ouais.",
+      "index": 42,
       "start": 108
     }
   ]

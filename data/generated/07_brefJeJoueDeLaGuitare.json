@@ -9,142 +9,177 @@
   "subtitles": [
     {
       "content": "Bref, c'était à une soirée.",
+      "index": 0,
       "start": 1
     },
     {
       "content": "Un mec jouait de la guitare\ndans une chambre.",
+      "index": 1,
       "start": 3
     },
     {
       "content": "— Wow, tu joues trop bien.",
+      "index": 2,
       "start": 5
     },
     {
       "content": "Je me suis dit qu'à moi aussi,\nje voulais qu'on dise:",
+      "index": 3,
       "start": 6
     },
     {
       "content": "— Wow, tu joues trop bien.\nJ'ai emprunté une guitare à Ben.",
+      "index": 4,
       "start": 8
     },
     {
       "content": "Il m'a dit qu'il manquait une corde,\nmais qu'elle servait à rien.",
+      "index": 5,
       "start": 11
     },
     {
       "content": "— Bha, il manque une corde,\nmais elle sert à rien.",
+      "index": 6,
       "start": 12
     },
     {
       "content": "Je l'ai cru.",
+      "index": 7,
       "start": 14
     },
     {
       "content": "J'ai commencé à apprendre\nen regardant des vidéos sur Internet,\nmais j'allais souvent sur des vidéos\nqui avaient aucun rapport.",
+      "index": 8,
       "start": 15
     },
     {
       "content": "Un jour, je m'y suis mis sérieusement.",
+      "index": 9,
       "start": 19
     },
     {
       "content": "Au début, c'était pas top.",
+      "index": 10,
       "start": 21
     },
     {
       "content": "Après, c'était pas top.",
+      "index": 11,
       "start": 22
     },
     {
       "content": "Et au bout d'un moment, c'était pas top.",
+      "index": 12,
       "start": 23
     },
     {
       "content": "En y réfléchissant, j'ai repensé\nà toutes les fois où Ben m'a dit\nqu'un truc servait à rien.",
+      "index": 13,
       "start": 25
     },
     {
       "content": "— Un Visa pour les États-Unis?",
+      "index": 14,
       "start": 29
     },
     {
       "content": "— Ça sert à rien.\n— Tiens, prends mon vélo.",
+      "index": 15,
       "start": 30
     },
     {
       "content": "— Bon, y a plus de freins,\nmais ça sert à rien.",
+      "index": 16,
       "start": 33
     },
     {
       "content": "— Un bouton sur la paupière?",
+      "index": 17,
       "start": 34
     },
     {
       "content": "— Va pas voir un médecin pour ça.",
+      "index": 18,
       "start": 36
     },
     {
       "content": "— Ça sert à rien.",
+      "index": 19,
       "start": 37
     },
     {
       "content": "Après être allé me faire enlever\nmon kyste à l'œil, je me suis dit\nque j'allais racheter une corde.",
+      "index": 20,
       "start": 38
     },
     {
       "content": "C'était mieux, mais j'ai\ndû tout réapprendre.",
+      "index": 21,
       "start": 42
     },
     {
       "content": "Un jour, je suis allé sur des forums,\nj'ai appris qu'on pouvait serrer\ndes meufs avec seulement quatre accords:\nle Do, le Sol, le La et enfin le Mi.",
+      "index": 22,
       "start": 43
     },
     {
       "content": "Je les ai travaillés sans relâche.",
+      "index": 23,
       "start": 49
     },
     {
       "content": "J'ai essayé de chanter\nen même temps, c'était super dur.",
+      "index": 24,
       "start": 52
     },
     {
       "content": "J'avais l'impression d'essayer\nde me branler avec des gants de boxe\nen récitant l'alphabet à l'envers.",
+      "index": 25,
       "start": 55
     },
     {
       "content": "— X, Y, W. Putain, j'y arrive pas !",
+      "index": 26,
       "start": 59
     },
     {
       "content": "— Putain, j'y arrive pas.",
+      "index": 27,
       "start": 62
     },
     {
       "content": "Pendant un an, j'ai pas lâché l'affaire.",
+      "index": 28,
       "start": 64
     },
     {
       "content": "Et puis...\n— Mon cœur est\nsi gris quand il pleut.",
+      "index": 29,
       "start": 78
     },
     {
       "content": "— Wow, tu joues trop bien.",
+      "index": 30,
       "start": 86
     },
     {
       "content": "Bref, je joue de la guitare.",
+      "index": 31,
       "start": 89
     },
     {
       "content": "— Tout ça à cause d'un\nputain de kyste à l'œil.",
+      "index": 32,
       "start": 92
     },
     {
       "content": "C'est vachement bien.",
+      "index": 33,
       "start": 100
     },
     {
       "content": "Mais en quoi ça me concerne ?",
+      "index": 34,
       "start": 102
     }
   ]

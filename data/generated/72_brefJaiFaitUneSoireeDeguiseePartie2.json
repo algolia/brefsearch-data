@@ -9,142 +9,177 @@
   "subtitles": [
     {
       "content": "— Faut qu'on parle.",
+      "index": 0,
       "start": 0
     },
     {
       "content": "Bref, ça faisait quelques semaines\nque ça se passait pas super bien\navec mon copain, alors j'ai décidé\nde lui faire une surprise.",
+      "index": 1,
       "start": 1
     },
     {
       "content": "Je lui ai fait croire que\nje venais pas à la soirée de Maud.",
+      "index": 2,
       "start": 5
     },
     {
       "content": "— Je pense que je viendrai\npas à la soirée de Maud.",
+      "index": 3,
       "start": 7
     },
     {
       "content": "Et j'ai demandé à Maud\nde s'assurer qu'il vienne.",
+      "index": 4,
       "start": 9
     },
     {
       "content": "— Promis, promis ?\n— Promis, promis.",
+      "index": 5,
       "start": 10
     },
     {
       "content": "— Il a promis trois fois.",
+      "index": 6,
       "start": 12
     },
     {
       "content": "J'ai voulu m'habiller en Lara\nCroft, mais il me manquait un accessoire.",
+      "index": 7,
       "start": 16
     },
     {
       "content": "Je me suis habillée comme\nMia Wallace dans Pulp Fiction.",
+      "index": 8,
       "start": 20
     },
     {
       "content": "Il est fan.",
+      "index": 9,
       "start": 22
     },
     {
       "content": "En plus, je pourrais lui faire\nle coup du regard avec la cigarette.",
+      "index": 10,
       "start": 22
     },
     {
       "content": "Ça faisait un peu pute,\nmais bon, c'était une soirée déguisée.",
+      "index": 11,
       "start": 24
     },
     {
       "content": "En arrivant, mon copain était pas là.",
+      "index": 12,
       "start": 26
     },
     {
       "content": "Le sol collait et il y avait tout ce\nque j'adorais dans les soirées déguisées.",
+      "index": 13,
       "start": 28
     },
     {
       "content": "Batman qui roulait enfin des pelles\nà Robin, même si Catwoman était vénère.",
+      "index": 14,
       "start": 30
     },
     {
       "content": "Einstein qui vomissait\nà la vitesse de la lumière\net des gens déguisés n'importe comment.",
+      "index": 15,
       "start": 33
     },
     {
       "content": "Mais si, je suis déguisé\nen Dédo, le prince des ténèbres. Enfin...",
+      "index": 16,
       "start": 36
     },
     {
       "content": "— Ah, cool.\nJe connaissais pas.",
+      "index": 17,
       "start": 41
     },
     {
       "content": "C'était cool, mais j'étais quand même\ndans une soirée sans mon copain avec\ndes gens que je connaissais pas trop.",
+      "index": 18,
       "start": 43
     },
     {
       "content": "Mon copain est arrivé, il m'a vu.",
+      "index": 19,
       "start": 46
     },
     {
       "content": "J'ai vu qu'il m'avait vue,\nmais il n'est pas venu me voir.",
+      "index": 20,
       "start": 48
     },
     {
       "content": "Alors j'y suis allé.",
+      "index": 21,
       "start": 50
     },
     {
       "content": "Je lui ai fait une blague,\nil a pas rigolé.",
+      "index": 22,
       "start": 52
     },
     {
       "content": "Il m'a demandé.\n— Mais qu'est-ce que tu fais là ?",
+      "index": 23,
       "start": 55
     },
     {
       "content": "J'ai voulu lui dire: \"Il faut qu'on parle\",\nmais il a fait comme\ns'il avait reçu un texto, alors\nje lui ai fait le coup de la cigarette.",
+      "index": 24,
       "start": 57
     },
     {
       "content": "Je lui ai dit:\n— Je vais fumer.",
+      "index": 25,
       "start": 61
     },
     {
       "content": "— Tu viens ?\nIl m'a dit:\n— Non.",
+      "index": 26,
       "start": 64
     },
     {
       "content": "J'ai eu envie de pleurer.\nJe suis partie.",
+      "index": 27,
       "start": 65
     },
     {
       "content": "J'ai bousculé ce mec,\nil m'a dit:\n— Hey...",
+      "index": 28,
       "start": 67
     },
     {
       "content": "Et après...\nJ'ai pas envie d'en parler.",
+      "index": 29,
       "start": 71
     },
     {
       "content": "Bref, j'ai fait une soirée déguisée.",
+      "index": 30,
       "start": 74
     },
     {
       "content": "— Mais si, Dédo !\nDédo, le prince des ténèbres.",
+      "index": 31,
       "start": 77
     },
     {
       "content": "— Tue tes parents ! Tue tes parents !",
+      "index": 32,
       "start": 81
     },
     {
       "content": "— Non, je connais pas.",
+      "index": 33,
       "start": 88
     },
     {
       "content": "— Mais si.\n— Tu peux me tenir ça, toute ta vie ?",
+      "index": 34,
       "start": 89
     }
   ]

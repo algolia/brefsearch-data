@@ -9,174 +9,217 @@
   "subtitles": [
     {
       "content": "Bref, ça, c'est mon frère.",
+      "index": 0,
       "start": 2
     },
     {
       "content": "Il a toujours été là pour moi.",
+      "index": 1,
       "start": 3
     },
     {
       "content": "— Ouais ?\n— Ouais, j'ai eu mon permis !\n— J'arrive.",
+      "index": 2,
       "start": 5
     },
     {
       "content": "— Ouais, j'ai un bouton chelou sur la...\n— J'arrive.",
+      "index": 3,
       "start": 8
     },
     {
       "content": "— Ouais, ça y est,\nje vais coucher avec elle.",
+      "index": 4,
       "start": 11
     },
     {
       "content": "— J'arrive.\n— Bha non.\n— T'as des capotes ?",
+      "index": 5,
       "start": 12
     },
     {
       "content": "— Euh non.\n— J'arrive.\n— Ouais ?",
+      "index": 6,
       "start": 15
     },
     {
       "content": "Et cette fois, je lui\navais dit:\n— Elle m'a quitté.",
+      "index": 7,
       "start": 16
     },
     {
       "content": "— J'arrive.\nC'était l'époque où mon ex m'avait quitté.",
+      "index": 8,
       "start": 18
     },
     {
       "content": "— Si ça te va pas, je me casse.\nMon frère est comme un supermarché.",
+      "index": 9,
       "start": 19
     },
     {
       "content": "Il est organisé, il présente bien\net il a toujours ce dont j'ai besoin.",
+      "index": 10,
       "start": 21
     },
     {
       "content": "Il est arrivé.\n— Je suis arrivé.",
+      "index": 11,
       "start": 24
     },
     {
       "content": "Mon frère s'aime beaucoup.",
+      "index": 12,
       "start": 25
     },
     {
       "content": "Mon frère est un supermarché,\nil aime donc beaucoup les supermarchés.",
+      "index": 13,
       "start": 26
     },
     {
       "content": "On est allé au supermarché.",
+      "index": 14,
       "start": 28
     },
     {
       "content": "— Il faut te reprendre en main.",
+      "index": 15,
       "start": 29
     },
     {
       "content": "Je peux deviner ce que va dire mon frère\nà la tête qu'il fait juste avant.",
+      "index": 16,
       "start": 30
     },
     {
       "content": "— Ce resto est vraiment...\nDégueulasse.\n— Dégueulasse.",
+      "index": 17,
       "start": 32
     },
     {
       "content": "— Prends ceux-là.",
+      "index": 18,
       "start": 35
     },
     {
       "content": "C'est mieux pour toi.\n— C'est mieux pour toi.",
+      "index": 19,
       "start": 37
     },
     {
       "content": "— La fille de hier soir\nétait vraiment très...",
+      "index": 20,
       "start": 38
     },
     {
       "content": "Bonne.\n— Intéressante.",
+      "index": 21,
       "start": 41
     },
     {
       "content": "Il voulait dire bonne.\nIl m'a dit:\n— Prends des capotes.",
+      "index": 22,
       "start": 42
     },
     {
       "content": "Mon ex m'a envoyé un texto.\nIl m'a dit:\n— Regarde pas.",
+      "index": 23,
       "start": 44
     },
     {
       "content": "J'ai regardé, elle me demandait\npourquoi tu m'ignores.",
+      "index": 24,
       "start": 46
     },
     {
       "content": "J'ai voulu répondre: Je t'ignore pas.\nFinalement, je l'ai ignorée.",
+      "index": 25,
       "start": 48
     },
     {
       "content": "Il m'a dit:\n— Franchement.\nC'était le mieux à faire.\n— C'était le mieux à faire.",
+      "index": 26,
       "start": 50
     },
     {
       "content": "J'allais prendre des pâtes \"Ma che pasta!\"\nIl m'a dit:\n— Ah non, prends pas ces pâtes c'est de la merde.",
+      "index": 27,
       "start": 51
     },
     {
       "content": "— C'est pour ça qu'ils ont\nmis un italien dessus.",
+      "index": 28,
       "start": 55
     },
     {
       "content": "J'ai pris un autre paquet de pâtes.",
+      "index": 29,
       "start": 57
     },
     {
       "content": "J'ai revu mon ex. J'ai remis le paquet.",
+      "index": 30,
       "start": 58
     },
     {
       "content": "J'ai compris pourquoi\nelle disait que je l'ignorais.",
+      "index": 31,
       "start": 61
     },
     {
       "content": "Elle est venue.\n— Hey\nElle a vu les préservatifs.",
+      "index": 32,
       "start": 62
     },
     {
       "content": "Elle a dit:\n— Et ben ça va, tu perds pas de temps.\nJ'ai paniqué.",
+      "index": 33,
       "start": 64
     },
     {
       "content": "J'ai dit que c'était pour Keyvan.",
+      "index": 34,
       "start": 66
     },
     {
       "content": "Elle a dit:\n— T'es plus avec ta copine ?",
+      "index": 35,
       "start": 68
     },
     {
       "content": "Il a dit:\n— Si.",
+      "index": 36,
       "start": 69
     },
     {
       "content": "Elle m'a regardé, je l'ai\nregardée, il m'a regardé, elle l'a\nregardé, elle m'a regardée.\nIl a dit:\n— Elle a ses règles.",
+      "index": 37,
       "start": 71
     },
     {
       "content": "C'était sale, mais bien joué.\nElle l'a pas cru, elle est partie.",
+      "index": 38,
       "start": 77
     },
     {
       "content": "Mon frère m'a dit: Ça va passer.",
+      "index": 39,
       "start": 81
     },
     {
       "content": "Bref, je suis allé faire\nles courses avec mon frère.",
+      "index": 40,
       "start": 83
     },
     {
       "content": "— J'arrive.",
+      "index": 41,
       "start": 95
     },
     {
       "content": "— Ok.",
+      "index": 42,
       "start": 97
     }
   ]

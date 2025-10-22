@@ -9,150 +9,187 @@
   "subtitles": [
     {
       "content": "Bref. Ça, c'est un dessin que j'ai fait\nquand j'avais six ans.",
+      "index": 0,
       "start": 1
     },
     {
       "content": "Ma mère m'avait dit: \"Va\nlà-haut faire un dessin.\"\nAlors, je me suis dessiné\nen haut en train de faire un dessin.",
+      "index": 1,
       "start": 3
     },
     {
       "content": "Sur le toit, il y avait des tuiles,\nmais c'était trop relou à faire.",
+      "index": 2,
       "start": 6
     },
     {
       "content": "Alors, au bout d'un moment,\nj'ai mis des cheveux.",
+      "index": 3,
       "start": 8
     },
     {
       "content": "Mais comme c'était pas logique,\nune maison avec des cheveux,\nje lui ai rajouté des oreilles.",
+      "index": 4,
       "start": 9
     },
     {
       "content": "On n'avait pas de cheminée,\nmais comme je sais faire\ndes cheminées, j'ai fait une cheminée.\nDehors, c'était une belle journée.",
+      "index": 5,
       "start": 12
     },
     {
       "content": "Il y avait un soleil dans le coin\navec un grand rayon, un petit rayon,\nun grand rayon, un petit rayon, un grand rayon,\net un petit rayon.",
+      "index": 6,
       "start": 15
     },
     {
       "content": "et un rectangle bleu pour faire le ciel.",
+      "index": 7,
       "start": 19
     },
     {
       "content": "En dessous du ciel, il y avait un avion\navec une aile en bas et une aile en haut.",
+      "index": 8,
       "start": 20
     },
     {
       "content": "Et derrière l'avion, il y avait\nun nuage, un autre nuage.",
+      "index": 9,
       "start": 22
     },
     {
       "content": "Et après, je me suis rendu compte que\nsi je mettais quatre pattes et deux yeux\nà un nuage, ça faisait un mouton.\nJ'ai fait un mouton.",
+      "index": 10,
       "start": 24
     },
     {
       "content": "Mais comme les moutons volant,\nça n'existe pas, je l'ai attaché au ciel.",
+      "index": 11,
       "start": 27
     },
     {
       "content": "Dehors, il y avait mon père.\nIl était au travail.",
+      "index": 12,
       "start": 30
     },
     {
       "content": "Il n'avait pas de chaussures parce\nqu'il les avait oubliées à la maison.",
+      "index": 13,
       "start": 31
     },
     {
       "content": "Il y avait aussi trois bras parce qu'à\nl'époque, il avait demandé sa mutation.",
+      "index": 14,
       "start": 33
     },
     {
       "content": "Et une épée parce que je savais pas\nquel métier il faisait.",
+      "index": 15,
       "start": 35
     },
     {
       "content": "Au-dessus de lui,\nil y avait des oiseaux en V.",
+      "index": 16,
       "start": 37
     },
     {
       "content": "D'ailleurs, aux fenêtres de la maison,\nil y avait des rideaux en B.",
+      "index": 17,
       "start": 38
     },
     {
       "content": "Dans la maison, il y avait ma mère.\nElle s'était faite belle.",
+      "index": 18,
       "start": 40
     },
     {
       "content": "Elle avait deux cheveux, une jupe\nen triangle et des boucles d'oreilles\nplus grosses que sa tête.",
+      "index": 19,
       "start": 42
     },
     {
       "content": "Elle tenait mon frère\npar la main, mais je l'ai gommé.",
+      "index": 20,
       "start": 45
     },
     {
       "content": "Comme ça, je pouvais récupérer son vélo.",
+      "index": 21,
       "start": 46
     },
     {
       "content": "Dehors, il y avait un chemin avec de\nl'herbe en M. Il y avait aussi un dragon.",
+      "index": 22,
       "start": 48
     },
     {
       "content": "Mais vu que je savais pas dessiner\nles dragons, je l'ai fait très loin.",
+      "index": 23,
       "start": 50
     },
     {
       "content": "Mais dans ma tête, il ressemblait à ça.",
+      "index": 24,
       "start": 52
     },
     {
       "content": "Dans le jardin, il y avait\nmon frère avec ses potes.",
+      "index": 25,
       "start": 53
     },
     {
       "content": "Ils se cachaient pour fumer des haches.",
+      "index": 26,
       "start": 56
     },
     {
       "content": "C'était vachement dangereux\net il m'avait dit de pas le répéter.",
+      "index": 27,
       "start": 57
     },
     {
       "content": "Attends.",
+      "index": 28,
       "start": 59
     },
     {
       "content": "Si ma mère m'avait demandé de monter faire\nun dessin pendant que mon père était loin\net surtout, si mon frère était\ndans le jardin, qui est-ce qui tenait",
+      "index": 29,
       "start": 60
     },
     {
       "content": "la main de ma mère dans ma maison ?\nCes chaussures, elles sont pas à mon père.",
+      "index": 30,
       "start": 65
     },
     {
       "content": "Bref, je crois que j'ai un secret.",
+      "index": 31,
       "start": 69
     },
     {
       "content": "— Qu'est-ce que tu fais ?",
+      "index": 32,
       "start": 74
     },
     {
       "content": "— Ça, c'est un avion, ça,\nc'est le dragon et ça, c'est\ntoi qui tient la main du monsieur.\n— Je vais le montrer à papa en rentrant.",
+      "index": 33,
       "start": 75
     },
     {
       "content": "— Mais quel monsieur ? Il y a pas de monsieur.",
+      "index": 34,
       "start": 82
     },
     {
       "content": "— Allez, gomme le monsieur.",
+      "index": 35,
       "start": 84
     },
     {
       "content": "— Et on va t'acheter un vélo.",
+      "index": 36,
       "start": 87
     }
   ]

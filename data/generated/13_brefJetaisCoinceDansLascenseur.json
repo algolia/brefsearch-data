@@ -9,154 +9,192 @@
   "subtitles": [
     {
       "content": "Bref, il était 23h00.\nJ'étais resté tard au bureau.",
+      "index": 0,
       "start": 2
     },
     {
       "content": "La fille dont je suis amoureux\nm'a proposé un verre sur Facebook.",
+      "index": 1,
       "start": 3
     },
     {
       "content": "Kheiron m'a dit qu'elle voulait\nvoir le dernier Woody Allen.",
+      "index": 2,
       "start": 5
     },
     {
       "content": "Je l'ai appelée.",
+      "index": 3,
       "start": 7
     },
     {
       "content": "Ça te dirait d'aller voir\nle dernier Woody Allen ?",
+      "index": 4,
       "start": 7
     },
     {
       "content": "— Ah, tu voulais y aller ? Cool.",
+      "index": 5,
       "start": 9
     },
     {
       "content": "— Par contre, je te laisse,\nj'ai plus beaucoup de batterie.",
+      "index": 6,
       "start": 10
     },
     {
       "content": "J'ai raccroché, j'y suis allé.\nMerci Kheiron.",
+      "index": 7,
       "start": 11
     },
     {
       "content": "J'ai pris l'ascenseur.\nL'ascenseur s'est bloqué.",
+      "index": 8,
       "start": 13
     },
     {
       "content": "Je me suis dit que j'avais la poisse.\nJ'ai dit non, 16 fois.\n— Non, non, non, non, non, non, non, non, non, non, non, non, non, non, non, non.",
+      "index": 9,
       "start": 17
     },
     {
       "content": "J'ai appuyé sur le bouton,\nça a pas marché.",
+      "index": 10,
       "start": 20
     },
     {
       "content": "J'ai crié.",
+      "index": 11,
       "start": 22
     },
     {
       "content": "J'ai pris mon portable, il était déchargé.\nJ'ai plus beaucoup de batterie.",
+      "index": 12,
       "start": 23
     },
     {
       "content": "J'ai regardé s'il y avait\nune trappe au plafond comme\ndans les films, il y en avait pas.",
+      "index": 13,
       "start": 25
     },
     {
       "content": "Je me suis dit qu'il\npouvait pas m'arriver pire.",
+      "index": 14,
       "start": 28
     },
     {
       "content": "La lumière s'est éteinte.",
+      "index": 15,
       "start": 29
     },
     {
       "content": "Au bout de 10 minutes,\nelle s'est rallumée.",
+      "index": 16,
       "start": 31
     },
     {
       "content": "J'étais en train de me détendre.",
+      "index": 17,
       "start": 32
     },
     {
       "content": "Je pensais que quelqu'un allait\narriver, personne n'est arrivé,\nmais je n'avais plus envie.",
+      "index": 18,
       "start": 33
     },
     {
       "content": "Je me suis assis, allongé,\nassis, allongé, assis, allongé.",
+      "index": 19,
       "start": 35
     },
     {
       "content": "J'ai fait des pompes.",
+      "index": 20,
       "start": 38
     },
     {
       "content": "À un moment, je crois\nque je suis devenu fou.",
+      "index": 21,
       "start": 39
     },
     {
       "content": "J'ai entendu une voix.\n— Monsieur ?",
+      "index": 22,
       "start": 45
     },
     {
       "content": "J'ai dit:\n— Allô, je suis bloqué.\nIl m'entendait pas.",
+      "index": 23,
       "start": 47
     },
     {
       "content": "J'ai dit:\n— Allô, je suis bloqué.\nIl m'entendait pas.",
+      "index": 24,
       "start": 49
     },
     {
       "content": "J'ai dit:\n— Je suis bloqué, connard.\n— Hey !\nIl m'entendait.",
+      "index": 25,
       "start": 51
     },
     {
       "content": "Il a dit:\n— J'arrive dans trois heures.\n— Vous rigolez ?",
+      "index": 26,
       "start": 53
     },
     {
       "content": "Il m'a dit:\n— Non, connard.\n— J'en parlerai votre patron.",
+      "index": 27,
       "start": 55
     },
     {
       "content": "Il a dit:\n— Je serai là dans cinq heures.",
+      "index": 28,
       "start": 58
     },
     {
       "content": "— J'en parlerai pas à votre patron.\n— À dans trois heures.",
+      "index": 29,
       "start": 59
     },
     {
       "content": "Connard.\nSoudain, j'ai eu envie de pisser.",
+      "index": 30,
       "start": 62
     },
     {
       "content": "Ce furent les trois plus longues\nheures de toute ma vie.",
+      "index": 31,
       "start": 66
     },
     {
       "content": "Finalement, le réparateur m'a libéré.",
+      "index": 32,
       "start": 73
     },
     {
       "content": "Il m'a fait comprendre qu'il voulait un pourboire.",
+      "index": 33,
       "start": 74
     },
     {
       "content": "J'ai dit:\n— Connard.",
+      "index": 34,
       "start": 75
     },
     {
       "content": "Il a dit:\n— Vous savez, il y a\nune caméra dans l'ascenseur.",
+      "index": 35,
       "start": 76
     },
     {
       "content": "Je lui ai donné ce que j'avais.",
+      "index": 36,
       "start": 82
     },
     {
       "content": "Bref, j'étais coincé dans l'ascenseur.",
+      "index": 37,
       "start": 84
     }
   ]

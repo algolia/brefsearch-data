@@ -9,134 +9,167 @@
   "subtitles": [
     {
       "content": "Bref, Marla, c'est une fille\navec qui je couche.",
+      "index": 0,
       "start": 1
     },
     {
       "content": "Un jour, elle m'a dit:\n— T'es vraiment pas comme tout le monde.",
+      "index": 1,
       "start": 3
     },
     {
       "content": "Je suis vraiment pas sûr,\nparce que comme tout le monde: quand\nje mange du tiramisu, je tousse\nà cause du chocolat en poudre.",
+      "index": 2,
       "start": 5
     },
     {
       "content": "J'ai déjà envoyé un second mail intitulé:\n\"Avec la pièce jointe, c'est mieux.\"\nJ'ai déjà démonté une pince à linge.",
+      "index": 3,
       "start": 9
     },
     {
       "content": "J'ai déjà tapé mes poches\nen disant:\n— Désolé, je n'ai pas d'argent.",
+      "index": 4,
       "start": 14
     },
     {
       "content": "À un mec en espérant que\nmes clés ne fassent pas de bruit.",
+      "index": 5,
       "start": 15
     },
     {
       "content": "Je galère toujours pour mettre\nune housse de couette.",
+      "index": 6,
       "start": 17
     },
     {
       "content": "J'ai déjà commencé\nun labyrinthe par la fin.",
+      "index": 7,
       "start": 19
     },
     {
       "content": "J'ai déjà soufflé sur un truc tombé\npar terre pour le manger.",
+      "index": 8,
       "start": 21
     },
     {
       "content": "J'ai déjà mis de l'eau à bouillir.\nJe l'ai oubliée.",
+      "index": 9,
       "start": 23
     },
     {
       "content": "Je l'ai remise à bouillir.\nJe l'ai oubliée.",
+      "index": 10,
       "start": 26
     },
     {
       "content": "Je l'ai re-remise à bouillir.\nJe me suis fait un thé avec.",
+      "index": 11,
       "start": 27
     },
     {
       "content": "J'ai oublié de le boire.",
+      "index": 12,
       "start": 29
     },
     {
       "content": "Je mange souvent: le papier\ndes sandwichs, le plastique des rouleaux\nde printemps et l'aluminium du chocolat.",
+      "index": 13,
       "start": 29
     },
     {
       "content": "J'ai chez moi des chargeurs\nde portables inutiles.",
+      "index": 14,
       "start": 33
     },
     {
       "content": "J'ai déjà senti mes chaussettes\npour savoir si je pouvais les remettre.",
+      "index": 15,
       "start": 35
     },
     {
       "content": "Je fais toujours trop de pâtes.",
+      "index": 16,
       "start": 38
     },
     {
       "content": "Je me suis dit qu'il faut\nque j'arrête de mettre trop de pâtes.",
+      "index": 17,
       "start": 39
     },
     {
       "content": "Je mets moins de pâtes,\nj'ai plus assez de pâtes.",
+      "index": 18,
       "start": 41
     },
     {
       "content": "J'ai 15 Seb et 11 Nico sans nom\nde famille dans mon répertoire.",
+      "index": 19,
       "start": 42
     },
     {
       "content": "— Ouais, Nico ? C'est pour savoir tu es quel Nico ?",
+      "index": 20,
       "start": 44
     },
     {
       "content": "— Ah c'est Seb ! Ok, cool.",
+      "index": 21,
       "start": 47
     },
     {
       "content": "J'ai déjà dit\nque j'avais entendu parler d'un truc\ndont je n'avais jamais entendu parler.\n— Ouais si, j'en ai entendu parler, ouais.",
+      "index": 22,
       "start": 49
     },
     {
       "content": "Je connais pas ma taille de pantalon.",
+      "index": 23,
       "start": 52
     },
     {
       "content": "J'ai plein de bouteilles d'eau à côté\nde mon lit, mais je n'ose plus les boire.",
+      "index": 24,
       "start": 54
     },
     {
       "content": "J'ai toujours gardé mes reçus\nde carte bleue pour pas qu'on me vole\nmon numéro, mais j'ai jamais vérifié\ns'il y avait le numéro sur les reçus.",
+      "index": 25,
       "start": 56
     },
     {
       "content": "Je me suis déjà demandé\ns'il y avait une caméra\ndans les toilettes chez les autres.",
+      "index": 26,
       "start": 60
     },
     {
       "content": "Je sais jamais quel bouton ouvre\nla porte sur l'interphone,\nalors j'appuie sur tous les boutons.",
+      "index": 27,
       "start": 62
     },
     {
       "content": "J'ai déjà mis une clé USB dans un sens,\npuis dans l'autre, puis dans l'autre.",
+      "index": 28,
       "start": 65
     },
     {
       "content": "Je me suis dit que j'étais\ncomme tout le monde, alors\ncomme tout le monde, j'ai répondu.\n— Bha non, je suis pas comme tout le monde.",
+      "index": 29,
       "start": 68
     },
     {
       "content": "Bref, je suis comme tout le monde.",
+      "index": 30,
       "start": 71
     },
     {
       "content": "— Toi non plus, t'es pas\ncomme tout le monde.",
+      "index": 31,
       "start": 76
     },
     {
       "content": "— Bha je sais, hein.",
+      "index": 32,
       "start": 79
     }
   ]
