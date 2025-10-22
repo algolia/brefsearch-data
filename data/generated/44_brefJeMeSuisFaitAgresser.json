@@ -11,182 +11,218 @@
     {
       "content": "— Excuse-moi.\nC'était un jour de merde.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 2
     },
     {
       "content": "Un mec qui voulait me voler\nmon portable m'avait mis\nune claque et comme un gros lache,\nje lui avais répondu:\n— Bonne journée.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 5
     },
     {
       "content": "En rentrant, j'ai posté\nun statut pour me faire plaindre.",
       "index": 2,
-      "start": 5
+      "start": 5,
+      "stop": 8
     },
     {
       "content": "Personne n'a répondu, à part Kheiron\nqui a dit:\n— Je suis sûr que tu lui as dit\nbonne journée.\nEt qui a mis: J'aime.",
       "index": 3,
-      "start": 8
+      "start": 8,
+      "stop": 11
     },
     {
       "content": "Pendant les trois jours\nqui ont suivi, ça m'a pas lâché.",
       "index": 4,
-      "start": 11
+      "start": 11,
+      "stop": 12
     },
     {
       "content": "Quoi que je fasse, je pensais\nqu'à sa gueule, sa gueule et sa gueule.",
       "index": 5,
-      "start": 12
+      "start": 12,
+      "stop": 19
     },
     {
       "content": "Marla, c'était mon plan cul régulier.",
       "index": 6,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "Quand on couchait ensemble,\nje me disais toujours:\n— Fils de pute, va.",
       "index": 7,
-      "start": 20
+      "start": 20,
+      "stop": 24
     },
     {
       "content": "Ça m'obsédait.",
       "index": 8,
-      "start": 24
+      "start": 24,
+      "stop": 24
     },
     {
       "content": "Et c'est là qu'a commencé\nle festival du \"J'aurais dû\".",
       "index": 9,
-      "start": 24
+      "start": 24,
+      "stop": 27
     },
     {
       "content": "J'aurais dû lui dire:\n— Je m'appelle pas Hey!",
       "index": 10,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "Je lui aurais pris la gorge,\nje m'aurais intercepté avec sa main, je\nlui aurais broyé la troisième phalange et\nje lui aurais dit de chanter en italien.",
       "index": 11,
-      "start": 29
+      "start": 29,
+      "stop": 33
     },
     {
       "content": "— Chante !\n— La comimaaa\n— Plus fort !",
       "index": 12,
-      "start": 33
+      "start": 33,
+      "stop": 36
     },
     {
       "content": "Au lieu de ça, j'ai dit:\n— Bonne journée.\nMerde.",
       "index": 13,
-      "start": 36
+      "start": 36,
+      "stop": 39
     },
     {
       "content": "Ou alors j'aurais dû lui\ndire:\n— Hey, Je m'appelle pas Hey !",
       "index": 14,
-      "start": 39
+      "start": 39,
+      "stop": 41
     },
     {
       "content": "— Et puisque tu crois\nque c'est mon prénom...",
       "index": 15,
-      "start": 41
+      "start": 41,
+      "stop": 43
     },
     {
       "content": "Je l'aurais mis à genou,\net je lui aurai gravé: \"Hey\"\nau fer rouge sur son front.",
       "index": 16,
-      "start": 43
+      "start": 43,
+      "stop": 45
     },
     {
       "content": "Je l'aurais mis par terre et ramené\nun groupe d'enfants pour le cuisiner.",
       "index": 17,
-      "start": 45
+      "start": 45,
+      "stop": 47
     },
     {
       "content": "Au lieu de ça, j'ai dit:\n— Bonne journée.\nMerde.",
       "index": 18,
-      "start": 47
+      "start": 47,
+      "stop": 50
     },
     {
       "content": "Au moment où il m'a dit:\n— Fils de pute.",
       "index": 19,
-      "start": 50
+      "start": 50,
+      "stop": 52
     },
     {
       "content": "J'aurais dû le défoncer.",
       "index": 20,
-      "start": 53
+      "start": 53,
+      "stop": 55
     },
     {
       "content": "— Il t'a dit quoi ?",
       "index": 21,
-      "start": 55
+      "start": 55,
+      "stop": 56
     },
     {
       "content": "— Il vient de parler de ta mère.",
       "index": 22,
-      "start": 56
+      "start": 56,
+      "stop": 57
     },
     {
       "content": "— Il t'a mis une claque,\ntu vas pas rester là ?\n— Non !\n— T'as pas mal !\n— Non !",
       "index": 23,
-      "start": 57
+      "start": 57,
+      "stop": 60
     },
     {
       "content": "Le stade aurait crié mon nom.\n— Hey!\n— Hey!",
       "index": 24,
-      "start": 69
+      "start": 69,
+      "stop": 71
     },
     {
       "content": "J'avais tourné la page et un midi,\nje suis arrivé dans un fast-food.",
       "index": 25,
-      "start": 73
+      "start": 73,
+      "stop": 75
     },
     {
       "content": "C'était lui.\n— Bonjour.",
       "index": 26,
-      "start": 75
+      "start": 75,
+      "stop": 77
     },
     {
       "content": "C'était le moment que j'avais attendu.\nIl m'a demandé:\n— Frite ou potatoes ?",
       "index": 27,
-      "start": 77
+      "start": 77,
+      "stop": 79
     },
     {
       "content": "— Vas-y, bonhomme, grave-lui \"Hey\"\n— au fer rouge, sur son front !",
       "index": 28,
-      "start": 79
+      "start": 79,
+      "stop": 82
     },
     {
       "content": "J'ai dit:\n— Potatoes.",
       "index": 29,
-      "start": 82
+      "start": 82,
+      "stop": 84
     },
     {
       "content": "Il m'a demandé:\n— Sur place ou à emporter ?\n— Vas-y, fais le chanter en italien !",
       "index": 30,
-      "start": 84
+      "start": 84,
+      "stop": 86
     },
     {
       "content": "J'ai dit:\n— À emporter !",
       "index": 31,
-      "start": 86
+      "start": 86,
+      "stop": 96
     },
     {
       "content": "Il a dit au revoir.",
       "index": 32,
-      "start": 97
+      "start": 97,
+      "stop": 99
     },
     {
       "content": "Je voulais vraiment pas en rester\nlà, alors j'ai dit:\n— Bonne journée.",
       "index": 33,
-      "start": 99
+      "start": 99,
+      "stop": 102
     },
     {
       "content": "Merde.\nBref, je me suis fait agresser.",
       "index": 34,
-      "start": 102
+      "start": 102,
+      "stop": 108
     },
     {
       "content": "— Aïe\n— Pardon\n— Ben, c'est pas grave\n— Bonne journée.\n— Bonne journée.",
       "index": 35,
-      "start": 110
+      "start": 110,
+      "stop": 111
     }
   ]
 }

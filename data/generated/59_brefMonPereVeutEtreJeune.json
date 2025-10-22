@@ -11,252 +11,302 @@
     {
       "content": "— Dis leur.\n— On divorce.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 1
     },
     {
       "content": "À partir du jour où mon père a quitté\nma mère, il a tout fait pour être jeune.",
       "index": 1,
-      "start": 1
+      "start": 1,
+      "stop": 4
     },
     {
       "content": "Il mettait des slim, des baskets\net même des slim avec des baskets.",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 7
     },
     {
       "content": "Il faisait comme s'il aimait des groupes\ndont il arrivait pas à prononcer le nom.",
       "index": 3,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "— T'as entendu le dernier Blaque Ayed Péhas ?",
       "index": 4,
-      "start": 9
+      "start": 9,
+      "stop": 11
     },
     {
       "content": "— Il est fort ce William.",
       "index": 5,
-      "start": 11
+      "start": 11,
+      "stop": 13
     },
     {
       "content": "Il s'était créé un compte Facebook,\navait ajouté mes copines en amis\net les draguait dans Farmville.",
       "index": 6,
-      "start": 13
+      "start": 13,
+      "stop": 16
     },
     {
       "content": "Il avait un iPad qu'il utilisait\nà 1% de ses capacités.",
       "index": 7,
-      "start": 16
+      "start": 16,
+      "stop": 18
     },
     {
       "content": "— T'as vu, il y a un chronomètre dessus.",
       "index": 8,
-      "start": 18
+      "start": 18,
+      "stop": 19
     },
     {
       "content": "Quand je suis venu vivre\nchez lui, c'est devenu invivable.",
       "index": 9,
-      "start": 19
+      "start": 19,
+      "stop": 22
     },
     {
       "content": "Dès que je m'absentais,\nil était chargé des virus:",
       "index": 10,
-      "start": 22
+      "start": 22,
+      "stop": 24
     },
     {
       "content": "porno.exe\nbigboobs.exe\nblowjob.exe\nIl niait en bloc.\n— Historique ?",
       "index": 11,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "— C'est n'importe quoi ce truc.",
       "index": 12,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "Quand je partais, il me disait:\n— Tu vas en discothèque ?\nQuand je revenais, il me disait:",
       "index": 13,
-      "start": 28
+      "start": 28,
+      "stop": 32
     },
     {
       "content": "— Alors ? T'étais en discothèque ?",
       "index": 14,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "Il essayait d'utiliser des expressions\nde jeune, mais il y arrivait pas.",
       "index": 15,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "— C'est trop de la boule, ça.",
       "index": 16,
-      "start": 35
+      "start": 35,
+      "stop": 37
     },
     {
       "content": "Il draguait à l'ancienne.",
       "index": 17,
-      "start": 38
+      "start": 38,
+      "stop": 40
     },
     {
       "content": "Il faisait du charme aux serveuses\ndans les petits restaurants.",
       "index": 18,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "Il faisait son regard: \"Je suis\nun homme et j'ai une voiture.\"\nIl laissait des pourboire.",
       "index": 19,
-      "start": 42
+      "start": 42,
+      "stop": 46
     },
     {
       "content": "Parfois, ça payait,\nmais ça lui coûtait cher.",
       "index": 20,
-      "start": 46
+      "start": 46,
+      "stop": 47
     },
     {
       "content": "— Oui, je comprends que tu\naies envie de parler.",
       "index": 21,
-      "start": 47
+      "start": 47,
+      "stop": 48
     },
     {
       "content": "— Je vais prendre le foie gras.",
       "index": 22,
-      "start": 48
+      "start": 48,
+      "stop": 49
     },
     {
       "content": "Un jour, je lui ai demandé un service.",
       "index": 23,
-      "start": 49
+      "start": 49,
+      "stop": 51
     },
     {
       "content": "Il m'a dit qu'il avait\nun truc plus important à faire.",
       "index": 24,
-      "start": 51
+      "start": 51,
+      "stop": 53
     },
     {
       "content": "Ça puait le mensonge.\nÀ tous les coups, il allait voir une meuf.",
       "index": 25,
-      "start": 53
+      "start": 53,
+      "stop": 54
     },
     {
       "content": "Du coup, j'ai regardé dans l'historique.",
       "index": 26,
-      "start": 54
+      "start": 54,
+      "stop": 55
     },
     {
       "content": "Il avait réservé une chambre d'hôtel\npour deux en plein après-midi.",
       "index": 27,
-      "start": 55
+      "start": 55,
+      "stop": 57
     },
     {
       "content": "Ça m'a énervé.\nJe l'ai attendu.",
       "index": 28,
-      "start": 57
+      "start": 57,
+      "stop": 59
     },
     {
       "content": "Il est arrivé, je suis allé le voir.",
       "index": 29,
-      "start": 59
+      "start": 59,
+      "stop": 60
     },
     {
       "content": "J'ai dit:\n— C'est ça ton truc important ?",
       "index": 30,
-      "start": 60
+      "start": 60,
+      "stop": 62
     },
     {
       "content": "— Qu'est-ce que tu fous là, toi ?\nOn s'est engueulé.",
       "index": 31,
-      "start": 62
+      "start": 62,
+      "stop": 64
     },
     {
       "content": "À un moment, j'ai dit:\n— T'as quitté\nmaman pour des petites jeunes\nqui en veulent qu'à ton argent.\nIl a dit:\n— Mais, ça n'a rien à voir avec le fric.",
       "index": 32,
-      "start": 64
+      "start": 64,
+      "stop": 69
     },
     {
       "content": "Le récépioniste a dit:\n— Votre chambre habituelle, monsieur ?",
       "index": 33,
-      "start": 69
+      "start": 69,
+      "stop": 72
     },
     {
       "content": "J'ai dit:\n— Tu sais que maman t'aime toujours ?",
       "index": 34,
-      "start": 72
+      "start": 72,
+      "stop": 76
     },
     {
       "content": "— Mais moi aussi, p'tit con.",
       "index": 35,
-      "start": 76
+      "start": 76,
+      "stop": 77
     },
     {
       "content": "— Quand j'ai rencontré ta mère,\non a couru sous la pluie.",
       "index": 36,
-      "start": 77
+      "start": 77,
+      "stop": 80
     },
     {
       "content": "— Je lui ai offert des trucs de merde\nqui avaient plus de valeur que ce que\nj'ai pu lui offrir avec de l'argent.",
       "index": 37,
-      "start": 80
+      "start": 80,
+      "stop": 84
     },
     {
       "content": "— On allait nulle part\nen chantant à tue-tête\ndans ma vieille voiture cabossée.",
       "index": 38,
-      "start": 84
+      "start": 84,
+      "stop": 87
     },
     {
       "content": "— Une fois, j'ai écrit \"Je t'aime\"\npar terre tous les trois mètres.",
       "index": 39,
-      "start": 87
+      "start": 87,
+      "stop": 89
     },
     {
       "content": "— De chez elle à son arrêt de bus,\ncomme ça, pour qu'elle sourie un matin.",
       "index": 40,
-      "start": 89
+      "start": 89,
+      "stop": 92
     },
     {
       "content": "— J'ai des centaines de souvenirs avec elle.",
       "index": 41,
-      "start": 93
+      "start": 93,
+      "stop": 95
     },
     {
       "content": "— Alors arrête de me juger.",
       "index": 42,
-      "start": 95
+      "start": 95,
+      "stop": 97
     },
     {
       "content": "— La fille qui m'attend là-haut,\nc'est ça mon truc important.",
       "index": 43,
-      "start": 97
+      "start": 97,
+      "stop": 100
     },
     {
       "content": "— Mon truc important, c'est de retrouver ça.",
       "index": 44,
-      "start": 100
+      "start": 100,
+      "stop": 104
     },
     {
       "content": "J'ai rien dit, je l'ai\nregardé, il m'a regardé.",
       "index": 45,
-      "start": 104
+      "start": 104,
+      "stop": 105
     },
     {
       "content": "J'ai baissé les yeux, il est parti.",
       "index": 46,
-      "start": 105
+      "start": 105,
+      "stop": 107
     },
     {
       "content": "Les deux Allemands ont dit:\n— Was ist denn los ?",
       "index": 47,
-      "start": 107
+      "start": 107,
+      "stop": 108
     },
     {
       "content": "— Was ist nicht ?",
       "index": 48,
-      "start": 108
+      "start": 108,
+      "stop": 111
     },
     {
       "content": "Bref, mon père veut être jeune.",
       "index": 49,
-      "start": 111
+      "start": 111,
+      "stop": 112
     }
   ]
 }

@@ -11,267 +11,320 @@
     {
       "content": "Bref, j'étais dans cette soirée\nde merde quand ce mec\nque je connaissais pas m'a demandé.\n— C'est quoi ton problème ?",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 4
     },
     {
       "content": "Je me suis rendu compte que tout\nle monde s'en foutait de mon problème.",
       "index": 1,
-      "start": 4
+      "start": 4,
+      "stop": 5
     },
     {
       "content": "Ces gens-là ne voulaient\nsurtout pas avoir de problèmes.",
       "index": 2,
-      "start": 5
+      "start": 5,
+      "stop": 7
     },
     {
       "content": "Que de toutes façons, ils en avaient rien à foutre.",
       "index": 3,
-      "start": 7
+      "start": 7,
+      "stop": 8
     },
     {
       "content": "Je m'en bats les couilles,\nje vais leur dire.",
       "index": 4,
-      "start": 8
+      "start": 8,
+      "stop": 9
     },
     {
       "content": "J'ai pris l'iPod, je l'ai arrêté.\n— Quoi ?",
       "index": 5,
-      "start": 9
+      "start": 9,
+      "stop": 13
     },
     {
       "content": "— Quoi, y a un problème ?",
       "index": 6,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "— La gueule que vous faites, c'est marrant.",
       "index": 7,
-      "start": 20
+      "start": 20,
+      "stop": 24
     },
     {
       "content": "Désolé, je gache votre soirée de merde.",
       "index": 8,
-      "start": 24
+      "start": 24,
+      "stop": 27
     },
     {
       "content": "— C'est ma faute aussi, je devrai pas venir à\ndes soirées que j'aime pas\navec des gens que j'aime pas.",
       "index": 9,
-      "start": 27
+      "start": 27,
+      "stop": 30
     },
     {
       "content": "— J'ai promis trois fois.",
       "index": 10,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "— Enfin, on m'a fait promettre trois fois.",
       "index": 11,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "— Je m'en bats tellement les couilles de cette\nsoirée.",
       "index": 12,
-      "start": 36
+      "start": 36,
+      "stop": 38
     },
     {
       "content": "— Elle sert à quoi cette soirée ?",
       "index": 13,
-      "start": 38
+      "start": 38,
+      "stop": 39
     },
     {
       "content": "— À part faire des photos, les mettre\nsur Facebook et dire: J'ai\ndes amis, j'ai des amis.\n— Personne n'a d'amis ici.",
       "index": 14,
-      "start": 39
+      "start": 39,
+      "stop": 44
     },
     {
       "content": "— Maud, t'as pas d'amis.\n— Tu crois quoi ?",
       "index": 15,
-      "start": 44
+      "start": 44,
+      "stop": 46
     },
     {
       "content": "— Tu passes ta soirée dans la cuisine\nà faire des cakes aux olives.",
       "index": 16,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "— Ça va pas ?\n— Tu fermes ta gueule !",
       "index": 17,
-      "start": 48
+      "start": 48,
+      "stop": 51
     },
     {
       "content": "— Je suis là, j'ai mis un bandana, je me suis déguisé.",
       "index": 18,
-      "start": 51
+      "start": 51,
+      "stop": 54
     },
     {
       "content": "— Je sais même pas pourquoi\nje me suis déguisé.",
       "index": 19,
-      "start": 54
+      "start": 54,
+      "stop": 55
     },
     {
       "content": "— Je me suis déguisé toute l'année\nen chien-chien au boulot.",
       "index": 20,
-      "start": 55
+      "start": 55,
+      "stop": 56
     },
     {
       "content": "— Je me suis déguisé avec vous. Je me suis déguisé avec toi, là.",
       "index": 21,
-      "start": 56
+      "start": 56,
+      "stop": 60
     },
     {
       "content": "— Ta copine qui te prend pour un con.",
       "index": 22,
-      "start": 60
+      "start": 60,
+      "stop": 63
     },
     {
       "content": "— Je sais même pas pour que je te parle.",
       "index": 23,
-      "start": 63
+      "start": 63,
+      "stop": 65
     },
     {
       "content": "— Ton téléphone va vibrer,\net tu vas plus me calculer.",
       "index": 24,
-      "start": 65
+      "start": 65,
+      "stop": 67
     },
     {
       "content": "— Et toi, là ?",
       "index": 25,
-      "start": 67
+      "start": 67,
+      "stop": 69
     },
     {
       "content": "— T'es peut-être le seul\nque je mérite, vu comment\ntu t'en bas les couilles des gens.",
       "index": 26,
-      "start": 69
+      "start": 69,
+      "stop": 72
     },
     {
       "content": "— Et toi ?",
       "index": 27,
-      "start": 73
+      "start": 73,
+      "stop": 74
     },
     {
       "content": "— À quoi tu sert à part être plus heureux que moi ?",
       "index": 28,
-      "start": 75
+      "start": 75,
+      "stop": 77
     },
     {
       "content": "— Au cas où j'oublie que je suis une merde ?",
       "index": 29,
-      "start": 79
+      "start": 79,
+      "stop": 81
     },
     {
       "content": "— Ça va, je te regarde, je compare,\nje me rappelle, c'est cool.",
       "index": 30,
-      "start": 81
+      "start": 81,
+      "stop": 84
     },
     {
       "content": "— T'es pédé depuis deux semaines, t'es plus\nheureux que moi en 10 ans avec des meufs.",
       "index": 31,
-      "start": 84
+      "start": 84,
+      "stop": 88
     },
     {
       "content": "— Tu crois qu'elle fait quoi là,\navec ses cakes aux olives ?",
       "index": 32,
-      "start": 88
+      "start": 88,
+      "stop": 90
     },
     {
       "content": "— Pourquoi tu crois qu'elle t'a invité ?\n— Pour que tu sois heureux ?",
       "index": 33,
-      "start": 90
+      "start": 90,
+      "stop": 92
     },
     {
       "content": "— Non, c'est pour que tu\nla baises, c'est tout.",
       "index": 34,
-      "start": 92
+      "start": 92,
+      "stop": 94
     },
     {
       "content": "— Le pire, c'est que c'est pas\nvrai, c'est qu'elle t'aime.",
       "index": 35,
-      "start": 97
+      "start": 97,
+      "stop": 99
     },
     {
       "content": "— Tout le monde t'aime. Toi, t'es parfait, toi.",
       "index": 36,
-      "start": 99
+      "start": 99,
+      "stop": 102
     },
     {
       "content": "— Moi, je suis pas parfait, moi.",
       "index": 37,
-      "start": 103
+      "start": 103,
+      "stop": 104
     },
     {
       "content": "— Moi, je suis un gros lâche. Je sais pas quoi faire de ma vie.",
       "index": 38,
-      "start": 106
+      "start": 106,
+      "stop": 108
     },
     {
       "content": "— Moi, je suis comme tout le monde,\nje crois que je suis unique.",
       "index": 39,
-      "start": 108
+      "start": 108,
+      "stop": 111
     },
     {
       "content": "— Moi, tu me donnes un truc,\nmoi, je le pète.",
       "index": 40,
-      "start": 111
+      "start": 111,
+      "stop": 112
     },
     {
       "content": "— Et depuis tout le temps,\ndepuis qu'on est petit, tu me donnes\nta gameboy, je la pète.",
       "index": 41,
-      "start": 112
+      "start": 112,
+      "stop": 116
     },
     {
       "content": "— Tu me donnes un couple,\nje vais baiser une autre meuf.",
       "index": 42,
-      "start": 116
+      "start": 116,
+      "stop": 119
     },
     {
       "content": "— Elle est moins bien que toi.",
       "index": 43,
-      "start": 124
+      "start": 124,
+      "stop": 126
     },
     {
       "content": "— C'était pas bien.",
       "index": 44,
-      "start": 126
+      "start": 126,
+      "stop": 127
     },
     {
       "content": "— Ouais, je t'ai trompé, ouais.",
       "index": 45,
-      "start": 130
+      "start": 130,
+      "stop": 132
     },
     {
       "content": "— Tu sais quoi ? Je m'en bats les couilles.",
       "index": 46,
-      "start": 132
+      "start": 132,
+      "stop": 134
     },
     {
       "content": "— Toi t'es parfaite, toi. Tu trompes personne.",
       "index": 47,
-      "start": 134
+      "start": 134,
+      "stop": 138
     },
     {
       "content": "— De toute façon, je te quitte. C'est fini, Sarah.",
       "index": 48,
-      "start": 138
+      "start": 138,
+      "stop": 145
     },
     {
       "content": "— Mon pote, je crois\nque t'es bourré et tu...",
       "index": 49,
-      "start": 147
+      "start": 147,
+      "stop": 150
     },
     {
       "content": "— Bref, je me casse.",
       "index": 50,
-      "start": 152
+      "start": 152,
+      "stop": 155
     },
     {
       "content": "— Allez, allez, on oublie tout.",
       "index": 51,
-      "start": 165
+      "start": 165,
+      "stop": 169
     },
     {
       "content": "— C'est ma soirée ou c'est pas ma soirée ?\n— Ouais...",
       "index": 52,
-      "start": 169
+      "start": 169,
+      "stop": 175
     }
   ]
 }

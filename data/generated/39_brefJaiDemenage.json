@@ -11,212 +11,254 @@
     {
       "content": "Bref, je voulais arrêter la coloc.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "Baptiste foutait jamais\nrien, sauf le bordel.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 4
     },
     {
       "content": "Un jour, j'ai voulu prendre du dentifrice.\nBaptiste a dit:\n— Y en a plus.",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 6
     },
     {
       "content": "J'ai voulu prendre des céréales.\nBaptiste a dit:\n— Y en a plus.",
       "index": 3,
-      "start": 6
+      "start": 6,
+      "stop": 9
     },
     {
       "content": "J'ai voulu mettre du parfum.\nBaptiste a dit:\n— Y en a plus.",
       "index": 4,
-      "start": 9
+      "start": 9,
+      "stop": 10
     },
     {
       "content": "— Mais c'était le mien.\n— Bha y en a plus.",
       "index": 5,
-      "start": 10
+      "start": 10,
+      "stop": 12
     },
     {
       "content": "— C'est mon caleçon, ça.\n— Ouais, je sais, mais les miens sont\nsales. Mais tu peux les prendre si tu veux.",
       "index": 6,
-      "start": 15
+      "start": 15,
+      "stop": 19
     },
     {
       "content": "En plus, depuis son divorce,\nmon père habitait en face.",
       "index": 7,
-      "start": 20
+      "start": 20,
+      "stop": 22
     },
     {
       "content": "— T'as pas des capotes ?\nIl fallait que je parte.",
       "index": 8,
-      "start": 22
+      "start": 22,
+      "stop": 24
     },
     {
       "content": "En plus, Keyvan allait emménager\navec sa copine Maud.",
       "index": 9,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "Il m'a dit:\n— C'est la femme de ma vie.",
       "index": 10,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "— C'est 300 € en moins sur le loyer.",
       "index": 11,
-      "start": 28
+      "start": 28,
+      "stop": 29
     },
     {
       "content": "Du coup, je pouvais récupérer son appart.\nJ'ai dit à Baptiste:",
       "index": 12,
-      "start": 29
+      "start": 29,
+      "stop": 31
     },
     {
       "content": "— Je pars.\nBaptiste a dit:\n— À tout à l'heure.",
       "index": 13,
-      "start": 31
+      "start": 31,
+      "stop": 32
     },
     {
       "content": "J'ai dit:\n— Non, je pars vraiment.",
       "index": 14,
-      "start": 32
+      "start": 32,
+      "stop": 35
     },
     {
       "content": "Il était ému.",
       "index": 15,
-      "start": 35
+      "start": 35,
+      "stop": 38
     },
     {
       "content": "Ça m'a touché.\nIl a dit:\n— Qui va payer le loyer ?",
       "index": 16,
-      "start": 38
+      "start": 38,
+      "stop": 41
     },
     {
       "content": "J'ai dit:\n— Je m'en fous. Je pars demain.",
       "index": 17,
-      "start": 41
+      "start": 41,
+      "stop": 42
     },
     {
       "content": "J'ai fait mes cartons.\nÇa m'a pris trois semaines.",
       "index": 18,
-      "start": 42
+      "start": 42,
+      "stop": 47
     },
     {
       "content": "Dans les déménagements, il y a toujours\nun mec qui porte que les trucs léger.",
       "index": 19,
-      "start": 47
+      "start": 47,
+      "stop": 50
     },
     {
       "content": "Un mec qui dit:\n— Un, deux.\nSans le trois.",
       "index": 20,
-      "start": 50
+      "start": 50,
+      "stop": 52
     },
     {
       "content": "Un mec qui dit:\n— Ça passera.",
       "index": 21,
-      "start": 52
+      "start": 52,
+      "stop": 54
     },
     {
       "content": "Et celui qui dit:\n— Ça passera pas.\nCelui qui mesure tout.",
       "index": 22,
-      "start": 54
+      "start": 54,
+      "stop": 57
     },
     {
       "content": "Tu peux m'aider là ?\n— Je peux pas, je mesure.",
       "index": 23,
-      "start": 57
+      "start": 57,
+      "stop": 59
     },
     {
       "content": "C'est aussi celui\nqui porte les trucs légers.",
       "index": 24,
-      "start": 59
+      "start": 59,
+      "stop": 60
     },
     {
       "content": "On a tapé un fou rire\ndans l'escalier en portant mon lit.",
       "index": 25,
-      "start": 60
+      "start": 60,
+      "stop": 63
     },
     {
       "content": "Quand mon frère a répondu\nau téléphone, il a dit:\n— Ouais ?",
       "index": 26,
-      "start": 63
+      "start": 63,
+      "stop": 66
     },
     {
       "content": "Après, il a dit:\n— Ouais ?",
       "index": 27,
-      "start": 66
+      "start": 66,
+      "stop": 67
     },
     {
       "content": "Et enfin, il a dit:\n— Ouais ?",
       "index": 28,
-      "start": 67
+      "start": 67,
+      "stop": 73
     },
     {
       "content": "Ça faisait trop de ouais\npour une bonne nouvelle.",
       "index": 29,
-      "start": 74
+      "start": 74,
+      "stop": 76
     },
     {
       "content": "Il a dit:\n— C'est fini avec Maud.",
       "index": 30,
-      "start": 76
+      "start": 76,
+      "stop": 77
     },
     {
       "content": "Je garde l'appart.",
       "index": 31,
-      "start": 77
+      "start": 77,
+      "stop": 80
     },
     {
       "content": "Du coup, je pouvais plus\nrécupérer son appart, je devais\nretourner chez Baptiste.",
       "index": 32,
-      "start": 80
+      "start": 80,
+      "stop": 82
     },
     {
       "content": "Sauf qu'entre temps, Baptiste\navait trouvé Charles, un nouveau coloc.",
       "index": 33,
-      "start": 82
+      "start": 82,
+      "stop": 84
     },
     {
       "content": "— Salut, je suis Charles,\nje suis le nouveau coloc.",
       "index": 34,
-      "start": 84
+      "start": 84,
+      "stop": 85
     },
     {
       "content": "Mes potes m'ont dit.\n— Faut qu'on y aille.",
       "index": 35,
-      "start": 85
+      "start": 85,
+      "stop": 86
     },
     {
       "content": "Mon père leur a demandé:\n— Hey, vous avez pas des capotes ?",
       "index": 36,
-      "start": 86
+      "start": 86,
+      "stop": 89
     },
     {
       "content": "J'avais plus d'appart, plus de coloc.\nMon lit était en bas de l'immeuble.",
       "index": 37,
-      "start": 89
+      "start": 89,
+      "stop": 91
     },
     {
       "content": "Mon frère pleurait dessus.",
       "index": 38,
-      "start": 91
+      "start": 91,
+      "stop": 92
     },
     {
       "content": "Bref, j'ai déménagé. Chez mon père.",
       "index": 39,
-      "start": 92
+      "start": 92,
+      "stop": 98
     },
     {
       "content": "— Hey, mais c'est mon caleçon, ça.",
       "index": 40,
-      "start": 98
+      "start": 98,
+      "stop": 100
     },
     {
       "content": "— Ouais, mais je suis ton père.",
       "index": 41,
-      "start": 100
+      "start": 100,
+      "stop": 101
     }
   ]
 }

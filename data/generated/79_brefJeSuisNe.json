@@ -11,247 +11,296 @@
     {
       "content": "C'est moi.\nÇa, c'est moi.",
       "index": 0,
-      "start": 2
+      "start": 2,
+      "stop": 2
     },
     {
       "content": "Ça, c'est moi.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 3
     },
     {
       "content": "Ça faisait plusieurs\nsemaines qu'on attendait.",
       "index": 2,
-      "start": 3
+      "start": 3,
+      "stop": 4
     },
     {
       "content": "On commençait sérieusement\nà avoir la dalle.",
       "index": 3,
-      "start": 4
+      "start": 4,
+      "stop": 5
     },
     {
       "content": "On voulait pas finir\ncomme nos frères partis trop tôt.",
       "index": 4,
-      "start": 5
+      "start": 5,
+      "stop": 8
     },
     {
       "content": "— Carrelage de la salle de bains !",
       "index": 5,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "— Non !",
       "index": 6,
-      "start": 10
+      "start": 10,
+      "stop": 11
     },
     {
       "content": "— Revue porno !",
       "index": 7,
-      "start": 11
+      "start": 11,
+      "stop": 13
     },
     {
       "content": "— Non !",
       "index": 8,
-      "start": 13
+      "start": 13,
+      "stop": 14
     },
     {
       "content": "— Sopalin !",
       "index": 9,
-      "start": 14
+      "start": 14,
+      "stop": 16
     },
     {
       "content": "— Non !",
       "index": 10,
-      "start": 16
+      "start": 16,
+      "stop": 17
     },
     {
       "content": "— Il y a des mecs payés\npour faire ce dessin ?",
       "index": 11,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "Trois minutes après, c'était le départ.",
       "index": 12,
-      "start": 19
+      "start": 19,
+      "stop": 21
     },
     {
       "content": "On se serait vu dans un film américain\nsur le débarquement.",
       "index": 13,
-      "start": 21
+      "start": 21,
+      "stop": 23
     },
     {
       "content": "— Allez, mes têtards, on se remue le flagelle\net on fonce tout droit jusqu'à l'ovule.",
       "index": 14,
-      "start": 23
+      "start": 23,
+      "stop": 26
     },
     {
       "content": "— Non !",
       "index": 15,
-      "start": 26
+      "start": 26,
+      "stop": 27
     },
     {
       "content": "— Allez-y, les mecs, continuez sans moi.",
       "index": 16,
-      "start": 27
+      "start": 27,
+      "stop": 30
     },
     {
       "content": "— Ok.\nJ'ai traversé des vallées obscures.",
       "index": 17,
-      "start": 30
+      "start": 30,
+      "stop": 32
     },
     {
       "content": "J'ai contourné des obstacles.\nJ'ai attendu.",
       "index": 18,
-      "start": 33
+      "start": 33,
+      "stop": 34
     },
     {
       "content": "Je suis allé chercher en moi\ndes forces encore inconnues.",
       "index": 19,
-      "start": 34
+      "start": 34,
+      "stop": 36
     },
     {
       "content": "J'ai attendu.\nJ'ai fait la course avec numéro 986 321.",
       "index": 20,
-      "start": 36
+      "start": 36,
+      "stop": 38
     },
     {
       "content": "Je l'ai dépassé, il m'a dépassé.\nJe l'ai dépassé.",
       "index": 21,
-      "start": 39
+      "start": 39,
+      "stop": 40
     },
     {
       "content": "J'ai attendu.\nPuis, j'ai vu un mec chelou.",
       "index": 22,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "Je lui ai dit:\n— Mec, t'es chelou, ça va ?\n— Non, ça va pas.",
       "index": 23,
-      "start": 42
+      "start": 42,
+      "stop": 44
     },
     {
       "content": "— Je suis mal formé, putain,\nc'est à cause de l'alcool.",
       "index": 24,
-      "start": 45
+      "start": 45,
+      "stop": 47
     },
     {
       "content": "J'ai trouvé ça triste.",
       "index": 25,
-      "start": 47
+      "start": 47,
+      "stop": 47
     },
     {
       "content": "Je me suis promis que jamais\nje boirais si je devenais un humain.",
       "index": 26,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "J'ai attendu.",
       "index": 27,
-      "start": 49
+      "start": 49,
+      "stop": 50
     },
     {
       "content": "J'espérais que quand mon spermatozoïde\ncharmant arriverait, ce serait\ncomme dans une comédie romantique.",
       "index": 28,
-      "start": 50
+      "start": 50,
+      "stop": 53
     },
     {
       "content": "Il aurait des beaux\ncheveux et il me dirait:",
       "index": 29,
-      "start": 53
+      "start": 53,
+      "stop": 55
     },
     {
       "content": "— Ovula ?\n— Johnny, c'est toi ?",
       "index": 30,
-      "start": 55
+      "start": 55,
+      "stop": 57
     },
     {
       "content": "— Ovula. Je suis là maintenant.",
       "index": 31,
-      "start": 57
+      "start": 57,
+      "stop": 59
     },
     {
       "content": "— Je t'aime.",
       "index": 32,
-      "start": 59
+      "start": 59,
+      "stop": 60
     },
     {
       "content": "— Ah, Johnny.",
       "index": 33,
-      "start": 60
+      "start": 60,
+      "stop": 61
     },
     {
       "content": "Mais en fait...",
       "index": 34,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "— Poussez-vous, bordel !",
       "index": 35,
-      "start": 63
+      "start": 63,
+      "stop": 64
     },
     {
       "content": "Je suis arrivé devant l'ovule,\nelle était magnifique.",
       "index": 36,
-      "start": 64
+      "start": 64,
+      "stop": 66
     },
     {
       "content": "Je l'ai regardé, elle m'a\nregardé, je l'ai regardé.",
       "index": 37,
-      "start": 66
+      "start": 66,
+      "stop": 67
     },
     {
       "content": "Un spermatozoïde est arrivé.",
       "index": 38,
-      "start": 67
+      "start": 67,
+      "stop": 68
     },
     {
       "content": "Il était loin de ressembler\nà mon spermatozoïde charmant.",
       "index": 39,
-      "start": 68
+      "start": 68,
+      "stop": 70
     },
     {
       "content": "Elle m'a dit:\n— T'as des cheveux dans ton code génétique ?",
       "index": 40,
-      "start": 70
+      "start": 70,
+      "stop": 72
     },
     {
       "content": "J'ai dit:\n— Bha, bien sûr.",
       "index": 41,
-      "start": 72
+      "start": 72,
+      "stop": 73
     },
     {
       "content": "Elle m'a laissé entrer.",
       "index": 42,
-      "start": 74
+      "start": 74,
+      "stop": 76
     },
     {
       "content": "C'était incroyable.",
       "index": 43,
-      "start": 76
+      "start": 76,
+      "stop": 77
     },
     {
       "content": "On s'est mélangé.",
       "index": 44,
-      "start": 77
+      "start": 77,
+      "stop": 78
     },
     {
       "content": "Il est devenu moi.",
       "index": 45,
-      "start": 78
+      "start": 78,
+      "stop": 80
     },
     {
       "content": "Bref, je suis né.",
       "index": 46,
-      "start": 80
+      "start": 80,
+      "stop": 84
     },
     {
       "content": "— Hé, les mecs, il y a quelqu'un ?",
       "index": 47,
-      "start": 84
+      "start": 84,
+      "stop": 87
     },
     {
       "content": "— Ouais, il y a moi,\nmais je crois que c'est mort, là.",
       "index": 48,
-      "start": 87
+      "start": 87,
+      "stop": 90
     }
   ]
 }

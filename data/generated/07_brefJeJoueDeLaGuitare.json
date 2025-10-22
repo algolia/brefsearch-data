@@ -11,177 +11,212 @@
     {
       "content": "Bref, c'était à une soirée.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 3
     },
     {
       "content": "Un mec jouait de la guitare\ndans une chambre.",
       "index": 1,
-      "start": 3
+      "start": 3,
+      "stop": 5
     },
     {
       "content": "— Wow, tu joues trop bien.",
       "index": 2,
-      "start": 5
+      "start": 5,
+      "stop": 6
     },
     {
       "content": "Je me suis dit qu'à moi aussi,\nje voulais qu'on dise:",
       "index": 3,
-      "start": 6
+      "start": 6,
+      "stop": 8
     },
     {
       "content": "— Wow, tu joues trop bien.\nJ'ai emprunté une guitare à Ben.",
       "index": 4,
-      "start": 8
+      "start": 8,
+      "stop": 11
     },
     {
       "content": "Il m'a dit qu'il manquait une corde,\nmais qu'elle servait à rien.",
       "index": 5,
-      "start": 11
+      "start": 11,
+      "stop": 12
     },
     {
       "content": "— Bha, il manque une corde,\nmais elle sert à rien.",
       "index": 6,
-      "start": 12
+      "start": 12,
+      "stop": 14
     },
     {
       "content": "Je l'ai cru.",
       "index": 7,
-      "start": 14
+      "start": 14,
+      "stop": 15
     },
     {
       "content": "J'ai commencé à apprendre\nen regardant des vidéos sur Internet,\nmais j'allais souvent sur des vidéos\nqui avaient aucun rapport.",
       "index": 8,
-      "start": 15
+      "start": 15,
+      "stop": 19
     },
     {
       "content": "Un jour, je m'y suis mis sérieusement.",
       "index": 9,
-      "start": 19
+      "start": 19,
+      "stop": 21
     },
     {
       "content": "Au début, c'était pas top.",
       "index": 10,
-      "start": 21
+      "start": 21,
+      "stop": 22
     },
     {
       "content": "Après, c'était pas top.",
       "index": 11,
-      "start": 22
+      "start": 22,
+      "stop": 23
     },
     {
       "content": "Et au bout d'un moment, c'était pas top.",
       "index": 12,
-      "start": 23
+      "start": 23,
+      "stop": 25
     },
     {
       "content": "En y réfléchissant, j'ai repensé\nà toutes les fois où Ben m'a dit\nqu'un truc servait à rien.",
       "index": 13,
-      "start": 25
+      "start": 25,
+      "stop": 29
     },
     {
       "content": "— Un Visa pour les États-Unis?",
       "index": 14,
-      "start": 29
+      "start": 29,
+      "stop": 30
     },
     {
       "content": "— Ça sert à rien.\n— Tiens, prends mon vélo.",
       "index": 15,
-      "start": 30
+      "start": 30,
+      "stop": 33
     },
     {
       "content": "— Bon, y a plus de freins,\nmais ça sert à rien.",
       "index": 16,
-      "start": 33
+      "start": 33,
+      "stop": 34
     },
     {
       "content": "— Un bouton sur la paupière?",
       "index": 17,
-      "start": 34
+      "start": 34,
+      "stop": 36
     },
     {
       "content": "— Va pas voir un médecin pour ça.",
       "index": 18,
-      "start": 36
+      "start": 36,
+      "stop": 37
     },
     {
       "content": "— Ça sert à rien.",
       "index": 19,
-      "start": 37
+      "start": 37,
+      "stop": 38
     },
     {
       "content": "Après être allé me faire enlever\nmon kyste à l'œil, je me suis dit\nque j'allais racheter une corde.",
       "index": 20,
-      "start": 38
+      "start": 38,
+      "stop": 42
     },
     {
       "content": "C'était mieux, mais j'ai\ndû tout réapprendre.",
       "index": 21,
-      "start": 42
+      "start": 42,
+      "stop": 43
     },
     {
       "content": "Un jour, je suis allé sur des forums,\nj'ai appris qu'on pouvait serrer\ndes meufs avec seulement quatre accords:\nle Do, le Sol, le La et enfin le Mi.",
       "index": 22,
-      "start": 43
+      "start": 43,
+      "stop": 49
     },
     {
       "content": "Je les ai travaillés sans relâche.",
       "index": 23,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "J'ai essayé de chanter\nen même temps, c'était super dur.",
       "index": 24,
-      "start": 52
+      "start": 52,
+      "stop": 55
     },
     {
       "content": "J'avais l'impression d'essayer\nde me branler avec des gants de boxe\nen récitant l'alphabet à l'envers.",
       "index": 25,
-      "start": 55
+      "start": 55,
+      "stop": 59
     },
     {
       "content": "— X, Y, W. Putain, j'y arrive pas !",
       "index": 26,
-      "start": 59
+      "start": 59,
+      "stop": 62
     },
     {
       "content": "— Putain, j'y arrive pas.",
       "index": 27,
-      "start": 62
+      "start": 62,
+      "stop": 64
     },
     {
       "content": "Pendant un an, j'ai pas lâché l'affaire.",
       "index": 28,
-      "start": 64
+      "start": 64,
+      "stop": 68
     },
     {
       "content": "Et puis...\n— Mon cœur est\nsi gris quand il pleut.",
       "index": 29,
-      "start": 78
+      "start": 78,
+      "stop": 85
     },
     {
       "content": "— Wow, tu joues trop bien.",
       "index": 30,
-      "start": 86
+      "start": 86,
+      "stop": 89
     },
     {
       "content": "Bref, je joue de la guitare.",
       "index": 31,
-      "start": 89
+      "start": 89,
+      "stop": 92
     },
     {
       "content": "— Tout ça à cause d'un\nputain de kyste à l'œil.",
       "index": 32,
-      "start": 92
+      "start": 92,
+      "stop": 98
     },
     {
       "content": "C'est vachement bien.",
       "index": 33,
-      "start": 100
+      "start": 100,
+      "stop": 102
     },
     {
       "content": "Mais en quoi ça me concerne ?",
       "index": 34,
-      "start": 102
+      "start": 102,
+      "stop": 103
     }
   ]
 }

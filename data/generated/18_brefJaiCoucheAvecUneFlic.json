@@ -11,162 +11,194 @@
     {
       "content": "Bref, j'avais accosté\ncette meuf dans la rue.",
       "index": 0,
-      "start": 3
+      "start": 3,
+      "stop": 4
     },
     {
       "content": "Elle m'a dit :\n— Demain, OK.\nJ'ai dit :\n— Cool, 16h00.",
       "index": 1,
-      "start": 4
+      "start": 4,
+      "stop": 6
     },
     {
       "content": "Elle a dit:\n— Je termine mon service à 18h00.\nJ'ai dit:\n— T'es serveuse ?",
       "index": 2,
-      "start": 6
+      "start": 6,
+      "stop": 9
     },
     {
       "content": "Elle m'a dit:\n— Non.\n— Bon bha, à demain.",
       "index": 3,
-      "start": 9
+      "start": 9,
+      "stop": 12
     },
     {
       "content": "— Salut.",
       "index": 4,
-      "start": 12
+      "start": 12,
+      "stop": 13
     },
     {
       "content": "Le lendemain, à 18h00, très précisément,\nelle m'a envoyé un texto me demandant\nmon adresse, mon code et mon étage.",
       "index": 5,
-      "start": 13
+      "start": 13,
+      "stop": 17
     },
     {
       "content": "J'ai répondu\n— Pourquoi ? T'es flic ?",
       "index": 6,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "Elle a répondu:\n— Oui.\nElle était marrante.",
       "index": 7,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "Elle était flic.",
       "index": 8,
-      "start": 20
+      "start": 20,
+      "stop": 22
     },
     {
       "content": "Elle était flic et bonne.",
       "index": 9,
-      "start": 22
+      "start": 22,
+      "stop": 23
     },
     {
       "content": "En y réfléchissant bien,\nj'ai repensé à tous les trucs illégaux\nque j'avais chez moi.",
       "index": 10,
-      "start": 23
+      "start": 23,
+      "stop": 26
     },
     {
       "content": "Mon compteur EDF que j'avais bloqué\navec un fil de fer, ma beuh qui traînait\nsur la table basse et surtout\nles 584 téléchargements de série",
       "index": 11,
-      "start": 26
+      "start": 26,
+      "stop": 32
     },
     {
       "content": "et MP3 en cours sur mon PC.",
       "index": 12,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "Elle s'est mis à l'aise.",
       "index": 13,
-      "start": 33
+      "start": 33,
+      "stop": 34
     },
     {
       "content": "Elle a vu ma beuh,\nj'ai dit:\n— C'est pas à moi.",
       "index": 14,
-      "start": 34
+      "start": 34,
+      "stop": 36
     },
     {
       "content": "Elle a dit:\n— Dommage.\nJ'ai dit:\n— Pourquoi ?",
       "index": 15,
-      "start": 36
+      "start": 36,
+      "stop": 37
     },
     {
       "content": "— On aurait pu s'en rouler un.",
       "index": 16,
-      "start": 37
+      "start": 37,
+      "stop": 38
     },
     {
       "content": "J'ai dit:\n— C'est à moi.",
       "index": 17,
-      "start": 38
+      "start": 38,
+      "stop": 39
     },
     {
       "content": "On est allé dans ma chambre,\nelle a continué à se mettre à l'aise.",
       "index": 18,
-      "start": 39
+      "start": 39,
+      "stop": 45
     },
     {
       "content": "C'était cool.",
       "index": 19,
-      "start": 45
+      "start": 45,
+      "stop": 45
     },
     {
       "content": "Elle m'a déssapé, on a commencé,\nj'ai pensé à Joey Starr.",
       "index": 20,
-      "start": 45
+      "start": 45,
+      "stop": 47
     },
     {
       "content": "Nique la police.",
       "index": 21,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "Elle m'a plaqué contre le lit, elle m'a\ndit:\n— Maintenant, tu t'appelles Sophie.",
       "index": 22,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "J'ai dit:\n— Non.\nElle m'a mis une gifle.",
       "index": 23,
-      "start": 52
+      "start": 52,
+      "stop": 53
     },
     {
       "content": "J'ai dit:\n— Sophie comment ?",
       "index": 24,
-      "start": 53
+      "start": 53,
+      "stop": 55
     },
     {
       "content": "Je croyais qu'on avait fini\nquand elle a pris ses menottes\net elle m'a attaché à mon lit.\nJ'ai trouvé ça cool.",
       "index": 25,
-      "start": 56
+      "start": 56,
+      "stop": 59
     },
     {
       "content": "Elle s'est rhabillée.\nJ'ai trouvé ça triste.",
       "index": 26,
-      "start": 59
+      "start": 59,
+      "stop": 61
     },
     {
       "content": "Ensuite, elle m'a dit:\n— Je prends ta beuh.\nJ'ai dit:\n— Non, pourquoi ?",
       "index": 27,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "Elle est partie.\nAlors j'ai dit:\n— Hé oh !",
       "index": 28,
-      "start": 63
+      "start": 63,
+      "stop": 65
     },
     {
       "content": "Et encore.",
       "index": 29,
-      "start": 65
+      "start": 65,
+      "stop": 66
     },
     {
       "content": "— Hé oh ?",
       "index": 30,
-      "start": 67
+      "start": 67,
+      "stop": 68
     },
     {
       "content": "Bref, j'ai couché avec une flic.",
       "index": 31,
-      "start": 69
+      "start": 69,
+      "stop": 72
     }
   ]
 }

@@ -11,177 +11,212 @@
     {
       "content": "Un jour, j'ai eu 30 ans.",
       "index": 0,
-      "start": 2
+      "start": 2,
+      "stop": 3
     },
     {
       "content": "Tout le monde m'a répété:\n— Ça y est, t'es vieux ?\n— Ça y est, t'es vieux ?",
       "index": 1,
-      "start": 3
+      "start": 3,
+      "stop": 5
     },
     {
       "content": "Je crois qu'ils ont pas tort\nparce que j'ai un pote qui a eu\nun enfant, un pote qui est devenu médecin\net un pote qui est parti du jour",
       "index": 2,
-      "start": 5
+      "start": 5,
+      "stop": 10
     },
     {
       "content": "au lendemain dans un pays étranger.",
       "index": 3,
-      "start": 10
+      "start": 10,
+      "stop": 11
     },
     {
       "content": "J'ai eu quatre pannes\nsexuelles, très exactement.",
       "index": 4,
-      "start": 11
+      "start": 11,
+      "stop": 12
     },
     {
       "content": "Je me suis demandé\nce que je voulais faire de ma vie.",
       "index": 5,
-      "start": 12
+      "start": 12,
+      "stop": 13
     },
     {
       "content": "J'ai dit:\n— Non, je préfère pas\nme coucher tard à des potes.",
       "index": 6,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "Je suis rentré chez moi, j'ai pris un bain\net en plus, j'ai mis de la mousse.",
       "index": 7,
-      "start": 15
+      "start": 15,
+      "stop": 18
     },
     {
       "content": "J'ai dit à quelqu'un:\n— Tu dis\nça maintenant, mais tu verras plus tard.",
       "index": 8,
-      "start": 18
+      "start": 18,
+      "stop": 20
     },
     {
       "content": "Quand je vais aux toilettes,\nj'attends un, deux, trois,\nquatre secondes avant de pouvoir pisser.",
       "index": 9,
-      "start": 20
+      "start": 20,
+      "stop": 25
     },
     {
       "content": "Mes potes me parlent\nde crédit d'impôt et de retraite.",
       "index": 10,
-      "start": 26
+      "start": 26,
+      "stop": 27
     },
     {
       "content": "Quand je joue avec mes transformers, on\nme demande si je suis un collectionneur.",
       "index": 11,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "One more time des Daft Punk a 11 ans, Jurassic Park\na 19 ans et Les Simpson ont 23 ans.",
       "index": 12,
-      "start": 29
+      "start": 29,
+      "stop": 32
     },
     {
       "content": "En hiver, je prends des vitamines.",
       "index": 13,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "J'ai déjà marché près de la mer avec\nun pull autour du cou et j'ai aimé ça.",
       "index": 14,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "J'ai dit:\n— Baisse le son à\nquelqu'un qui écoutait de la musique.",
       "index": 15,
-      "start": 35
+      "start": 35,
+      "stop": 37
     },
     {
       "content": "J'ai dit:\n— Wow, ça monte.\nEssoufflé, dans une rue qui montait.",
       "index": 16,
-      "start": 37
+      "start": 37,
+      "stop": 39
     },
     {
       "content": "J'ai entendu des jeunes parler entre eux.",
       "index": 17,
-      "start": 39
+      "start": 39,
+      "stop": 41
     },
     {
       "content": "— Elle avait trop de swag. Elle était trop déter, elle voulait\nme césu mais je pouvais aps, j'avais pas poteca, tu vois.",
       "index": 18,
-      "start": 41
+      "start": 41,
+      "stop": 43
     },
     {
       "content": "Et j'ai rien compris.",
       "index": 19,
-      "start": 43
+      "start": 43,
+      "stop": 44
     },
     {
       "content": "Je me suis rendu compte\nque je les appelais des jeunes.",
       "index": 20,
-      "start": 44
+      "start": 44,
+      "stop": 46
     },
     {
       "content": "Un dimanche, j'ai brunché.",
       "index": 21,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "J'ai pris un taxi parce que j'avais\nla flemme de prendre le métro.",
       "index": 22,
-      "start": 48
+      "start": 48,
+      "stop": 49
     },
     {
       "content": "J'ai trouvé qu'un jeu\nvidéo allait trop vite.",
       "index": 23,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "J'ai acheté une théière et j'ai\nune marque de thé préférée.",
       "index": 24,
-      "start": 52
+      "start": 52,
+      "stop": 53
     },
     {
       "content": "Je suis pas assez jeune\npour la carte 12-25 et pas\nassez vieux pour la carte senior.\nJ'ai acheté des boîtes pour ranger.",
       "index": 25,
-      "start": 53
+      "start": 53,
+      "stop": 57
     },
     {
       "content": "Je mélange plus les couleurs\nquand je fais une machine et\nje comprends l'étiquette de mes pulls.",
       "index": 26,
-      "start": 57
+      "start": 57,
+      "stop": 59
     },
     {
       "content": "Je suis déjà parti en vacances pour me\nreposer et j'ai utilisé le mot farniente.",
       "index": 27,
-      "start": 59
+      "start": 59,
+      "stop": 62
     },
     {
       "content": "Une bougie est restée allumée.\nJ'hésitais à la souffler.",
       "index": 28,
-      "start": 62
+      "start": 62,
+      "stop": 64
     },
     {
       "content": "Kheiron l'a éteinte.",
       "index": 29,
-      "start": 64
+      "start": 64,
+      "stop": 66
     },
     {
       "content": "Bref, j'ai eu 30 ans.",
       "index": 30,
-      "start": 68
+      "start": 68,
+      "stop": 73
     },
     {
       "content": "— Découverte autour du vin,\nvotre forfait pour l'œnologie.",
       "index": 31,
-      "start": 74
+      "start": 74,
+      "stop": 77
     },
     {
       "content": "— Depuis le temps que je dis\nqu'il faut qu'on le fasse.",
       "index": 32,
-      "start": 77
+      "start": 77,
+      "stop": 79
     },
     {
       "content": "— Pas vrai, chérie ?",
       "index": 33,
-      "start": 79
+      "start": 79,
+      "stop": 81
     },
     {
       "content": "Allez, je fais la bise à tout le monde.",
       "index": 34,
-      "start": 81
+      "start": 81,
+      "stop": 83
     }
   ]
 }

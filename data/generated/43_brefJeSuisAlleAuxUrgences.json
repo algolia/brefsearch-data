@@ -11,262 +11,314 @@
     {
       "content": "— Ce n'est pas normal.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "Il était 2h00 du matin, je regardais\nun truc marrant en mangeant du poisson.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 4
     },
     {
       "content": "J'ai rigolé.",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 4
     },
     {
       "content": "J'ai avalé une arête,\nça m'a fait super mal.",
       "index": 3,
-      "start": 4
+      "start": 4,
+      "stop": 5
     },
     {
       "content": "J'avais du mal à respirer.",
       "index": 4,
-      "start": 5
+      "start": 5,
+      "stop": 6
     },
     {
       "content": "Alors j'ai fait ce\nque n'importe qui aurait fait.",
       "index": 5,
-      "start": 6
+      "start": 6,
+      "stop": 7
     },
     {
       "content": "Je l'ai dit sur Facebook.\nBaptiste m'a dit:\n— Lol.",
       "index": 6,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "Mon ex m'a dit:\n— Bien fait.",
       "index": 7,
-      "start": 9
+      "start": 9,
+      "stop": 10
     },
     {
       "content": "Kheiron m'a dit un truc dégueulasse.\nJulien m'a dit: Mange de la mie de pain. Enfin...",
       "index": 8,
-      "start": 10
+      "start": 10,
+      "stop": 12
     },
     {
       "content": "J'avais pas de mie de pain.",
       "index": 9,
-      "start": 12
+      "start": 12,
+      "stop": 13
     },
     {
       "content": "Je suis allé sur un forum, un mec disait\nà un autre qu'un mec qu'il connaissait\nétait mort à cause d'une arête.",
       "index": 10,
-      "start": 13
+      "start": 13,
+      "stop": 18
     },
     {
       "content": "Je ne voulais pas mourir,\nje suis allé aux urgences.",
       "index": 11,
-      "start": 18
+      "start": 18,
+      "stop": 19
     },
     {
       "content": "— J'ai besoin d'un bilan complet.",
       "index": 12,
-      "start": 19
+      "start": 19,
+      "stop": 21
     },
     {
       "content": "— Coag, chimie, iono.",
       "index": 13,
-      "start": 21
+      "start": 21,
+      "stop": 22
     },
     {
       "content": "— On est en train de perdre.",
       "index": 14,
-      "start": 22
+      "start": 22,
+      "stop": 24
     },
     {
       "content": "— Allez, on passe au bloc,\non y va, on y va, on y va.",
       "index": 15,
-      "start": 24
+      "start": 24,
+      "stop": 28
     },
     {
       "content": "J'ai attendu 20 minutes.",
       "index": 16,
-      "start": 28
+      "start": 28,
+      "stop": 30
     },
     {
       "content": "Il y avait un mec bourré\nqui s'était pété l'arcade.",
       "index": 17,
-      "start": 30
+      "start": 30,
+      "stop": 31
     },
     {
       "content": "Il était bourré\nparce qu'il arrêtait pas de répéter.",
       "index": 18,
-      "start": 31
+      "start": 31,
+      "stop": 33
     },
     {
       "content": "Je suis pas bourré, moi.",
       "index": 19,
-      "start": 33
+      "start": 33,
+      "stop": 34
     },
     {
       "content": "Il y avait une vieille\nqui arrêtait pas de gémir.",
       "index": 20,
-      "start": 34
+      "start": 34,
+      "stop": 35
     },
     {
       "content": "Un mec bizarre s'est approché et m'a\ndit:\n— J'ai un bébé mort dans le ventre.",
       "index": 21,
-      "start": 35
+      "start": 35,
+      "stop": 39
     },
     {
       "content": "J'ai dit:\n— D'accord.",
       "index": 22,
-      "start": 39
+      "start": 39,
+      "stop": 41
     },
     {
       "content": "Il m'a proposé du chocolat.",
       "index": 23,
-      "start": 41
+      "start": 41,
+      "stop": 43
     },
     {
       "content": "J'ai dit:\n— Non, merci.\nAprès, il a chanté.",
       "index": 24,
-      "start": 43
+      "start": 43,
+      "stop": 45
     },
     {
       "content": "— Chocooolaaat.",
       "index": 25,
-      "start": 45
+      "start": 45,
+      "stop": 51
     },
     {
       "content": "Personne s'occupait de moi.",
       "index": 26,
-      "start": 51
+      "start": 51,
+      "stop": 53
     },
     {
       "content": "Ça faisait 45 minutes,\nje me suis bien paniqué.",
       "index": 27,
-      "start": 53
+      "start": 53,
+      "stop": 54
     },
     {
       "content": "— Il y a personne qui s'occupe de moi ?\n— Qu'est-ce qui se passe ?",
       "index": 28,
-      "start": 54
+      "start": 54,
+      "stop": 56
     },
     {
       "content": "— J'ai une arête coincée dans la gorge.",
       "index": 29,
-      "start": 56
+      "start": 56,
+      "stop": 57
     },
     {
       "content": "— Ok, moi, j'ai un enfant de huit ans\nqui vient de tomber du 8e étage.",
       "index": 30,
-      "start": 57
+      "start": 57,
+      "stop": 59
     },
     {
       "content": "— On fait quoi ?",
       "index": 31,
-      "start": 59
+      "start": 59,
+      "stop": 61
     },
     {
       "content": "— Occupez-vous de lui.",
       "index": 32,
-      "start": 63
+      "start": 63,
+      "stop": 64
     },
     {
       "content": "— Ouais, merci.",
       "index": 33,
-      "start": 65
+      "start": 65,
+      "stop": 66
     },
     {
       "content": "J'ai reattendu 20 minutes.\nUn interne est arrivé.",
       "index": 34,
-      "start": 66
+      "start": 66,
+      "stop": 68
     },
     {
       "content": "Il avait un jean trop court\net des pompes à scratch.",
       "index": 35,
-      "start": 68
+      "start": 68,
+      "stop": 69
     },
     {
       "content": "Il m'a demandé:\n— Est-ce que vous avez des antécédents ?",
       "index": 36,
-      "start": 69
+      "start": 69,
+      "stop": 71
     },
     {
       "content": "J'ai dit que j'étais allergique\nau vinaigre, que je m'étais foulé\nle gros orteille gauche en 2001,\nque j'étais A négatif et que",
       "index": 37,
-      "start": 71
+      "start": 71,
+      "stop": 75
     },
     {
       "content": "je supportais mal le paracetamol.",
       "index": 38,
-      "start": 75
+      "start": 75,
+      "stop": 77
     },
     {
       "content": "Il a noté: Hypocondriaque.",
       "index": 39,
-      "start": 77
+      "start": 77,
+      "stop": 79
     },
     {
       "content": "Après, il m'a mis\nde l'anesthésiant dans la bouche.",
       "index": 40,
-      "start": 79
+      "start": 79,
+      "stop": 80
     },
     {
       "content": "Il m'a dit qu'il allait revenir\nle temps que ça fasse effet.",
       "index": 41,
-      "start": 80
+      "start": 80,
+      "stop": 84
     },
     {
       "content": "Ça faisait pas effet.",
       "index": 42,
-      "start": 86
+      "start": 86,
+      "stop": 87
     },
     {
       "content": "— Chocolat, chocolat.",
       "index": 43,
-      "start": 87
+      "start": 87,
+      "stop": 90
     },
     {
       "content": "— Je suis pas bourré.",
       "index": 44,
-      "start": 90
+      "start": 90,
+      "stop": 92
     },
     {
       "content": "Il est revenu, il m'a\ndemandé si ça faisait effet.",
       "index": 45,
-      "start": 92
+      "start": 92,
+      "stop": 95
     },
     {
       "content": "J'ai voulu lui dire\nque ça faisait pas effet.",
       "index": 46,
-      "start": 96
+      "start": 96,
+      "stop": 97
     },
     {
       "content": "Ça faisait effet.\nIl m'a demandé d'ouvrir la bouche.",
       "index": 47,
-      "start": 97
+      "start": 97,
+      "stop": 99
     },
     {
       "content": "Il a retiré l'arrête.\nJ'ai dit merci.",
       "index": 48,
-      "start": 99
+      "start": 99,
+      "stop": 100
     },
     {
       "content": "— Merci.\nJ'ai bavé sur ses pompes à scratch.",
       "index": 49,
-      "start": 100
+      "start": 100,
+      "stop": 104
     },
     {
       "content": "Bref, je suis allé aux urgences.",
       "index": 50,
-      "start": 105
+      "start": 105,
+      "stop": 109
     },
     {
       "content": "— Ah non, non, non, non,\nnon. Sortez monsieur, moi les mecs bourrés,\nje prends pas.",
       "index": 51,
-      "start": 109
+      "start": 109,
+      "stop": 112
     }
   ]
 }

@@ -11,217 +11,260 @@
     {
       "content": "Bref, j'étais en train de me changer.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "Baptiste, mon coloc, est entré\net il a dit:\n— On va faire l'amour.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 4
     },
     {
       "content": "J'ai remonté mon pantalon.\n— Mais non, pas avec toi, avec Anna.",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 7
     },
     {
       "content": "J'ai renlevé mon pantalon.\nIl sortait avec Anna depuis un mois.",
       "index": 3,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "Il l'a ramenée à la coloc.\nLa première fois, ils ont rien fait.",
       "index": 4,
-      "start": 9
+      "start": 9,
+      "stop": 11
     },
     {
       "content": "La deuxième fois, ils ont rien fait.\nIls ont regardé un film.",
       "index": 5,
-      "start": 11
+      "start": 11,
+      "stop": 13
     },
     {
       "content": "J'ai pas tout compris.",
       "index": 6,
-      "start": 13
+      "start": 13,
+      "stop": 13
     },
     {
       "content": "Je crois que c'était\nle Chinois le méchant.",
       "index": 7,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "Laissez-moi vous parler de Baptiste.\nIl avait un compteur de baise.",
       "index": 8,
-      "start": 15
+      "start": 15,
+      "stop": 17
     },
     {
       "content": "Il l'avait mis pour se motiver, mais après\nsix mois, deux semaines, trois jours,\n12 heures et 11 minutes sans rien faire,\nle compteur lui faisait de la peine.",
       "index": 9,
-      "start": 17
+      "start": 17,
+      "stop": 23
     },
     {
       "content": "Douze minutes.",
       "index": 10,
-      "start": 23
+      "start": 23,
+      "stop": 24
     },
     {
       "content": "Bref, il faisait beaucoup de sport\net utilisait beaucoup de bande passante.",
       "index": 11,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "— Putain Baptiste, c'est toi qui télécharge ?\n— Attends, attends !",
       "index": 12,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "— Entre pas, entre pas, entre pas !",
       "index": 13,
-      "start": 28
+      "start": 28,
+      "stop": 29
     },
     {
       "content": "Je lui ai demandé comment\nc'était avec Anna.",
       "index": 14,
-      "start": 29
+      "start": 29,
+      "stop": 30
     },
     {
       "content": "Il m'a répondu.\n— Ouais, c'est cool.",
       "index": 15,
-      "start": 30
+      "start": 30,
+      "stop": 32
     },
     {
       "content": "Ils avaient pas baisé.",
       "index": 16,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "Après, elle est partie\ntrois semaines en vacances.",
       "index": 17,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "— Putain, Baptiste !\n— Entre pas, entre pas !",
       "index": 18,
-      "start": 35
+      "start": 35,
+      "stop": 37
     },
     {
       "content": "Elle est revenue,\nmais ils n'ont rien fait.",
       "index": 19,
-      "start": 37
+      "start": 37,
+      "stop": 42
     },
     {
       "content": "Et aujourd'hui, c'est le grand jour.\n— Il me faut des capotes.",
       "index": 20,
-      "start": 42
+      "start": 42,
+      "stop": 43
     },
     {
       "content": "Je lui ai dit:\n— Bha, prends la mienne.\nIl a baissé la tête.",
       "index": 21,
-      "start": 43
+      "start": 43,
+      "stop": 45
     },
     {
       "content": "Je l'ai regardé, il m'a\nregardé, je l'ai regardé.",
       "index": 22,
-      "start": 45
+      "start": 45,
+      "stop": 49
     },
     {
       "content": "J'ai compris que c'était pas sa taille.\nIl m'a dit qu'il osait pas en acheter.",
       "index": 23,
-      "start": 49
+      "start": 49,
+      "stop": 51
     },
     {
       "content": "— J'ose pas aller en acheter.",
       "index": 24,
-      "start": 51
+      "start": 51,
+      "stop": 52
     },
     {
       "content": "Puis, il m'a habilement fait comprendre\nqu'il voulait que j'y aille avec lui.",
       "index": 25,
-      "start": 52
+      "start": 52,
+      "stop": 54
     },
     {
       "content": "— S'te plait ! Faut qu'je baise !",
       "index": 26,
-      "start": 54
+      "start": 54,
+      "stop": 55
     },
     {
       "content": "On est allé à la pharmacie.\n— Bonjour.",
       "index": 27,
-      "start": 55
+      "start": 55,
+      "stop": 59
     },
     {
       "content": "— Bonjour.",
       "index": 28,
-      "start": 59
+      "start": 59,
+      "stop": 59
     },
     {
       "content": "— Je voudrai une boite de préservatifs s'il vous plait.",
       "index": 29,
-      "start": 59
+      "start": 59,
+      "stop": 61
     },
     {
       "content": "— Oui.\n— Xl.",
       "index": 30,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "— Ah.",
       "index": 31,
-      "start": 63
+      "start": 63,
+      "stop": 68
     },
     {
       "content": "— Ah.",
       "index": 32,
-      "start": 69
+      "start": 69,
+      "stop": 71
     },
     {
       "content": "— Ah. Non non non.",
       "index": 33,
-      "start": 72
+      "start": 72,
+      "stop": 73
     },
     {
       "content": "— Oh.\n— Oh.",
       "index": 34,
-      "start": 73
+      "start": 73,
+      "stop": 75
     },
     {
       "content": "La nuit est passée.",
       "index": 35,
-      "start": 83
+      "start": 83,
+      "stop": 84
     },
     {
       "content": "Ils ont mis de la musique\njusqu'à 5h00 du matin.",
       "index": 36,
-      "start": 84
+      "start": 84,
+      "stop": 85
     },
     {
       "content": "Ils ont pas dormi, moi non plus.\nEt le lendemain...",
       "index": 37,
-      "start": 85
+      "start": 85,
+      "stop": 89
     },
     {
       "content": "Bref, mon coloc a fait l'amour.",
       "index": 38,
-      "start": 92
+      "start": 92,
+      "stop": 98
     },
     {
       "content": "— Bonjour.\n— Bonjour.",
       "index": 39,
-      "start": 98
+      "start": 98,
+      "stop": 98
     },
     {
       "content": "— Je voudrais une boîte\nde préservatifs, s'il vous plaît.",
       "index": 40,
-      "start": 98
+      "start": 98,
+      "stop": 100
     },
     {
       "content": "— XL ?\n— Non.",
       "index": 41,
-      "start": 100
+      "start": 100,
+      "stop": 100
     },
     {
       "content": "— Ah.",
       "index": 42,
-      "start": 100
+      "start": 100,
+      "stop": 100
     }
   ]
 }

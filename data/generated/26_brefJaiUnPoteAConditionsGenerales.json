@@ -11,197 +11,236 @@
     {
       "content": "— J'aime bien quand c'est côtelé. Enfin...",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 1
     },
     {
       "content": "Bref, j'étais avec Julien.",
       "index": 1,
-      "start": 1
+      "start": 1,
+      "stop": 3
     },
     {
       "content": "On a tous dans son entourage,\nquelqu'un qui finit ses phrases par...",
       "index": 2,
-      "start": 3
+      "start": 3,
+      "stop": 5
     },
     {
       "content": "— Je te jure.\n— Je te jure.\n— Je te jure.\nOu encore...",
       "index": 3,
-      "start": 5
+      "start": 5,
+      "stop": 7
     },
     {
       "content": "— Tu vois ?\n— Tu vois ?\n— Tu vois ?",
       "index": 4,
-      "start": 7
+      "start": 7,
+      "stop": 8
     },
     {
       "content": "Julien, lui, il finissait\ntoujours ses phrases par...",
       "index": 5,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "— Enfin...\n— Enfin...\n— Enfin...",
       "index": 6,
-      "start": 10
+      "start": 10,
+      "stop": 11
     },
     {
       "content": "Et puis un jour, j'ai trouvé\nune explication à tout ces \"Enfin\"\nPar exemple, quand je l'appelle et que\nje suis en galère, d'abord, il me dit.",
       "index": 7,
-      "start": 11
+      "start": 11,
+      "stop": 15
     },
     {
       "content": "— D'accord, bha, j'arrive tout de suite.\nEnsuite, il me dit:\n— Enfin...",
       "index": 8,
-      "start": 15
+      "start": 15,
+      "stop": 17
     },
     {
       "content": "— Là, je suis en week-end,\nmais lundi, je suis là.",
       "index": 9,
-      "start": 17
+      "start": 17,
+      "stop": 18
     },
     {
       "content": "En fait, il a des conditions générales.",
       "index": 10,
-      "start": 18
+      "start": 18,
+      "stop": 20
     },
     {
       "content": "— D'accord, j'arrive tout de suite. Enfin...",
       "index": 11,
-      "start": 20
+      "start": 20,
+      "stop": 22
     },
     {
       "content": "Offre soumise à condition.",
       "index": 12,
-      "start": 22
+      "start": 22,
+      "stop": 23
     },
     {
       "content": "Quand il dit:\n— Tu connais pas une fille bien ?",
       "index": 13,
-      "start": 23
+      "start": 23,
+      "stop": 25
     },
     {
       "content": "— Parce que moi, vraiment,\nj'ai de l'amour à revendre.",
       "index": 14,
-      "start": 25
+      "start": 25,
+      "stop": 27
     },
     {
       "content": "— Enfin...",
       "index": 15,
-      "start": 27
+      "start": 27,
+      "stop": 27
     },
     {
       "content": "Amour à revendre dans la limite\ndes stocks disponibles.",
       "index": 16,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "Quand il dit:\n— Toi et moi, c'est à la vie, à la mort.",
       "index": 17,
-      "start": 29
+      "start": 29,
+      "stop": 33
     },
     {
       "content": "Offre garantie deux ans.",
       "index": 18,
-      "start": 33
+      "start": 33,
+      "stop": 34
     },
     {
       "content": "— Tu peux garder mon chien\njuste pour ce soir ?",
       "index": 19,
-      "start": 34
+      "start": 34,
+      "stop": 36
     },
     {
       "content": "— Ouais.\n— Enfin...",
       "index": 20,
-      "start": 36
+      "start": 36,
+      "stop": 37
     },
     {
       "content": "Offre reconductible automatiquement\nsur une durée indéterminée.",
       "index": 21,
-      "start": 37
+      "start": 37,
+      "stop": 39
     },
     {
       "content": "Du coup, je l'ai gardé\ndeux semaines, il m'a mordu trois fois\net en plus, ce n'était pas le sien.",
       "index": 22,
-      "start": 39
+      "start": 39,
+      "stop": 43
     },
     {
       "content": "— Attends, mais jamais je touche avec de tes ex. Enfin...",
       "index": 23,
-      "start": 43
+      "start": 43,
+      "stop": 45
     },
     {
       "content": "L'abus d'alcool est\ndangereux pour l'amitié.",
       "index": 24,
-      "start": 45
+      "start": 45,
+      "stop": 46
     },
     {
       "content": "— Nan mais tu viens dormir à la maison\nquand tu veux. Enfin...",
       "index": 25,
-      "start": 46
+      "start": 46,
+      "stop": 49
     },
     {
       "content": "Lits non fournis.\n— Merci, c'est cool.",
       "index": 26,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "— De rien.\n— T'aurais pas un oreiller ?",
       "index": 27,
-      "start": 52
+      "start": 52,
+      "stop": 53
     },
     {
       "content": "— Bien sûr, je te file ça tout de suite. Enfin...\nLivraison sous deux semaines.",
       "index": 28,
-      "start": 53
+      "start": 53,
+      "stop": 56
     },
     {
       "content": "J'ai jamais eu d'oreiller,\npar contre, il m'a dit:",
       "index": 29,
-      "start": 56
+      "start": 56,
+      "stop": 57
     },
     {
       "content": "— Regarde la fille que je me suis tapée. Enfin...",
       "index": 30,
-      "start": 57
+      "start": 57,
+      "stop": 58
     },
     {
       "content": "Photo non contractuelle.",
       "index": 31,
-      "start": 58
+      "start": 58,
+      "stop": 60
     },
     {
       "content": "Je me demandais vraiment\npourquoi c'était mon pote.",
       "index": 32,
-      "start": 60
+      "start": 60,
+      "stop": 62
     },
     {
       "content": "Et puis, quand mon ex m'a\nquitté, il a dit:\n— C'est la vie. Enfin...",
       "index": 33,
-      "start": 62
+      "start": 62,
+      "stop": 66
     },
     {
       "content": "Je vais t'emmener dans un café,\nje te paierai un verre, on en prendra 10,\non se parlera de nos souvenirs,\nje te dirai que c'est pas grave, qu'elle",
       "index": 34,
-      "start": 67
+      "start": 67,
+      "stop": 71
     },
     {
       "content": "te mérite pas, je te prendra dans mes\nbras et je te dirai que t'es mon pote.",
       "index": 35,
-      "start": 71
+      "start": 71,
+      "stop": 72
     },
     {
       "content": "— On va boire un verre ?",
       "index": 36,
-      "start": 72
+      "start": 72,
+      "stop": 74
     },
     {
       "content": "— Ouais.\nBref, j'ai un pote à condition générale.",
       "index": 37,
-      "start": 74
+      "start": 74,
+      "stop": 79
     },
     {
       "content": "— T'as vu ça ?",
       "index": 38,
-      "start": 79
+      "start": 79,
+      "stop": 80
     }
   ]
 }

@@ -11,202 +11,242 @@
     {
       "content": "Bref, à chaque fois que\nma copine me faisait un cadeau,\nelle mettait la barre très haut.\n— Tu viens ?",
       "index": 0,
-      "start": 2
+      "start": 2,
+      "stop": 5
     },
     {
       "content": "— Tu descends ?",
       "index": 1,
-      "start": 5
+      "start": 5,
+      "stop": 7
     },
     {
       "content": "— Bon, tu la montres à personne.",
       "index": 2,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "— C'est la vidéo où Fanny et Nadia étaient\nbourrées et où elles ont fait des trucs.",
       "index": 3,
-      "start": 9
+      "start": 9,
+      "stop": 14
     },
     {
       "content": "— Bon anniversaire.",
       "index": 4,
-      "start": 14
+      "start": 14,
+      "stop": 16
     },
     {
       "content": "Alors que moi, je galérais un peu plus.\n— Tiens, c'est...",
       "index": 5,
-      "start": 16
+      "start": 16,
+      "stop": 20
     },
     {
       "content": "— C'est une patate avec des bras.",
       "index": 6,
-      "start": 20
+      "start": 20,
+      "stop": 24
     },
     {
       "content": "— Cool.",
       "index": 7,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "Sauf que là, elle était partie trois jours\ndans sa famille et elle rentrait\npile pour la Saint-Valentin.",
       "index": 8,
-      "start": 26
+      "start": 26,
+      "stop": 30
     },
     {
       "content": "J'avais décidé d'être un homme et de\nlui faire un cadeau tellement puissant\nque je n'aurais plus besoin de rien\nlui offrir pendant au moins six mois.",
       "index": 9,
-      "start": 30
+      "start": 30,
+      "stop": 34
     },
     {
       "content": "J'avais tout calculé.",
       "index": 10,
-      "start": 34
+      "start": 34,
+      "stop": 35
     },
     {
       "content": "Le matin, je lui avais dit\nque je ne pouvais pas aller la chercher\nà la gare parce que je rangeais.\n— Si, je range, écoute.",
       "index": 11,
-      "start": 35
+      "start": 35,
+      "stop": 39
     },
     {
       "content": "— Tu vois ?",
       "index": 12,
-      "start": 39
+      "start": 39,
+      "stop": 40
     },
     {
       "content": "— Je sais pas moi, t'as qu'à\ndemander à Steve.",
       "index": 13,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "En ouvrant la porte, elle allait\nfaire tomber la chaise pliante\nqui était accrochée à l'interrupteur.",
       "index": 14,
-      "start": 42
+      "start": 42,
+      "stop": 45
     },
     {
       "content": "L'interrupteur allait déclencher\nune lumière qui allait projeter\nla constellation de la petite cuillère\nque j'avais inventée quand",
       "index": 15,
-      "start": 45
+      "start": 45,
+      "stop": 48
     },
     {
       "content": "elle m'avait emmené en week-end.",
       "index": 16,
-      "start": 48
+      "start": 48,
+      "stop": 49
     },
     {
       "content": "— Ça, là, c'est la constellation\nde la petite cuillère.",
       "index": 17,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "— T'es con.",
       "index": 18,
-      "start": 53
+      "start": 53,
+      "stop": 54
     },
     {
       "content": "Ça allait aussi allumer le mixeur,\nrelié à des ficelles, elle-même reliées\nà des poulies qui allaient\nrévéler ses plats préférés.",
       "index": 19,
-      "start": 54
+      "start": 54,
+      "stop": 58
     },
     {
       "content": "Le poulet croustillant du chef\nde chez Laï Laï Chuan.",
       "index": 20,
-      "start": 58
+      "start": 58,
+      "stop": 60
     },
     {
       "content": "qui n'existait pas à emporter,\nmais que j'avais réussi à récupérer.",
       "index": 21,
-      "start": 60
+      "start": 60,
+      "stop": 62
     },
     {
       "content": "Des coquillettes avec beaucoup\nde gruyère et des macarons de la boutique\nqui étaient toujours fermée\nquand on y allait.",
       "index": 22,
-      "start": 62
+      "start": 62,
+      "stop": 65
     },
     {
       "content": "— Oh, non, c'est encore fermé.",
       "index": 23,
-      "start": 65
+      "start": 65,
+      "stop": 66
     },
     {
       "content": "Et surtout, ça allait allumer la chaîne\nHi-Fi et lancer sa chanson préférée.",
       "index": 24,
-      "start": 66
+      "start": 66,
+      "stop": 68
     },
     {
       "content": "Quant à moi, j'aurais qu'à attendre\navec le costume que je venais d'acheter.",
       "index": 25,
-      "start": 68
+      "start": 68,
+      "stop": 71
     },
     {
       "content": "Tout l'argent que j'avais gagné\npendant trois mois de télémarketing\nétait passé là-dedans.\nJ'ai attendu.",
       "index": 26,
-      "start": 71
+      "start": 71,
+      "stop": 75
     },
     {
       "content": "Longtemps.",
       "index": 27,
-      "start": 75
+      "start": 75,
+      "stop": 77
     },
     {
       "content": "Très longtemps.",
       "index": 28,
-      "start": 77
+      "start": 77,
+      "stop": 78
     },
     {
       "content": "Elle est arrivée.",
       "index": 29,
-      "start": 79
+      "start": 79,
+      "stop": 82
     },
     {
       "content": "Elle a ouvert la porte.",
       "index": 30,
-      "start": 84
+      "start": 84,
+      "stop": 86
     },
     {
       "content": "La ficelle a cassé.\nElle a dit:\n— C'est ça que t'appeller ranger, là ?",
       "index": 31,
-      "start": 86
+      "start": 86,
+      "stop": 89
     },
     {
       "content": "— Commence par ranger la chaise.",
       "index": 32,
-      "start": 89
+      "start": 89,
+      "stop": 91
     },
     {
       "content": "— Bon, Steve, je vais chez Fanny,\nil m'a saoulé, là.",
       "index": 33,
-      "start": 91
+      "start": 91,
+      "stop": 93
     },
     {
       "content": "Elle est redescendue, Steve est entré.\nIl a allumé la lumière.",
       "index": 34,
-      "start": 93
+      "start": 93,
+      "stop": 95
     },
     {
       "content": "— Je viens juste récupérer mon...",
       "index": 35,
-      "start": 95
+      "start": 95,
+      "stop": 97
     },
     {
       "content": "— C'est ma chanson préférée.",
       "index": 36,
-      "start": 107
+      "start": 107,
+      "stop": 109
     },
     {
       "content": "Bref, c'était sa chanson préférée.",
       "index": 37,
-      "start": 109
+      "start": 109,
+      "stop": 114
     },
     {
       "content": "— Et ça, c'est la constellation\nde la petite cuillère.",
       "index": 38,
-      "start": 114
+      "start": 114,
+      "stop": 119
     },
     {
       "content": "— C'est très joli.",
       "index": 39,
-      "start": 122
+      "start": 122,
+      "stop": 123
     }
   ]
 }

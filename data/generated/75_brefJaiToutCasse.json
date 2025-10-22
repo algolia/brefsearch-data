@@ -11,317 +11,380 @@
     {
       "content": "Bref, je déteste les soirées déguisées.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 3
     },
     {
       "content": "J'avais plus envie de me déguiser,\nalors j'ai tout cassé.",
       "index": 1,
-      "start": 3
+      "start": 3,
+      "stop": 4
     },
     {
       "content": "L'ipad que j'avais lancé contre ce mur\ndix minutes plus tôt, l'amitié que\nmes potes avaient pour moi et la gueule\nd'un mec que je connaissais pas.",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 9
     },
     {
       "content": "J'avais envie de partir, je suis parti.",
       "index": 3,
-      "start": 9
+      "start": 9,
+      "stop": 11
     },
     {
       "content": "J'avais personne à retrouver.\nSi, il y avait Marla.",
       "index": 4,
-      "start": 11
+      "start": 11,
+      "stop": 13
     },
     {
       "content": "J'avais envie de retrouver Marla.",
       "index": 5,
-      "start": 13
+      "start": 13,
+      "stop": 14
     },
     {
       "content": "Je sais pas pourquoi,\nje me suis mis à courir.",
       "index": 6,
-      "start": 14
+      "start": 14,
+      "stop": 17
     },
     {
       "content": "J'ai cherché le texto\noù elle m'avait donné son adresse.",
       "index": 7,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "En remontant, j'ai revu tous les MMS\nqu'elle m'avait envoyés, les photos\nqu'elle faisait avec ses doigts,\nun pigeon qui s'était fait écraser",
       "index": 8,
-      "start": 19
+      "start": 19,
+      "stop": 23
     },
     {
       "content": "sur la route, qui faisait une forme de\ncœur et une madame patate avec des bras.",
       "index": 9,
-      "start": 23
+      "start": 23,
+      "stop": 25
     },
     {
       "content": "J'ai retrouvé son adresse, j'y suis allé.\nJ'ai couru.",
       "index": 10,
-      "start": 25
+      "start": 25,
+      "stop": 27
     },
     {
       "content": "Je suis passé devant le banc où je\nl'avais rencontré pour la première fois.",
       "index": 11,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "— Arrête !\nJ'avais dit:\n— Ça suffit maintenant.",
       "index": 12,
-      "start": 29
+      "start": 29,
+      "stop": 32
     },
     {
       "content": "— Ça va, hein.\n— Ouais, ouais.",
       "index": 13,
-      "start": 33
+      "start": 33,
+      "stop": 33
     },
     {
       "content": "Elle m'avait dit:",
       "index": 14,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "— Merci, hein.",
       "index": 15,
-      "start": 35
+      "start": 35,
+      "stop": 36
     },
     {
       "content": "Enfin, c'est plutôt elle qui a\ndit:\n— Hey, ça suffit maintenant.",
       "index": 16,
-      "start": 36
+      "start": 36,
+      "stop": 38
     },
     {
       "content": "— Ça va, hein.\nEt c'est moi qui lui avait dit:",
       "index": 17,
-      "start": 38
+      "start": 38,
+      "stop": 41
     },
     {
       "content": "— Merci.",
       "index": 18,
-      "start": 41
+      "start": 41,
+      "stop": 42
     },
     {
       "content": "Je suis aussi passé devant le trottoir\nsur lequel on s'était endormis.",
       "index": 19,
-      "start": 42
+      "start": 42,
+      "stop": 48
     },
     {
       "content": "J'ai continué à courir.",
       "index": 20,
-      "start": 48
+      "start": 48,
+      "stop": 49
     },
     {
       "content": "Je me croyais à la fin\nd'une comédie romantique où le mec court\nretrouver la fille qu'il aime.",
       "index": 21,
-      "start": 49
+      "start": 49,
+      "stop": 55
     },
     {
       "content": "— Marla.",
       "index": 22,
-      "start": 55
+      "start": 55,
+      "stop": 59
     },
     {
       "content": "— Marla.",
       "index": 23,
-      "start": 59
+      "start": 59,
+      "stop": 60
     },
     {
       "content": "— I'm back.",
       "index": 24,
-      "start": 60
+      "start": 60,
+      "stop": 63
     },
     {
       "content": "— You're such an asshole.",
       "index": 25,
-      "start": 63
+      "start": 63,
+      "stop": 67
     },
     {
       "content": "Ça allait être incroyable.",
       "index": 26,
-      "start": 68
+      "start": 68,
+      "stop": 72
     },
     {
       "content": "Du coup, j'ai pris des fleurs à la ville.",
       "index": 27,
-      "start": 72
+      "start": 72,
+      "stop": 74
     },
     {
       "content": "Je suis reparti, j'ai continué à courir.",
       "index": 28,
-      "start": 74
+      "start": 74,
+      "stop": 76
     },
     {
       "content": "Je me suis dit que j'étais\nbeau, que je devais pas m'arrêter là.",
       "index": 29,
-      "start": 76
+      "start": 76,
+      "stop": 77
     },
     {
       "content": "Et puis, j'ai eu un point de côté.",
       "index": 30,
-      "start": 77
+      "start": 77,
+      "stop": 81
     },
     {
       "content": "Alors, j'ai juste marché un peu vite.",
       "index": 31,
-      "start": 81
+      "start": 81,
+      "stop": 82
     },
     {
       "content": "Je suis arrivé devant la résidence,\nmais le code avait changé.",
       "index": 32,
-      "start": 82
+      "start": 82,
+      "stop": 85
     },
     {
       "content": "J'ai voulu l'appeler, mais je me suis dit\nque ça allait gâcher la surprise.",
       "index": 33,
-      "start": 85
+      "start": 85,
+      "stop": 87
     },
     {
       "content": "— Marla, yeah, I'm coming\nto you doing something romantic.",
       "index": 34,
-      "start": 87
+      "start": 87,
+      "stop": 92
     },
     {
       "content": "— OK, I'm waiting for you. Bye.\n— Yes, see you.",
       "index": 35,
-      "start": 92
+      "start": 92,
+      "stop": 95
     },
     {
       "content": "Alors, j'ai attendu.\nLongtemps.",
       "index": 36,
-      "start": 95
+      "start": 95,
+      "stop": 97
     },
     {
       "content": "Très longtemps.",
       "index": 37,
-      "start": 97
+      "start": 97,
+      "stop": 99
     },
     {
       "content": "Un mec est arrivé, il m'a\nregardé, je l'ai regardé,\nil m'a dit:\n— Vous êtes travesti ?",
       "index": 38,
-      "start": 99
+      "start": 99,
+      "stop": 103
     },
     {
       "content": "J'ai dit:\n— Oui.",
       "index": 39,
-      "start": 103
+      "start": 103,
+      "stop": 104
     },
     {
       "content": "Il m'a dit:\n— J'adore.",
       "index": 40,
-      "start": 104
+      "start": 104,
+      "stop": 106
     },
     {
       "content": "Il m'a fait rentrer.",
       "index": 41,
-      "start": 106
+      "start": 106,
+      "stop": 108
     },
     {
       "content": "J'ai traversé la cour\noù on a enterré Croquette.",
       "index": 42,
-      "start": 108
+      "start": 108,
+      "stop": 109
     },
     {
       "content": "Je suis arrivé devant\nsa porte, j'ai sonné.",
       "index": 43,
-      "start": 109
+      "start": 109,
+      "stop": 111
     },
     {
       "content": "J'ai pensé à elle.",
       "index": 44,
-      "start": 111
+      "start": 111,
+      "stop": 111
     },
     {
       "content": "Je n'ai jamais osé lui dire,\nmais j'aimais Marla.",
       "index": 45,
-      "start": 111
+      "start": 111,
+      "stop": 114
     },
     {
       "content": "Elle a ouvert.",
       "index": 46,
-      "start": 114
+      "start": 114,
+      "stop": 116
     },
     {
       "content": "J'ai dit:\n— Tu vas trouver ça bête, mais je...",
       "index": 47,
-      "start": 116
+      "start": 116,
+      "stop": 119
     },
     {
       "content": "Un mec est arrivé, il a dit:\n— C'est qui ?",
       "index": 48,
-      "start": 119
+      "start": 119,
+      "stop": 121
     },
     {
       "content": "J'ai dit:",
       "index": 49,
-      "start": 121
+      "start": 121,
+      "stop": 123
     },
     {
       "content": "— J'ai dû me tromper de porte, désolé.",
       "index": 50,
-      "start": 125
+      "start": 125,
+      "stop": 126
     },
     {
       "content": "— Il est bizarre, ce mec.",
       "index": 51,
-      "start": 127
+      "start": 127,
+      "stop": 128
     },
     {
       "content": "— Ouvre pas à n'importe qui, toi.",
       "index": 52,
-      "start": 128
+      "start": 128,
+      "stop": 130
     },
     {
       "content": "Ils ont fermé la porte.",
       "index": 53,
-      "start": 131
+      "start": 131,
+      "stop": 132
     },
     {
       "content": "Bref, j'ai tout cassé.",
       "index": 54,
-      "start": 150
+      "start": 150,
+      "stop": 156
     },
     {
       "content": "— Merci. Tu veux t'asseoir ?",
       "index": 55,
-      "start": 157
+      "start": 157,
+      "stop": 158
     },
     {
       "content": "— Ouais.",
       "index": 56,
-      "start": 158
+      "start": 158,
+      "stop": 159
     },
     {
       "content": "— Je m'appelle Marla.",
       "index": 57,
-      "start": 161
+      "start": 161,
+      "stop": 162
     },
     {
       "content": "— Et toi ?",
       "index": 58,
-      "start": 162
+      "start": 162,
+      "stop": 163
     },
     {
       "content": "— Je m'appelle...\n— Non, attends, attends.",
       "index": 59,
-      "start": 164
+      "start": 164,
+      "stop": 164
     },
     {
       "content": "— Me dis pas.",
       "index": 60,
-      "start": 164
+      "start": 164,
+      "stop": 165
     },
     {
       "content": "— Comme ça, tu es encore\nun inconnu que j'ai sauvé.",
       "index": 61,
-      "start": 165
+      "start": 165,
+      "stop": 167
     },
     {
       "content": "— T'es qu'un con.",
       "index": 62,
-      "start": 169
+      "start": 169,
+      "stop": 170
     }
   ]
 }

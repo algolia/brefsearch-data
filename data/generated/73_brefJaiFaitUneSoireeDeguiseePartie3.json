@@ -11,257 +11,308 @@
     {
       "content": "Bref, moi, je suis le mec\nque personne ne connaît dans les soirées.",
       "index": 0,
-      "start": 3
+      "start": 3,
+      "stop": 5
     },
     {
       "content": "Quand je sors du taf, je rentre\ndans un immeuble si j'entends du bruit.",
       "index": 1,
-      "start": 5
+      "start": 5,
+      "stop": 8
     },
     {
       "content": "Je sonne.\n— Salut.",
       "index": 2,
-      "start": 8
+      "start": 8,
+      "stop": 9
     },
     {
       "content": "— C'est qui ?\nEt je réponds toujours la même chose.",
       "index": 3,
-      "start": 9
+      "start": 9,
+      "stop": 10
     },
     {
       "content": "La plupart du temps, il y a\nau moins un Benjamin dans une soirée.",
       "index": 4,
-      "start": 10
+      "start": 10,
+      "stop": 12
     },
     {
       "content": "Quand c'est pas le cas,\nil y a au moins un Benoît.",
       "index": 5,
-      "start": 12
+      "start": 12,
+      "stop": 13
     },
     {
       "content": "Alors je réponds toujours.\n— Je suis le pote de Ben.",
       "index": 6,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "— Ah cool. T'es déguisé en quoi ?",
       "index": 7,
-      "start": 15
+      "start": 15,
+      "stop": 18
     },
     {
       "content": "— En madmen.",
       "index": 8,
-      "start": 18
+      "start": 18,
+      "stop": 19
     },
     {
       "content": "Ce qui est vachement bien\nquand personne te connaît, c'est\nque tu peux faire des conneries\net personne ne saura que c'est toi.",
       "index": 9,
-      "start": 19
+      "start": 19,
+      "stop": 23
     },
     {
       "content": "J'ai renversé mon coca, j'ai nettoyé\navec mon pied, du coup, le sol collait\net j'ai trouvé ça marrant.",
       "index": 10,
-      "start": 23
+      "start": 23,
+      "stop": 27
     },
     {
       "content": "Alors, je l'ai fait pendant une heure.",
       "index": 11,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "Après, je me suis fait chier.",
       "index": 12,
-      "start": 29
+      "start": 29,
+      "stop": 32
     },
     {
       "content": "Alors, j'ai fait boire\ndes shots à Einstein.",
       "index": 13,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "— Hey, Einstein, j'ai une nouvelle\nformule pour toi.",
       "index": 14,
-      "start": 33
+      "start": 33,
+      "stop": 37
     },
     {
       "content": "— Ah, cool.",
       "index": 15,
-      "start": 37
+      "start": 37,
+      "stop": 39
     },
     {
       "content": "— T'es qui ?",
       "index": 16,
-      "start": 39
+      "start": 39,
+      "stop": 40
     },
     {
       "content": "— Je suis le pote de Seb.\nÇa marche aussi avec Seb.",
       "index": 17,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "— T'es déguisé en quoi ?\n— En Barney Stinson.",
       "index": 18,
-      "start": 42
+      "start": 42,
+      "stop": 44
     },
     {
       "content": "— Suit up!\nAprès, je me suis fait chier.",
       "index": 19,
-      "start": 44
+      "start": 44,
+      "stop": 47
     },
     {
       "content": "Je suis allé ailleurs.",
       "index": 20,
-      "start": 47
+      "start": 47,
+      "stop": 48
     },
     {
       "content": "Tiens, prends un saut quand même.",
       "index": 21,
-      "start": 48
+      "start": 48,
+      "stop": 51
     },
     {
       "content": "À un moment, j'ai fait un discours.",
       "index": 22,
-      "start": 51
+      "start": 51,
+      "stop": 53
     },
     {
       "content": "— C'est ce que je voulais raconter alors...",
       "index": 23,
-      "start": 53
+      "start": 53,
+      "stop": 55
     },
     {
       "content": "— Joyeux anniversaire à...",
       "index": 24,
-      "start": 55
+      "start": 55,
+      "stop": 59
     },
     {
       "content": "— ...à la reine de la soirée.",
       "index": 25,
-      "start": 60
+      "start": 60,
+      "stop": 63
     },
     {
       "content": "— C'est ma soirée ou c'est pas ma soirée ?",
       "index": 26,
-      "start": 63
+      "start": 63,
+      "stop": 65
     },
     {
       "content": "Après, j'ai bousculé une meuf déguisée\ncomme dans Pulp fiction.",
       "index": 27,
-      "start": 65
+      "start": 65,
+      "stop": 69
     },
     {
       "content": "— Ça va ?",
       "index": 28,
-      "start": 69
+      "start": 69,
+      "stop": 71
     },
     {
       "content": "— Ouh là, t'as pas l'air bien.",
       "index": 29,
-      "start": 71
+      "start": 71,
+      "stop": 73
     },
     {
       "content": "Bref, quand ce mec que je connaissais pas\nm'a demandé si ça allait,\nj'ai commencé à pleurer.\nIl m'a fait une blague.",
       "index": 30,
-      "start": 73
+      "start": 73,
+      "stop": 77
     },
     {
       "content": "— Tu me reconnais pas ?",
       "index": 31,
-      "start": 77
+      "start": 77,
+      "stop": 79
     },
     {
       "content": "— Je suis en Vincent Vega.",
       "index": 32,
-      "start": 79
+      "start": 79,
+      "stop": 81
     },
     {
       "content": "J'ai rigolé.\nEnsuite, on est sortis, on a discuté.",
       "index": 33,
-      "start": 81
+      "start": 81,
+      "stop": 85
     },
     {
       "content": "Je l'ai embrassé.",
       "index": 34,
-      "start": 85
+      "start": 85,
+      "stop": 89
     },
     {
       "content": "Bref, quand cette meuf m'a embrassé, je\nme suis dit que c'était une bonne soirée.",
       "index": 35,
-      "start": 89
+      "start": 89,
+      "stop": 92
     },
     {
       "content": "Je suis allé ailleurs.\nSur le chemin, j'ai bousculé un mec.",
       "index": 36,
-      "start": 92
+      "start": 92,
+      "stop": 93
     },
     {
       "content": "Il m'a dit:\n— Putain, fais gaffe, merde.",
       "index": 37,
-      "start": 93
+      "start": 93,
+      "stop": 95
     },
     {
       "content": "Alors j'ai dit:\n— Ça va, tranquille.",
       "index": 38,
-      "start": 95
+      "start": 95,
+      "stop": 96
     },
     {
       "content": "— C'est quoi ton problème ?",
       "index": 39,
-      "start": 96
+      "start": 96,
+      "stop": 97
     },
     {
       "content": "Bref, quand ce mec m'a demandé ce\nque c'était mon problème, j'ai répondu...",
       "index": 40,
-      "start": 97
+      "start": 97,
+      "stop": 101
     },
     {
       "content": "— Rien.",
       "index": 41,
-      "start": 101
+      "start": 101,
+      "stop": 102
     },
     {
       "content": "— Ah ben voilà.",
       "index": 42,
-      "start": 102
+      "start": 102,
+      "stop": 103
     },
     {
       "content": "— Tiens, prends ça.",
       "index": 43,
-      "start": 103
+      "start": 103,
+      "stop": 105
     },
     {
       "content": "Je suis allé m'asseoir et...",
       "index": 44,
-      "start": 106
+      "start": 106,
+      "stop": 110
     },
     {
       "content": "Et là, j'ai vraiment\npas envie d'en parler.",
       "index": 45,
-      "start": 110
+      "start": 110,
+      "stop": 113
     },
     {
       "content": "Bref, j'ai fait une soirée déguisée.",
       "index": 46,
-      "start": 113
+      "start": 113,
+      "stop": 117
     },
     {
       "content": "— Des fois j'ai envie de....",
       "index": 47,
-      "start": 117
+      "start": 117,
+      "stop": 120
     },
     {
       "content": "— De ?\n— J'ai pas envie d'en parler.",
       "index": 48,
-      "start": 120
+      "start": 120,
+      "stop": 125
     },
     {
       "content": "— On se revoit la semaine prochaine.",
       "index": 49,
-      "start": 125
+      "start": 125,
+      "stop": 129
     },
     {
       "content": "— Attention au changement d'heure.\n— Soixante-douze euros.",
       "index": 50,
-      "start": 130
+      "start": 130,
+      "stop": 132
     }
   ]
 }

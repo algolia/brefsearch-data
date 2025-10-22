@@ -11,197 +11,236 @@
     {
       "content": "Bref, c'était le 31 décembre.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "Je voulais passer un bon réveillon.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 3
     },
     {
       "content": "On m'avait proposé dix soirées.\nJe savais pas laquelle choisir.",
       "index": 2,
-      "start": 3
+      "start": 3,
+      "stop": 4
     },
     {
       "content": "Je me suis dit que j'allais\ntoutes les faire.",
       "index": 3,
-      "start": 5
+      "start": 5,
+      "stop": 5
     },
     {
       "content": "La soirée déguisée.",
       "index": 4,
-      "start": 5
+      "start": 5,
+      "stop": 6
     },
     {
       "content": "Je m'étais déguisé en Charlie Chaplin.\nJ'avais perdu mon chapeau.",
       "index": 5,
-      "start": 6
+      "start": 6,
+      "stop": 8
     },
     {
       "content": "Tout le monde croyait\nque j'étais en Hitler.",
       "index": 6,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "Et l'organisateur m'a demandé de partir.\n— Va falloir y aller, ça va pas le faire là.",
       "index": 7,
-      "start": 10
+      "start": 10,
+      "stop": 14
     },
     {
       "content": "Je suis parti.\nLa soirée avec ma mère et ses copines.",
       "index": 8,
-      "start": 14
+      "start": 14,
+      "stop": 16
     },
     {
       "content": "— Le petit jeune, j'étais à deux doigts\nde le sucer.",
       "index": 9,
-      "start": 16
+      "start": 16,
+      "stop": 20
     },
     {
       "content": "— Oh ben, fallait y aller, moi j'hésite pas !",
       "index": 10,
-      "start": 20
+      "start": 20,
+      "stop": 21
     },
     {
       "content": "Je suis parti.",
       "index": 11,
-      "start": 23
+      "start": 23,
+      "stop": 26
     },
     {
       "content": "La soirée avec mon père et sa télé.",
       "index": 12,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "En 42ème position des 100 chats les plus\nmarrants le chat qui tousse avec\ndu chocolat en poudre.",
       "index": 13,
-      "start": 28
+      "start": 28,
+      "stop": 31
     },
     {
       "content": "— Haha, le petit chat.",
       "index": 14,
-      "start": 32
+      "start": 32,
+      "stop": 34
     },
     {
       "content": "La soirée jeu de société.",
       "index": 15,
-      "start": 36
+      "start": 36,
+      "stop": 37
     },
     {
       "content": "D'après Philippe Soupeau,\nquel est le pire ennemi de l'amitié ?",
       "index": 16,
-      "start": 37
+      "start": 37,
+      "stop": 40
     },
     {
       "content": "— L'ennui ?\n— Mais non, c'était l'ambition. J'le savais moi.",
       "index": 17,
-      "start": 41
+      "start": 41,
+      "stop": 43
     },
     {
       "content": "Ils ont rigolé.\nJe suis parti.",
       "index": 18,
-      "start": 43
+      "start": 43,
+      "stop": 46
     },
     {
       "content": "Six.",
       "index": 19,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "La soirée où il y a pas assez\nde meufs et où ça dérange pas les mecs.",
       "index": 20,
-      "start": 48
+      "start": 48,
+      "stop": 52
     },
     {
       "content": "Cinq.",
       "index": 21,
-      "start": 52
+      "start": 52,
+      "stop": 53
     },
     {
       "content": "La soirée chez des gens\nqui, en fait, sont pas chez eux.",
       "index": 22,
-      "start": 53
+      "start": 53,
+      "stop": 55
     },
     {
       "content": "— Barrez-vous, barrez-vous.\nJe me suis barré.",
       "index": 23,
-      "start": 55
+      "start": 55,
+      "stop": 58
     },
     {
       "content": "Quatre.\nLa soirée... annulée.",
       "index": 24,
-      "start": 58
+      "start": 58,
+      "stop": 62
     },
     {
       "content": "La soirée à problèmes.\n— Pourquoi tu me parles ?\n— Putain !",
       "index": 25,
-      "start": 62
+      "start": 62,
+      "stop": 66
     },
     {
       "content": "La soirée à thèmes.\n— Pourquoi vous mettez des baches ?\nOù t'es pas d'accord avec le thème.",
       "index": 26,
-      "start": 70
+      "start": 70,
+      "stop": 72
     },
     {
       "content": "— Bha c'est une soirée urophilie.",
       "index": 27,
-      "start": 72
+      "start": 72,
+      "stop": 74
     },
     {
       "content": "J'étais dans le métro,\nma copine m'a appelé.",
       "index": 28,
-      "start": 74
+      "start": 74,
+      "stop": 76
     },
     {
       "content": "— Ouais chéri, t'es où ? J'suis à\nla soirée The Name.",
       "index": 29,
-      "start": 77
+      "start": 77,
+      "stop": 78
     },
     {
       "content": "— Y a tout le monde, c'est génial.\n— Cool, j'arrive.",
       "index": 30,
-      "start": 78
+      "start": 78,
+      "stop": 80
     },
     {
       "content": "J'y suis allé.",
       "index": 31,
-      "start": 80
+      "start": 80,
+      "stop": 81
     },
     {
       "content": "— T'as pu venir !",
       "index": 32,
-      "start": 81
+      "start": 81,
+      "stop": 85
     },
     {
       "content": "— Bonne année, mec.",
       "index": 33,
-      "start": 85
+      "start": 85,
+      "stop": 91
     },
     {
       "content": "— Bonne année.",
       "index": 34,
-      "start": 92
+      "start": 92,
+      "stop": 94
     },
     {
       "content": "Bref, j'ai fêté le nouvel an.",
       "index": 35,
-      "start": 94
+      "start": 94,
+      "stop": 99
     },
     {
       "content": "— Merci d'attendre.",
       "index": 36,
-      "start": 99
+      "start": 99,
+      "stop": 100
     },
     {
       "content": "— Hey, tu veux boire un coup ?",
       "index": 37,
-      "start": 105
+      "start": 105,
+      "stop": 108
     },
     {
       "content": "— Non, merci.",
       "index": 38,
-      "start": 108
+      "start": 108,
+      "stop": 109
     }
   ]
 }

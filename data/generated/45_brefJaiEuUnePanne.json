@@ -11,202 +11,242 @@
     {
       "content": "Bref, c'était nuit comme les autres.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 3
     },
     {
       "content": "Enfin, presque.\nElle m'a demandé.",
       "index": 1,
-      "start": 3
+      "start": 3,
+      "stop": 4
     },
     {
       "content": "— Ça va ?\nJ'ai répondu:\n— Oui, oui.",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 5
     },
     {
       "content": "Elle a dit:\n— On peut arrêter si tu veux.\nJ'avais une panne.",
       "index": 3,
-      "start": 5
+      "start": 5,
+      "stop": 8
     },
     {
       "content": "Je sentais que ça voulait pas repartir.\nJ'avais pas envie d'arrêter.",
       "index": 4,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "J'ai pensé à tout ce\nque je connaissais d'excitant.",
       "index": 5,
-      "start": 10
+      "start": 10,
+      "stop": 12
     },
     {
       "content": "Ma cousine qui s'était penchée pour\nme faire la bise quand j'avais 15 ans.",
       "index": 6,
-      "start": 12
+      "start": 12,
+      "stop": 14
     },
     {
       "content": "Les filles de la pub Energ 3000.",
       "index": 7,
-      "start": 14
+      "start": 14,
+      "stop": 15
     },
     {
       "content": "Mademoiselle Chiffre dans le Petit Spirou.",
       "index": 8,
-      "start": 15
+      "start": 15,
+      "stop": 16
     },
     {
       "content": "Les vidéos de Nina Roberts,\nde Dolly Golden, Katsuni.",
       "index": 9,
-      "start": 16
+      "start": 16,
+      "stop": 19
     },
     {
       "content": "Puis, j'ai pensé\nà ce qu'elle allait dire à ses copines.",
       "index": 10,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "— Et alors là, il est devenu tout mou !",
       "index": 11,
-      "start": 20
+      "start": 20,
+      "stop": 24
     },
     {
       "content": "J'ai re-essayé de m'excité.",
       "index": 12,
-      "start": 24
+      "start": 24,
+      "stop": 25
     },
     {
       "content": "— Venez les filles, on s'embrasse.",
       "index": 13,
-      "start": 25
+      "start": 25,
+      "stop": 26
     },
     {
       "content": "— Oh, oui, quelle bonne idée.",
       "index": 14,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "J'ai aussi essayé de penser\nà Marla et moi dans un plan à quatre\navec les flics d'Energy 3000.\nÇa marchait pas.",
       "index": 15,
-      "start": 28
+      "start": 28,
+      "stop": 32
     },
     {
       "content": "Moi qui suis le seul homme\nsur Terre et qui dois choisir\nentre Nina Roberts, Dolly\nGolden et Kaptsuni.",
       "index": 16,
-      "start": 32
+      "start": 32,
+      "stop": 34
     },
     {
       "content": "Ça marchait pas.\n— Il est devenu tout mou !",
       "index": 17,
-      "start": 36
+      "start": 36,
+      "stop": 39
     },
     {
       "content": "Elle a dit:\n— Attends, attends, je viens sur toi.",
       "index": 18,
-      "start": 39
+      "start": 39,
+      "stop": 42
     },
     {
       "content": "J'ai pensé à tous mes ancêtres\nque j'étais en train de décevoir.",
       "index": 19,
-      "start": 42
+      "start": 42,
+      "stop": 46
     },
     {
       "content": "J'ai abandonné.",
       "index": 20,
-      "start": 51
+      "start": 51,
+      "stop": 54
     },
     {
       "content": "Je savais qu'elle allait dire\nque c'était pas grave.",
       "index": 21,
-      "start": 54
+      "start": 54,
+      "stop": 56
     },
     {
       "content": "— C'est pas grave, hein.\nC'était grave.",
       "index": 22,
-      "start": 56
+      "start": 56,
+      "stop": 58
     },
     {
       "content": "Vu qu'en temps normal, quand je faisais\nquelque chose de pas grave, elle\nse sentait pas obligée de me le dire.",
       "index": 23,
-      "start": 58
+      "start": 58,
+      "stop": 60
     },
     {
       "content": "Elle ne m'avait jamais dit:\n— Tu fais des pâtes, c'est pas grave.",
       "index": 24,
-      "start": 60
+      "start": 60,
+      "stop": 62
     },
     {
       "content": "Ni:\n— Tu bois de l'eau, c'est pas grave.",
       "index": 25,
-      "start": 62
+      "start": 62,
+      "stop": 64
     },
     {
       "content": "Ou encore:\n— Tu respires de l'oxygène\net tu recraches du dioxyde de carbone.",
       "index": 26,
-      "start": 64
+      "start": 64,
+      "stop": 67
     },
     {
       "content": "— C'est pas grave.",
       "index": 27,
-      "start": 67
+      "start": 67,
+      "stop": 68
     },
     {
       "content": "Parce que tout ça,\nc'était vraiment pas grave.",
       "index": 28,
-      "start": 68
+      "start": 68,
+      "stop": 69
     },
     {
       "content": "Là, c'était grave.",
       "index": 29,
-      "start": 69
+      "start": 69,
+      "stop": 70
     },
     {
       "content": "D'ailleurs, dans pas longtemps,\nelle allait me demander\nsi c'était de sa faute.\n— J'ai fais quelque chose qu'il fallait pas ?",
       "index": 30,
-      "start": 70
+      "start": 70,
+      "stop": 73
     },
     {
       "content": "Voilà.",
       "index": 31,
-      "start": 73
+      "start": 73,
+      "stop": 74
     },
     {
       "content": "Après, on a discuté 25 minutes\ndans le noir alors que\nj'avais pas envie de parler.",
       "index": 32,
-      "start": 74
+      "start": 74,
+      "stop": 76
     },
     {
       "content": "Elle me parlait comme si j'avais\nhuit ans et que j'avais fait pipi au lit.",
       "index": 33,
-      "start": 76
+      "start": 76,
+      "stop": 78
     },
     {
       "content": "— Ça arrives, tu sais.",
       "index": 34,
-      "start": 78
+      "start": 78,
+      "stop": 79
     },
     {
       "content": "Allez, on dort maintenant.",
       "index": 35,
-      "start": 79
+      "start": 79,
+      "stop": 81
     },
     {
       "content": "J'ai fini par m'endormir et tout\nd'un coup, au milieu de la nuit.",
       "index": 36,
-      "start": 86
+      "start": 86,
+      "stop": 95
     },
     {
       "content": "Bref, j'ai eu une panne.",
       "index": 37,
-      "start": 95
+      "start": 95,
+      "stop": 100
     },
     {
       "content": "— Non. Ce soir, je peux pas.",
       "index": 38,
-      "start": 100
+      "start": 100,
+      "stop": 102
     },
     {
       "content": "— J'ai mes problèmes de fille.\n— C'est pas grave.",
       "index": 39,
-      "start": 102
+      "start": 102,
+      "stop": 107
     }
   ]
 }

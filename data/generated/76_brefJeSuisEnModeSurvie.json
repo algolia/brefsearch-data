@@ -11,242 +11,290 @@
     {
       "content": "Comme souvent, j'avais 20 €\nen poche alors que c'était le 5 du mois.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 3
     },
     {
       "content": "Alors comme souvent,\nje me suis mis en mode survie.",
       "index": 1,
-      "start": 3
+      "start": 3,
+      "stop": 5
     },
     {
       "content": "Quand je suis en mode survie, je regarde\nles tickets de jeux déjà grattés par\nterre en espérant qu'ils soient gagnants.",
       "index": 2,
-      "start": 5
+      "start": 5,
+      "stop": 9
     },
     {
       "content": "Je mets de l'eau dans les bouteilles\nde shampoing vide pour les réutiliser.",
       "index": 3,
-      "start": 9
+      "start": 9,
+      "stop": 11
     },
     {
       "content": "Pareil pour le liquide vaisselle\net je découpe le tube de dentifrice\npour pas le gâcher.",
       "index": 4,
-      "start": 11
+      "start": 11,
+      "stop": 13
     },
     {
       "content": "Quand j'ai plus de lessive,\nje lave mes fringues à l'adoucissant.",
       "index": 5,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "Quand j'ai plus d'adoucissant,\nje lave mes fringues au déodorant.",
       "index": 6,
-      "start": 15
+      "start": 15,
+      "stop": 18
     },
     {
       "content": "Je cherche de l'argent dans\nle canapé, dans toutes mes poches.",
       "index": 7,
-      "start": 18
+      "start": 18,
+      "stop": 21
     },
     {
       "content": "J'appelle les gens qui me doivent\nde l'argent, ils répondent pas.",
       "index": 8,
-      "start": 21
+      "start": 21,
+      "stop": 22
     },
     {
       "content": "Je réponds pas aux gens\nà qui je dois de l'argent.",
       "index": 9,
-      "start": 22
+      "start": 22,
+      "stop": 23
     },
     {
       "content": "Je me dis que je dois avoir au moins\n100 € en centime, alors je les trie,\nmais j'ai que sept euros.",
       "index": 10,
-      "start": 23
+      "start": 23,
+      "stop": 27
     },
     {
       "content": "Pour manger, j'ai appris à inventer\ndes plats avec ce qui reste.",
       "index": 11,
-      "start": 27
+      "start": 27,
+      "stop": 30
     },
     {
       "content": "— Bonjour à tous.",
       "index": 12,
-      "start": 30
+      "start": 30,
+      "stop": 33
     },
     {
       "content": "— Bonjour.",
       "index": 13,
-      "start": 33
+      "start": 33,
+      "stop": 34
     },
     {
       "content": "— Alors, qu'est-ce qu'on mange aujourd'hui ?",
       "index": 14,
-      "start": 34
+      "start": 34,
+      "stop": 35
     },
     {
       "content": "— Alors, la fameuse farandole\nde pâtes qui restent.",
       "index": 15,
-      "start": 35
+      "start": 35,
+      "stop": 39
     },
     {
       "content": "— Et qu'est-ce qui reste ?",
       "index": 16,
-      "start": 39
+      "start": 39,
+      "stop": 40
     },
     {
       "content": "— Alors, on a 30 grammes de farfales,\n50 grammes de coquillettes\net 20 grammes de spaghettis.",
       "index": 17,
-      "start": 40
+      "start": 40,
+      "stop": 46
     },
     {
       "content": "— Et attention de bien respecter\nle temps de cuisson de chaque pâte.",
       "index": 18,
-      "start": 46
+      "start": 46,
+      "stop": 51
     },
     {
       "content": "— Et oui, sinon, ça serait trop facile.",
       "index": 19,
-      "start": 54
+      "start": 54,
+      "stop": 61
     },
     {
       "content": "— Ah, ça a l'air fameux.",
       "index": 20,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "— On arrose le tout du ketchup du McDo\nqu'on a gardé il y a huit semaines.",
       "index": 21,
-      "start": 63
+      "start": 63,
+      "stop": 67
     },
     {
       "content": "— Et en guise de pain, les croûtes de pizza.",
       "index": 22,
-      "start": 67
+      "start": 67,
+      "stop": 71
     },
     {
       "content": "— C'est fameux.",
       "index": 23,
-      "start": 71
+      "start": 71,
+      "stop": 75
     },
     {
       "content": "— Bon appétit.\nJ'achète des sous-marques qui font peur.",
       "index": 24,
-      "start": 75
+      "start": 75,
+      "stop": 77
     },
     {
       "content": "Je réutilise le même sachet\nde thé pendant une semaine.",
       "index": 25,
-      "start": 78
+      "start": 78,
+      "stop": 80
     },
     {
       "content": "Moins il y a de thé,\nplus je mets de sucre.",
       "index": 26,
-      "start": 80
+      "start": 80,
+      "stop": 81
     },
     {
       "content": "Moins j'ai d'argent...\n— On se commande un jap ?",
       "index": 27,
-      "start": 81
+      "start": 81,
+      "stop": 82
     },
     {
       "content": "...moins j'ai faim.\n— J'ai pas faim.",
       "index": 28,
-      "start": 82
+      "start": 82,
+      "stop": 84
     },
     {
       "content": "— On commande une pizza ?\n— J'ai pas faim.",
       "index": 29,
-      "start": 84
+      "start": 84,
+      "stop": 85
     },
     {
       "content": "— On se fait un resto ?\n— J'ai pas faim.",
       "index": 30,
-      "start": 85
+      "start": 85,
+      "stop": 87
     },
     {
       "content": "— Je t'invite.\n— Une entrecôte, s'il vous plaît.",
       "index": 31,
-      "start": 87
+      "start": 87,
+      "stop": 90
     },
     {
       "content": "Sur Internet, je clique\nsur des pubs \"Gagne 3000€\npar mois en restant chez vous.\"",
       "index": 32,
-      "start": 90
+      "start": 90,
+      "stop": 92
     },
     {
       "content": "Puis j'achète 1 €, une méthode\nqui m'explique comment vendre\ncette méthode à 3000 personnes.",
       "index": 33,
-      "start": 92
+      "start": 92,
+      "stop": 95
     },
     {
       "content": "Je fais des soirées où je dis\naux gens de ramener des trucs à manger.",
       "index": 34,
-      "start": 95
+      "start": 95,
+      "stop": 97
     },
     {
       "content": "— Non, tu ramèneras rien. Un petit truc à manger, à la rigueur.",
       "index": 35,
-      "start": 97
+      "start": 97,
+      "stop": 99
     },
     {
       "content": "Après, pendant deux semaines, je mange\ndes chips, des cacahuètes et des olives.",
       "index": 36,
-      "start": 99
+      "start": 99,
+      "stop": 101
     },
     {
       "content": "Quand je suis invité à une soirée,\nje prends une bouteille à 2 €\navec un nom de millionnaire dessus.",
       "index": 37,
-      "start": 101
+      "start": 101,
+      "stop": 104
     },
     {
       "content": "J'enlève l'étiquette orange\npour pas me faire griller.",
       "index": 38,
-      "start": 104
+      "start": 104,
+      "stop": 105
     },
     {
       "content": "Quand j'arrive, on me dit:\n— Je vais la mettre à la cuisine.",
       "index": 39,
-      "start": 105
+      "start": 105,
+      "stop": 107
     },
     {
       "content": "C'est ce qui veut dire:\n— Je vais la mettre à la poubelle.",
       "index": 40,
-      "start": 107
+      "start": 107,
+      "stop": 110
     },
     {
       "content": "Bref, je suis en mode survie.",
       "index": 41,
-      "start": 110
+      "start": 110,
+      "stop": 112
     },
     {
       "content": "Et en dessert, le fameux doigt\ncollant au sucre vanillé.",
       "index": 42,
-      "start": 116
+      "start": 116,
+      "stop": 119
     },
     {
       "content": "— Hmmm. Irresistible.",
       "index": 43,
-      "start": 122
+      "start": 122,
+      "stop": 124
     },
     {
       "content": "— C'est fameux.",
       "index": 44,
-      "start": 124
+      "start": 124,
+      "stop": 125
     },
     {
       "content": "— Bon, je vous laisse.",
       "index": 45,
-      "start": 125
+      "start": 125,
+      "stop": 127
     },
     {
       "content": "— J'ai mon traineau qui est mal garé.",
       "index": 46,
-      "start": 127
+      "start": 127,
+      "stop": 128
     },
     {
       "content": "— À bientôt.\n— Ça, j'espère.",
       "index": 47,
-      "start": 128
+      "start": 128,
+      "stop": 130
     }
   ]
 }

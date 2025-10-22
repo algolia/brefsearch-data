@@ -11,227 +11,272 @@
     {
       "content": "Je suis amoureux.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 0
     },
     {
       "content": "Bref, j'avais rendez-vous\nau café avec Ben.",
       "index": 1,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "J'étais content.",
       "index": 2,
-      "start": 2
+      "start": 2,
+      "stop": 2
     },
     {
       "content": "J'avais une bonne nouvelle,\nj'allais lui dire.",
       "index": 3,
-      "start": 2
+      "start": 2,
+      "stop": 4
     },
     {
       "content": "— Je suis amoureux.",
       "index": 4,
-      "start": 4
+      "start": 4,
+      "stop": 4
     },
     {
       "content": "Mais c'est lui qui a dit:\n— Cathy m'a larguée !",
       "index": 5,
-      "start": 4
+      "start": 4,
+      "stop": 7
     },
     {
       "content": "Je l'avais déjà vu sept fois\nà la même place pour les mêmes conneries.",
       "index": 6,
-      "start": 7
+      "start": 7,
+      "stop": 8
     },
     {
       "content": "— C'est fini.\n— C'est fini.\n— C'est fini.",
       "index": 7,
-      "start": 8
+      "start": 8,
+      "stop": 9
     },
     {
       "content": "Du coup, je m'en battais les couilles.\n— C'est pas vrai.",
       "index": 8,
-      "start": 12
+      "start": 12,
+      "stop": 13
     },
     {
       "content": "Il s'est mis à parler.",
       "index": 9,
-      "start": 13
+      "start": 13,
+      "stop": 14
     },
     {
       "content": "J'ai pioché des phrases type:\n— Une de perdue décide de retrouvées.",
       "index": 10,
-      "start": 14
+      "start": 14,
+      "stop": 16
     },
     {
       "content": "— T'as raison.\n— C'est un tant pis pour un tant mieux.",
       "index": 11,
-      "start": 16
+      "start": 16,
+      "stop": 19
     },
     {
       "content": "— T'as raison.\n— T'es jeune.",
       "index": 12,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "— T'as encore toute ta vie.\n— T'as raison.",
       "index": 13,
-      "start": 20
+      "start": 20,
+      "stop": 22
     },
     {
       "content": "Pendant tout ce temps,\nil arrêtait pas de tapoter sur la table.",
       "index": 14,
-      "start": 22
+      "start": 22,
+      "stop": 24
     },
     {
       "content": "Ça m'énervait.",
       "index": 15,
-      "start": 24
+      "start": 24,
+      "stop": 24
     },
     {
       "content": "Je crois vraiment que le garçon faisait\nexprès de faire 10 000 chocolats chauds\nà deux mètres de mon oreille.\nJe lui ai dit:\n— Elle va revenir\n— Tu crois ? Pourquoi ?",
       "index": 16,
-      "start": 24
+      "start": 24,
+      "stop": 28
     },
     {
       "content": "\nParce qu'elle est moisie\net qu'elle trouvera personne d'autre.",
       "index": 17,
-      "start": 28
+      "start": 28,
+      "stop": 31
     },
     {
       "content": "— Elle tient à toi.\n— T'as raison !",
       "index": 18,
-      "start": 31
+      "start": 31,
+      "stop": 32
     },
     {
       "content": "Il tapotait encore.",
       "index": 19,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "J'avais envie de sortir une machette\net de lui couper la main.",
       "index": 20,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "Il a dit:\n— C'est terminé.\nTrois fois.",
       "index": 21,
-      "start": 35
+      "start": 35,
+      "stop": 36
     },
     {
       "content": "J'ai eu l'impression d'être\ndans un film français.",
       "index": 22,
-      "start": 36
+      "start": 36,
+      "stop": 39
     },
     {
       "content": "— Je penses à elle, tu sais.",
       "index": 23,
-      "start": 39
+      "start": 39,
+      "stop": 41
     },
     {
       "content": "— Tu penses à toi un peu ?",
       "index": 24,
-      "start": 42
+      "start": 42,
+      "stop": 44
     },
     {
       "content": "Mais je fume pas.",
       "index": 25,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "Lui et Cathy, c'était le couple\ngênant, le genre de couple qui crée\ndes silences dans les dîners.",
       "index": 26,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "— Ok, tu me remets un, s'il te plaît.\n— Non, mais t'es sérieux ?",
       "index": 27,
-      "start": 52
+      "start": 52,
+      "stop": 54
     },
     {
       "content": "— Tu vas reprendre un verre, là ?",
       "index": 28,
-      "start": 54
+      "start": 54,
+      "stop": 57
     },
     {
       "content": "— Moi j'vais prendre les profiterolles s'il vous plait.",
       "index": 29,
-      "start": 58
+      "start": 58,
+      "stop": 59
     },
     {
       "content": "— Tu es sûr que tu veux prendre un dessert ?",
       "index": 30,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "— Je vais prendre une tarte aux pommes.\n— Quetsch. Tarte aux quetsch.",
       "index": 31,
-      "start": 64
+      "start": 64,
+      "stop": 66
     },
     {
       "content": "— Et ben moi monsieur il est trop fatigué\npour me faire l'amour.",
       "index": 32,
-      "start": 67
+      "start": 67,
+      "stop": 71
     },
     {
       "content": "Ben touillait son café depuis 20 minutes\nen faisant bien grincer la cuillère.",
       "index": 33,
-      "start": 73
+      "start": 73,
+      "stop": 75
     },
     {
       "content": "Il avait même pas mis de sucre.\n— Pourquoi ?",
       "index": 34,
-      "start": 75
+      "start": 75,
+      "stop": 77
     },
     {
       "content": "— Je suis amoureux, connard.",
       "index": 35,
-      "start": 81
+      "start": 81,
+      "stop": 89
     },
     {
       "content": "— Et toi alors ?",
       "index": 36,
-      "start": 89
+      "start": 89,
+      "stop": 91
     },
     {
       "content": "— Quoi de neuf ?",
       "index": 37,
-      "start": 91
+      "start": 91,
+      "stop": 92
     },
     {
       "content": "— Figure-toi que...",
       "index": 38,
-      "start": 92
+      "start": 92,
+      "stop": 93
     },
     {
       "content": "Il a reçu un texto.\n— C'est Cathy.",
       "index": 39,
-      "start": 93
+      "start": 93,
+      "stop": 96
     },
     {
       "content": "— Elle me laisse une chance.\nIl est parti en courant.",
       "index": 40,
-      "start": 96
+      "start": 96,
+      "stop": 97
     },
     {
       "content": "Il a pas payé, 14 €.",
       "index": 41,
-      "start": 97
+      "start": 97,
+      "stop": 98
     },
     {
       "content": "Bref, mon pote s'est fait larguer.",
       "index": 42,
-      "start": 99
+      "start": 99,
+      "stop": 101
     },
     {
       "content": "— Vous acceptez la carte bleue ?",
       "index": 43,
-      "start": 106
+      "start": 106,
+      "stop": 107
     },
     {
       "content": "— Oh ben non hein, c'est à partir de 15 €.",
       "index": 44,
-      "start": 108
+      "start": 108,
+      "stop": 110
     }
   ]
 }

@@ -11,97 +11,116 @@
     {
       "content": "Bref, j'étais à côté de cette fille.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 2
     },
     {
       "content": "J'avais dragué cette\nfille à la soirée de Maud.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 3
     },
     {
       "content": "Elle avait pris mon numéro,\nmais c'était pour Steve, son pote home.",
       "index": 2,
-      "start": 3
+      "start": 3,
+      "stop": 5
     },
     {
       "content": "Ensuite, elle m'a accepté sur Facebook.\nJe l'ai poquée.",
       "index": 3,
-      "start": 5
+      "start": 5,
+      "stop": 7
     },
     {
       "content": "Je l'ai recroisé au supermarché.\nElle se souvenait plus de mon nom.",
       "index": 4,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "Je lui ai dit que je m'appelais\nVincent Dubois et que j'avais\ndeux poissons clowns.\nC'était pas vrai et c'était pas vrai.",
       "index": 5,
-      "start": 9
+      "start": 9,
+      "stop": 12
     },
     {
       "content": "Ensuite, je l'ai invitée au cinéma, mais\nje suis resté coincé dans l'ascenseur.",
       "index": 6,
-      "start": 12
+      "start": 12,
+      "stop": 13
     },
     {
       "content": "Et là, j'étais à côté de cette fille.",
       "index": 7,
-      "start": 13
+      "start": 13,
+      "stop": 14
     },
     {
       "content": "J'ai voulu manger avec elle,\nmais j'ai eu 47 minutes de retard.",
       "index": 8,
-      "start": 14
+      "start": 14,
+      "stop": 16
     },
     {
       "content": "Elle m'obsédait, je rêvais d'elle.",
       "index": 9,
-      "start": 16
+      "start": 16,
+      "stop": 17
     },
     {
       "content": "Je me suis rendu compte\nque je l'intéressais aussi.",
       "index": 10,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "Et là, j'étais à côté de cette fille.\nJe l'intéressais.",
       "index": 11,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "Du coup, je l'ai invitée au cinéma, j'ai\nvoulu l'embrasser, mais elle est partie.",
       "index": 12,
-      "start": 21
+      "start": 21,
+      "stop": 23
     },
     {
       "content": "J'ai fait un concert, j'ai voulu\nl'embrasser, mais elle est partie.",
       "index": 13,
-      "start": 23
+      "start": 23,
+      "stop": 25
     },
     {
       "content": "J'ai dîné avec elle, j'ai voulu\nl'embrasser, mais elle est partie.",
       "index": 14,
-      "start": 25
+      "start": 25,
+      "stop": 27
     },
     {
       "content": "Avec le serveur.",
       "index": 15,
-      "start": 27
+      "start": 27,
+      "stop": 27
     },
     {
       "content": "Je n'avais plus d'appart,\nelle m'a dit: Passe.",
       "index": 16,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "Et là...",
       "index": 17,
-      "start": 29
+      "start": 29,
+      "stop": 30
     },
     {
       "content": "Bref.",
       "index": 18,
-      "start": 30
+      "start": 30,
+      "stop": 30
     }
   ]
 }

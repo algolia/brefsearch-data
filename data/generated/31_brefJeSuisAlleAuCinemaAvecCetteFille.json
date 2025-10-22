@@ -11,212 +11,254 @@
     {
       "content": "Bref, après beaucoup d'efforts,\nj'avais enfin rendez-vous au cinéma\navec cette fille dont j'étais amoureux.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 4
     },
     {
       "content": "Le choix du film était\nimportant, pas de 3D.",
       "index": 1,
-      "start": 4
+      "start": 4,
+      "stop": 8
     },
     {
       "content": "Un film suffisamment intéressant\npour qu'elle soit contente de le voir,\nmais suffisamment moyen pour qu'elle\nme jette pas si j'essayais un truc.",
       "index": 2,
-      "start": 10
+      "start": 10,
+      "stop": 14
     },
     {
       "content": "— Je crois que j'ai un cancer.",
       "index": 3,
-      "start": 14
+      "start": 14,
+      "stop": 15
     },
     {
       "content": "— Mon Dieu ! Mon Dieu !",
       "index": 4,
-      "start": 16
+      "start": 16,
+      "stop": 17
     },
     {
       "content": "J'avais trouvé.",
       "index": 5,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "Pendant qu'on faisait la queue,\ndes gens sortaient de la salle\net racontaient la fin du film.",
       "index": 6,
-      "start": 19
+      "start": 19,
+      "stop": 21
     },
     {
       "content": "— J'aurais jamais cru que\nc'était le frère, le tueur, en fait.",
       "index": 7,
-      "start": 21
+      "start": 21,
+      "stop": 23
     },
     {
       "content": "Ça m'a énervé.\nJ'ai dit:\n— Tu veux du popcorn ?",
       "index": 8,
-      "start": 24
+      "start": 24,
+      "stop": 25
     },
     {
       "content": "Elle a dit:\n— Ouais.\nLa vendeuse m'a dit:\n— Vous voulez du popcorn ?",
       "index": 9,
-      "start": 25
+      "start": 25,
+      "stop": 27
     },
     {
       "content": "J'ai dit:\n— Oui.\nElle a dit:\n— 8 Euros.",
       "index": 10,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "J'ai entendu:\n— 1000 Dollars.",
       "index": 11,
-      "start": 29
+      "start": 29,
+      "stop": 30
     },
     {
       "content": "J'ai aussi acheté de l'Energy 3000,\nje sais pas pourquoi.",
       "index": 12,
-      "start": 30
+      "start": 30,
+      "stop": 32
     },
     {
       "content": "On s'est assis, il y a eu des pubs.",
       "index": 13,
-      "start": 32
+      "start": 32,
+      "stop": 34
     },
     {
       "content": "— Énergy 3000,\nla boisson des vrais bonhommes.",
       "index": 14,
-      "start": 34
+      "start": 34,
+      "stop": 36
     },
     {
       "content": "Le film a commencé, elle réagissait\nun peu trop au film.",
       "index": 15,
-      "start": 36
+      "start": 36,
+      "stop": 40
     },
     {
       "content": "— Vas-y.\n— Si tu m'aimais vraiment, tu me regarderai.",
       "index": 16,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "— Oui. Oui. Dis-lui.",
       "index": 17,
-      "start": 42
+      "start": 42,
+      "stop": 44
     },
     {
       "content": "J'ai trouvé ça mignon.",
       "index": 18,
-      "start": 44
+      "start": 44,
+      "stop": 46
     },
     {
       "content": "Je me suis senti romantique.",
       "index": 19,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "Puis, je me suis dit\nqu'elle devait réagir pareil au lit.",
       "index": 20,
-      "start": 48
+      "start": 48,
+      "stop": 49
     },
     {
       "content": "— Vas-y, vas-y. Oui, oui, oui.",
       "index": 21,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "Je me suis senti excité.\nJ'ai raté 10 minutes du film.",
       "index": 22,
-      "start": 52
+      "start": 52,
+      "stop": 54
     },
     {
       "content": "Du coup, je comprenais plus\nlequel avait le cancer.",
       "index": 23,
-      "start": 54
+      "start": 54,
+      "stop": 56
     },
     {
       "content": "Elle a posé sa main sur mon coude.\nJ'ai ri à un truc pas marrant.",
       "index": 24,
-      "start": 56
+      "start": 56,
+      "stop": 58
     },
     {
       "content": "Elle a enlevé sa main.",
       "index": 25,
-      "start": 58
+      "start": 58,
+      "stop": 60
     },
     {
       "content": "C'est lui qui avait le cancer.",
       "index": 26,
-      "start": 60
+      "start": 60,
+      "stop": 61
     },
     {
       "content": "Je déteste parler du film\njuste après le film.",
       "index": 27,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "Elle a voulu parler du film,\non a parlé du film.",
       "index": 28,
-      "start": 63
+      "start": 63,
+      "stop": 64
     },
     {
       "content": "— Depuis le début, il a jamais eu\nle cancer, c'est fou.",
       "index": 29,
-      "start": 64
+      "start": 64,
+      "stop": 67
     },
     {
       "content": "Je me suis rendu compte\nque du coup, elle balançait la fin\nà ceux qui faisaient la queue.\nOn a marché.",
       "index": 30,
-      "start": 67
+      "start": 67,
+      "stop": 70
     },
     {
       "content": "À un moment, elle a pris mon bras.\nYes.",
       "index": 31,
-      "start": 70
+      "start": 70,
+      "stop": 72
     },
     {
       "content": "Et puis, elle m'a dit qu'il\ny avait plus de métro.",
       "index": 32,
-      "start": 72
+      "start": 72,
+      "stop": 73
     },
     {
       "content": "— Je crois qu'il y a plus de métro.",
       "index": 33,
-      "start": 73
+      "start": 73,
+      "stop": 74
     },
     {
       "content": "Alors j'ai pris mon courage à deux mains et\nje lui ai dit:\n— Tu veux que je...",
       "index": 34,
-      "start": 74
+      "start": 74,
+      "stop": 76
     },
     {
       "content": "— Tu me raccompagnes au bus de nuit ? C'est sur ton chemin.",
       "index": 35,
-      "start": 76
+      "start": 76,
+      "stop": 78
     },
     {
       "content": "J'ai dit oui, j'habitais à l'opposé.",
       "index": 36,
-      "start": 79
+      "start": 79,
+      "stop": 80
     },
     {
       "content": "Pendant qu'on marchait, je me suis dit\nque c'était cool qu'il y avait\nun bus de nuit toutes les 45 minutes,\nque ça me laissait le temps de conclure.",
       "index": 37,
-      "start": 80
+      "start": 80,
+      "stop": 85
     },
     {
       "content": "Je me suis demandé si je\ndevais l'embrasser.",
       "index": 38,
-      "start": 85
+      "start": 85,
+      "stop": 87
     },
     {
       "content": "— Y a mon bus, il y en a\nun toutes les 45 minutes.",
       "index": 39,
-      "start": 87
+      "start": 87,
+      "stop": 90
     },
     {
       "content": "— Je suis désolée, je dois le prendre.",
       "index": 40,
-      "start": 90
+      "start": 90,
+      "stop": 96
     },
     {
       "content": "Bref, je suis allé\nau cinéma avec cette fille.",
       "index": 41,
-      "start": 96
+      "start": 96,
+      "stop": 101
     }
   ]
 }

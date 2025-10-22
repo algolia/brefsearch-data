@@ -11,252 +11,302 @@
     {
       "content": "— Attends, attends.",
       "index": 0,
-      "start": 2
+      "start": 2,
+      "stop": 3
     },
     {
       "content": "Bref, j'ai recroisé Emilie, la fille dont\nj'étais amoureux quand j'avais 15 ans.",
       "index": 1,
-      "start": 3
+      "start": 3,
+      "stop": 6
     },
     {
       "content": "Je lui ai dit:\n— Hey !\nElle m'a pas reconnu.\nJ'ai dit:\n— C'est moi.",
       "index": 2,
-      "start": 6
+      "start": 6,
+      "stop": 8
     },
     {
       "content": "Elle m'a pas reconnu.\nJe lui ai donné mon nom.",
       "index": 3,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "Elle m'a pas reconnu.",
       "index": 4,
-      "start": 10
+      "start": 10,
+      "stop": 11
     },
     {
       "content": "J'ai rajouté:\n— Avec la morve au nez.",
       "index": 5,
-      "start": 11
+      "start": 11,
+      "stop": 12
     },
     {
       "content": "— Oh, Morve-au-nez, lol !",
       "index": 6,
-      "start": 13
+      "start": 13,
+      "stop": 14
     },
     {
       "content": "Elle a dit: Lol, je déteste ça.",
       "index": 7,
-      "start": 14
+      "start": 14,
+      "stop": 15
     },
     {
       "content": "Puis elle a dit:\n— Ajoute-moi sur Facebook.\nCe que j'ai fait.",
       "index": 8,
-      "start": 15
+      "start": 15,
+      "stop": 17
     },
     {
       "content": "Avant d'appuyer sur le bouton Ajouter,\nj'ai repensé à ce qu'elle m'avait dit\nquand j'avais 15 ans.",
       "index": 9,
-      "start": 17
+      "start": 17,
+      "stop": 21
     },
     {
       "content": "— Émilie, tu veux sortir avec moi ?",
       "index": 10,
-      "start": 21
+      "start": 21,
+      "stop": 24
     },
     {
       "content": "— Jamais je sortirai avec toi.",
       "index": 11,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "— Jamais, jamais, jamais,\njamais, jamais.",
       "index": 12,
-      "start": 26
+      "start": 26,
+      "stop": 33
     },
     {
       "content": "J'ai appuyé cinq fois sur Ajouter.",
       "index": 13,
-      "start": 33
+      "start": 33,
+      "stop": 37
     },
     {
       "content": "— Jamais, jamais, jamais, jamais, jamais.",
       "index": 14,
-      "start": 37
+      "start": 37,
+      "stop": 39
     },
     {
       "content": "Elle m'a accepté.",
       "index": 15,
-      "start": 39
+      "start": 39,
+      "stop": 40
     },
     {
       "content": "J'ai vu ses photos été 2011, ça allait.",
       "index": 16,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "Sur le chat, elle m'a dit:\n— Salut.",
       "index": 17,
-      "start": 42
+      "start": 42,
+      "stop": 43
     },
     {
       "content": "Elle a vu une photo\nde moi avec Carbon Kevlar.",
       "index": 18,
-      "start": 43
+      "start": 43,
+      "stop": 44
     },
     {
       "content": "Elle m'a demandé:\n— Tu les connais ?",
       "index": 19,
-      "start": 44
+      "start": 44,
+      "stop": 46
     },
     {
       "content": "Non.\nJ'ai dit:\n— Carrément, on est potes.",
       "index": 20,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "On s'est revu, on a pris\nun verre, on a comparé nos vies.",
       "index": 21,
-      "start": 48
+      "start": 48,
+      "stop": 50
     },
     {
       "content": "Le match a commencé.",
       "index": 22,
-      "start": 50
+      "start": 50,
+      "stop": 52
     },
     {
       "content": "Elle a dit:\n— Là, je travaille\ndans un magasin de fringues.",
       "index": 23,
-      "start": 52
+      "start": 52,
+      "stop": 55
     },
     {
       "content": "— Ce n'est pas top.\nJ'ai dit:\n— Moi, j'adore mon taf.",
       "index": 24,
-      "start": 55
+      "start": 55,
+      "stop": 59
     },
     {
       "content": "C'était pas vrai,\nmais 1 à 0 pour moi.",
       "index": 25,
-      "start": 59
+      "start": 59,
+      "stop": 61
     },
     {
       "content": "— Je viens de me faire larguer.\n— Ah, merde.",
       "index": 26,
-      "start": 61
+      "start": 61,
+      "stop": 64
     },
     {
       "content": "— Ah moi, c'est cool. Je vois\ndes filles, je papillonne.",
       "index": 27,
-      "start": 64
+      "start": 64,
+      "stop": 66
     },
     {
       "content": "Reprise de vol, 2-0.",
       "index": 28,
-      "start": 66
+      "start": 66,
+      "stop": 67
     },
     {
       "content": "— Je fais de la guitare.\nTête plongeante, 3-0.",
       "index": 29,
-      "start": 67
+      "start": 67,
+      "stop": 70
     },
     {
       "content": "— C'est exactement ce\nque dit Carbon Kevlar.",
       "index": 30,
-      "start": 70
+      "start": 70,
+      "stop": 71
     },
     {
       "content": "Poteau rentré en 4-0.",
       "index": 31,
-      "start": 71
+      "start": 71,
+      "stop": 72
     },
     {
       "content": "Alors j'ai dit:\n— On va chez moi ?",
       "index": 32,
-      "start": 72
+      "start": 72,
+      "stop": 74
     },
     {
       "content": "On est allé chez moi.\n— Bienvenue chez moi.",
       "index": 33,
-      "start": 74
+      "start": 74,
+      "stop": 77
     },
     {
       "content": "Sur son profil, j'avais analysé des trucs\nqu'elle aimait bien, alors j'ai disposé\ndes objets l'air de rien sur mon lit.",
       "index": 34,
-      "start": 77
+      "start": 77,
+      "stop": 81
     },
     {
       "content": "— Toi aussi, tu aimes bien ?\n— Quoi ?",
       "index": 35,
-      "start": 81
+      "start": 81,
+      "stop": 83
     },
     {
       "content": "Retourné acrobatique, 5-0.",
       "index": 36,
-      "start": 83
+      "start": 83,
+      "stop": 85
     },
     {
       "content": "Ensuite, elle s'est déshabillée.",
       "index": 37,
-      "start": 85
+      "start": 85,
+      "stop": 89
     },
     {
       "content": "J'ai pensé à moi 15 ans plus tôt.",
       "index": 38,
-      "start": 89
+      "start": 89,
+      "stop": 90
     },
     {
       "content": "Pendant qu'on faisait l'amour,\nj'ai dit:\n— jamais, jamais, jamais, jamais.",
       "index": 39,
-      "start": 90
+      "start": 90,
+      "stop": 95
     },
     {
       "content": "— De quoi ?\n— Non, rien, j'aime, j'aime, j'aime.",
       "index": 40,
-      "start": 95
+      "start": 95,
+      "stop": 98
     },
     {
       "content": "J'étais vengé.",
       "index": 41,
-      "start": 98
+      "start": 98,
+      "stop": 100
     },
     {
       "content": "Je l'ai raccompagnée à ma porte,\nelle m'a dit:\n— On se revoit ?",
       "index": 42,
-      "start": 100
+      "start": 100,
+      "stop": 102
     },
     {
       "content": "J'ai dit:\n— Absolument.\nPas.",
       "index": 43,
-      "start": 102
+      "start": 102,
+      "stop": 104
     },
     {
       "content": "Elle est partie.",
       "index": 44,
-      "start": 104
+      "start": 104,
+      "stop": 105
     },
     {
       "content": "Quand j'ai fermé la porte, je\nme suis checké moi quand j'avais 15 ans.",
       "index": 45,
-      "start": 105
+      "start": 105,
+      "stop": 107
     },
     {
       "content": "Bref, j'ai couché avec Emilie.",
       "index": 46,
-      "start": 107
+      "start": 107,
+      "stop": 108
     },
     {
       "content": "Jamais, jamais, jamais, jamais, jamais.\n— Wow, c'est stylé Facebook.",
       "index": 47,
-      "start": 108
+      "start": 108,
+      "stop": 111
     },
     {
       "content": "— Quand est-ce qu'ils vont inventer ça ?",
       "index": 48,
-      "start": 111
+      "start": 111,
+      "stop": 113
     },
     {
       "content": "— T'inquiètes.",
       "index": 49,
-      "start": 114
+      "start": 114,
+      "stop": 114
     }
   ]
 }

@@ -11,282 +11,338 @@
     {
       "content": "Bref, on était en train de faire des trucs\nde couple quand ça a sonné à la porte.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 5
     },
     {
       "content": "Et comme dans les films américains,\non n'attendait personne.",
       "index": 1,
-      "start": 5
+      "start": 5,
+      "stop": 6
     },
     {
       "content": "— T'attendais quelqu'un ?\n— Bha, non.",
       "index": 2,
-      "start": 6
+      "start": 6,
+      "stop": 8
     },
     {
       "content": "Et comme dans les films américains, c'est\nle plus courageux qui est allé voir.",
       "index": 3,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "— J'y vais.",
       "index": 4,
-      "start": 10
+      "start": 10,
+      "stop": 11
     },
     {
       "content": "Je m'amusais à faire parler mon téléphone.\n— Quand je suis content, je vomis.",
       "index": 5,
-      "start": 11
+      "start": 11,
+      "stop": 14
     },
     {
       "content": "Puis, j'ai reçu un texto\nde Baptiste qui disait:\n— Désolé.",
       "index": 6,
-      "start": 14
+      "start": 14,
+      "stop": 17
     },
     {
       "content": "— Chéri ?",
       "index": 7,
-      "start": 17
+      "start": 17,
+      "stop": 18
     },
     {
       "content": "Ma copine m'a appelé.\nJe suis allé voir.",
       "index": 8,
-      "start": 18
+      "start": 18,
+      "stop": 21
     },
     {
       "content": "Il y avait ma copine et mon\nplan cul que je n'avais pas vu\ndepuis des mois au milieu du salon.",
       "index": 9,
-      "start": 21
+      "start": 21,
+      "stop": 24
     },
     {
       "content": "J'ai pensé: Stop.",
       "index": 10,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "Après coup, j'ai compris que Marla était\narrivée dans mon ancien appartement,\nque Baptiste avait ouvert la que Marla\navait ouvert son impair,",
       "index": 11,
-      "start": 26
+      "start": 26,
+      "stop": 31
     },
     {
       "content": "que Baptiste avait ouvert la bouche,\nqu'elle avait fermé son impair et qu'il\navait donné ma nouvelle adresse.",
       "index": 12,
-      "start": 31
+      "start": 31,
+      "stop": 34
     },
     {
       "content": "Plus tard, je lui ai demandé\npourquoi il l'avait envoyée chez moi.",
       "index": 13,
-      "start": 34
+      "start": 34,
+      "stop": 36
     },
     {
       "content": "Il m'a répondu:\n— Elle était à poil.",
       "index": 14,
-      "start": 36
+      "start": 36,
+      "stop": 37
     },
     {
       "content": "Pourquoi il ne l'avait pas prévenu\nque j'avais une copine ?",
       "index": 15,
-      "start": 37
+      "start": 37,
+      "stop": 38
     },
     {
       "content": "Il m'a répondu:\n— Elle était à poil.",
       "index": 16,
-      "start": 38
+      "start": 38,
+      "stop": 40
     },
     {
       "content": "Pourquoi il m'avait pas\nappelé directement ?",
       "index": 17,
-      "start": 40
+      "start": 40,
+      "stop": 41
     },
     {
       "content": "Il m'a dit:\n— Elle était à poil.\n— Bon, c'est pas grave.",
       "index": 18,
-      "start": 41
+      "start": 41,
+      "stop": 44
     },
     {
       "content": "— Tu veux un autre verre ?",
       "index": 19,
-      "start": 44
+      "start": 44,
+      "stop": 47
     },
     {
       "content": "— Elle était à poil.",
       "index": 20,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "Marla avait sonné.\nMa copine avait ouvert la porte.",
       "index": 21,
-      "start": 49
+      "start": 49,
+      "stop": 51
     },
     {
       "content": "Marla avait ouvert son impair.\nMa copine a dit:\n— Béatrice ?",
       "index": 22,
-      "start": 51
+      "start": 51,
+      "stop": 53
     },
     {
       "content": "Ah oui, parce qu'en fait, peu de temps\naprès que je sois allé vivre chez elle,\nma copine m'a demandé:\n— C'est qui elle ?",
       "index": 23,
-      "start": 53
+      "start": 53,
+      "stop": 58
     },
     {
       "content": "J'ai dit:\n— C'est une ex, je l'aimais pas trop.",
       "index": 24,
-      "start": 58
+      "start": 58,
+      "stop": 61
     },
     {
       "content": "— Je lui ai dit que je sortais avec toi.",
       "index": 25,
-      "start": 61
+      "start": 61,
+      "stop": 62
     },
     {
       "content": "Ça faisait trois mensonges\nen quatre secondes.",
       "index": 26,
-      "start": 62
+      "start": 62,
+      "stop": 64
     },
     {
       "content": "Pas mal, mais ce n'était\npas mon meilleur score.",
       "index": 27,
-      "start": 64
+      "start": 64,
+      "stop": 65
     },
     {
       "content": "Elle m'a dit:\n— Elle s'appelle comment ?",
       "index": 28,
-      "start": 65
+      "start": 65,
+      "stop": 66
     },
     {
       "content": "J'ai pensé: Si je dis Marla, elle va taper\nson nom dans Facebook, elle va créer\nun faux compte, elle va l'ajouter\nen ami, elle va lui poser des questions.",
       "index": 29,
-      "start": 66
+      "start": 66,
+      "stop": 70
     },
     {
       "content": "J'ai dit:\n— Béatrice.",
       "index": 30,
-      "start": 70
+      "start": 70,
+      "stop": 73
     },
     {
       "content": "Quatre mensonges.\n— Béatrice ?",
       "index": 31,
-      "start": 73
+      "start": 73,
+      "stop": 75
     },
     {
       "content": "— Aline ?",
       "index": 32,
-      "start": 75
+      "start": 75,
+      "stop": 76
     },
     {
       "content": "Ah oui, parce qu'en fait, à l'époque\noù je draguais cette fille, Marla m'a\ndemandé:\n— C'est qui cette fille\navec qui tu es allée au cinéma, hier ?",
       "index": 33,
-      "start": 76
+      "start": 76,
+      "stop": 82
     },
     {
       "content": "J'ai dit:\n— Aline ? C'est ma sœur.",
       "index": 34,
-      "start": 82
+      "start": 82,
+      "stop": 84
     },
     {
       "content": "— Elle a une maladie de la mémoire,\nj'ai pas envie d'en parler.",
       "index": 35,
-      "start": 84
+      "start": 84,
+      "stop": 86
     },
     {
       "content": "Quatre mensonges en trois secondes.",
       "index": 36,
-      "start": 86
+      "start": 86,
+      "stop": 88
     },
     {
       "content": "C'était ça mon meilleur score.\n— Béatrice ?",
       "index": 37,
-      "start": 88
+      "start": 88,
+      "stop": 90
     },
     {
       "content": "— Aline ?",
       "index": 38,
-      "start": 90
+      "start": 90,
+      "stop": 90
     },
     {
       "content": "S'en est suivi le dialogue\nle plus triste de toute ma vie.",
       "index": 39,
-      "start": 90
+      "start": 90,
+      "stop": 92
     },
     {
       "content": "— Je m'appelle pas Aline.\n— Je m'appelle pas Béatrice.",
       "index": 40,
-      "start": 92
+      "start": 92,
+      "stop": 94
     },
     {
       "content": "— Qu'est-ce que tu fais là ?\n— Je viens voir ton frère.",
       "index": 41,
-      "start": 94
+      "start": 94,
+      "stop": 96
     },
     {
       "content": "— Je n'ai pas de frère.",
       "index": 42,
-      "start": 96
+      "start": 96,
+      "stop": 98
     },
     {
       "content": "— Ah ben oui, ta maladie de la mémoire.",
       "index": 43,
-      "start": 98
+      "start": 98,
+      "stop": 100
     },
     {
       "content": "— Si, tu as un frère.",
       "index": 44,
-      "start": 100
+      "start": 100,
+      "stop": 103
     },
     {
       "content": "— Il est chauve avec une barbe.",
       "index": 45,
-      "start": 103
+      "start": 103,
+      "stop": 106
     },
     {
       "content": "— Et moi, je m'appelle Marla.\n— Ok, d'accord, je vois de qui tu parles.",
       "index": 46,
-      "start": 106
+      "start": 106,
+      "stop": 110
     },
     {
       "content": "— Vas-y, entre. Chéri ?",
       "index": 47,
-      "start": 110
+      "start": 110,
+      "stop": 114
     },
     {
       "content": "Alors j'ai dit...",
       "index": 48,
-      "start": 115
+      "start": 115,
+      "stop": 118
     },
     {
       "content": "— Je suis désolé.",
       "index": 49,
-      "start": 118
+      "start": 118,
+      "stop": 120
     },
     {
       "content": "— Je crois que j'ai envoyé ton plan cul\ndirectement chez ta copine.",
       "index": 50,
-      "start": 120
+      "start": 120,
+      "stop": 126
     },
     {
       "content": "Bref, je suis dans la merde.",
       "index": 51,
-      "start": 126
+      "start": 126,
+      "stop": 129
     },
     {
       "content": "— Mec, tu m'en veux ?",
       "index": 52,
-      "start": 131
+      "start": 131,
+      "stop": 132
     },
     {
       "content": "— Pourquoi tu réponds pas ?",
       "index": 53,
-      "start": 132
+      "start": 132,
+      "stop": 134
     },
     {
       "content": "— Sérieux, je suis désolé.",
       "index": 54,
-      "start": 134
+      "start": 134,
+      "stop": 136
     },
     {
       "content": "— Elle était à poil.",
       "index": 55,
-      "start": 136
+      "start": 136,
+      "stop": 139
     }
   ]
 }

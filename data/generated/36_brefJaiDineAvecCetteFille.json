@@ -11,197 +11,236 @@
     {
       "content": "Bref, j'avais réussi à obtenir\nun dîner avec cette fille.",
       "index": 0,
-      "start": 1
+      "start": 1,
+      "stop": 3
     },
     {
       "content": "Elle s'est assise, je me suis assis\net là, on a commencé une partie du jeu\nle plus compliqué du monde.",
       "index": 1,
-      "start": 3
+      "start": 3,
+      "stop": 10
     },
     {
       "content": "\"Pécho moi si tu peux\"\nElle a sorti ses cartes \"Je raconte ma vie\".",
       "index": 2,
-      "start": 10
+      "start": 10,
+      "stop": 13
     },
     {
       "content": "J'étais super concentré.",
       "index": 3,
-      "start": 13
+      "start": 13,
+      "stop": 13
     },
     {
       "content": "Elle a dit:\n— J'ai une petite nièce, elle s'appelle Chloé.",
       "index": 4,
-      "start": 13
+      "start": 13,
+      "stop": 16
     },
     {
       "content": "— Elle est trop choute.\n— Elle adore la musique.",
       "index": 5,
-      "start": 16
+      "start": 16,
+      "stop": 19
     },
     {
       "content": "Chloé, nièce trop choute.\nMusique, OK.",
       "index": 6,
-      "start": 19
+      "start": 19,
+      "stop": 21
     },
     {
       "content": "— Par contre, ma tante, depuis qu'elle est\navec Thierry, elle va pas bien.",
       "index": 7,
-      "start": 21
+      "start": 21,
+      "stop": 24
     },
     {
       "content": "Tante mariage relou avec Thierry, OK.\nJ'ai essayé de tout bien retenir.",
       "index": 8,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "Je relance de sept et je recule.",
       "index": 9,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "J'ai posé deux cartes \"Argument\".",
       "index": 10,
-      "start": 28
+      "start": 28,
+      "stop": 29
     },
     {
       "content": "— J'habite plus chez mes parents.",
       "index": 11,
-      "start": 29
+      "start": 29,
+      "stop": 30
     },
     {
       "content": "— Et je joue de la guitare.",
       "index": 12,
-      "start": 30
+      "start": 30,
+      "stop": 32
     },
     {
       "content": "Un moment, le serveur est arrivé\net il a posé une carte:",
       "index": 13,
-      "start": 35
+      "start": 35,
+      "stop": 37
     },
     {
       "content": "\"Je sais faire des cocktails.\"\nJ'ai sorti ma carte: \"Mec, t'es\nqu'un serveur\", en disant:",
       "index": 14,
-      "start": 37
+      "start": 37,
+      "stop": 41
     },
     {
       "content": "— On pourrait avoir du pain,\ns'il vous plaît ?",
       "index": 15,
-      "start": 41
+      "start": 41,
+      "stop": 42
     },
     {
       "content": "— Mais bien sûr.",
       "index": 16,
-      "start": 45
+      "start": 45,
+      "stop": 46
     },
     {
       "content": "Retournez à la case cuisine\net ne touchez pas de pourboire.",
       "index": 17,
-      "start": 47
+      "start": 47,
+      "stop": 47
     },
     {
       "content": "Il est parti.\n— Qu'est-ce que t'aimes comme musique ?",
       "index": 18,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "J'ai lancé les dés.\n— Carbon Kevlar ?",
       "index": 19,
-      "start": 49
+      "start": 49,
+      "stop": 51
     },
     {
       "content": "— Oh. J'adore.\n— C'est vrai ?",
       "index": 20,
-      "start": 51
+      "start": 51,
+      "stop": 53
     },
     {
       "content": "— Ouais.\nEt j'ai rajouté:\n— J'adore la musique.",
       "index": 21,
-      "start": 53
+      "start": 53,
+      "stop": 55
     },
     {
       "content": "— Un peu comme ta petite nièce, Chloé.\nJ'étais trop fort.",
       "index": 22,
-      "start": 55
+      "start": 55,
+      "stop": 57
     },
     {
       "content": "Ensuite, je suis allé aux toilettes.",
       "index": 23,
-      "start": 57
+      "start": 57,
+      "stop": 58
     },
     {
       "content": "Quand je suis revenu, elle avait repris\nun verre, moins sept points de sobriété.",
       "index": 24,
-      "start": 58
+      "start": 58,
+      "stop": 60
     },
     {
       "content": "Yes.",
       "index": 25,
-      "start": 60
+      "start": 60,
+      "stop": 62
     },
     {
       "content": "J'ai joué tous mes billets sur l'addition.",
       "index": 26,
-      "start": 62
+      "start": 62,
+      "stop": 63
     },
     {
       "content": "J'ai marqué 19 points, j'allais gagné.",
       "index": 27,
-      "start": 63
+      "start": 63,
+      "stop": 64
     },
     {
       "content": "Je n'avais plus qu'à jouer\nle dernier verre chez moi.",
       "index": 28,
-      "start": 64
+      "start": 64,
+      "stop": 65
     },
     {
       "content": "Elle m'a dit:\n— Bon, bha, je vais y aller.",
       "index": 29,
-      "start": 65
+      "start": 65,
+      "stop": 67
     },
     {
       "content": "Hein ?\n— Hein ?",
       "index": 30,
-      "start": 67
+      "start": 67,
+      "stop": 68
     },
     {
       "content": "Le serveur est arrivé.",
       "index": 31,
-      "start": 68
+      "start": 68,
+      "stop": 69
     },
     {
       "content": "En y réfléchissant, j'ai compris\nqu'il jouait depuis le début.",
       "index": 32,
-      "start": 69
+      "start": 69,
+      "stop": 74
     },
     {
       "content": "Il avait utilisé ses cartes \"Regard en coin\",\nLe verre, c'était\nlui pendant que j'étais aux toilettes.",
       "index": 33,
-      "start": 74
+      "start": 74,
+      "stop": 78
     },
     {
       "content": "Et pire, il lui avait laissé la carte\n\"Je connais Carbon Kevlar,\nil mixe dans une heure.\"",
       "index": 34,
-      "start": 78
+      "start": 78,
+      "stop": 82
     },
     {
       "content": "— Salut.\nIl avait gagné, j'avais perdu.",
       "index": 35,
-      "start": 82
+      "start": 82,
+      "stop": 84
     },
     {
       "content": "— Salut.\nIls sont partis ensemble.",
       "index": 36,
-      "start": 84
+      "start": 84,
+      "stop": 87
     },
     {
       "content": "Bref, j'ai dîné avec cette fille.",
       "index": 37,
-      "start": 88
+      "start": 88,
+      "stop": 89
     },
     {
       "content": "— Je choisis le serveur\n— Parce qu'il connaît Carbon Kevlar.",
       "index": 38,
-      "start": 97
+      "start": 97,
+      "stop": 100
     }
   ]
 }

@@ -11,187 +11,224 @@
     {
       "content": "Bref, lui, c'est demain.",
       "index": 0,
-      "start": 6
+      "start": 6,
+      "stop": 7
     },
     {
       "content": "Tous les trucs que j'ai\nà faire, je les remets à demain.",
       "index": 1,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "Depuis deux ans, je dois résilier\nl'abonnement internet de mon ancien\nappartement, je le remets à demain.",
       "index": 2,
-      "start": 9
+      "start": 9,
+      "stop": 13
     },
     {
       "content": "Pareil pour le Tupperware rempli\nde moisi sur ma table de nuit.",
       "index": 3,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "Ça fait deux mois que je\nle remets à demain.",
       "index": 4,
-      "start": 15
+      "start": 15,
+      "stop": 16
     },
     {
       "content": "Je suis comme ça, je remets tout à demain.",
       "index": 5,
-      "start": 16
+      "start": 16,
+      "stop": 18
     },
     {
       "content": "J'ai 284 emails non lus.",
       "index": 6,
-      "start": 18
+      "start": 18,
+      "stop": 19
     },
     {
       "content": "Un jour, j'ai décidé de les trier,\nj'ai répondu à quatre emails et j'en\nai mis 280 dans un dossier à répondre.",
       "index": 7,
-      "start": 19
+      "start": 19,
+      "stop": 23
     },
     {
       "content": "Ça fait trois mois que je pisse dans le\nnoir parce que j'ai pas changé d'ampoule.",
       "index": 8,
-      "start": 23
+      "start": 23,
+      "stop": 26
     },
     {
       "content": "Quand je veux me désabonner\nd'un truc, s'il y a plus\nde deux étapes...\n— Appuyez sur trois.",
       "index": 9,
-      "start": 26
+      "start": 26,
+      "stop": 31
     },
     {
       "content": "Je reste abonné.",
       "index": 10,
-      "start": 33
+      "start": 33,
+      "stop": 34
     },
     {
       "content": "Je dois jeter les piles que j'ai pas\njetées à la poubelle parce qu'on m'a dit\nde pas les jeter à la poubelle.",
       "index": 11,
-      "start": 34
+      "start": 34,
+      "stop": 38
     },
     {
       "content": "Je dois résilier ma carte de cinéma\nparce que j'y vais plus depuis des mois\net quand je vais au cinéma,\nje retrouve plus ma carte.",
       "index": 12,
-      "start": 38
+      "start": 38,
+      "stop": 42
     },
     {
       "content": "Je range chez moi que quand\nquelqu'un doit venir.",
       "index": 13,
-      "start": 42
+      "start": 42,
+      "stop": 44
     },
     {
       "content": "En vérité, je déplace le bordel.",
       "index": 14,
-      "start": 44
+      "start": 44,
+      "stop": 45
     },
     {
       "content": "Je dois faire quelque\nchose de mes centimes.",
       "index": 15,
-      "start": 45
+      "start": 45,
+      "stop": 47
     },
     {
       "content": "J'ai acheté un disque dur\npour sauvegarder mes données au cas où.",
       "index": 16,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "J'ai jamais fait de sauvegarde dessus.\nJ'ai perdu mes données.",
       "index": 17,
-      "start": 49
+      "start": 49,
+      "stop": 51
     },
     {
       "content": "Je me suis dit que j'étais trop con.\n— Qu'est-ce que je suis con, merde !",
       "index": 18,
-      "start": 51
+      "start": 51,
+      "stop": 52
     },
     {
       "content": "C'était il y a un an.",
       "index": 19,
-      "start": 52
+      "start": 52,
+      "stop": 54
     },
     {
       "content": "J'ai toujours pas fait de sauvegarde.",
       "index": 20,
-      "start": 54
+      "start": 54,
+      "stop": 55
     },
     {
       "content": "J'ai commencé 12 livres,\nj'en ai fini aucun.",
       "index": 21,
-      "start": 55
+      "start": 55,
+      "stop": 57
     },
     {
       "content": "J'ai le droit aux allocations.\nJ'ai mis mon nom, mon prénom.",
       "index": 22,
-      "start": 57
+      "start": 57,
+      "stop": 59
     },
     {
       "content": "Après, il mettre ses\nrevenus de l'année dernière.",
       "index": 23,
-      "start": 59
+      "start": 59,
+      "stop": 62
     },
     {
       "content": "J'ai pas d'allocation.",
       "index": 24,
-      "start": 62
+      "start": 62,
+      "stop": 63
     },
     {
       "content": "J'ai acheté un cadre pour mettre\nune photo de mes parents dedans.",
       "index": 25,
-      "start": 63
+      "start": 63,
+      "stop": 64
     },
     {
       "content": "Je l'ai jamais fait.",
       "index": 26,
-      "start": 64
+      "start": 64,
+      "stop": 65
     },
     {
       "content": "Ça fait six mois que j'ai\nla photo d'une petite fille\nque je connais pas sur ma table de nuit.",
       "index": 27,
-      "start": 65
+      "start": 65,
+      "stop": 68
     },
     {
       "content": "Je l'ai appelée Alice et lui, c'est Rouky.",
       "index": 28,
-      "start": 68
+      "start": 68,
+      "stop": 70
     },
     {
       "content": "Bref, je remets tout à demain.",
       "index": 29,
-      "start": 70
+      "start": 70,
+      "stop": 72
     },
     {
       "content": "— Moi, c'est demain.",
       "index": 30,
-      "start": 73
+      "start": 73,
+      "stop": 75
     },
     {
       "content": "— Quand ce type me donne un truc,\nmoi, je le donne à jamais.",
       "index": 31,
-      "start": 75
+      "start": 75,
+      "stop": 80
     },
     {
       "content": "— Mais carrément, on se\nvoit demain soir, Sophie.",
       "index": 32,
-      "start": 86
+      "start": 86,
+      "stop": 88
     },
     {
       "content": "— Ouais, bha, je l'ai noté, t'inquiète pas.",
       "index": 33,
-      "start": 88
+      "start": 88,
+      "stop": 90
     },
     {
       "content": "— Regarde, demain soir, voir Sophie.",
       "index": 34,
-      "start": 90
+      "start": 90,
+      "stop": 92
     },
     {
       "content": "— C'est cool.\nJe t'embrasse.",
       "index": 35,
-      "start": 92
+      "start": 92,
+      "stop": 95
     },
     {
       "content": "— Compte sur moi, tu me connais.",
       "index": 36,
-      "start": 95
+      "start": 95,
+      "stop": 96
     }
   ]
 }

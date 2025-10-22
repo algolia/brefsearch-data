@@ -11,262 +11,314 @@
     {
       "content": "— De toute façon,\nn'hésitez pas à me contacter.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 1
     },
     {
       "content": "— Je suis Eric Dampierre, de Télécom 3000.",
       "index": 1,
-      "start": 1
+      "start": 1,
+      "stop": 3
     },
     {
       "content": "Ce soir-là, j'avais dit à Maud,\nl'ex de mon frère, que je venais\nà cette soirée déguisé.\n— Promis, hein ?",
       "index": 2,
-      "start": 3
+      "start": 3,
+      "stop": 6
     },
     {
       "content": "— Promis.\n— Promis, promis ?",
       "index": 3,
-      "start": 6
+      "start": 6,
+      "stop": 7
     },
     {
       "content": "— Promis, promis.",
       "index": 4,
-      "start": 7
+      "start": 7,
+      "stop": 8
     },
     {
       "content": "Je n'avais pas envie d'y aller,\nmais j'avais promis trois fois.",
       "index": 5,
-      "start": 8
+      "start": 8,
+      "stop": 9
     },
     {
       "content": "Il était 18h00.",
       "index": 6,
-      "start": 9
+      "start": 9,
+      "stop": 10
     },
     {
       "content": "J'allais sortir du taf, mon boss m'a\ndit:\n— Tu peux me classer les devis, là ?",
       "index": 7,
-      "start": 10
+      "start": 10,
+      "stop": 13
     },
     {
       "content": "— Y en a pour cinq petites minutes.\nJ'ai dit:\n— En fait, je dois y aller.",
       "index": 8,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "Ensuite, on a discuté.\nFight.\n— Ah bon mais ?",
       "index": 9,
-      "start": 15
+      "start": 15,
+      "stop": 16
     },
     {
       "content": "— Parce que je...\n— Mais tu...",
       "index": 10,
-      "start": 16
+      "start": 16,
+      "stop": 18
     },
     {
       "content": "— Oui mais..\n— Donc tu...",
       "index": 11,
-      "start": 18
+      "start": 18,
+      "stop": 19
     },
     {
       "content": "J'avais pas envie de le faire,\nmais j'ai dit:\n— D'accord.",
       "index": 12,
-      "start": 19
+      "start": 19,
+      "stop": 22
     },
     {
       "content": "À la fin des cinq petites\nminutes, il était 22h00.",
       "index": 13,
-      "start": 22
+      "start": 22,
+      "stop": 25
     },
     {
       "content": "Toutes les boutiques étaient fermées,\nmais j'avais promis de me déguiser.",
       "index": 14,
-      "start": 25
+      "start": 25,
+      "stop": 27
     },
     {
       "content": "Alors, j'ai acheté un foulard,\ndeux bagues et un vieux rimel\nà un vendeur à la sauvette.\nIl m'a dit:\n— 50 euros.",
       "index": 15,
-      "start": 27
+      "start": 27,
+      "stop": 31
     },
     {
       "content": "J'ai entendu:\n— Fallait pas promettre, mec.",
       "index": 16,
-      "start": 31
+      "start": 31,
+      "stop": 35
     },
     {
       "content": "J'étais le pire Jack Sparrow\nde toute l'histoire des Jack Sparrow.",
       "index": 17,
-      "start": 35
+      "start": 35,
+      "stop": 39
     },
     {
       "content": "— Entre.",
       "index": 18,
-      "start": 39
+      "start": 39,
+      "stop": 39
     },
     {
       "content": "Je n'avais pas envie de rentrer,\nje suis rentré.",
       "index": 19,
-      "start": 39
+      "start": 39,
+      "stop": 41
     },
     {
       "content": "Il y avait tout ce que je déteste\ndans les soirées déguisées.",
       "index": 20,
-      "start": 41
+      "start": 41,
+      "stop": 43
     },
     {
       "content": "Le mec que personne ne connaît\net qui est même pas déguisé.",
       "index": 21,
-      "start": 43
+      "start": 43,
+      "stop": 45
     },
     {
       "content": "Le mec qui te demande:\n— À ton avis, je suis qui ?",
       "index": 22,
-      "start": 45
+      "start": 45,
+      "stop": 47
     },
     {
       "content": "Un connard ?\n— Superman ?",
       "index": 23,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "— Ouais.",
       "index": 24,
-      "start": 49
+      "start": 49,
+      "stop": 49
     },
     {
       "content": "La meuf qui te demande:\n— À ton avis, je suis qui ?",
       "index": 25,
-      "start": 49
+      "start": 49,
+      "stop": 51
     },
     {
       "content": "Une meuf qui profite que c'est une soirée\ndéguisée pour s'habiller comme une pute ?",
       "index": 26,
-      "start": 51
+      "start": 51,
+      "stop": 54
     },
     {
       "content": "— L'infirmière dans Kill Bill.",
       "index": 27,
-      "start": 54
+      "start": 54,
+      "stop": 55
     },
     {
       "content": "J'étais vraiment saoulé.",
       "index": 28,
-      "start": 55
+      "start": 55,
+      "stop": 56
     },
     {
       "content": "Le sol collait, mes potes\nétaient déjà bourrés.",
       "index": 29,
-      "start": 56
+      "start": 56,
+      "stop": 58
     },
     {
       "content": "Baptiste était déjà en train de vomir.",
       "index": 30,
-      "start": 58
+      "start": 58,
+      "stop": 59
     },
     {
       "content": "Julien avait un déguisement\nqui lui allait pas du tout.",
       "index": 31,
-      "start": 59
+      "start": 59,
+      "stop": 60
     },
     {
       "content": "Et en plus, il y avait ma copine\nque j'avais trompée et qui m'avait dit\nqu'elle serait pas là.",
       "index": 32,
-      "start": 60
+      "start": 60,
+      "stop": 65
     },
     {
       "content": "Putain.\nElle est venue, elle m'a fait une blague.",
       "index": 33,
-      "start": 65
+      "start": 65,
+      "stop": 67
     },
     {
       "content": "C'était pas marrant.\nJ'ai pas rigolé, je lui ai dit.",
       "index": 34,
-      "start": 67
+      "start": 67,
+      "stop": 70
     },
     {
       "content": "— Qu'est-ce que tu fais là ?",
       "index": 35,
-      "start": 70
+      "start": 70,
+      "stop": 71
     },
     {
       "content": "J'ai reçu un texto où il y avait écrit:\n\"LARGUE-LAAAAAAAA\" avec 8 A, très exactement.",
       "index": 36,
-      "start": 71
+      "start": 71,
+      "stop": 75
     },
     {
       "content": "C'était Kheiron sur le canapé\nqui nous matait depuis tout à l'heure.",
       "index": 37,
-      "start": 75
+      "start": 75,
+      "stop": 77
     },
     {
       "content": "Elle m'a dit:\n— Je vais fumer.\nJe ne supporte pas la cigarette.",
       "index": 38,
-      "start": 77
+      "start": 77,
+      "stop": 80
     },
     {
       "content": "— Tu viens ?",
       "index": 39,
-      "start": 80
+      "start": 80,
+      "stop": 80
     },
     {
       "content": "J'ai dit:\n— Non.",
       "index": 40,
-      "start": 80
+      "start": 80,
+      "stop": 82
     },
     {
       "content": "Elle n'en avait rien à foutre, elle est\npartie.",
       "index": 41,
-      "start": 82
+      "start": 82,
+      "stop": 86
     },
     {
       "content": "C'était vraiment la pire soirée de ma vie.",
       "index": 42,
-      "start": 86
+      "start": 86,
+      "stop": 89
     },
     {
       "content": "Au bout d'un quart d'heure,\nj'ai décidé de partir.",
       "index": 43,
-      "start": 89
+      "start": 89,
+      "stop": 91
     },
     {
       "content": "J'ai bousculé ce mec\nque personne ne connaissait.",
       "index": 44,
-      "start": 91
+      "start": 91,
+      "stop": 93
     },
     {
       "content": "J'ai dit:\n— Putain, fais gaffe, merde.\n— Ça va, tranquille.",
       "index": 45,
-      "start": 93
+      "start": 93,
+      "stop": 94
     },
     {
       "content": "— C'est quoi ton problème ?",
       "index": 46,
-      "start": 94
+      "start": 94,
+      "stop": 95
     },
     {
       "content": "Et la suite...",
       "index": 47,
-      "start": 95
+      "start": 95,
+      "stop": 97
     },
     {
       "content": "J'ai pas envie d'en parler.",
       "index": 48,
-      "start": 97
+      "start": 97,
+      "stop": 99
     },
     {
       "content": "Bref, j'ai fait une soirée déguisée.",
       "index": 49,
-      "start": 99
+      "start": 99,
+      "stop": 101
     },
     {
       "content": "— T'as vu ?",
       "index": 50,
-      "start": 104
+      "start": 104,
+      "stop": 105
     },
     {
       "content": "— Encore une déguisée comme une pute.",
       "index": 51,
-      "start": 105
+      "start": 105,
+      "stop": 106
     }
   ]
 }

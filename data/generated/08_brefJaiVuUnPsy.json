@@ -11,122 +11,146 @@
     {
       "content": "J'ai pleuré.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "Les 19 séances suivantes,\nil a dit:\n— Ah. Et ?",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 9
     },
     {
       "content": "— Hmm. Et ? Et ? Ah. Hmm. Pourquoi ?\n— Donc. Ah. Hein? Hein? Mais ? Pourquoi ?\n— Soixante-douze euros.",
       "index": 2,
-      "start": 9
+      "start": 9,
+      "stop": 12
     },
     {
       "content": "À la 22ème séance, je lui ai\ndit:\n— J'ai rencontré une fille.",
       "index": 3,
-      "start": 12
+      "start": 12,
+      "stop": 15
     },
     {
       "content": "À la 23ème:\n— Comment elle a pu me faire ça ?",
       "index": 4,
-      "start": 15
+      "start": 15,
+      "stop": 16
     },
     {
       "content": "— C'est vraiment une salope.",
       "index": 5,
-      "start": 16
+      "start": 16,
+      "stop": 17
     },
     {
       "content": "À la 24ème:\n— Ce n'est pas\ndu tout ce que je croyais.",
       "index": 6,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "— Je crois que je l'aime bien.",
       "index": 7,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "25ème:\n— Non, je crois\nque je vais laisser tomber.",
       "index": 8,
-      "start": 20
+      "start": 20,
+      "stop": 22
     },
     {
       "content": "26ème:\n— J'ai rencontré une autre fille.",
       "index": 9,
-      "start": 22
+      "start": 22,
+      "stop": 24
     },
     {
       "content": "27ème:\n— C'est vraiment une salope.\n28ème:\n— Je crois que je l'aime bien.",
       "index": 10,
-      "start": 24
+      "start": 24,
+      "stop": 26
     },
     {
       "content": "29:\n— Je crois que je vais laisser tomber.\n— Une fille.\n— Salope.",
       "index": 11,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "— Bien.\n— Tomber.",
       "index": 12,
-      "start": 28
+      "start": 28,
+      "stop": 28
     },
     {
       "content": "À la 34ème séance, je lui ai dit:\n— Vous croyez\nque je vais finir seul comme mon père ?",
       "index": 13,
-      "start": 28
+      "start": 28,
+      "stop": 33
     },
     {
       "content": "— On se revoit la semaine prochaine. 72 €.",
       "index": 14,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "À la 35ème séance, j'ai surpris\nmon psy en slip avec un chat.",
       "index": 15,
-      "start": 35
+      "start": 35,
+      "stop": 39
     },
     {
       "content": "Il m'a regardé, je l'ai\nregardé, il m'a regardé.",
       "index": 16,
-      "start": 39
+      "start": 39,
+      "stop": 41
     },
     {
       "content": "J'ai regardé le chat, le chat m'a\nregardé, il a regardé le chat.",
       "index": 17,
-      "start": 41
+      "start": 41,
+      "stop": 43
     },
     {
       "content": "Le mec qui filmait nous a regardé.",
       "index": 18,
-      "start": 43
+      "start": 43,
+      "stop": 47
     },
     {
       "content": "J'ai regardé Christine.",
       "index": 19,
-      "start": 47
+      "start": 47,
+      "stop": 49
     },
     {
       "content": "Christine m'a regardé.",
       "index": 20,
-      "start": 50
+      "start": 50,
+      "stop": 51
     },
     {
       "content": "On était passé à l'heure d'été,\nj'étais arrivé une heure en retard.",
       "index": 21,
-      "start": 51
+      "start": 51,
+      "stop": 54
     },
     {
       "content": "Bref, j'ai vu un psy.",
       "index": 22,
-      "start": 54
+      "start": 54,
+      "stop": 56
     },
     {
       "content": "— Pan, dans ta face !",
       "index": 23,
-      "start": 58
+      "start": 58,
+      "stop": 60
     }
   ]
 }

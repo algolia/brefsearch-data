@@ -11,177 +11,212 @@
     {
       "content": "Bref, ça faisait un moment\nque je cherchais du boulot.",
       "index": 0,
-      "start": 6
+      "start": 6,
+      "stop": 8
     },
     {
       "content": "Un soir, j'ai craqué.",
       "index": 1,
-      "start": 8
+      "start": 8,
+      "stop": 9
     },
     {
       "content": "J'ai envoyé 257 emails copiés-collés\nà toutes les entreprises\npas trop loin de chez moi.",
       "index": 2,
-      "start": 9
+      "start": 9,
+      "stop": 12
     },
     {
       "content": "Je me suis dit quitte à me faire\nchier, autant que ce soit tout prêt.",
       "index": 3,
-      "start": 12
+      "start": 12,
+      "stop": 14
     },
     {
       "content": "Il y en a un seul qui m'a rappelé.",
       "index": 4,
-      "start": 14
+      "start": 14,
+      "stop": 15
     },
     {
       "content": "Je ne sais plus pour quel boulot c'était,\nmais j'ai répondu très sincèrement:",
       "index": 5,
-      "start": 15
+      "start": 15,
+      "stop": 17
     },
     {
       "content": "Ça serait un véritable honneur\nd'intégrer votre équipe.",
       "index": 6,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "J'ai raccroché.",
       "index": 7,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "J'ai tapé le nom de la\nsociété sur Internet.",
       "index": 8,
-      "start": 20
+      "start": 20,
+      "stop": 22
     },
     {
       "content": "C'était soit une maladie vénérienne,\nsoit une branche de l'ONU, soit des mecs\nqui louent des photocopieuses.\nDes mecs qui louent des photocopieuses.",
       "index": 9,
-      "start": 22
+      "start": 22,
+      "stop": 27
     },
     {
       "content": "J'avais tout bien préparé.\nJ'avais fait mon CV.",
       "index": 10,
-      "start": 27
+      "start": 27,
+      "stop": 29
     },
     {
       "content": "Dans la case loisirs, j'avais mis\nque j'aimais bien le kayak.",
       "index": 11,
-      "start": 29
+      "start": 29,
+      "stop": 31
     },
     {
       "content": "Je n'avais jamais fait de kayak,\nmais j'aimais bien les mots\nqui se lisent dans les deux sens.",
       "index": 12,
-      "start": 31
+      "start": 31,
+      "stop": 34
     },
     {
       "content": "J'avais mis le costume que je mets\naux mariages, aux enterrements\net aux entretiens d'embauche.",
       "index": 13,
-      "start": 34
+      "start": 34,
+      "stop": 37
     },
     {
       "content": "À côté de moi, il y avait ce mec.\nJe l'ai trouvé bizarre.",
       "index": 14,
-      "start": 37
+      "start": 37,
+      "stop": 39
     },
     {
       "content": "Il était trop propre sur lui.",
       "index": 15,
-      "start": 39
+      "start": 39,
+      "stop": 41
     },
     {
       "content": "Je me suis dit que ça\ncachait quelque chose.",
       "index": 16,
-      "start": 41
+      "start": 41,
+      "stop": 42
     },
     {
       "content": "Le directeur m'a appelé.",
       "index": 17,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "On s'est installé, j'ai regardé\nsa cravate, c'était une cravate dingo.",
       "index": 18,
-      "start": 48
+      "start": 48,
+      "stop": 51
     },
     {
       "content": "Je me suis demandé si un jour,\nil était vraiment entré dans une boutique\net qu'il avait dit:\n— Bonjour madame, je voudrais une cravate dingo",
       "index": 19,
-      "start": 51
+      "start": 51,
+      "stop": 55
     },
     {
       "content": "parce que je suis un vrai déglingo.\nÇa m'a fait rigoler.",
       "index": 20,
-      "start": 55
+      "start": 55,
+      "stop": 57
     },
     {
       "content": "Il m'a vu rigoler, mais je crois\nqu'il a cru que sa cravate était cool.",
       "index": 21,
-      "start": 57
+      "start": 57,
+      "stop": 59
     },
     {
       "content": "Il m'a demandé:\n— Do you speak English?\nJ'ai dit:\n— Yes.",
       "index": 22,
-      "start": 59
+      "start": 59,
+      "stop": 61
     },
     {
       "content": "Après, il a dit:\n— Where are you from?\nJ'ai répondu:\n— Yes.",
       "index": 23,
-      "start": 61
+      "start": 61,
+      "stop": 64
     },
     {
       "content": "Il m'a demandé quel était\nmon plus grand défaut.",
       "index": 24,
-      "start": 67
+      "start": 67,
+      "stop": 70
     },
     {
       "content": "J'hésitais entre timide,\nmaniaque, obsessionnel, lâche,\ndépressif, feignant, menteur.\nJ'ai répondu:\n— Perfectioniste?",
       "index": 25,
-      "start": 70
+      "start": 70,
+      "stop": 73
     },
     {
       "content": "En fait, c'était menteur.\nIl m'a dit:\n— Ah vous.. vous aimez le kayak ?",
       "index": 26,
-      "start": 73
+      "start": 73,
+      "stop": 76
     },
     {
       "content": "J'ai dit:\n— Oui.",
       "index": 27,
-      "start": 76
+      "start": 76,
+      "stop": 77
     },
     {
       "content": "Il m'a dit:\n— kayak de mer\nou kayak d'eau vive ?",
       "index": 28,
-      "start": 77
+      "start": 77,
+      "stop": 78
     },
     {
       "content": "J'ai dit:\n— Vous avez remarqué,\nça se lit dans les deux sens.",
       "index": 29,
-      "start": 78
+      "start": 78,
+      "stop": 84
     },
     {
       "content": "Il a rayé kayak.",
       "index": 30,
-      "start": 84
+      "start": 84,
+      "stop": 86
     },
     {
       "content": "Il m'a dit:\n— On vous rappellera.\nJ'ai entendu:",
       "index": 31,
-      "start": 86
+      "start": 86,
+      "stop": 89
     },
     {
       "content": "— Va te faire enculer.\nBref, j'ai passé un entretien d'embauche.",
       "index": 32,
-      "start": 89
+      "start": 89,
+      "stop": 96
     },
     {
       "content": "— Viens.",
       "index": 33,
-      "start": 96
+      "start": 96,
+      "stop": 98
     },
     {
       "content": "— Viens.",
       "index": 34,
-      "start": 98
+      "start": 98,
+      "stop": 100
     }
   ]
 }

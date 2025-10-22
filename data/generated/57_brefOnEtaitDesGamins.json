@@ -11,187 +11,224 @@
     {
       "content": "— C'est une sacrée histoire aussi, ça.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "La première fois que j'ai vraiment été\nen couple, c'était avec mon ex.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 4
     },
     {
       "content": "Un jour, elle m'a dit:\n— Tu fais quoi ce soir ?",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 5
     },
     {
       "content": "J'ai dit: — Rien.\nElle m'a dit: — Moi non plus.",
       "index": 3,
-      "start": 5
+      "start": 5,
+      "stop": 7
     },
     {
       "content": "J'ai dit: — On le fait ensemble ?\nElle m'a dit: — OK.",
       "index": 4,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "Voilà.",
       "index": 5,
-      "start": 9
+      "start": 9,
+      "stop": 9
     },
     {
       "content": "Être en couple, pour moi, c'est pas\nse marier, emménager ensemble\nou changer de statut Facebook.",
       "index": 6,
-      "start": 9
+      "start": 9,
+      "stop": 12
     },
     {
       "content": "C'est de décider que quand on n'a\nrien à faire, on le fait à deux.",
       "index": 7,
-      "start": 12
+      "start": 12,
+      "stop": 14
     },
     {
       "content": "La première fois qu'on n'a\nrien fait ensemble, on n'a rien fait.",
       "index": 8,
-      "start": 14
+      "start": 14,
+      "stop": 17
     },
     {
       "content": "Mais c'était bien parce\nqu'on était amoureux.",
       "index": 9,
-      "start": 17
+      "start": 17,
+      "stop": 19
     },
     {
       "content": "Les dix fois suivantes,\non s'est avoué des trucs.",
       "index": 10,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "— En fait, dans ma tête, des fois,\nil y a une voix qui va vite.",
       "index": 11,
-      "start": 20
+      "start": 20,
+      "stop": 24
     },
     {
       "content": "La 11ᵉ fois, on a rigolé.",
       "index": 12,
-      "start": 24
+      "start": 24,
+      "stop": 25
     },
     {
       "content": "Et puis un jour:\n— Viens, on fait une cabane.",
       "index": 13,
-      "start": 25
+      "start": 25,
+      "stop": 28
     },
     {
       "content": "— Oui.\nOn a fait les gamins.",
       "index": 14,
-      "start": 28
+      "start": 28,
+      "stop": 30
     },
     {
       "content": "— Bonjour Madame, c'est très beau chez vous.",
       "index": 15,
-      "start": 30
+      "start": 30,
+      "stop": 34
     },
     {
       "content": "— Ce n'est pas chez moi, c'est chez l'ours.\n— Chut.",
       "index": 16,
-      "start": 34
+      "start": 34,
+      "stop": 38
     },
     {
       "content": "Quand t'es en couple,\ntu retombes en enfance.",
       "index": 17,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "On passait nos journées à jouer.",
       "index": 18,
-      "start": 42
+      "start": 42,
+      "stop": 44
     },
     {
       "content": "On jouait avec la nourriture.\n— Je vais appeler l'ours.",
       "index": 19,
-      "start": 44
+      "start": 44,
+      "stop": 50
     },
     {
       "content": "On regardait des films qui font peur\nen mangeant des bonbons.",
       "index": 20,
-      "start": 50
+      "start": 50,
+      "stop": 53
     },
     {
       "content": "On jouait à chat, à la barbichette\net à n'importe quoi.",
       "index": 21,
-      "start": 53
+      "start": 53,
+      "stop": 56
     },
     {
       "content": "— Attends.",
       "index": 22,
-      "start": 56
+      "start": 56,
+      "stop": 59
     },
     {
       "content": "— Allô, oui ?",
       "index": 23,
-      "start": 59
+      "start": 59,
+      "stop": 60
     },
     {
       "content": "— Oui, j'arriverai à 8h00\nsamedi, c'est pas très grave.",
       "index": 24,
-      "start": 60
+      "start": 60,
+      "stop": 63
     },
     {
       "content": "— Mais arrête !",
       "index": 25,
-      "start": 63
+      "start": 63,
+      "stop": 65
     },
     {
       "content": "— Oui, voilà. Au revoir.",
       "index": 26,
-      "start": 65
+      "start": 65,
+      "stop": 67
     },
     {
       "content": "— Tu m'as embêté, je vais appeler l'ours.",
       "index": 27,
-      "start": 67
+      "start": 67,
+      "stop": 69
     },
     {
       "content": "C'était les meilleurs moments.",
       "index": 28,
-      "start": 69
+      "start": 69,
+      "stop": 70
     },
     {
       "content": "Et puis un jour,\non a trop fait les adultes.",
       "index": 29,
-      "start": 70
+      "start": 70,
+      "stop": 74
     },
     {
       "content": "— Putain, mais grandi quoi !\n— Tu sais quoi ? Je t'ai jamais aimé.",
       "index": 30,
-      "start": 74
+      "start": 74,
+      "stop": 74
     },
     {
       "content": "— Attends, c'est pas ce que je voulais dire.",
       "index": 31,
-      "start": 84
+      "start": 84,
+      "stop": 87
     },
     {
       "content": "— Allez, viens.",
       "index": 32,
-      "start": 105
+      "start": 105,
+      "stop": 112
     },
     {
       "content": "Bref, on était des gamins.",
       "index": 33,
-      "start": 112
+      "start": 112,
+      "stop": 119
     },
     {
       "content": "— Putain, mais t'es con.",
       "index": 34,
-      "start": 122
+      "start": 122,
+      "stop": 124
     },
     {
       "content": "— T'es vraiment un gamin des fois, putain.\n— Ça va, c'est...",
       "index": 35,
-      "start": 124
+      "start": 124,
+      "stop": 128
     },
     {
       "content": "— Je l'aime pas trop, elle.",
       "index": 36,
-      "start": 129
+      "start": 129,
+      "stop": 133
     }
   ]
 }

@@ -11,272 +11,326 @@
     {
       "content": "— Oui, je vous appelle concernant l'offre.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 1
     },
     {
       "content": "Bref. Mon nom à moi, c'est Eric Dampierre.\nLui, c'est Eric Dampierre.",
       "index": 1,
-      "start": 1
+      "start": 1,
+      "stop": 4
     },
     {
       "content": "Lui, c'est Eric Dampierre.\nEt lui, c'est Eric Dampierre.",
       "index": 2,
-      "start": 4
+      "start": 4,
+      "stop": 6
     },
     {
       "content": "— Eric Dampierre,\nà l'appareil de Télécom 3000.",
       "index": 3,
-      "start": 6
+      "start": 6,
+      "stop": 7
     },
     {
       "content": "— Bonjour.",
       "index": 4,
-      "start": 7
+      "start": 7,
+      "stop": 8
     },
     {
       "content": "Parmi les tafs de merde que j'ai pu\navoir, il y a eu le télémarketing.",
       "index": 5,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "On s'appelait tous Eric Dampierre.",
       "index": 6,
-      "start": 10
+      "start": 10,
+      "stop": 11
     },
     {
       "content": "Comme ça, quand quelqu'un nous rappelait\nen nous disant:",
       "index": 7,
-      "start": 11
+      "start": 11,
+      "stop": 13
     },
     {
       "content": "— Bonjour, j'aimerais parler à\nmonsieur Eric Dampierre, s'il vous plaît.",
       "index": 8,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "N'importe qui pouvait répondre.\n— Oui, c'est moi.",
       "index": 9,
-      "start": 15
+      "start": 15,
+      "stop": 16
     },
     {
       "content": "— Oui, c'est moi.\n— Oui, c'est moi.",
       "index": 10,
-      "start": 16
+      "start": 16,
+      "stop": 18
     },
     {
       "content": "— C'est moi-même, qui le demande ?",
       "index": 11,
-      "start": 18
+      "start": 18,
+      "stop": 19
     },
     {
       "content": "— Bonjour Madame Dubreuil.",
       "index": 12,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "On avait une fiche qui résumait le client.",
       "index": 13,
-      "start": 20
+      "start": 20,
+      "stop": 21
     },
     {
       "content": "— Alors, vous avez réfléchi\nà la proposition d'hier ?",
       "index": 14,
-      "start": 21
+      "start": 21,
+      "stop": 23
     },
     {
       "content": "— Oui.\n— En fait, j'en ai pas vraiment besoin.",
       "index": 15,
-      "start": 23
+      "start": 23,
+      "stop": 26
     },
     {
       "content": "— Maintenant que je suis à la retraite\net que mon mari n'est plus là.",
       "index": 16,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "On avait réponse à tout\ngrâce au script d'appel.",
       "index": 17,
-      "start": 28
+      "start": 28,
+      "stop": 29
     },
     {
       "content": "Le script d'appel, c'est un arbre\navec toutes les possibilités de réponses.",
       "index": 18,
-      "start": 29
+      "start": 29,
+      "stop": 31
     },
     {
       "content": "C'est comme aux échecs.",
       "index": 19,
-      "start": 31
+      "start": 31,
+      "stop": 32
     },
     {
       "content": "On avait dix coups d'avance préparés\npar des mecs en costard dans des bureaux.",
       "index": 20,
-      "start": 32
+      "start": 32,
+      "stop": 35
     },
     {
       "content": "Du coup, ça donnait:\n— Je peux pas me le permettre.",
       "index": 21,
-      "start": 36
+      "start": 36,
+      "stop": 38
     },
     {
       "content": "Round One Fight:\n— Oui, mais...\n— C'est vrai, mais..",
       "index": 22,
-      "start": 38
+      "start": 38,
+      "stop": 40
     },
     {
       "content": "— Vous savez...\n— Ah bon ?\n— Oui, car...",
       "index": 23,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "— Bha...\n— Parfait.",
       "index": 24,
-      "start": 42
+      "start": 42,
+      "stop": 43
     },
     {
       "content": "— Et la date d'expiration de votre carte.\nYou win.",
       "index": 25,
-      "start": 43
+      "start": 43,
+      "stop": 46
     },
     {
       "content": "— Merci, passez une excellente\njournée, au revoir.",
       "index": 26,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "Si je rackettais cette petite vieille\nau téléphone, c'est parce qu'au-dessus\nde tous les Eric Dampierre,\nil y avait l'écran d'objectif.",
       "index": 27,
-      "start": 48
+      "start": 48,
+      "stop": 51
     },
     {
       "content": "Si j'atteignais pas mon objectif,\nmon salaire de merde devenait\nun salaire de grosse merde.",
       "index": 28,
-      "start": 51
+      "start": 51,
+      "stop": 54
     },
     {
       "content": "Mon objectif était calculé\npour être 20% supérieur à l'objectif\nque j'avais atteint le mois précédent.",
       "index": 29,
-      "start": 54
+      "start": 54,
+      "stop": 57
     },
     {
       "content": "En gros, travailler\nplus pour gagner pareil.",
       "index": 30,
-      "start": 57
+      "start": 57,
+      "stop": 58
     },
     {
       "content": "Le responsable de plateau nous espionnait.",
       "index": 31,
-      "start": 58
+      "start": 58,
+      "stop": 61
     },
     {
       "content": "— Mais je peux vous écrire.",
       "index": 32,
-      "start": 61
+      "start": 61,
+      "stop": 62
     },
     {
       "content": "— Je viens d'écouter\nta conversation, ça va pas du tout.",
       "index": 33,
-      "start": 62
+      "start": 62,
+      "stop": 65
     },
     {
       "content": "— Tu fais beaucoup trop d'interro négatives.\nLui, c'est Stanley.",
       "index": 34,
-      "start": 65
+      "start": 65,
+      "stop": 67
     },
     {
       "content": "Il utilise des mots que seuls\nles mecs de sa race comprennent.",
       "index": 35,
-      "start": 67
+      "start": 67,
+      "stop": 68
     },
     {
       "content": "— Déjà que le presta\nqui outsource nous a sous-taffé.",
       "index": 36,
-      "start": 68
+      "start": 68,
+      "stop": 70
     },
     {
       "content": "—  n est overkill à cause de leur match-coding\nmal foutu, tu peux pas te permettre ça.",
       "index": 37,
-      "start": 70
+      "start": 70,
+      "stop": 73
     },
     {
       "content": "— Regarde Mamadou, lui,\nc'est un bon Éric Dampierre.",
       "index": 38,
-      "start": 73
+      "start": 73,
+      "stop": 76
     },
     {
       "content": "— Qui le demande ?",
       "index": 39,
-      "start": 76
+      "start": 76,
+      "stop": 77
     },
     {
       "content": "Je détestais ce taf de merde,\nmais il y avait des bons côtés.",
       "index": 40,
-      "start": 77
+      "start": 77,
+      "stop": 79
     },
     {
       "content": "— Non.\n— Allez...\n— Non, je suis pas dans le délire, là.",
       "index": 41,
-      "start": 79
+      "start": 79,
+      "stop": 82
     },
     {
       "content": "Round Two Fight:\n— Oui mais...\n— C'est vrai mais...\n— Tu sais ?",
       "index": 42,
-      "start": 82
+      "start": 82,
+      "stop": 85
     },
     {
       "content": "— Ah bon ?\n— Oui, carrément.\n— Bon ben...",
       "index": 43,
-      "start": 85
+      "start": 85,
+      "stop": 86
     },
     {
       "content": "— Parfait, alors.\nYou win! Perfect.",
       "index": 44,
-      "start": 86
+      "start": 86,
+      "stop": 90
     },
     {
       "content": "Bref, je m'appelle Éric Dampierre.",
       "index": 45,
-      "start": 90
+      "start": 90,
+      "stop": 94
     },
     {
       "content": "— Oui.\n— Bonjour, Bruno Dussellier.",
       "index": 46,
-      "start": 94
+      "start": 94,
+      "stop": 95
     },
     {
       "content": "— Je vous appelle à propos\nde votre abonnement.",
       "index": 47,
-      "start": 95
+      "start": 95,
+      "stop": 97
     },
     {
       "content": "— En fait...",
       "index": 48,
-      "start": 97
+      "start": 97,
+      "stop": 98
     },
     {
       "content": "— Je ne souhaite pas\nrépondre à vos questions.",
       "index": 49,
-      "start": 98
+      "start": 98,
+      "stop": 100
     },
     {
       "content": "— Ah bon ? Pourquoi ?",
       "index": 50,
-      "start": 100
+      "start": 100,
+      "stop": 101
     },
     {
       "content": "— Ceci est une question,\nje ne souhaite pas y répondre.",
       "index": 51,
-      "start": 101
+      "start": 101,
+      "stop": 103
     },
     {
       "content": "— Vous êtes dans la maison ?",
       "index": 52,
-      "start": 105
+      "start": 105,
+      "stop": 105
     },
     {
       "content": "— Oui. Bon courage.",
       "index": 53,
-      "start": 106
+      "start": 106,
+      "stop": 107
     }
   ]
 }

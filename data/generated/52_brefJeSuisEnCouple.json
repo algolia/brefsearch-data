@@ -11,202 +11,242 @@
     {
       "content": "— Viens, on va draguer des filles.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 1
     },
     {
       "content": "— Où on n'a qu'à acheter des Transformers.",
       "index": 1,
-      "start": 1
+      "start": 1,
+      "stop": 3
     },
     {
       "content": "— Ou alors, on se balade\njuste pour se balader.",
       "index": 2,
-      "start": 3
+      "start": 3,
+      "stop": 5
     },
     {
       "content": "— Ou non, viens, on mate les trois\nRetour vers le Futur en slip.",
       "index": 3,
-      "start": 5
+      "start": 5,
+      "stop": 7
     },
     {
       "content": "Bref. Lui, c'est ma liberté.",
       "index": 4,
-      "start": 7
+      "start": 7,
+      "stop": 8
     },
     {
       "content": "Quand je suis célibataire,\nil traîne tout le temps avec moi.",
       "index": 5,
-      "start": 8
+      "start": 8,
+      "stop": 10
     },
     {
       "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
       "index": 6,
-      "start": 10
+      "start": 10,
+      "stop": 13
     },
     {
       "content": "Quand je suis bourré, il me dit:\n— Bois.\nJe bois.",
       "index": 7,
-      "start": 16
+      "start": 16,
+      "stop": 19
     },
     {
       "content": "— Plus.\nJe bois plus.",
       "index": 8,
-      "start": 19
+      "start": 19,
+      "stop": 20
     },
     {
       "content": "— Vomis où tu veux.",
       "index": 9,
-      "start": 20
+      "start": 20,
+      "stop": 22
     },
     {
       "content": "Après, il me dit:\n— Hey, tu devrais dire\nà tous ces gens que tu les aimes.",
       "index": 10,
-      "start": 22
+      "start": 22,
+      "stop": 25
     },
     {
       "content": "— Ah et, montre ton cul, après.",
       "index": 11,
-      "start": 25
+      "start": 25,
+      "stop": 26
     },
     {
       "content": "— Hey, je vais vous montrer mon cul.",
       "index": 12,
-      "start": 26
+      "start": 26,
+      "stop": 27
     },
     {
       "content": "On se voit le soir parce que la journée,\nmon patron essaie de le tuer.",
       "index": 13,
-      "start": 27
+      "start": 27,
+      "stop": 30
     },
     {
       "content": "— Ça, c'est à faire avant demain matin.",
       "index": 14,
-      "start": 30
+      "start": 30,
+      "stop": 34
     },
     {
       "content": "— D'accord.",
       "index": 15,
-      "start": 35
+      "start": 35,
+      "stop": 36
     },
     {
       "content": "Et le pire, c'est quand\nje me pose avec une fille.",
       "index": 16,
-      "start": 36
+      "start": 36,
+      "stop": 38
     },
     {
       "content": "Au début, on est bien tous les trois.",
       "index": 17,
-      "start": 38
+      "start": 38,
+      "stop": 39
     },
     {
       "content": "Et puis, petit à petit...\n— T'as pas fait la vaisselle ?",
       "index": 18,
-      "start": 40
+      "start": 40,
+      "stop": 42
     },
     {
       "content": "Il s'éloigne.\n— Tu pourras virer tes trucs périmés, là ?",
       "index": 19,
-      "start": 42
+      "start": 42,
+      "stop": 43
     },
     {
       "content": "Beaucoup.",
       "index": 20,
-      "start": 43
+      "start": 43,
+      "stop": 44
     },
     {
       "content": "— Au fait, on va chez mes parents ce week-end.",
       "index": 21,
-      "start": 44
+      "start": 44,
+      "stop": 46
     },
     {
       "content": "Beaucoup trop.\n— Cool.",
       "index": 22,
-      "start": 46
+      "start": 46,
+      "stop": 47
     },
     {
       "content": "Et puis, un jour...",
       "index": 23,
-      "start": 48
+      "start": 48,
+      "stop": 49
     },
     {
       "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
       "index": 24,
-      "start": 49
+      "start": 49,
+      "stop": 52
     },
     {
       "content": "— Ah non, j'ai pas pris mon\nproduit à lentilles.",
       "index": 25,
-      "start": 52
+      "start": 52,
+      "stop": 56
     },
     {
       "content": "Il disparaît.",
       "index": 26,
-      "start": 56
+      "start": 56,
+      "stop": 57
     },
     {
       "content": "Du coup, elle le remplace.",
       "index": 27,
-      "start": 60
+      "start": 60,
+      "stop": 62
     },
     {
       "content": "Des fois, c'est chiant.\n— Nan, bois pas.",
       "index": 28,
-      "start": 62
+      "start": 62,
+      "stop": 63
     },
     {
       "content": "Des fois, c'est cool.\nDes fois, je le retrouve sur Internet.",
       "index": 29,
-      "start": 63
+      "start": 63,
+      "stop": 67
     },
     {
       "content": "Et des fois, il demande\nà mes potes de m'appeler.",
       "index": 30,
-      "start": 67
+      "start": 67,
+      "stop": 68
     },
     {
       "content": "— Non, ça me dit pas trop. Désolé, les gars.",
       "index": 31,
-      "start": 68
+      "start": 68,
+      "stop": 71
     },
     {
       "content": "— Ouais, passez une bonne soirée.",
       "index": 32,
-      "start": 71
+      "start": 71,
+      "stop": 72
     },
     {
       "content": "— Salut.",
       "index": 33,
-      "start": 72
+      "start": 72,
+      "stop": 74
     },
     {
       "content": "— C'était qui ?\n— C'était personne.",
       "index": 34,
-      "start": 75
+      "start": 75,
+      "stop": 76
     },
     {
       "content": "Mais je suis pas libre.",
       "index": 35,
-      "start": 76
+      "start": 76,
+      "stop": 78
     },
     {
       "content": "Bref, je suis en couple.",
       "index": 36,
-      "start": 78
+      "start": 78,
+      "stop": 82
     },
     {
       "content": "— Ouais, ma chérie. Ouais, non, mais profite,\nsi t'es avec tes copines.",
       "index": 37,
-      "start": 83
+      "start": 83,
+      "stop": 84
     },
     {
       "content": "— T'es libre. Je t'embrasse.",
       "index": 38,
-      "start": 84
+      "start": 84,
+      "stop": 89
     },
     {
       "content": "— Transformation.",
       "index": 39,
-      "start": 89
+      "start": 89,
+      "stop": 91
     }
   ]
 }

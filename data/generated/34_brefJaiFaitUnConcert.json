@@ -11,222 +11,266 @@
     {
       "content": "— Mon cœur est si gris quand il pleut.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 2
     },
     {
       "content": "Bref, ça faisait un an que je jouais\nde la guitare et j'allais\nfaire mon premier concert.",
       "index": 1,
-      "start": 2
+      "start": 2,
+      "stop": 6
     },
     {
       "content": "J'avais fait une affiche\navec mon pseudonyme: Amèr de toi,\navec ma photo en dessous, mais elle était\npas bien passée à l'impression.",
       "index": 2,
-      "start": 6
+      "start": 6,
+      "stop": 12
     },
     {
       "content": "J'ai dû la refaire.",
       "index": 3,
-      "start": 12
+      "start": 12,
+      "stop": 13
     },
     {
       "content": "Elle était magnifique.\nJ'étais au sommet. Le café.",
       "index": 4,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "— Un jour, j'ai perdu mes chaussettes.",
       "index": 5,
-      "start": 15
+      "start": 15,
+      "stop": 18
     },
     {
       "content": "Mes potes sont venus. En retard.",
       "index": 6,
-      "start": 18
+      "start": 18,
+      "stop": 19
     },
     {
       "content": "Il y avait même cette fille\nque je draguais depuis des mois.",
       "index": 7,
-      "start": 19
+      "start": 19,
+      "stop": 21
     },
     {
       "content": "Elle me regardait, j'étais bien.",
       "index": 8,
-      "start": 21
+      "start": 21,
+      "stop": 23
     },
     {
       "content": "Son pote homo aussi, j'étais mitigé.",
       "index": 9,
-      "start": 23
+      "start": 23,
+      "stop": 25
     },
     {
       "content": "Je jouais à côté des toilettes,\nc'était pas cool.",
       "index": 10,
-      "start": 26
+      "start": 26,
+      "stop": 27
     },
     {
       "content": "À part pour ma chanson sur les ruisseaux.",
       "index": 11,
-      "start": 27
+      "start": 27,
+      "stop": 31
     },
     {
       "content": "Pendant que je jouais, des gens hurlaient.",
       "index": 12,
-      "start": 31
+      "start": 31,
+      "stop": 34
     },
     {
       "content": "— Who, tu me les fait, ces cafés ou quoi ?",
       "index": 13,
-      "start": 34
+      "start": 34,
+      "stop": 36
     },
     {
       "content": "Et puis, comme tous les chanteurs,\nj'ai fait un moment émotion.",
       "index": 14,
-      "start": 36
+      "start": 36,
+      "stop": 39
     },
     {
       "content": "— Excusez-moi.",
       "index": 15,
-      "start": 40
+      "start": 40,
+      "stop": 41
     },
     {
       "content": "— Maman.\nUne envolée.",
       "index": 16,
-      "start": 42
+      "start": 42,
+      "stop": 44
     },
     {
       "content": "Et j'ai tapé sur ma guitare pour que\nles gens tapent dans leurs mains.",
       "index": 17,
-      "start": 46
+      "start": 46,
+      "stop": 48
     },
     {
       "content": "— Allez le Sommet ! On y va,\non tape dans les mains.",
       "index": 18,
-      "start": 48
+      "start": 48,
+      "stop": 53
     },
     {
       "content": "Je me sentais comme chez moi sur scène.",
       "index": 19,
-      "start": 54
+      "start": 54,
+      "stop": 56
     },
     {
       "content": "J'ai dit:\n— Est-ce que je peux avoir\nune bière, s'il vous plaît ?",
       "index": 20,
-      "start": 56
+      "start": 56,
+      "stop": 58
     },
     {
       "content": "— Ouais, la star, mais tu la payes, hein !\n— Ouais, OK.",
       "index": 21,
-      "start": 58
+      "start": 58,
+      "stop": 61
     },
     {
       "content": "Des fois, je chantais\net personne me regardait.",
       "index": 22,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "Sauf elle.\nElle me regardait depuis le début.",
       "index": 23,
-      "start": 63
+      "start": 63,
+      "stop": 64
     },
     {
       "content": "Je la regardais,\nelle me regardait, je la regardais,\nje lui souriais, elle me souriait.",
       "index": 24,
-      "start": 64
+      "start": 64,
+      "stop": 67
     },
     {
       "content": "La guitare faisait son effet.",
       "index": 25,
-      "start": 67
+      "start": 67,
+      "stop": 68
     },
     {
       "content": "Les gens ont applaudi.\nLa fille a applaudit.",
       "index": 26,
-      "start": 68
+      "start": 68,
+      "stop": 70
     },
     {
       "content": "Mes potes sont partis.\nEn avance.",
       "index": 27,
-      "start": 70
+      "start": 70,
+      "stop": 72
     },
     {
       "content": "Après le concert,\nla fille est venue me parler.",
       "index": 28,
-      "start": 72
+      "start": 72,
+      "stop": 74
     },
     {
       "content": "Elle m'a regardé. Je l'ai regardée.\nElle m'a dit:\n— Tu joues super bien.",
       "index": 29,
-      "start": 74
+      "start": 74,
+      "stop": 77
     },
     {
       "content": "J'ai dit:\n— Merci.",
       "index": 30,
-      "start": 77
+      "start": 77,
+      "stop": 79
     },
     {
       "content": "— Salut.",
       "index": 31,
-      "start": 79
+      "start": 79,
+      "stop": 79
     },
     {
       "content": "La fille que je voulais\nétait en train de partir.",
       "index": 32,
-      "start": 79
+      "start": 79,
+      "stop": 81
     },
     {
       "content": "— Ça fait longtemps que tu joues ?",
       "index": 33,
-      "start": 81
+      "start": 81,
+      "stop": 82
     },
     {
       "content": "J'ai dit:\n— D'accord.\nJ'ai voulu la rattraper.",
       "index": 34,
-      "start": 82
+      "start": 82,
+      "stop": 84
     },
     {
       "content": "Le serveur m'a dit:\n— Oh la star, elle paye son verre.",
       "index": 35,
-      "start": 84
+      "start": 84,
+      "stop": 86
     },
     {
       "content": "— Attendez.\nLa fille m'a dit:\n— Je te l'offre.",
       "index": 36,
-      "start": 86
+      "start": 86,
+      "stop": 88
     },
     {
       "content": "J'ai dit: — Bha non.\nElle m'a dit: — Bha si.\nJ'ai dit: — Bha non.",
       "index": 37,
-      "start": 88
+      "start": 88,
+      "stop": 92
     },
     {
       "content": "Elle m'a dit:\n— Bha si, comme ça,\ntu m'en offrira un un autre jour.",
       "index": 38,
-      "start": 92
+      "start": 92,
+      "stop": 94
     },
     {
       "content": "J'ai dit:\n— Bha non.\nJ'ai payé mon verre.\nJ'ai voulu rattraper la fille.",
       "index": 39,
-      "start": 94
+      "start": 94,
+      "stop": 96
     },
     {
       "content": "Je l'ai pas retrouvée.\n— Putain.",
       "index": 40,
-      "start": 96
+      "start": 96,
+      "stop": 99
     },
     {
       "content": "Quand je suis rentré chez moi,\nj'ai regardé sur Facebook, personne\nn'avait rien mis, sauf la fille.\nElle avait mis: J'aime.",
       "index": 41,
-      "start": 99
+      "start": 99,
+      "stop": 103
     },
     {
       "content": "J'étais content.\nBref, j'ai fait un concert.",
       "index": 42,
-      "start": 103
+      "start": 103,
+      "stop": 109
     },
     {
       "content": "— ... de ruisseaux...",
       "index": 43,
-      "start": 109
+      "start": 109,
+      "stop": 111
     }
   ]
 }

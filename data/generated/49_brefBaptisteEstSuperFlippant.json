@@ -11,207 +11,248 @@
     {
       "content": "Bref, lui, c'est Baptiste.",
       "index": 0,
-      "start": 0
+      "start": 0,
+      "stop": 1
     },
     {
       "content": "— Ça va ?\n— Ouais, ça va et toi ?\n— Non\nEt ça, c'est son cœur.",
       "index": 1,
-      "start": 1
+      "start": 1,
+      "stop": 5
     },
     {
       "content": "À chaque fois qu'il se met avec une fille,\nil lui donne beaucoup trop tôt.",
       "index": 2,
-      "start": 5
+      "start": 5,
+      "stop": 7
     },
     {
       "content": "— Tiens.\n— Tiens.\n— Je t'aime.",
       "index": 3,
-      "start": 7
+      "start": 7,
+      "stop": 9
     },
     {
       "content": "Du coup, elle joue avec.",
       "index": 4,
-      "start": 9
+      "start": 9,
+      "stop": 10
     },
     {
       "content": "Elle se rend compte qu'il prend trop\nde place, alors elle le crève.",
       "index": 5,
-      "start": 10
+      "start": 10,
+      "stop": 13
     },
     {
       "content": "La dernière en date,\nc'était Anne-Charlotte.",
       "index": 6,
-      "start": 13
+      "start": 13,
+      "stop": 15
     },
     {
       "content": "Il est tombé amoureux et il est devenu...",
       "index": 7,
-      "start": 15
+      "start": 15,
+      "stop": 16
     },
     {
       "content": "Super Flippant.",
       "index": 8,
-      "start": 16
+      "start": 16,
+      "stop": 18
     },
     {
       "content": "Grâce à ses yeux embués d'amour, il peut\ntraduire les textos les plus banals.",
       "index": 9,
-      "start": 18
+      "start": 18,
+      "stop": 21
     },
     {
       "content": "— Tu as vu ce qu'elle met ?\n\"Je préfère qu'on se voit demain.",
       "index": 10,
-      "start": 21
+      "start": 21,
+      "stop": 23
     },
     {
       "content": "Ce soir, je suis fatiguée.\"\n— À ton avis, ça veut dire quoi ?",
       "index": 11,
-      "start": 23
+      "start": 23,
+      "stop": 26
     },
     {
       "content": "— Bha, qu'elle préfère te voir demain\nparce qu'elle est fatiguée ?",
       "index": 12,
-      "start": 26
+      "start": 26,
+      "stop": 28
     },
     {
       "content": "— Non.",
       "index": 13,
-      "start": 28
+      "start": 28,
+      "stop": 30
     },
     {
       "content": "— Ça veut dire j'ai trop\nde sentiments pour toi.",
       "index": 14,
-      "start": 30
+      "start": 30,
+      "stop": 32
     },
     {
       "content": "— J'ai peur.",
       "index": 15,
-      "start": 32
+      "start": 32,
+      "stop": 33
     },
     {
       "content": "Super Flippant.",
       "index": 16,
-      "start": 33
+      "start": 33,
+      "stop": 35
     },
     {
       "content": "Il peut multiplier la valeur\ndes cadeaux par 1 000.",
       "index": 17,
-      "start": 35
+      "start": 35,
+      "stop": 37
     },
     {
       "content": "— La dernière fois que tu m'as offert\nce T-shirt, ça m'a fait super\nplaisir, alors du coup...",
       "index": 18,
-      "start": 37
+      "start": 37,
+      "stop": 43
     },
     {
       "content": "— Surprise.\nSuper Flippant.",
       "index": 19,
-      "start": 44
+      "start": 44,
+      "stop": 46
     },
     {
       "content": "Grâce à son cœur qui bat\n100 fois plus vite, il peut accélérer\nune vie de couple et présenter\nses parents au bout de huit jours.",
       "index": 20,
-      "start": 46
+      "start": 46,
+      "stop": 50
     },
     {
       "content": "Super Flippant.\nIl envoie des e-cards.",
       "index": 21,
-      "start": 50
+      "start": 50,
+      "stop": 52
     },
     {
       "content": "— \"Je t'aime plus que ma mère.\"\nSuper Flippant.",
       "index": 22,
-      "start": 52
+      "start": 52,
+      "stop": 54
     },
     {
       "content": "Il met plusieurs heures à laisser\nun message de 10 secondes.",
       "index": 23,
-      "start": 54
+      "start": 54,
+      "stop": 56
     },
     {
       "content": "— Pour modifier votre message, tapez étoile.",
       "index": 24,
-      "start": 56
+      "start": 56,
+      "stop": 58
     },
     {
       "content": "— Salut.\n— Salut.\n— Salut. C'est Baptiste.",
       "index": 25,
-      "start": 58
+      "start": 58,
+      "stop": 61
     },
     {
       "content": "— Ça te dit qu'on se voit ce soir ?\nTrop classique.",
       "index": 26,
-      "start": 61
+      "start": 61,
+      "stop": 63
     },
     {
       "content": "— Ouais, salut, c'est Baptiste.",
       "index": 27,
-      "start": 63
+      "start": 63,
+      "stop": 64
     },
     {
       "content": "— Ça me ferait trop trop trop trop plaisir qu'on se voit.\n— J'ai trop dit trop trop là.",
       "index": 28,
-      "start": 64
+      "start": 64,
+      "stop": 69
     },
     {
       "content": "— Salut, c'est Baptiste.\n— Salut, c'est Baptiste.",
       "index": 29,
-      "start": 69
+      "start": 69,
+      "stop": 70
     },
     {
       "content": "— Ouais, salut, c'est moi, c'est Batou.",
       "index": 30,
-      "start": 70
+      "start": 70,
+      "stop": 71
     },
     {
       "content": "— Salut, c'est Baptiste, il est 23h00.",
       "index": 31,
-      "start": 71
+      "start": 71,
+      "stop": 74
     },
     {
       "content": "— Ça fait un peu tard pour qu'on se voit.",
       "index": 32,
-      "start": 74
+      "start": 74,
+      "stop": 78
     },
     {
       "content": "— À plus, bisous.",
       "index": 33,
-      "start": 78
+      "start": 78,
+      "stop": 79
     },
     {
       "content": "Super Flippant.\nForcément, elle l'a quitté.",
       "index": 34,
-      "start": 79
+      "start": 79,
+      "stop": 82
     },
     {
       "content": "Du coup, il a débarqué chez moi.\nÇa, c'est moi et ça, c'est mes couilles.",
       "index": 35,
-      "start": 82
+      "start": 82,
+      "stop": 84
     },
     {
       "content": "Et Baptiste est devenu\nSuper Casse-Couilles.",
       "index": 36,
-      "start": 84
+      "start": 84,
+      "stop": 86
     },
     {
       "content": "— Ça va ?\n— Non, ça va pas.",
       "index": 37,
-      "start": 86
+      "start": 86,
+      "stop": 88
     },
     {
       "content": "— Pourquoi elle m'a quitté ?",
       "index": 38,
-      "start": 88
+      "start": 88,
+      "stop": 90
     },
     {
       "content": "Bref, Baptiste est super flippant.",
       "index": 39,
-      "start": 92
+      "start": 92,
+      "stop": 96
     },
     {
       "content": "— Oh non, tu vois pas tes copains ce soir\n— D'accord.\n— Ouais ?\n— Ouais",
       "index": 40,
-      "start": 96
+      "start": 96,
+      "stop": 101
     }
   ]
 }
