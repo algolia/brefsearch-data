@@ -22,16 +22,9 @@
     "imoen": "2.0.0"
   },
   "scripts": {
-    "data:update-popularity": "node ./scripts/data/update-popularity.js",
     "data:generate": "node ./scripts/data/generate.js",
-    "update-lines": "node ./scripts/update-episode-lines.js",
-    "update-counts": "node ./scripts/update-episode-counts.js",
-    "update-thumbnails": "node ./scripts/update-episode-thumbnails.js",
-    "update-animated": "node ./scripts/update-episode-animated.js",
-    "update-records": "node ./scripts/update-episode-records.js",
-    "deploy-assets": "./scripts/deploy-data-assets",
-    "deploy-algolia": "node ./scripts/deploy-data-algolia.js",
-    "update-and-deploy": "./scripts/update-and-deploy",
+    "data:update-popularity": "node ./scripts/data/update-popularity.js",
+    "data:push-algolia": "node ./scripts/data/push-algolia.js",
     "ci": "./scripts/ci",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
