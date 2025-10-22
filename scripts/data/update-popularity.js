@@ -14,11 +14,12 @@ await forEachEpisode(async function (episode) {
   progress.tick(`Fetching popularity for "${episode.name}"`);
 
   // Get raw data from API
+  const videoUrl = `https://www.youtube.com/watch?v=${episode.id}`;
   const downloadCommand = [
     'yt-dlp',
     '--cookies-from-browser firefox',
     '--dump-json',
-    episode.id,
+    videoUrl,
   ].join(' ');
   const { stdout } = await run(downloadCommand, { shell: true, stdout: false });
   const response = JSON.parse(stdout);
@@ -41,3 +42,4 @@ await forEachEpisode(async function (episode) {
   };
   await writeJson(data, outputFilepath, { sort: false });
 });
+progress.success('Popularity updated for all episodes');

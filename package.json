@@ -22,7 +22,7 @@
     "imoen": "2.0.0"
   },
   "scripts": {
-    "data:fetch-popularity": "node ./scripts/data/fetch-popularity.js",
+    "data:update-popularity": "node ./scripts/data/update-popularity.js",
     "data:generate": "node ./scripts/data/generate.js",
     "update-lines": "node ./scripts/update-episode-lines.js",
     "update-counts": "node ./scripts/update-episode-counts.js",
