@@ -22,6 +22,7 @@
     "imoen": "2.0.0"
   },
   "scripts": {
+    "data:generate": "node ./scripts/data/generate.js",
     "update-lines": "node ./scripts/update-episode-lines.js",
     "update-counts": "node ./scripts/update-episode-counts.js",
     "update-thumbnails": "node ./scripts/update-episode-thumbnails.js",
