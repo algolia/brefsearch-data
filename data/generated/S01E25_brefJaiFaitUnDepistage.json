@@ -12,210 +12,455 @@
     {
       "content": "Bref, c'était un soir\navec Marla, je me suis arrêté.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC9kUbEmlW/r6zOkCKwkDyjqJi+mTvctXjWvKHXmR3KrIDGpnjMhgewm468hD9nOwcAqY5ppIliqY9rsIlHnothk5+nqpt3u5tvuZ98uZpsu551tpdoropOtJFfnHdEUCsfAH6AnWFVY2VaaXt/oH1/m3pobX1sd42PqHhsd3hocY6OpHl3jF5abaujq2lsfUUSJQB1eJZgXHBQTmFoaoN9f5dgXG5nYnKGhp5tYG58Yml6eZB5b3hcSkxscINnW2VgFR8Aam6Ig4iaSU9jZDhAZUxfSVZ1UFhyaj1PSTdMVk1aYklZYFNaKTA+LDRBUjo8ZRAeAGBjcevc1oGBh00oMU85QFQ6QVVCSVUuOTwhLigoMzQxPB8mNB4mNCAoM0AiJ2QNHgB8Z2SXc3KQZ2OHXVaHXldkFR9oHipXOUFBKjUyKjUSHSwWGyksLjggJi4sDBliCx4Ak3dni3FtkXNwlHp+pZCPm4F5lHdkUD8/Jio4HSo4HA8fJRsoIykzFBkiNQgYXgsfAIZqVJB0XpJ3Y5R9cJZ/dJR6aZh4YTozOCEdKlETH2ERIk0LGzAcJhccJT8JGlcKHOIjpRD3JB+/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/002.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/002.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 2
     },
     {
       "content": "Elle m'a dit:\n— Quoi ?\nJe lui ai dit que c'était\ntrop agréable pour pas être un problème.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwVy8lu00AAAFDfQhbvHs94m/E4sd14nDheihsncWJacsgFWhBiEYpAohKtKFDgQCkl7ZejvPvjOoLfkxkvs3ZLbbeUXsfQ1RiqzLQqfPCKsvc03pLone2/hHgjwxknw1LHx5KeSz2CFKYpIbEqVeyb9tzPzofl12j6Y1h+D7ILGm+t/imH3DUOz4Bdq+LAUBjUYteeO3pGyJOguGDVr/HyNlnejRY3w/KbN/rAeYON560NlNlgDCRfkwY2zDVpYJHjcB9+jpe3WbPLmvvR4iYoLjnXnrnWkYNyggpFpI9assxjoMUuexvkn/eh/pOu/mXNfbK8G06vub7bUFJbMDdBIvG4x9uCQJE9d9kbP/20D6td2jykq11S/42OrjmKF9iaGmCiih5EBWWvITmx+hscnvnZeVRehZNtVH5Jm4d4/jssLjlDn0A1UmVf4jFChUHXMjpE7gkOnnvhKSG1oUWigJ3g2cHjq37ykRN5RxYo3zW7bQC1EbBmghLreGW6T127wuYh0qJuB3TaGjArx3/xH2OGS8yi8DaRAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/004.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/004.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 4
     },
     {
       "content": "La capote avait craqué,\nMarla avait craqué.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXhJREFUeJwFwdtu0zAAANAI1ji24/gaX+K4iUPTJE2hW9bCBCuT0CQ0CYT2MIGQkHgF8cAX8O2ckyjzVrCtYn0pJ8F7JWdtjpaNOdTpRZ5eoAxwFx/85lGHj1y/S0y5VHrxdjFqdmqqzSHYo+UjylQGBAQifQ5NeN8vv5rpexW/JLU9xXBe+zdGjob3vFgLGhXrGWkYabx6VUBTtfeHu3/D9e92/yOJ67u4Pnu7cNoiwDHSVkyVmC2fLJ88n2TRxd3T9urnfPN3OP1JYjjX7lTyLYZllhIMBcde4EChlaiWpPHhNtQ3jAYmh7j7llT6StCW5TVKKc5YAUshBldeanMszWLsdSl3RgyCxQywgrYJIzXFVYEMgoohK2Bl3eLaD/7Fp6p7sGrvy703B1YEQjylIYEpJdhhwKUaffXakY3Ma+MvXXfW+qVhnZezET2GHIICQZ6sngEMpOTbZvi82X91bLBFL9XoulsXjiKvJKkZcTAlYIWyFf4PVQgus3myWNgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/007.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 7
     },
     {
       "content": "— T'es qu'un con !\nJ'ai craqué.\n— C'est pas de ma faute.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYBJREFUeJwtzdtumzAAgGHuVqldsDkYY/AJQwMYEjbaMLSUNE3SpFoXVYpWdSlptItddO//AFOm3f+ffoNEa5b94PmL1D9l8Sr1Xuo9H24x0g6QAFALFeewPIcjxBaILQ0SdTxbiXwnizdRHGTRy/Io023o6dArgRlYbgq9CUATT6yx2BiYtzy/P4HyKMsD1z3XBxY/YDv27BgMfNtJ3KDFYoXFhkSPho+v6XAni16c0l4Wh6J9z+uXIPwEB8S8cCGMbP8asbv/gPo1xjXPn9X4lxofy6/v47a/LDcqXTq2sj4Sx6TA1i5bYLE+gZDPWNBw3qXVU1Z911c7lXZJtmHsC/ELQVtsRRAqxJYeX5Hom6Enb4m+Z2HD2CQa3oyafT37PSy3UTwX8ib0KwSYBWNEF+jfxBg1r1n1KNWMkiYbP9XzP/nVM5Wt5ySUfA68wgUCgsgNb10699jCkJedSpcyuSW44moq0zuqpjioLs6geWYhIOEHaA4iO5jawdQJu7+kSkXiAfOKKQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/009.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/009.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 9
     },
     {
       "content": "— T'as pas pincé le réservoir ?\n— Si, si, j'ai pincé le réservoir.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWdJREFUeJw1jttum0AURXkoc86ZgQFmwJCBGYwxJsFO1CgX9SbXTR+qRo3qNs5FUfv/v1FNpUj7ca29d2D6703/o1nu7erB2N3cbtth363/uvEhSRfAOEIMjFjogxAHzfLODr/s+NgeP1az85medL6ph33pPguhgQlOGQIHxl8FTx/m00s73mfpIpVNVpwpu1PFWvDMC1wRxAichUgoA7s6uJPnbv2nO3lSWS9jU7idtjuVj0JkwLjgmlAiRixEhCjw9eNhubxbtDfOfLDm3TQ92+5bqvr/l0gIzSnhJL3AeGBX94v+dph/dfV7U165+uPx6ue8/ZKkTnDF3gBRIoRCiBAEMArc8NvZbXN0fVReFHrj6k+t3ZbFRkpDlLAQWEicUmACQfiF2t2U+TTTkykvquKtqS5zNWo1xHFF6G8AIwRBECHjwESQSZfETVWcWnNtZudVcaqSTsYminLOU8KIPO3jFyD6B+G1Ks7aj33xAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/010.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 10
     },
     {
       "content": "J'avais pas pincé le réservoir.\nMarla m'a demandé d'aller faire un test.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXFJREFUeJwljutu0zAYQCPR2v4+x7nYTpyLnUuTJm1ox+iACYlVWoFpaNoQ64S0SeP9HwMVpPP36Byv7H7Y/t4Nx7y9zZubZnpebF4Xmz/1eBR+KvwMIWKEkxmQGdA5erZ/cMOTHR6VHG32oWy+Fv193j+45U+pBt9PGEFGAzpHNkcyQ88tH6vV73o8lua8TLZSrSO7j+yXvPmepFvEmBFECBnhjOCp4Ianenpp1882v1Rhq8xO1Qfp9qa61snEuWQEOUpkPlCfzuEkLMZfy/4uT98Jnhlzbptvujro/KPU4/8ljjGwEJg4FZrubuhuuubaZp8SuTb6bFEfrLuK9RSrnnNFZ4zRgKNk1AcmPOeuquKydfsi3RXphSs+l+bCqLdSLsOoRgjJG0ZmACw4QYWX6knJVZ68V/HK6LM83Qk/U1Gn4kEEGUIIzEcQAAKYQBZ4QVApvc30xuhNqqY4bDlPA78MRMEx/keEIDgEHARQ/hcWPiuYUQLe9QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/012.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/012.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 12
     },
     {
       "content": "Dans la salle d'attente, j'ai essayé\nde deviner qui pouvait avoir le sida.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC+k0nEmE7AsK3NlDG1jzOjp5i8mkHcsW3WwK7XmBrLqnbFqYTMhwaxm4q6h0t0QQMAqo9rp4xlq5JvsIpKoYtdk56mqpx7vJtsvKKAvJxrvqB1uZpqsYtLtJFfpX1GVDIeAH5/m15TYGhfb36AoH2AnH1rcXtqc4+Qp3p0g1ZNWY+Mn4F9kV9ZbKmfpnJ1gkIWKAB4ephiWmxUT15pbId/f5hjX3JiXm+IiJ5wZndqUVh+epGBdoFZRUdtcINqYmxgGCEAZmqFiIyeS1FnYThCaEtdSld1TVhyakNUSzZLVk5bZEpaZVVcLDNALTVCUzw+ZhMgAFdbaura1YuJkU4pMlE4QEk1PlJAR1UuOj0hLi0sNjUxOyInNB0mNCAoM0AlKWUOHwB3ZGOXcnKSamaGW1aJYVpmGCBoHClaOUFALDY1KjYUHy4VGiosLjgkKTIqDhtiCx8AlHhnjHJukXNwlHl9pI+Om4F5lXdlVUFAKCs5His6GxAgJRonJCo0FhokMQgXYAseAIZpVZB0XpN3Y5Z+cJiBdpV8a5x8Y0A4PB4cKlAUIGATI00MGzIbJhcdJzwJGlgKHN6npikX7dB9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/014.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 14
     },
     {
       "content": "J'ai trouvé ça méchant, mais marrant.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwVwvtT0nAAAPD9DV0dZVfXi+MM+oUjsEse5obHKx7m9TAxyYnMRa5JMOYe3+/2HWMgWEl5gDA5B6Kef2Pn5z6YKP4DsKeigYKGenPCFCW3wz77+KHfO7cvdoA6EEFXkI55oVPlf5fLLUyGfVQb1Qyr1hgb7avl+DvHg5mnj57cvWMjt/frrQuAhgCZEjyRQFcQOhhEp5ox1g6mNw+vZZrNE/PpeZ/b/mz3OzB+XcO6BeuWop9B7VSGfQxolmpMUfOi1rwsSycCxfzZ/CB9XsnHiGQql6egjEylPlWNiaqfAXWISchS9HOteVWVzXCmmIh+amRX2NRS8g3uxrNz+Nr7bEWuTYB+DvWxqJgYD0aiainGJcUcBmJ5H76+TMQj/qAnkHm59DWQKBCpnZ/csQhHvDQoc3+xUrXHSaaExht02xMm3YvZ19Gt0NvCqwjpwbN4uriYpkveaMMV0l6EwHM/Vtw7Yrkuy/WFPZRb2wksfAwmKDz9bSFJ+Ygv4QwTTNEbs/7KLXvJ5mTuObEt+oDabZNUB/xo9TRF42UAW8EY6SVykcjqUYXdjMZXbzsKNmd+xrV+3/UfjwO4aAMm8L0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/019.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 19
     },
     {
       "content": "Ensuite, j'ai entendu un couple essayer\nde deviner si j'avais le sida.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwW1T0gAAAOD9BsvLYBuLjZdtvIxkoi4czLEFY7C2xQQ9UZyQ5Mb5AkHKiJpSeXBXXl198urOz12ef6J/1fMAMQg6kwQ5huMInF9Ojndrd+7w/vqrdXRpGOaO+eboeDyxq9PRoG1/aL4aAlwYm23qnQLHJqKz/a3v7cZNr/P7wi2JspYM6By7Wak5u8qvmeucfzZbDlCmwq6hmCLbkrg/zsm4Xqly6S1FK9P4pw3RSK9wa5nXxezNuDtxp/vtS+C0mG0K6ed0tK8XbruHfz++/3FsMcklIY7u5JgUtSgX5JYqjA5q7qBf37aA67Pzl6uJPB0/LAlvDaWvyT87B2qO/3JxlaISKAwXn1FViS/xOT1DScs4YNvTDalIBxGVXekaL/inVATxLRKEIinhJz4M8i6FfdkETuJMIUXkUyGAW2/sNQYR1M/EyD1ZDIIez4O5IAQiC/MoCPq9EIn62ThGhmiWCq0SEGBZV6Y50nXTCyIknpSEMoUT0PzDAAz6PSD8aIGhiN62rOfWTUOrawrQbE2cd7e9/jc2q9nt0f3dv2FvyEcxJkYEYBgDH0dwrqZaFSFTFkRDUf8DYZWGH7Su+hkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/020.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 20
     },
     {
       "content": "— Lui, c'est sûr, il l'a...",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAfFBRsQDxJLCkkHRs5LiuHZV67jIKwmJl2fZVpb4R7gpqTfW6fj4R4fJZwc4xsbocAOyUiiVRPYj43NCglbk5HkmddsIF4oYSBVUQ/Z0c7W0xLiW5gs52Qj46bbnOObnCJAE0wKY5dVWtLQl5FPqd2aXZTS2tRTWRMRnJLOJpqW0EwK2dKQqyKfJmVm3J7nG5zjQBsRjtkQzpPOjN5VEmygXWlf3dsT0tYQDdsUUVGMzA/OT1vXVJ+Z1iRhHtmYWptcIgAg2VeSjMpTzozdFJIhl9Wm29nmW9mlYeIdWlqGRMUQjQqY1FERj9JTz4zTjcfXVhiAHx3iTwuKT8vKGBIQmRHQVU3M2M9OJ56c1xOTSUdHDEnJkg2JjEuQkc5NU46Jks/PABmaYhYVF8gFhNSPjhRNTBqSkR7U0upfHSVf34gGxsrJShINyo1LTU5LzFFMyJCMSUAhISggYOiMzI+IyEpLCIlX1FUe1hPsYZ9p42KKCEiLSUlgGped2Nga1xbfXN0OywjAGxtjoaJrVVYczc6aWZie3BtfE03Mn9bVKmIg0E3NSQhNj9Cik5BRjgwNk1ERTgrJDZKlkuRwKhJAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/023.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/023.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 23
     },
     {
       "content": "J'ai trouvé ça méchant et pas marrant.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAdEhJvQ0BSMS0mHRw6LiuBYFm2hnyylpV7gZlman52fpaSfGyjj398gJZvc4xtb4gANyEfilVRa0U+OCondVRLkWZdp3pxo4WDVEZFXkAzXEhDgmhas5yPlpKcbXOPbnCJAEotJ4lZUm5NRF9FPal5bHtZUV9HRF5KSGE/L6VwYE83MGBFPamGeJ6YmXN9nXB0jgBuST1lRDtNODF1UUase2+ziYOCYl1VQDtwU0hNOTQ5MjRrW1B4Y1ORg3dlXWBrbYIAi3JwTjYsTDgxcFBHfllQiGBZmGtilISEgXR2GhUWPC8nYlA/Qz1FSzw1TzYcWVBTAHh3jkc7ODkqI1xGP2lKRFc6Nlk0MZt0bG1cWiUeHS0lJUY0JDYwQEI3OVE8KEo8NABhZINpZ3cfFxVIODJQNjFfQDuCWlKcbmSnjYsnISIpIiVJOCw6MDU2LjNHNSVALyIAg4Odio2tQkFQIB8uKB8jXlFSblJLpXlvspSRMysrKCAgeGRbgWtmaVpZg3l7PzIrAGxtioSHrF5hfTY5bVdQZHFsd007OHNRSqyIgk1CQCEeLTY7iktATjQsMUY9PzwvKPKelhidViLKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/024.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 24
     },
     {
       "content": "Pour me changer les idées,\nj'ai regardé les affiches.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBjPTtxRUAwIB5BMy+EXlWfc2qzioKJh5ZodIxcXWtvd5CIeXOdhXCEg5Jqb4hqbYQAbkQ/iVlRTTcwd1hQpXdtXUQ/cFlWenqKTD89XDwsVEhHc15TpIl6nZWXbXOMa22GAGZBOXpTS1I8NItjWLOIf5Vya3RfYUFCSm5FM5ZlV0o4NFZDO5l0Z6KUjnN8lmxxjAB2T0RMNS5cRT2MY1mpfHKyg3qigHxOPztmSz5ZQTo4NjhrXlZzXE2WhXlsZmxnaX0Ag2xsQCwkVD84fFxUk21lZ0lDQCwnf3h8fnd8HBcWNywlYVBBS0NFUkQ+TjggVUtIAHBwikE3Ny4hHVtHQHxdVk03NUkxK3diYElAQSQcGywkI0UzIjYwOzoyN1E8J0g6LwBGSGJlZXoaExUiGhtPPztdOzVPLCh9UUmbfXglHyAmICJAMic5MDEyKzNEMiI9LSEAdneVhYeqS1BcYGNts7C7WklLaEpDpntzwqKgOjExJR4ccF1PemVcXlBOe3FvRjoyAGZoiIGEqltffpOQopyVqI+NnldFQnxaU7mVkGFSTx4bJ0VGfl9UXUk+PFhTV0E3NOBFmU3vR1MKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/026.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 26
     },
     {
       "content": "— Numéro 19.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwFwWlvmmAAAGB+6TINKsL7cr0ccgzZ1iabH5q0a2cWqlHnEaViKXJox6F2zDpMG9Mv+zd7Hszu2/5dOOlOx53J0Bo1eU3mVKoM+BrL4HS9TNFV5vLLVb/dvxvYvXYPW878OMjO9XNUZT6pZxIQEZRkICpQZkkkUgJbY4n3ZOe6u3bWs94Ue1wm23XujN3ri7bCaZpoGILRYFUD6TqnqkxDgZKG9NTfxA+JO3GxLNrt0+Kt+Hf8/fpZO9MEw+R1mZZVTm0wDYFEIpTtgXNIi9hLvamHbaKnfXYsdq+n57fAiXgSUTggShSL0xQOWRzCEvX9680+KdLlxrd9LPGzPDn83b685Kd9WihAhBWGrTJcmQI4DSp07R1hImMX5am/DewACxerNNrm8eH4dNo9/lFYRYISokRURzIti0Di6qgpf4y9LH5I7scLbD5ehItVEmTP2dH61kV11OQ1UzAkKH1gFAGIKpQFgr+96oTzcGQNseHtaP7T8WbLlfurZbaYMgAVmid4okR2bnqDH0MJShdmyx3dT7pj69L6DzFA9wawe5yKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/033.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/033.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 33
     },
     {
       "content": "Ça ne m'a pas changé les idées.\nJ'y suis allé.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwd0NtummAAAGBecFdLpk2qEwyD1VNdZ5u4Zm13t8YuWTK1c4IoiFC0IAjI+ZcfOVhde7EHWrbke4IPEZmHpaCai3Wgb1RBrxy/Q/MYdlQmcyiax9Cj8vHrQq1ICrQgTSS6SyOqoNqKCwyYgX1gwrOTjzWieYo3GuVanfxQxxt4kWyffXZVfyXpIiMi5sIERrj1spf0j8TJVazaIpoNokm+fV8vneBFsoJWiCLJDnhghAvuEXGWPrTiNHjaw+d281P+VQ7NY9UCUcqhNxdfLlvX5TelFl6XOQWYcCmoiKeByElSsE83B1VY3d10Ls+vL07beIHQ5+sDfJmNJEdxD+GzpwF5qiC24noa2JgRtJME7CMv27pZoIfKTNuYMLKTJ/A7djJPA67qC7SAGHNTGEn9b4PxPTe+5+jehKfE2ehhMpjS3THTZ0VmzvTZr1e37E+Wp3hEZERN1CzZ8lcA2knsZom/S7xd7GZbJ028HVxvgQl7V7fDu96ozyDUD4qn+MeprEuGs/z3C604+g9acaCHtuLoc2PY6Q2//+p2un8BjSgOGFpPg38AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/034.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 34
     },
     {
       "content": "J'ai peur des aiguilles.\nL'infirmière m'a dit:\n— On y va ?",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwVtr2lAAAOD8hcH6OhijD2Uw2IvsAqVUGJtatqWTstLaTkNcPY257pxcTpJzzEVjkmoSNWptS4dPe9nrft6+j+kDRxEGmhzoMMJm6toZdQvfKyNouc3GyWFVFp04Wgde7pMpdVJGlUKkxZYxcXBOyWJAl0GwGbjFVuX/UY19/2bvZSVNHsaj22FYBl7BIC3FRu7iOXGXlKw9b+0H954ZF1fthQS42qdvteNx+jtOHkfRXegvGRNlDp47TkncFaW3hKxNcyZzyhJwf6lhnTZvyCSe/hkn2+H4kZIVY+gzGy9tu8TWwjDn2Cp0dPOd7Vwf1blG7az2pScMqXcXjrc0eDBxySCYGWiGYA5hrqpTSY77StLmyYf9j+zBoSU6HEh0Y0L8jU3vDVwykpbLsJC0TFAzIAxlNZVhcdENq0fwc9MHcn4tp4peqjBD7kazVkyf7YnHAFya3a894UJVUPZTiFt89LqKKrVRi49EbSqocwUVwpXfOYOMtLPb39ltP3sFnr4432fBr6LVoSct913de1sPzzvkB+91wVDU55eVxumT5/8BzHbHmZCSFC0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/036.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 36
     },
     {
       "content": "J'ai entendu.\n— On y va ?",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAlHBwZFRQUERBYU1d0b3VVUVJRTE1XTUtIPjtAMS6IamhLNzUeGhtMR0xCPUIzLS8AFhEPFhIRDwsKTEhOfXqDXVdVWFNTZVRMWlBLUUA/iGVhaU5KOCknS0dNR0JIPTg9ABEPDRkTETsnJU1GSnt5gmBaWldPTFhSU1ZRUFVHRX9fXIpnZF1EQUZDSk1KU01KUwARDgwqHBpNMC1SSk1+fYdgXGNcV1paU1FVTUlFNzRlRkR7WVU7Kyg+PEJST1dTUFkAGRIQQCspSy4rV01OfHiAYFdZamhuYV1iYl1hJyEhLyAeb1BMW0pJlpWeWFVfT01WACwgHlE6OEIrJ1hPUnp0e2xUUn1tcl1bZoaEjjkzNSwhIE81MpWOk+Li67q4wl9daABALCdRODQ2JyJUTFBzcXprWVqIZGBwYmetrbemprN3aG2CcXTU1d7PztbZ2OCNipUAWkpLSjczMSckfHd9lpSdb212XElIjHd4vb3JzMzXrqixvrzGxsbPvbrFsq66dHB9ADs7TkpGVUI+SH98iJeVopqZpVhaYWZZW7y5xMPDzbm4xLe2wba0vquos5WRnnp3gy5mopYumCkfAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/038.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/038.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 38
     },
     {
       "content": "Elle a dit:\n— Je pique à trois. Un, deux.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAnHRwjHBwSEA4jHx9qZWtcV1tOSUtRSktHPTwzJyZbSEg2KSciHR5KRkxIQkc5MjYAGBIQGBIQFBAOExEQYl5mZ2BhVVBSY1ROTT41TTk4iGRfW0M/JxwbSURKTUhOPDc8ABQQDhMPDSAWFTUmJF1ZYGlkZlZOSlZOTVdSU0g5N21STndZVmNHQ0ZBSEtJUUlGTgAUDw0RDgw4JSNMMzFfW2JoZm1XU1ZaVFNYUU5TQD15V1SGYV1EMC00LzRTUFhRTlcAEw0MHxcVSC0sSTAtYVtfcGtyaWVpY19iZF1fMCgnPSgndldTQS4qY19mXVtlSUZRABgREDcnJVI4NkEsKmVeYmRVVm5ndV9ganFveTApKxYODVQ7N1BAQcPCzLGwul9daAAqHRtMNzRQOTY5KidmX2V4b3V+a3Z6bnaTjJV0cn5ENjhKMjGem6bMy9XT0dqjoawARzYyUzk0PiwnOjAwcm12cHB6b2Nnf19go5ymr7DBeG11h36HwsHPwb/IvLrElpOfAEI/TVZLUTMoKFxXXLe2v6SjrlxaYlE7OYJucru6xqCerKCfrrCuu8G/yKShrGRhbiREkhuPjSkXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/040.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/040.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 40
     },
     {
       "content": "— Attendez, attendes, vous comptez un, deux\net à trois, vous piquez ou vous comptez\nun, deux, trois et vous *grrmbl*.\nElle m'a piqué.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVVV5bWmRgXmlgX2pWT1RiTEpbSUhgXWdta3dsaHRyb3xoVVVBLCgSDAsTDw0RDgwAXFpkYV9qaGZyVFJbiWFZxZOKq3huW0ZFaWl1cm56eHWDdmFjUTcyKBoYHRYVGRQTAF9eaWVjbm9tek9KUn5YUa19dZJoYEIxMGVkb3NwfHd0gnltdWBGQTcnJSEZGRwVFABiYG1lY25lZHBiV11fREBxUU1aQDw5KylmYmtraXVqaXVubHldTU9GMy8iGxkdFxUAZWNvYF1mUUtSYFlhhF9ZkGhhc1BKX0tLZmZyYF9sYmJvXlxoW1NaSDo6JR0dW1RbAGNhbWdlcGVia2JhbF1MTVY6N0ArKD41OF9falxcZ2Bfa11bZllTW0I9Q4F9h8bAzQBgXmhnZXFwcIJzdpM8Njw/LSgvIR8tKjNnaoVnZ3leXmxXV2JZVV+Wk6DX0d3Xz9kAXFxqfX6benycWl97Pj9eLyk2HBsuUlNrY2R/dHeUsa/BjImXnpup4Nrk19DazcbQAGZnf3+BoXh6mENHYD5IdzQ+bCo1aXl8mqKgsMO/0N/W4NfQ2tDK1c3G0MbBy8O9x9dcq2yagRE6AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/042.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 42
     },
     {
       "content": "Connasse.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwVz91r00AAAPD8DeKjrii4D8sodkjVsWWjWrGrHdvatWluuctdLk1yl6TJNR+jQ1OJ+iCDdfgkU/BNhhMV/ECZD/qgPumfJP7+g5/U3gSqQuCOjSEzaUCRHSFMtxXLDLgdDXgq/FEiMk/DK5enC2fPSKpCdI1R4juW0BGbuNbfo8PjXQ+sNRw7SsT9NBqPkjzxkruVq1cuFiQILAN7dj/kLNU6KNxqPgt5sNG4VixSw0+HWRqN99I88kfrS0ulCwVJh6xPA2YPbSeJTXYk+BMKefPO4vy8gZjHU+7EUXDPxny73izPTEsEuY41bK13Om3IANqnGqrKe93NxrJMiYd1V0ecEh8Ds9cCl85PSRhxyxQGtBGgvTYg9dukVq3MzbQ3ugbxALAgZAhxpNLaSu3m8i0JaQ4l/w9hkHtuvlgqlWdn56bOrcpNxjNdd1W1jyDb6RFNIS9fvJZUBZs0Hj94LuKnXZA15Hp1YeF6WR6E+6T/UESTIHiEkevx3bcnX3/9+CO1tqCIJuP8lWFmtTXnRlUUy73K6sDzH0fxwcHhyZdPPz+8O31z/Pn76e+P77/9A1Kkq55CNayUAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/048.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/048.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 48
     },
     {
       "content": "Quand on se fait dépister,\nle pire, c'est l'attente.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAnICEaFhVMRkpxa29qZmxRT1RNSEpOSk1IQkE7MS9EOTkpISE7NjlKR0xDQEU4NDgAHRcWEQ0LLSosfHmBdnN6XVZVV1NUZVZORzgwblNRpoB8RTIuGRUVUExRTUlNOTQ4ABQQDyQaGDsuL3FveHp3gGJcW1lRT11TUVFIRl9JRnNVUmNJRj0tK0xITUxIT0RBSAATDw4/KSdJNDJtbHN8eoNfW19ZUlJYUlFWT05kTEmKZ2R/XVhLNzRCP0VST1ZQTVYAHhYVSi0sTjYzb2txfnyHZWJoZGFlZF5fV09NRDIwbk1KcFNOMiUjU1BYSkhQTUtTADEjIVI1M0cvLGxnbHx3f1ZHRmxqcmpocVJMUBUNCkc1MmZKRlNHSLW0v5aUnl1bZgBEMS1TOjc7KiZpY2l8eH9tXGFWS1dzcnyVkZkpJCY+Li1JMjCQjJTQz9nZ2OGXlJ8ATzcxSDEsMiYjZWBnb211d3R9WlZfoJ+o3NrknJuqW0ZIbF1ht7fFwL3HpKKtaWZxAGNYYEc3NTw0NpeVn5mYoYB+iGNja8LAy8bEzrS0wHpxepGNmKysuLGvupKQnFRSXUMRmw+O9G/+AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/049.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 49
     },
     {
       "content": "L'attente, c'est un mec tout\nle temps à côté de toi qui fait...",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCRXwiNbkZtcIV4f5qPhoackpOAcm+moJ/Cu7iecSecaBOcaBSXYQafjHahorKvqaYAj1wBim1CeniIgYCNin54mYKAPygnUk5Qvbe1onIjn2kLoGoOnGQCn4x3l5WlmoyGAIlZAYdsQHttXXdpUX15dXllZEsxK2hcW6agnZtrGp5mBZ9oC59kApmHdYuIl4x3bACDVAF3XzNkVz9qWi9paFlkaHNPRVFhYHd4c3h7UhGTXgWdZQmeYwORgHB9eol8Z1sASj4ySkdJX19eYWFcY2libHiaU2KZX2iPZmuJSEFDUEZFXFJRW1BOdXOBdnB4alhOAC4yQzY4SFRRXHN1gHp9iWN0q15up11jhFNZeFVac2duikRKaT5EZGdpgGxla1tKQwAsLTo0ND9ZUldfYGdpaXRbbapgbqBMT2hNUnFiZnp4fZQ/QFQ/QVViY3VgWF5QPzoAJyg0NDM+Y2FqaGdvcnN7V2yuU16LSk5pREloVFhsam2DNTdHOTtNWVprV05TTDk1ACMjLy0sNktKVU5MVV1fclZss0FKdEpPbUZKZjQ2SEFEVywvPzg5TFJSYlNJTUkzL+dTpuP6jB1NAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/051.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 51
     },
     {
       "content": "— Tic toc, tic toc.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCebAebaQeSgnKRfXFseZqkqsm6vNCRfXluVlJTSkqRiIi7s7GBe3ojICQfHCAbGBoAnWsHnWoGkoFtk31xcnmRlZixu7K4roV/cEtFHBcYMC0wrKSkjn99QDMsHxsZFRMUAJtqCJtoBZGAa5qKg4l4a3x0cpSAfIRlYGdKRDImJCwgIIl7e7umna2Uc1NFNEY4IwCYaQmXZQOTg2+hmIh4ZESKg3d/YUqUa2d5Vk5bPjhRPDpiTUmuj4HItpmDc0qXf00AkWQKkmIDinpmi4JrYEoodm1Yg2Y6eFdZVT44TDMuVlBSVVJYg2pg1sWYkYpFlotIAI1cBIxcAnloU3JqYGZMG3FkTHddIUw+Nj8yLmRIQ05LXzM0Qi0lIn50WXh2PK6lYQBpTSJWRzVWVVtnZ2RhXVBraWlgXUdoanF3dJN2dZtSWXx4faFCRVgBAQYZFxtdUkkANjpLNDhKSElVXl5fV1tea210cXeAX2iRUWOjTleAcXmgcXicbHCNKSkzCQgKDw8UADU1QjExPUBBS0dOZU1UZHJscX5+kF1ur2l2qGFmhXaArGlvi05QYT8+SRgVFhYWGyvro35kVdIXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/052.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 52
     },
     {
       "content": "J'ai vécu ces 72 heures comme\nsi c'était les dernières.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXxJREFUeJwFwduSmjAAAFCKIjAiBkICISSEa0TDxVtX9tJKdWfcl+1DpzN9af//M3qOZrnNEu7dcAR08sUDFZ+h/I3rXx7/4ad3yK+QMsNazg3bdITpZNoyOIP4FmQ/Q/kn3v2N1T+PTYYdGSaYGw7mh+3r2Q19fWY4sHOCo4bFI2k+E3VH5buXTPZKAChMc6XPTF23EeX16UBK5pEB8gcgz1q6+2DbA9006zCfmwGm7XCd0qZdWOiLbjsAxoVwAHCRCsUbTCYtkSOpNtXpXXTf1wFHjAtVpKrlzfPCdBeGY1nuTLcsa40jjlmnUfk165/k5UP0r0LdWDXy+lSernl/cd2IUEWYYmnvQU7LgRRnjZQtk/vqfEuaY8QHUb/V3T1rXwCiEGV59ZKIvSgOJOuzp0nsv2kolaRoRTvCJPd8kVcjywbEK0grH6YoKAJchGzD1UUcL8nuqPlU4mxL6s52PAiziNQrgHGq8v2NyjGIZUS2MRtI0ZGNgrz8D+UaNpwxMkL7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/057.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 57
     },
     {
       "content": "J'ai bu un café 23h00.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXtJREFUeJwFwW2PmjAAAGCiMEFeBEtbsJa2FCzveBIcEr3EedvdJZcs+3CXJfv//2PPo5leaYOTh2ef3AF/R9kfrD5h+rGJzj65QX7FjOqrta5blidNN9PscAzIC0x/4+JvXP+Lyi8HPunGZmnYS8OJ5VFNvQM845vrobMDBw2LN1p/7KprmD5cPFouhVFmrtzFwlzqdsRkduowp4A9h+w12N20pP5FVENU6UFumIDIob9f93lrraPF0nT9LSB4ZdkbWEdsAsldI2okh1qd35Pm5mOBEkZLkbRdUl4Mfb22AssKzJXn2FscJYj2GlFDepwP0xtrZlH/TPILU1NxeaVF7/uEioGKExMngFNWX/bqokVZRYtTPj52eY/3x1Q9Z809KUfHhxDnXH4nSUt5Sw5jPj/E01VDvIhly9vZxxSEaZpPO1ohXiBWAygA4CGSO9bwbuLDtK8GbUsUFnWUVaa9gVAiLB0PItal/Q+iZrSvCOli0seyxbIIYvYfj9M2cxpVVigAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/058.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/058.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 58
     },
     {
       "content": "Je me suis vidé une bonbonne\nde crème chantilly dans la bouche.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZFJREFUeJwVytuSkmAAAGCetAfoAXami6bcGmsL3YOBpMQCJgIiiIDwy/nwcz7GZtPbNH3XH0J/Z9cTVPrBHwXd0f3zwUq9Anq5pYDgHMYgcU6OyB6w6ePDzbvlHEfEjbxDCSDotuGnXu4aPnSzxE7ruOmLMfML++TKnCrTe3KCUstnRJNMBWdjzUuDEhwvQLVb2F+rP106xDb0zdDW3NjJzjuNmT5tKR6xTq5BCYnujfXVlC2RkUIziqw4AnEZ1V02VEkL3RwIxu7rUtwckIvum6wEdR/6ha25F9Upw7pPhy4b2myoYZcHZRo1juLwM0LaKoilOhZ7sHlN3MgN7IBq+0bwUl0b2Newq5OuiJozuVNmK/GBFFgJUUXDZCR+QRmy9VL9ji/QksFQjM3/3ZZRnQWVfIdxbz9z96uf5Bbh6b2y5sg7TDvaQ3U1Ndcxw7H725Rjnf8qkjZLe2m+Yifo86cn8huJ0ARDz4jbV6+Z6aOOM9R7lP+CgzWnL1kNZ44Laj8jNh/viZvbxZsP2Bz7Bx8ELPd4uo8JAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/059.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 59
     },
     {
       "content": "J'ai regardé des vidéos\nque j'avais jamais osé regarder.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwdtO02AAAOAmxgux/f/W0hM9rMdt1K50hbVrSnVrh3VsTDeyjYlxKGREkolIRJyLNwQSydBEg8oD+BZe+Gh+H6LSpHCPYCGgAKAgjmOQIfAn3v1uEnWqq8e9eLz3PCm766ul2HMi10IEhtR4umJrSUGjIQ5Q0HHU09QdRfZW/fGnk+Mfb14MkqDiOVXPqZYKiJOTfFe/mAwOe/E8BkkcpqZ03g4/N73xRvJxu3M5bP066M9eP3taKQd2HtmsuZPDjT/XRxejNoFCAMC6Kb7yjdNG+aQVdeMg9uw1J/ttp/X3anKwmSLDvj9+m96cDx8VTYjC0BDTvNi1hERn45zoa8IDmQ1lLta5L9v1f7P3yG4v3N+KfEtRWFqjyeGKOl2SPpSUs0Gtn5fW7txq3729b4k7ntEwuL2HPmKI/JIiKTQjMYyKY7sC8W45O9PImzA/U4jrDDZWyGbBaNiLTbfYKweILvKqsOBossgwVQK9ksCZQf2Wsa/C3IiHP3VwtCIHRWs5q0ZmrmaZiCos5DK8KfEiTdeJuSmHXvLodxm81KgGT0xlOFjkeZpU2HmZpTIc/R8CKWB61LWJnAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/061.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/061.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 61
     },
     {
       "content": "J'ai avoué à mon frère\nque j'avais pété sa Game Boy.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKbVSMeWydkIiglIt5aGGZe3CompKbkIuXioaRhICKfXiDd3FfWlxXVFdsY2FyaGYAi21Vl4N2opaQhXpzZk5IrId7rZ2VaVpUUUdEkoaCmIqFc2VRNjlAJi9AKS86Njc8AHpoXJ+Mf46FgI2BfYxya5JuZpR9dYxtYY96Z4t+eaOXkWdbQikvOCozQx4mMhccJACRg3ujkoZybW5BQEpbTUxdSD9YUVJ9aV+3n4JoYV98c3FcVEYhKTYcJTIUGiMRFhsAUk5TjYeEOz9TGBouKio7OTc+JSg5Kyw1UkhCJCcuISQpKSsvLjhJVWR9Q09mNDtLAC42RlVSWSowXCMnSSsrPiYoPSsrPyUnORIYIRshJRwjIxkhKjY/UmFxj0tbdjQ5SwBrdYd9fIVNT2NDO1AiIzYoJzsjJDckJTMpKS4WHh4uMjA1OkYhKjoTHCcPFiAKExsAe4KSu8XV1N7tk5mmGx4qJyo6PDtKgmpniWxmRTo3Ky8zNDtMLTZHJCw6FBwmCA4UADc6Q4OLm8PO3rO8y6Cns7K5yIaOmUVMUD9ARURDSjEzOicvPSgwPictOioyQDM+T9JPknwjs1eQAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/068.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 68
     },
     {
       "content": "Il m'a giflé, il m'a pris dans ses bras.\nJ'ai filmé mes dernières volontés.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCtqbDS0NfNy9K5trtoX2KHfoBDO0ERCA9GPkSdmp2Mh4mgnp+hn6CXlpqlpKqhoagAo56k29vgyMfORDxAEAgNXk1MTkRKGA8WXV1joZWWdlVOaWhtjYaJZVJNg4OJpKWsAKWhqt3e5tLP1DAoLC0dH3ZbVndoaXZtcJRoX4JbVXdXUEcpKzw1PYBeT0dBQmRlbwCLgYWrp66mprRpV1pdQjtoUU1wXlyOaGOJGQxlGhV1KiOGFQpFKjBBOj81Li1TU1wAb2BfcWVnbW2AamR1XVNdVklPV0dHajgwbxMOYBcSYRIMfiAZTCwwDhEdGhkbW1dVAE0+PEtBRVJOXVxccmVfcDcsNS8iKFVBPloXEU4RDE4PDHFAOjYuMB8eIDs4Lk5JQwCBeX9UTVU8N0NcWGphVFxhS0lVQkQ8MDRSLzNuQUN1Qz5cQ0EuKi1cVkpBQTQuLCoAe3R6WlNcLik2Ujw8ak5KRDc5W0dFdldRU0hMTVdjNjI5GiAuSk9WW1ZLLSgiKh0VAEo+PEg+QD88SyojK1I3M19FQUg6PT80Oh8WHCEmMSYpMRgUFyctODovJzIdED0nGUKLkUHsbWW3AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/070.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 70
     },
     {
       "content": "— J'espère que quelqu'un va bien prendre\nsoin de mes poissons clowns. Grégoire et Julie.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC1srjZ2eDNzNPQztXr6/DMyM1FOTwcERZQSlChnqKbmJqgn6CenJ6cm6ClpKuhoKgArquw2NbcxcPK1NTZ8fHzdm9yKR8iMSIjUkxQoKGlnZygmZebkIeJZlhVlJSbqKevAKuosOTj6tXU2czK0NHP0zIoLDQjJGBGQlhDQo1ybY6CgT07Rkk9QnxcSkRBR3BwegCXj5XAv8qyrrd+cnSEgpRjUVZaPDdkQz9mQj1+GQ+KMiRpXmAvKzhQQD8yKy1WVl8Ae25uh3t+nZabgHyKb2+GaGNzUTo4WhgUTREOXw0LfBcPb1BQKis4FhMdHR0eXFhYAFpMS15PT2hdYWNhclJSZWFhdz4xN08mI0QSD0MQDGgyLEAtMRYWHx8cHzQxKU9LRQB1bG8/NjpIQk9KRVNlUlhSTFk0LDNLOz1ZQEJVODlPNzY/NTocGyFaU0hDQjUwLiwAjYiPa2ZtTUpZPztIaklBZ0pHWkZHTzo7LC44SlBbGRsoJio4UVNXYFpNLyokKBsVAE1CQVZMTVRRYDg2REUwL1E5Ny0iJR8ZIBkXIC81QRsaIhUTGzE2QT8zKS8eEjslF9u3oGYG+u14AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/071.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/071.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 71
     },
     {
       "content": "J'ai écrit une chanson super émouvante.\n— Voir la vie, voir les gens.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBwXVVYR0N9aVixn4iloJyclI5vZGNdREFrVlKGfYGAd3duY2JeVFFoXVZ3bWlhVkwAhW1cZFNLkH9wuKaNu7m4o6CecFhZpYqVsZudint7jIeJUENBJBkZMyknenBqXVJKAG1cVVNNWWJaXIR1a7G0tJyUkXNfaqCXtrOmt5CGjpmTlG5dX3hobW9cVH9yaG5iXQApLT8uN045QFFnYmOfkY2Rc26LeI2dkqqilqqSiI+OjpF6amycioeah3lnXFhkWFUAJSo7LzlNQ0BOcDkzcR0UaSooeGqAm5Ksp4mSkDorXDc0Hxskin1rd3BiHBYgHxofACMnODA3SmAiHW8XDmwZF24pLWVadXdsi3MvNHwdGZQrGioWGCwsMzUxNxoWHRkXGgAbJDdFKjFpFw1sHBd0HxtxHBx8LjRzKjF0HyJwJCuOKyViIxoOEhscHBweHx8aGxYAHyAvUhoVYQ8DWhYRcBsTYxwdVh0hVSAnayUrYyIhbSAhhzElIx8eHyQeHiIXHyAaADQpLXFQVWg9PjsaGFcTDV0dHi4jMzciL10lJEQmIWFMZZ6Gm0g/OxMXEBkbFBsYGJuFjXHfbqGCAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/077.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/077.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 77
     },
     {
       "content": "Trois jours après, je suis allé\nchercher mes résultats.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzX1VlUUxmTkSag2q2qp2RiYdoW1d0Z2WNioyblZWAdnRxZ2dvZWJxZWB2a2pXTDkAi3dqjHRjbF9eoI14x7ytjYaGdlpcmoF/kYWFl4yOaV5fNCcpPTIwdmtkeG5rTkIxAIRyZoNwal5VX3xyaaaknJ2VlYJtf6ydp4d8gXBob35zdntocH1qZYV3bYJ3cGJWUgAsLz4yOEsuO1NQQ0l0RDt8SUN3anubh4txS0uOipKMhYmId3mjkoVpX1tqYV5uY14AGyAvJy9BUTE2aBYKaRMHYxEGZT5De0A7hBgEiT4xKyUsPDY6d29wJyIrIB0lTUA9ACIiLE0/QlovLkUdH2QcE2YcFFYdG3cgFIMjE4ohDCoUFRESHCAbJiEeJRoYHSsnKgAzKzBGMzEsHR09P0lIIyBLGRU4ICdWIyNxHxaLKxhNLSYSFB0eGyAgISIbGhgfHBUALigtRi8sQhsKUSwbOygjMCMiMxoaQRwdTh8iiWlvbFhQFhUZGBgVHB0XFRUSOTQfABsUFkw3NEcuJz8kFz8qIzssKy4cHD0UEDgQDmJMS0k4MxIMChMQCxkYEhMRDh0VEpIifzLid7EIAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/078.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/078.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 78
     },
     {
       "content": "C'était négatif, donc positif.\nYes.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwdz9tq02AcAPDcJfl/h5y+JJts4GqaL2mTaJakU+two/TATOuh65qyUlqdhYq7mUUZvVCcoCB4J3jj5V5B32D4Ar6PzAf4XfwEzreDIAvCtLaz97TTHjzpFuNiMpsW/ZP5fMWYRSk1LUszVERAFEWB8zQMs0olbjbz+exlv5cPDwfcdTq7/W5zRAillNpr64apYwqyDILnZf/BnVart1ic3rt7X9dNWcSP9odBJZVkSVFUk5nMMggl14DztFpNfD9qNvI344mOABA4N91G/dnGjS0AUBTV0HVVV4hCAEBweer7cdkNWvud86Loth8fj57nB4PPFz+iMJEkMHTLZLamaYBkGSHBdRPPi10vytL6t09fr67+/vr95+Ldh8ufl2GQaApbtzdsa41SbNs2pkRwnG3OY86DLKsvl6vFq7Pzt6vvZ8u9MMJYNTSmqTomGED2fZ+qqlAqxZzHHq/u1B68mJ60m53Gw91hN//4/otzy5dECSEkSdd1xykDIcJWKSqXb3NeTZPaeDR+vTidTabDo8FB73hz00GAMMaiKDLGXM5lBP8A6RdSltdwqHQAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/084.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 84
     },
     {
       "content": "Tu peux partir.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBdX2lzepGNi5hoXlZnYV+CeHKTgXecjoh0bWs2MzMcGRolHx17VB2RXg2KWAmIVQcAaGFecW91dGhmYUQ7NychLSknmIV9nY6IQDo2GRYXIB4YFxkVOCoTkl0Kj1sIjFkIAIBtU3JoV5R7apRqXlE5LC8iHJKLiJeRjp2IcXJmRVdOK1pQKx4cDY5aCpReCJBbCABjTiJtZluNc0NyVU9cQDRTNyyDfXuVlpSgh3C+rX2TiUmEeEAZGBNrSBKYXwWOWgkAYEgVZVlCeGIed1dCYUA4SDIoWEpFS0xMTkI4uKpxnZ9Dn5dQJiMgLSwtdFEfiFIBAGBSNWRdTmBULFxQN0g4NCwiHR0ZGQgJChoZG0M+LDs9GE5QMRgcHCUnL0ZESF1FJABSU01dX11XW1pUXldYX1szMTQUFBgYGBkVFRcHBwwYFhgdIyEpLi0iJCUjJSkrMDsAQ0lQYV9bbGprd3Z2Xl1jIB8jGxsdEhISEhESDAwMKCMdKistKjItJjAlGR8XGhsaAEtHRmBcXWBhY3Z2gElGUA4OEBoZHBEREQ4ODw8PDzQxKiovLCYvJSUvIx4mHBQWFDEid/qzOWIOAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/088.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/088.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 88
     },
     {
       "content": "Bref, j'ai fait un dépistage.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXX3N5epOIhpd3bGF4dHOMgXyai4Shl5K0r6uJhIIlIiEXFBUcGRttSRqNWAqEUgoAXmFueXiIiIGHZk9HSjMuMSwsgnNtnY+Io52ZoJCLMygmEhERCgwQLB4QjVgJiVYIAHpqWGxjWop4bZt0a18/OBQODWZdW6agnLe1sauYknhaUzkrJyodHTclEZBaCI5XCABrWDx3bVl9aEZ3WldTOjNBKCKCeXiYmZiGgHyBbGaJZV1eRDxJMjBYOA+RWQeJVAkAWEMkal1Fc10obU9JYUA5RSwmdGxqfn17Z1xScmJXa1BIVD42QzQySjUcd0cKd0YGAF9KI2daQ2pTFGJJMjwqKDYnIisjIxUVF0I5MnFjUz02MFRDPh8aHRQVHjsxLGRCGQBVVE1eXV1OUUhRWVBPT00sJigSEhcWFRgREBVWTURFPjgTEhYaGiEfHyYZHCYfHyQARkpLYl9fZGVoZmlnXl5jIiEmGRcbFBMWDw4SFBESIR4eExMaHx8nHh4mGBgeEhEWAEhITWBYXGZlaXh0gDw3QhAQExgXHA4NDw4NDhIQEA4NEBMTGRsbJBYVHBISFhQTF27PeVZhA66JAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/093.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/093.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 93
     },
     {
       "content": "— Cadeau.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAK1JREFUeJyFkdGqxCAMRNWkbXywiNEoodD//8sFs/Tell32PBmcMTPo/J0QAiLCxA7+jnvMiLgsyz7Ztg0RfxgAIOfcJ8wcY3TupnkPIQQAsDy1VhFh5uM4mPm6ehpSSqartZZS6kREUkpE9DQ454jIdGOM1pqIqOoYI+cMAFewv3wAsO+7PVxKUdXzPFV1XdevpYkoxlgmvXfb0Fojog8bbIn1/v8ViHgV8N6/AHUSDGG9jxWLAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E25_brefJaiFaitUnDepistage/096.mp4",
+        "thumbnailPath": "thumbnails/S01E25_brefJaiFaitUnDepistage/096.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 96
     }

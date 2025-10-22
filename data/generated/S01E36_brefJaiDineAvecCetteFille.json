@@ -12,234 +12,507 @@
     {
       "content": "Bref, j'avais réussi à obtenir\nun dîner avec cette fille.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwVtvmlAAAGDSLKuoKHc4h4uAAgcPIiLQKhMtsXab1mibtrZ1lyZ7WJclu3VN+rCHPe037K/sZS97XPab9n3EOPQNIEksW0Sdu4vFZoCvDpI388m2iG8X+f3lIkYtReRT1JxF2JUFYhw4pixJDJMH6OFq+WWavD85+rhZXhfJ23n24XTWc0xV5CeWvN8QA00mxn7L1aAi8E98e5EOBk2vCLN5GnpQfBbZ55nvaNDXwSlWRw1+XxeJpKWYQBIYOjak2PKRGiCII8tldh91ADtpG5EJX0XmGmtDnT9GCtEzwKRj575zMxumrbYtIxc2HWiOMFolXZOurgLzRWR5EqPS1DECxDRo3hTJMsZH/W7ParvAdYGhUPR6r7/JB2fD7tdVPgk8na0fIhhKDOFxDFYlh6PVnR2VERqiGqiyC9iuKmQ2uMjC52mAGxDS1B4QIw0SSamMeVqhKY0sy7XqdZZ+Pzn4+fLpt/n0dYgRV+HJ3WqFDOv1Ncf5ikj4pbJOliBVrpOPt/3o7/2n33fvfm3P//14+PP5duTocq0CGSquUQlFaUz1P2RaTtZV46ilAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/001.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Elle s'est assise, je me suis assis\net là, on a commencé une partie du jeu\nle plus compliqué du monde.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwVtvmlAAAGCyB+vcvIHoAfEAigcryLWAFJTibXNai+naiNX2wdps3SVptsZsPi7Z65L9lL3utY/7Ufs+rKs2eaoE8Hyoy18X02Wgr/vOdhpeheb7aWcXT6xDRBcITxbHloJKBeykhWo0AHi+qzQe49M4MO6j0W59fjfxN6+cz/OBUa+WScKT6vNjxYAAC2ShARmmSLqHws3AiVxtM+l/v7m4PwtXXWVxLMl8haNKDoJvXalTh5hVo6sUoHDcYEHsG2O19WMe3Pbb62F7P7E/BZLCUnVQPOKoC0/uiRymsfRIE3stIXLcN9bstTFYmkgkc+e+/WHg7Hto1W5qkPbZ4sxqdAUGGyrVVUeN2rZeNS3kn1lmlcylsWdjvXWqol+R/mVkRm21J4CRBFVAYDCbRjSQGLFCQIVv+qjsCrQA8jJTPGILsc5d26JTgzCXMfiyxlAYTByUsjkynafztMnAW1v5NjR/z+x9z1kg3mOySwt5ItcgMjWCoAkcqxwkiedJPJV8kcrc+e7Tw/bvw/bP9eW/n49Pu4/vQn3Tt+ITmyeyZOZlKpH4D0i4WPfnsd2WAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/003.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 3
     },
     {
       "content": "\"Pécho moi si tu peux\"\nElle a sorti ses cartes \"Je raconte ma vie\".",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwV0Flv0gAAAOA+GdrSQmsPkKulbtDVFUc4xmTUYTk67DhEWDt2MEsKaHGA2ElYthgfjMYl7mnzyv7B/uLi9xM+gAAdQQQScDjFBo4LmYW6YUjx/o5qNV990LWJrunyVi3qkxlqjXYvYwgQQmF12V9k6RwfHbUqzxMRe3f757u9eaf+daCbVaVXejGWRP2JPx+iMr6HQBiFL6sZI81LK8Jsr1HMri306mX/6Mfw8Oyo+WXwxn6taiLXFgIVlo7RGICAUJgk3RCyzgun+7W+krOUrV/Dzp1tXU+N76PhZ6PbEpdEwiVSGPwABFAHiMKoByMZyicyHO8NJhn2W0/7PTb/nL6/mvb/ni/0XGYzQMmsN+hCAb8T8kAQ4QBjFDEtbBzk0/VE7Pa4/W9sXpjdm9nb67k9LW+WOK/MeFI+EhBwJEG744RTXlkaNSvdwrNPqnyRT57r6lx7OTfaV7OTzlPucNV/IAYUjgY4F7z+CE9QaDYSGjXLJzVlojesRtVu1Se6ulORbs8+mumoxnvKYfL/EgU5HrudPI6IFFZPxXel7H4h31NKA1VpJ1ctOT1rFLUYs81RKS8ewZB79LRtsY+MRLAAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/010.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 10
     },
     {
       "content": "J'étais super concentré.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwblu02AAAGCvNLYTH7/t3479Oz7j+EjsBuewkzpH1bRJ4xRSOlBEq14pFUsHEENViQF1QEy8AYIBtqpITEi8AhLvw/dhCmBsyA18a9pyE7vyKW//vJz/ONv9uEhiW8x7xtW0dZh6W762jiAkCUyiShESF+1G3m3EqvDlefb35vjf7cmv1WxY1cZe5SA2dzy0bBrTumbxDFaDbGopeSd40Y+eBvpVv/H1aHq/evJhli5Dpy6BvgGHjrxZUxJdNAGFZTYa1NRZs3oybt5ut+4W/c/L4ftJ5zR27uZZB/F9U8ojI6siRJdEEsf2k2DkmbN1bxLHp13/9+u9+8u9h4v5w6v9P2/OztNGz4CHHTuPTA3QPFHAupbvyL4tuZrgbVjq21F4HNo3o+jby93v58+ux+1IZvO6uuUqBqA5AsdU3jGgp0PXVUJXFA8i6zqtT53Khlp+t9laDR7XBKaJhEAEiCryBI4hYGhC1ZQ8nlJaFXniaqOqGikQFNmLXrjKwkDiLI5BFCmSOMALGKTlMqspwGBIsQLgwje2HaRzHEXQA0c/SnwXsuUSCfACU1grrj36Dw5SWv74EF0GAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/013.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/013.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 13
     },
     {
       "content": "Elle a dit:\n— J'ai une petite nièce, elle s'appelle Chloé.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwblu02AAAGCvNLYTH7/t3479Oz7j+EjsBuewkzpH1bRJ4xRSOlBEq14pFUsHEENViQF1QEy8AYIBtqpITEi8AhLvw/dhCmBsyA18a9pyE7vyKW//vJz/ONv9uEhiW8x7xtW0dZh6W762jiAkCUyiShESF+1G3m3EqvDlefb35vjf7cmv1WxY1cZe5SA2dzy0bBrTumbxDFaDbGopeSd40Y+eBvpVv/H1aHq/evJhli5Dpy6BvgGHjrxZUxJdNAGFZTYa1NRZs3oybt5ut+4W/c/L4ftJ5zR27uZZB/F9U8ojI6siRJdEEsf2k2DkmbN1bxLHp13/9+u9+8u9h4v5w6v9P2/OztNGz4CHHTuPTA3QPFHAupbvyL4tuZrgbVjq21F4HNo3o+jby93v58+ux+1IZvO6uuUqBqA5AsdU3jGgp0PXVUJXFA8i6zqtT53Khlp+t9laDR7XBKaJhEAEiCryBI4hYGhC1ZQ8nlJaFXniaqOqGikQFNmLXrjKwkDiLI5BFCmSOMALGKTlMqspwGBIsQLgwje2HaRzHEXQA0c/SnwXsuUSCfACU1grrj36Dw5SWv74EF0GAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/013.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/013.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 13
     },
     {
       "content": "— Elle est trop choute.\n— Elle adore la musique.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYhJREFUeJw9y81v0lAAAPCn76uvn7SPftHBe0Bb7AqlLWVj2cJgY9kMjoSDZtmWePZgsmTxZMwu3rz79xo1mvyuP4ARkoY+jfxCRIuRPDscLFK5aSa16KSWUXhcEppg6iHsQMQhAq5q5Nyqu8E8FqsiXU9HlQgv6nEz6H5ZV9tMipYVMc1H2IXIRxhId1iJRFhmKaN1kcq2M+T2dT2uRPT1ovxYx9JpWYrKKfMQDv6EtE5PZkkzi5NVkXQ577fM82yQd7xdEl31gzdt29d1i+lthfkQAxXbXAull1bxfDk9yvsDR7f2ZbLNevus+zYOx57d9EJGmKEwF1NAoEGhybClYbutH+TyUAbR0zI/6flPl8cv+00d8Ks4VAhRMDGxAhBU/8JIQ69VrgfLYvK8nswi72V79uN+ez0Si46jUsowoZgABOk/DEEGX7HlOH++LN8N/V2Rvi/Txzo5F65smZ7GCPodyP+DEQWA3B43Pz99+PZ4+/1h93lzdLea39+c3syS014nO4h+Acd+Np0/JF1RAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/016.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 16
     },
     {
       "content": "Chloé, nièce trop choute.\nMusique, OK.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwetPEgEAAPD72tbWWn1xk2VLndXWqq1ZfFAWSx2PikCJQHBdJ9wR7o57g/cGGdxT7sEhD5XSALfm+gv7/YDDjxECzHJVqIlDfo3wGdLKpxvJ2MbT5cDdO8FHi5ngGzgaLkbDhe3N+PpLgDmCTJH16pTLkANJ+GXql3qnh5a93C6VTR/EI++WApvLS/lQsPJpp7C1AUxPnT5L+7I0breGTdlmyZEinnHspSLd9nvzU12nsNDztWcP7oVWHifXXwFeq3Mu8mOWcmjCIdARX/Pr9LAh/XG6Ll+3KOyipVybKpJKvAgsrD28DwhYta+as456JXAzy5h6tsFQrsB5Atdl6YmmXlnGTc/763ttuPj6ySLQoFlVPJEFXJGO5q59OxpODE0jMF/iLYYanjRnnnsuijZyKMDfICgKCAShMDhdyeB4hqRKo3bj33Awd7oTXZ063UGNvsBR4+cBW80KDCjlvgBIPoX+SB5j+8f495Xg6t7XD2caP3PtG1P7zRBjvNwmwRaHuCQiJeLl6A6wGwnD+ykSzKHJxF7kbakQk7mizMM+iTpEqVNDPKbiF0Eytg19jqW33v8HNV/Bb83+zXQAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/019.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 19
     },
     {
       "content": "— Par contre, ma tante, depuis qu'elle est\navec Thierry, elle va pas bien.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwetT0gAAAPB99ry4ymIcOoGgDUE3HgNiPMe2eIqIMh4DYgUzPNkNmLAQ0MhST1IrE6krv/R/9vsB5US8uZVskxsXOd+Q2rjK+XoRNKZTW9RPcKNxG3eUAp5mmqnFwtmAJ4pjwLHYne5xN3nf73psTKOXafckgedMGs6G2E2Gl1qQXEMqYeJgK9pIUZs4BtyNJzM++pMj51WKtUASgZwncAFdlfzYBV8aZlNJ1Lqu1ZAWuOB3F0MeYJAOj0LmE8b2JWqn9WBcD05Ia9cD90j8R7/3d6D8elv5kIoRJoMVfB5EjIBc2GlgUBODRqG1dw6j6dGigOn6BDKi3VO58+fq27/b2W29Nq+Wkl7nkmoBGHeUFsuSOk3erO15YVoP0tCS4kUkF3Iq8N+PT+aDwUyoz8X9I6VR3qEApSXKew3UuLyiWgysPCujL0ooLNgMPGo4qxQfOtKdtD8dS+efu1/bwjCTBPKbkfRre5rBnGbosWpBp37aTzFi0HUQdF2/56dH4uWpfD/pX9drh9mM9KYKMK/QOOnYTXmLfiJigZ3rq1wmeFjc5ij/p1Fr9lF5kNtnXEEqsA12Nx9l/gMnoYlL2VCBSQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/021.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/021.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 21
     },
     {
       "content": "Tante mariage relou avec Thierry, OK.\nJ'ai essayé de tout bien retenir.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYhJREFUeJxNyztv00AAAOCjd2efLznOr3NS+7AdP+M4dkttiG0aB6KCMrQwFIQQlXgMsHVgQAIxgFj42WwI6Vs/oCFcCms1F4FpDEXcL8NxnTxapfvTItC0UpgFvxth1cOKjrCJIJhNjfuuXdpmLKzHdbY/zfs87PLFebXcx97noaw9x2XMVVQbIgdh4NtRExWpbkQmH6usW4YuY2MebYrkkMtfz84eSkcwZhAqsDKHGEgzWodNm21OomK7TtvEd+ikj2Sfhe2x/aa8Vws9NnVGJhadCoQBQTonwjXCXNbnVdeXlRSzVFhfL846KW7qoLL1B9JxOacK0RUCFMgUyAjmFOtMdRazNJbRNpa327KVsz+Xw+DPt76dWPzoCE1VAhCkCFIMNYwmGFKCeSbj97vmdsi+7E5+XI1PM3/jmoHBEMQUqwBB9R+MtDuABML7dNG9LNzaO37b1R+61SFxY4sHfEqwAhBS/gsEAJj7i983L76/Pvz8+Orb8/Hdrrl+srneN61nD3HwF457NehsYPDOAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/024.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 24
     },
     {
       "content": "Je relance de sept et je recule.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxjMNVQsFCR7fazXJfmvzkjoCvAVldFzFBXPFhFKlVHPsrazFhFxUhOxsNAN9jSJMLJisFCQ8FCUWpRtNOZyrjLNQmzwx0dtVSt1JTcFMRD1GVS7S26s9PjvTwMZKUtVBQDzIwY/Iw0/bQVixyNF8a4LYl1b/Sw9NVVdddQ1JMQNZIUDdBULg9wb06MrogMddHT0pAUZ4i01i9zMmrwspoUZF/haFRoa1DpYmEjL2EmJW4uLe6qoRRra55gb+lnqFPm61bk7crgZGAYY6q1Nd1nYYz7yniPXflRh6vSEs10jCRETWUkXLXVgswMbVUVzGTE/Qy1QBoUxDUtFGWLHPSD1eUr7Y2nh3vsKEoodLWykhA1k5PyNdSxVpI1lpO0UpSxlZfy19dh0JLTVxOX8NFWLLLW81JXcFeRXZYaGuNgF2prFmmk66Ou5KqhnGhlkmNnWRLomR3rwyDKL2WuIGunImejIqcuIaYjKbkgKajI29XQRLUizr/Zz6PVz70xxKciMagkI6wqKZxBgEdUXkTcU1PRVU1OUVSck50vx8WmLzYgwN0oKtw2OdQ90tmmIDm4OimsPiIo09URAC8TcVSwf5g9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/026.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 26
     },
     {
       "content": "J'ai posé deux cartes \"Argument\".",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAmFBE9IRtWMylGKSI6KSWBdoN/dYV+g6V+gaGLeXiPdnKYbl19W1BgSkZMPT1DNTQAIxIPOR8ZLhoWEAoLCwcGc2VsiXqCf3aIgHaGfGpvjXRsoXttondll25fc1VMTjs5AC0aFhUODQQFBRMODygaGWJQT5V7boBgToRlUYloTph7YZ5/dKN2ZqF3Z51yYoJdUAALCAcEBQYMCQkbEhIqHBo1JiWKc2qafWWfhHCZgXOag3uij42Ub2efcWKjeGmUbV4ABQUFCggIGBAQHBIRGxEQEwkJYVFQsqOjopWXpJWXpZmetKWolYBpb11FjmhZk2pbAA4KCRsVESceFyofHScaGhUNDCUbGqKOjrqWk5aJh4d9hnBjaHtkV2lpVVpaPVxKOAAhGBI2LR5EOidEOiozKCIfFRYXDQ1SQD5nSkdKNzQxJCNMPT5cUk5iW0ZXUjhMRjIALScbPTUjSUEtTkYwSUEsOi4jHxQTMyMjOCsqQDM0aFlXaWFRcWNPcWFOVkw5QzsqAC4oHDYwIT85KEpCL1JMNVNLNkI3KTcqJVxLTHdpZFxXQFxTPIhvZIZvZW1aUEQ4NYrag+hYJCtzAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/028.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 28
     },
     {
       "content": "— J'habite plus chez mes parents.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwFwVtvmlAAAGAeRT0cLuNwEw+XI/WIQLkIAk4rYhtr26SbppfMLsuyZVnS7GVJn/a0n7Q/uO9jfNN42q5vy/R+kd3k/nGVPTbzX/tyu7RnGQoCYeTxu4rUI6zBPmQ7zMzBL7vNc7s4Lmef2uKxjb4uon/fPpwaGudiFMp5pL+swnyoWBLkul0mIZYEwNyzT+38oalv6/Rtm/+5ytvKqArDH6PD+8mPVVRais4DsddjEs+LZOly4tzMm5RcnFvxNcUbz4kCvcw0n75rC7wPcKgjHXIK6DMDWf2yXZ7apY2CANe+mVS2ORA0rHjJVPfPlCo070KSDVVTgAbkGK7b+7zfHFaNxhOFH44HmadPHUSJ7uf2IMDqsYr/Hi8bb4BFXoGAQby4oCR2I5V3xb5qSsSUzhC0DMmp3VHsah9TmutygARb4iXQZ2TIlR6WgeZqUTEaE6T83u/aKEHQ+HlR389oiAQCgcUByLJ9lmVSjzyty2JCKzxcW8brVf1anB/i6YzSt+v19zr2kehCoPR63U5HAPA/NzdJjr35ty4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/029.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/029.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 29
     },
     {
       "content": "— Et je joue de la guitare.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZpJREFUeJwFwUuPk0AAAGBu2nagQBkGKM+BLo/hUSgTSsvaTZcuLdusa81qVtdH4kEPxkeyiUcP/gbP/lW/j0ks493+cpfHp/PyUAb3bf25q9+2abPWi0IKQ2GeorsmJiqS2ZEwHDIU219O/cuGvr6gb3blfZv9e+j/3rV0AasKhZF4XPu3uZ9pEI1ZiQWMLUNHhvuCvN/Vp4vq49XyT1d/WPt1pSxLLY/Urx09zV2iSvKYFcGIySyLKtJ1mR5omzrNEkevEly4BqUazZUsRre19wxrnjxRxyziAJO53veb7b6sMCpyvAlUb2WrMmuG2M1jhQToUDhdaAdoYoq8ygHGkOHjw4s1oWiMDWkW6oWnzDCKiREUJlrMzMfn22+7KlYm1kQQAWBMCNt5EuipxOqQm1ow1ERf4iyiB6WpbWJ8JDiDQiSLU4HnhiPGRRKZapBzQiNLTLO08a9jjxU7mZ796JrzMyMQxh7PqQBwgyF48pSpQu9mtYh0Y2NbnW//vFp9ouk2iS7z+e9+0xPP5VmH54TBAAxGEi/8B8cnSKrEWfpgAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/030.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/030.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 30
     },
     {
       "content": "Un moment, le serveur est arrivé\net il a posé une carte:",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwW1T0nAAAPB9h7qzu0oj4zQ6kVmKhzlgk409/vcAY0+OAUNw0kakIzDzpORc2nHYhYdXl1Z3XfmiXtn17fr9oE4O+Bxxtln/8bKzZVG1DdqxSdemWp7QdEBfBN/89s/t7p/yzrPVNBy6De1nyQvP+/681dekg01mUCJHZebYBD2VCVzlqCIEWnYo5v/Wdn9b2701HrrSnLbB+jp+XqTGFugrlC8RTQZtcXhX4YKqGshrQx45K4rXr/1fLRd6mwf1BntqZi4dow7I5fBU5NZNbn62BfAtQL0oCF1L2+fRcyl5si4GpgjZNlHW0Y+51Mgxqjw9P3EjOX2nsDTncpmjpvd1MLocfOiVCp/yqZ0Ka1sUVCvhObAswg++6MShKeWWojw8YyCLnpB1ZfGks/eu2Rib9LGSaVS4jSIJWVq6qCCxR1PpmbsH7Mr7Ar7HJdt8ZlcBr2T6jUoOdbyOwgB70qjypoJDioIYGqJLicXYdHhyYjVyT45HPmOxMQqfYguDzEJ8dvJx9H5ZJ0paVqBWIBekNRlR5aeWiuS5OJJ4GJ0LHcKhf0jkCg4F8TBLxSsGocsYQyewFPwf1zeYcOQVAiAAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/035.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 35
     },
     {
       "content": "\"Je sais faire des cocktails.\"\nJ'ai sorti ma carte: \"Mec, t'es\nqu'un serveur\", en disant:",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwW1TmgAAAGD+wRYpMm8leM5WK3WNLJubbVDtarjUA19ARLRMw0ReBLFC543NA6dp+7yv+5l7HmD/zfZBJPolmSydne++3ky/P5CqHbJoZ1inWS7OxK0fVcyubWbPaexDJfqOBFIYliOOAy/8Gwjar9eHzRZVsijeueAW7avyUtqaXe/a4mGato5JJXFUAfwQFA1vsGS68i1j8JzAyCTrFoQpXXHN60+T253JzXZDuEozLln4fnLCAztI4KZQVHihnS/MNPVB1JpVg2bGeebeFuNTOTxsJanyz1zF+UpZIlMDEA8YCaxjr0KGIDzeP7iKPFO7E1k1Wj1ZYPT6aY3vZPl5lnO5ktrjykAIhtbAZwz++d949PeSX6rK3DAXmrYwtGlvMLo1W0KfZockZZmNdoHAAcS7GvJ5I0ggc5gYpRJzWbIHxp3cWZp3T31toStzVZrI6qDZNarVj7G3AOqDgj5PEPK8BFcCMJyKxc6IozrPLqzflvLL0a25rk860qOhNzJZPB4HgjDsX3mOej1hvy8MQ+ur4BoIxlCUIk7ztD7u6n/6oiNd1i4yBLaXw/H//SmS2bXbGvEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/037.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/037.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 37
     },
     {
       "content": "— On pourrait avoir du pain,\ns'il vous plaît ?",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZVJREFUeJwVzUlum1AAAFBWMbOBzzyZDwkzn8kEZJIGxzayRWonbRZto64qJeqiqnqH5AJVVz1t1XeBh61L9L5vdxU69c3b4/h97E8jGjfeqjWzjM9Ssfb1C1liKYolSAonsFPfvTwcpqbofPfvp/2fL4e7fbjZ6auVXBRijqTb3KsdCzAsRZDUjMC+HacPN919X90vkx/X1evx3X5rF0hpSq1EKorUYxNGmgIoRmRYgWawsesAQbRRtcu7tavnlrVrmiV0TE1AmdxX9iZyoMCLLGvwnEDR2CpFLYxjq0eL5c/tVQNDV22HIBsKp4j1pzX63CWeKCgsC2iGwUnMlOTCLT0lj6y29a+GdMjhTbZIBxQufW8q/bsUVrZm8ZxI0/8HaS4kVm2LgaeUv6aH318/msK5JTiXHkwd81CHT22SKuBc5AHNzEkSsyXVVVJHygKj2GeJL+mRnQSWzxNzQ+avQ3twjUwFHuApnCDPcAzBhQl0geJjTb2EhsLpU3f7fJw8zdgG7mOdxIDzRc6Ys/jZjJzh/wArSkTsmm5uAAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/041.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/041.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 41
     },
     {
       "content": "— Mais bien sûr.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAkGRZPOzdfSkRMNS5IMCVONipFLyctHxwaDw0yIh5XPzZNNixELiQ/KyE9KiRJNTEALR4bVUA5Y0xEUzszUTcrPiggJxYTKxgUJhYRHA8NPyoiVz4zTjYqTTUpQSwkSzYvADQjH1c/N2dNRVA4ME43KkwwJWY1KHhAMT0hGRMLCTIhHFtBNlE4LFQ7LkMsJEMtJAA5JyNJMShNNSxMNCxMNSlhPzJ+QzSKSTdVLCEhDgtIMytfRTtUOzBXPjFFLSQ7JhwAOSciRS4lRzAmSzIqUDkuYj8yez4xiUc2bjkoSSIZWUI6VTwxUTgtVjwxQysiPicdADcmIUoyJ0w0KUcwJk00J1pANWo6L2U4LW07LqN0baeKioRpZGZMRFU7Lz8oHzsmHAA0Ix8oGhUyIhxKMih+ZF+oi4x8X15JNDFjRkCXfn7QsrPLq6zFpqelhoRJMys6JRwAKhwZGQoILB0ZWkA7rIyNvpuct5WWi29vn4mKrI+PyqmoyKamwp+fupeYbVRSLRsWADgoJTokIDYeFlxCPJBxcauIiL6bm8mlpda6vNGxssampr+fn6yMjJFzc3FXVykdHK+fgAfUfu7qAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/045.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/045.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 45
     },
     {
       "content": "Retournez à la case cuisine\net ne touchez pas de pourboire.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwVy01vmmAAAGCOS50iosjLCy/yDYIIvFWUj4JFpTVoW41tXNPDkmZLmu20Hdakl2XXZrfdmuwH7LrDkv25Zc/9IZbjoBwPY8fw+O77qP9tHT+t03063GTGvABhRCZJN5zQjk2ZKsMDkrgtZ4ci0njuzEIvN+mfD7u/H3efV1GZy1WFsNcOMbMskDekdaNhqm0itDRPRlSjESDw9Qz/vCt/3W/e5X5+wi0KYYbF0AGuxnNdqoeaoQmJ2qsjqlYzGPpYYL8s8EOGv1/lz9enZYyKWCx9sxroUxnVj+r0azLWeYIlSZturTS0d5SncvT7YfdyWDxf5dexXZ1Y28jPJHiqCnqH5inqf3CR6HfoiGfninAItB83s8cc33rmZWy/mXvbaDiFzEpHWY/rtanUgATTbAagG0CxD5ADOhtXe1yEF66FdX8dTXZRcDf1tq5aKDDV+KUjElS9qQFFYHRbMDIFOoBJVOHSN/rCwORHWJ1Ux8l+NMgVuBpI565EgJYAaZmlBNjitr75dmzdR86n89TiNa4l6WAosy6WtbDHJSocSeAfzr5VSbvrQg8AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/047.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 47
     },
     {
       "content": "Il est parti.\n— Qu'est-ce que t'aimes comme musique ?",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwVy01vmmAAAGCOS50iosjLCy/yDYIIvFWUj4JFpTVoW41tXNPDkmZLmu20Hdakl2XXZrfdmuwH7LrDkv25Zc/9IZbjoBwPY8fw+O77qP9tHT+t03063GTGvABhRCZJN5zQjk2ZKsMDkrgtZ4ci0njuzEIvN+mfD7u/H3efV1GZy1WFsNcOMbMskDekdaNhqm0itDRPRlSjESDw9Qz/vCt/3W/e5X5+wi0KYYbF0AGuxnNdqoeaoQmJ2qsjqlYzGPpYYL8s8EOGv1/lz9enZYyKWCx9sxroUxnVj+r0azLWeYIlSZturTS0d5SncvT7YfdyWDxf5dexXZ1Y28jPJHiqCnqH5inqf3CR6HfoiGfninAItB83s8cc33rmZWy/mXvbaDiFzEpHWY/rtanUgATTbAagG0CxD5ADOhtXe1yEF66FdX8dTXZRcDf1tq5aKDDV+KUjElS9qQFFYHRbMDIFOoBJVOHSN/rCwORHWJ1Ux8l+NMgVuBpI565EgJYAaZmlBNjitr75dmzdR86n89TiNa4l6WAosy6WtbDHJSocSeAfzr5VSbvrQg8AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/047.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 47
     },
     {
       "content": "J'ai lancé les dés.\n— Carbon Kevlar ?",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZRJREFUeJwdy82O0lAYgOEj5zvt6S/tKfS/U0pLqaXToVCoOOggYyESZzIT48IYNTFG49K4Na5cTNx6Cd6BV2iY5F0+L+KBxF01t/pl6K2yaJ0PmzRsF2d1FKxDZ2b3XZ76VDAAGMYMAHlaPze6i9BZjsLtdLwp01PfXqRxO4nvXq4uE9/TVIWnBhDzGKDUzev4tPTDKvI35agIHEuSVnGwzwZ3h2YbObGu9URRp4JFOAsIMlU/cYtp0sxH1bNpfjYc2Io6O3ELk10nTtnrlpahCaIqyowTbCCIB1XmmCG7iVusJufzrAhN590iu4zdQ2zXjnEe2svI73SIygs24RDBEgeKyOky1ZnkDp1kHIS/DvXjyPtYj9vYfZUH+4cRQljkKSMcAiwCphhTwALBskZZW1e/b9dPI3+g64/8/o/ns4lrQocoPCUdjADzgLl7fV9HarL0582TF2WyrYovF9Xni9lJj009FncVRZTQUQMB4I8PCA8Q/Xaz+/f9w9+3V39e7z5t5vum+vr+9k273I2jPPD/A26LNs2LBLVpAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/049.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 49
     },
     {
       "content": "— Oh. J'adore.\n— C'est vrai ?",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwVy1tv0lAAAOC+NrSctqcX2tOWUkopl5V7MkGMUjO2BjHZBXDqiI4p0/AAuhHGZpapyCQMopnOp5ksZDH+SeP3/mHAB70STGTs/v6bs3eHndaes1KS7RCyQyhpolQYJUw5HpSiAcFQoCZitCKgkNJ72ph1e/P3/euP48X5RW29KsR1JRWW05aatvxJS7ZDUkz3mSpGKpxzP381PBm97Rw1nx88qfdqm+3aupo01XQEpcJcXGcslY8G5CVDigYwShMq95Z/DYaLyfc/86ubybfLwVFjtYSSJp8wtLTlVsq7zZ2CU+Rj/w/GamLOUFw7XF3OtSruaevlqP2q4hQF2yhX1846nYOtjcXo6+J8uuo+ZC0/RousLnIZDUkUiQCR01CzVCzks1Ym8mNw/Hf283Rv9+RF83Yyuzz+EMktYYCjGAiCPs7PQo1nLYnPGlogZhhBtO+u3Iyn15/Gw51n0273djLfrLoYYCkv7cVx3IPjFEFwwMvyDNSRrIoxie9v139//nLR6x1u118/flS+k8WAD1ICQwDSQ5IekiAZCsoCLUCaBiIDCobaXnMaD+7mraDOQ5Fn/gFWdWiMfOyx7QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/051.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 51
     },
     {
       "content": "— Ouais.\nEt j'ai rajouté:\n— J'adore la musique.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY9JREFUeJwdy2tvmlAcgPGTnv/hIEcql3MEC0UEAeVSLcEqbqXdxWZdapMat2Sd2YsmW/oV9mYfYOuWJfvCS01+L58HcaYOOuqJY4ddMYv8euS/zILlKFhVk9zitWsVwnAJdYmkYWJgQFy1Yqs31Nqhqb1Iw9fTpMmjKjhe5qOrdPD77nyVeCZTbYlyDBwD6ml+2p8WXh7bx1XUvzgZpkdWzPVl7K9G/af14n3iBNwUTBUSFQCISYY4dCMnz/zydFhcTsZj1wlNvRq4WdfYFf78yEyE3qbMUFSOCSLQJgcqxYcdWXg8Po3KMkm7Hf2+im9T741nzmy99qzCtQlIXJKRBEwCle61SIdJpm/3PWH/uVtsp+FuMthm/nXU+1gmCGGVyogAI8AAK4BbBBQ4UAxmvD07+7m9+Fpnga4tHP5Yj3fzAiGsUBk9d7gFewTLBBQZlHfz6uHV7MfN4jxNrrLg16b5PE8thQqmIMAUsLRHnwcsM7nz/X799/HDv4fN06frb5flpqm+rJsm82uv9x8wbTd4gdqhHQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/053.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/053.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 53
     },
     {
       "content": "— Un peu comme ta petite nièce, Chloé.\nJ'étais trop fort.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwVzk1vk2AAAGBuiyuwOlrKSwvlG16+SsfHYGA/WMvGGjrj2mytnbqE6GHqEqeZelAPxmQHL178HR7UixcT411/kfH5BQ+yo4mZCzUGzB3xS5n/eVP+fVt+ezTNbN4xwdARHgydhyM3hW2OuAlwDMm2jKO447PUytc+FPHX8/mv56v3RTJ1lGXUzU1xFcNyYJ1sKy7TILEKknvGIvVntvTuIHy9H10Xyaej9Gnqn3h6prL7sD0x2WWk3ou1ntwEGxhyeThapu4itK6n8e8Xd388mf98tvh+PjsNjD2pmWtMbrATi09Vxqbr/0unSTDvbfuKfhbqn48HF0nnZep9vNPv8e1MZA5N9jiQC0eCgGxVMQpHEZHSRKBzpHxLal2Ng6uoe7ljFx1Npg1Pdm67ejkwlxE0AElvYABHEdhyREo32o4OqDHkX42ji6GnUCxktzzFPeja9xNt5sk6VQNYpYGjCE+qsOXQBN+Xuakt7UJhYolsrSk1YaB2d004sbhEoLnNagNDicoNhKkJAqVh64RAgrPQetzvjKBURetcg/MVewC1kKeV+ibAUaKyjq+t/QN60FvNU3zqwAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/055.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/055.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 55
     },
     {
       "content": "Ensuite, je suis allé aux toilettes.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwU1v0mAAAODeNNBSCiv0C9q3329beEsLZYXxmbV0xDG3USYshgnOaEz0oAdjIhevejIxxujVRM/ejBdPHkxM/EU+D3bg6IcNow2VGIrf1od/Xq7/7rY/H5+sQgvVuKOusom8R5MgsgHYo4R8DrsVuke+HqqVM1d9vxj9frH+t9t+f3ic2HKJKo5tsB2hB2P3ItAblTJD4Fg6aN4OnQXSXiXtbaf+etr5eCe+2nciCHgq3wbcaUO62zXvHVgDjWdJAkt7btp3V/vOp8vo1/PLH08WXzezD6vJqgnrDN0BXGKJx0hO7KonlHiSwJYDf94PWprxbOy+mw/fng4+ryZfrqbLhh7LXGxUzpvatKZYTEmkSJbAMUeEVtVVGTn19F3Sua7DjWekPkSi2deNua/eH9YuAggZWiAJLodjoAxlxkaiVefop+PgzWx03UUqIwLW8vTGiW9vetbc181ykctlywSOqaylcjVLgLEptiQ+spWWxJfyQg2gtoEiW5/VpZ7CSwWSIbLFbAar0gpbEHMZKobKuu0smyaqCGSmCBgQmmhoaoHE6nSBzeF72Qxx4+Z/gh1b18WFjKgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/057.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 57
     },
     {
       "content": "Quand je suis revenu, elle avait repris\nun verre, moins sept points de sobriété.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwFwWtvk1AAANAb3SjPy2MUyoUChZYBRahtKWKho8WO0XbLZtykZovVxBmN0U+Lib/C+Is9B1hI9JC0dAz1RPhQpl/qvClmj1frT3XRFLOnu2rq9ATIBAbKh7YlCkCEnMzyZ55nI+MqCR6W8aHKf9+//Xm7fX82bfJRZOltHs4c/eKl48siIDBC5qVXXjzQ7NhSrifux/PsJosfzhe7iZ8PtD6SA03eBb3U6Y41CTAEyRCUKdtDs38zHx/qMjI1FjtaRf7jpsr63amFRoqwNNuJ2Zn3VCDQbAvDQ+O09Ic63roYR2XoKiQe6cp+VRzK9Ndu/i6b1I5SDzovdBVIrGCKktVBhWMuLP1pv/379fZ7lX4u42+bxb8fzX71+o1nXg7kLkszFA0QpNeuIXFcG9Kpb2eRu45Oc99OPXvuW5dpeLdI/lwXm5HDkCSFE0CFFIsTKgsh1gLPntMYZvOUColE58q+iFrHBolXobudBCrPEccY6LdZGsOxI0znaYYkki53H0mxxjVjbevK/gkMZc6gcIMmESQ9if0PvSRGaNjMcPoAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/058.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/058.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 58
     },
     {
       "content": "Yes.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwVy8tr02AAAPCATb/mnTRJ8+Xx5dE0abKs6ZK6vjZnt5oeypbVtRusQ1bdRGQ+wOJg4kHwIOLZHQQvnsSbonjx7N8l/u4/DL9RYHHcpklPlX1NjhCMoNhDyjqCVYlXOeqmY2w3w1VLc6DcsSoYKBQZvGjSVGCooV5p2Xq7ZvZ9Z6vupLa2bkjH/fjycLy40z8fJO8mfYzAgVACIgFqUPKguAKlnmetIdjU5bapZK46adVPh+2X+a0vi+H1fIiReFGmCAYAs8z6ULLLgiPylsQHithDcteQTjbiD/Ps+9PJryf523Hrf1A5CvKszFChXmlYWoS0tIpMjjYIcJR6P18c/X01/7OcfbyXjQIDI4tA52iHpQOKbCIY6cpuw1tm3WkSvMk3fz+/+/Us+3xy+/1+O2+oXYfHiAIweNosAbNQgCSosdTM0xex9e3h+MdF/iCxdj1l5CqxzO753F6dxThQgiwVOmY3jddWg0ENTV14udN6PUq3qqotML7AVAUOMtTALW9aLIbk8kYSLyb7y/unV48fHbST3NVmaXjQXLk+O//07OJqmi2249lOJ4vsDuL+AWFVT8D1g8hDAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/060.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 60
     },
     {
       "content": "J'ai joué tous mes billets sur l'addition.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwU1v0mAAAOBexzcU+k2hn/Tt1wstfWGjlA4pW5fBusEyOJCli24JZonGLFtinIk3ExPjyYM3D8bEgycP3vwDHvxHPg8Wts1xx4A8HbX1ELZgg/18MfrzavX7xcWHxcg1ycEuhbqEZ5C7gDN5EgtscITsAEhL3427hsNTX9bh39eX/x7Tb+mhqxI9j9zE9lVkx1AwaALD83mJJqHAJ757PXLSHng4QO9Pgp/PZvcHKDSkJ7Z8lwRvFvuJIwMSx3I7mXwmg+ey0651M+m9jdHX9PjTcvxxEa6Rse5bm4F5e+htJ50Vkrs8icmlIqjiWqV01jcXQ/dmaP3aJt+vjn88nb2b7UUqv3LlpSvOYXPc4iBbw/Ry0SEqiKFHOtwDcAr4x6P+y8C59EDiaFOFizXuzBFjU1AJnC8XMYerQ1bW61BiHF+FgcxEQLyboEgTuJo4ULW53UgD/dxTlVqFLuQwlQUKY6ms3ST1QDOufSM2xdOO4itNgTJsyY0sddNX5lAQ8TKRy2LVAsNVBIkGeIEWqfrzcW87tG7323a9QZRYnW8hWRlIjMVUqXy2nNn5Dz1yW7uSpeRiAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/062.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 62
     },
     {
       "content": "J'ai marqué 19 points, j'allais gagné.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjMJSXTfb1CLY1C7EziXQ0i/Aw8HZUK/J2mBXt5WAuo6klZKQtqSQuIickKCnAz8nGyWCnqRZoa+lmqh/uaB7rZuHhrOjjrDUtNrDZx8FUR1pLU8zGUN5GQxGkgZ9PhJePwUZdVUlUTFlIMNTOMNTR0VzTwUrT1t9Aw15FXlZWQFVDMMhe21heWk5IQEqAX1FEiEFRStpaS9tfRy3Vw8rT1MVUOcBC1clJ2zjA3KovMTDcXjfV2chGSVpVVEhOSFCMh4dBgJtHVUrKx0w/w8vJxcjIRMfS0cTFUcu2wMdzU0Fif7R/hrNpsKGGl4GWs466uoIkg7a0pI+lmZGCrJeJcXakb1Kaa1qia4W12bSEoOkZ4YvyYxflxLZ5u2+uzVhZmpob5c6gISke4+HmbmxoIC2ZExqUk+SbkemdmeNXFu/XFxo6PyRmQ27W6ryU5dmJGxJzFwYnM6hJiBkrKUS5Ovuam/qZmZUlR2WkeGTk+zX5ex1Oqd6VXNbk4LQ6PG2qR3Cnk8/8oFQGZXFRF2PD7pLi1vw8Zx2tnODgvMzgrAL/IgfLDkfXoxl1K8NTZwRGLk7MrvXxq3bwAQBWcHZMCev1yQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/063.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/063.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 63
     },
     {
       "content": "Je n'avais plus qu'à jouer\nle dernier verre chez moi.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxjcDbQi3F3dDfWCXMwj3Q1DnLT9HBWqQ5w6A521tES1dUStVCVV5cQ4+fmFeTmFuHhZrDX1nQw1PUy1Y11tQpx1bG1lQpz15sc4V3vZaOrKW6qJ+NtpKEpKS7Ey8vLzS3Cy8ugJy8nzcPtqKsW42oW5OBsoelqo2OZbKXvpCmvrCroZKpor6EoJyQoC0ZywoIMmvJK3roakdYGmf6Ojnqu9rqRZiq2xkr6nqYmHpYawVYa9qqyMkICEvx8QtzcQlzcDBICgg56GsHWRiludubaxha6ttb6dtaaVg1hfgfaijtjfWKsDZzUle01VUxUFZXlxBm0ZaT8rCzMVBSz4lJba7sq80qKkpKaSipnFeXMTwtfWhC3KCe2w8d9U03GqrK0vEgPBk1J8RgPV3cT42gvt6k1yc15SaXJqc0VdTMrI6anWc0NS9iQnbk6L3V5dsKGxJyFISkM6pISZiqK0e5uca5m07Kk5uar96ZZzixzn5mrvLApekNOfbOtw6rw1KmewR1OXvOD0hjUJMVdTY37Kyu6S0tc9TTjHHTqQpRawmT7kpXmZNrtT69dHZk+IzBySWJ2ra9/laMPADJ+eWZDTNKRAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/064.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/064.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 64
     },
     {
       "content": "Elle m'a dit:\n— Bon, bha, je vais y aller.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwVz01vk2AAAGAuRlq+v14KhVL6AoXyJR9tWTtAWDc2uyqzszUmW3Qao4mJ0TjvxsSzVy8evPkP/HlmP+A5PIinyLujcltk7SLZldPnR8m6nLw5zb6cZ9ME+AEfO9KQ52gMw9AO1e0imTHaVfm2zC7z9Or44EljtCfmz/3Zr12zjBTfFUNTMkVBYmi8g3Xvo0hhGxCAActeFsm+yg+ipF3k3x8dbn1LU7jAA3WqR1pfJEkOxxkcRwJ9FBvW8Ui5yGZTq3bVag6jM1s1geIaauCJTQqdHgAkIZCkTFMI1sXH2vDd+cPCXWpCYPTCSF/mTqgDbz5+UIfwZR4uRn2NZyWG5nAcYQnKkHs3TTE3S42fmLKni5GtpJYcTwZ25cMPq+mrZej3gcrQPHEHiNrSZnAs0oYO3I8n9e16I9MGhQKBUoy+cJV5tTmALC1R5N2B6nSayJmoMolSMwgLqP7Yt5vD09AOPdV8HNuLQS8AnCvygCTReyiySuPb62dvn65X5vDCgd/a+t/76z8vtn8/3/z+9PrrpopkATKUTBI8QVAY8R9CHkwqyLPw7QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/065.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/065.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 65
     },
     {
       "content": "Hein ?\n— Hein ?",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwVzU1v0mAAAODeBkjLu3b9evv27ReDfpcCpZRiusHYYOhkmQJLlmhA43Qf2bKpl8WjF28mHv0D8+BBL941MV69+HOMzx94iDK/1qqqd119HYnLjvPj8uDXzeLby8mbYSvL5H4X7sf6yFNDzGMagEKeCFS023InLTNU4MWG9/v1/O+74z83R+/3uw0Pjjp42jb2apqPeARKdCFPlEXuQTecRZVlZL3abl73o68vJl+e7z1OHMwwkSbO4/UnqdnAvEIDgSoSVZF9lIUP2/ZVr3777P7b3fTDQbbo+Pc8w4VsUxF2HHns4lgVyiwtAYoIZXGeNVLHH1ja5+Xo5/X8+/n009HgsGlvanDHkrcsXENcgLgqz0irFFGBVqBHFvJSHV72aqeJexzbV4PIECpdK1hsBENXtQXG5BmDXf0/aLypsFZdryca3Kzi89Q79HUTYokxt8L26bDTN+UKS+sMQIDiqSJhCKYu2LbsjB010eDAMQIs0aTgqv64Gc9iu4ZYlQFSiVwrFkr5HKFwhgBkMl8667dvT2Yfn06nvR5d5GxsDsMw0REGlAQolrxD5nKFldw/4NBXWLVMRUgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/067.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 67
     },
     {
       "content": "Le serveur est arrivé.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwVzU1v0mAAAODeyIB+0O+38BbavhRoaUtL6cfabXxvBnUbG0gMg6CJMRqdMZsaP+IPMNlRj148efLixXjw4sWj3v0txucPPFgDgpYK06bqIvnFyPt5Mf/1ZvP57vVbu40o4fYCsOyaJ3411iSVpdh8Fgt1Zdyu3wiMGMlX0+T32zt/3z3682r5ZOT1e+VJAmehNqzDFhTkAkHnstjAMSahOW/rz4ady3F4Oeh8ezx7vxge2IpviYexcpbWjlytLjAyTbL5HAZZpuegdWpdTfd+XNz+cv/4w2K0DIxtFdaK/HGEFiE68RRL4hSGEkkcgwX8KDaHTuO8734/P/20mXx9MP24uiYQeL0MppHe1aVYAW6JRxwDKAJrQtS1I7dinHrV1/vBuome993VtlfIg0Grtuk1E61oiIwpsoij/w8ypyuCHSPLg/y91H458A9tVKRhhTdnO7sP94NYlRoCg7hCmSYFAsdkVlNFM0TWqAYNwAeKBGlG5vWW5s/T5CwxnSKrslSJIgQ8T2e3MMgqDAEUDqwi6+k4Xu/4CMgcKXpV52annWhShSZLFM7lc/hWJpfJ/APEfVe1r3hbDgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/068.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 68
     },
     {
       "content": "En y réfléchissant, j'ai compris\nqu'il jouait depuis le début.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwFwVlvkwAAAGAedI5xlfu2QDnLfW6lZFCQHlupa+distRoYvVBl+zFRN/8Hyb+Hv+W3wdMRX4oL9+31XAZ7efh4Tr5NjS/H9tloxY55/uEbRORy9gCw6DI+dkrIFVfn7ar54fhME8+9LO72v+xKf/9+vzYT+OciEPGsanU5QOZ1xkKBi+A46o7vb2tI3c3i459cds4PzdXf48397VxVQiRK5gG2eRq5+kKSYwgCDi+qedhQL18cZNG67zPrLK19L1vlq6TJ0Losr7H9KlZKCI/QnEYAgxJ9lT9EDu1XSaTVayW29CtdEVjs9z2XYvOpvJpkV7rEosiFIoAEAhzJPHQto5UfayaP5/efd8N2SQwhTyQ/HAsrFP7qUsOsaXRBIMgAI1hnsjmRlWYi7vA6kzPVzKdC8eUbQtBNJHa1Hhezna+oeAYg8IAfA5mY4nFZBxiOJwXcY5GVAHXJowoEbZIs5HCz2TOIDCNHJHwBcCj2DLzQ1WmYbzQtM5QciPYls3X/aaP8y+L8mldGjimjBAegTAQ/A8DPUyY8dhyBwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/069.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/069.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 69
     },
     {
       "content": "Il avait utilisé ses cartes \"Regard en coin\",\nLe verre, c'était\nlui pendant que j'étais aux toilettes.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwd1u0lAAAOBeglB+2tFD2/XntIUjtOuho7SUQmspsI2Jc+0GbiiLySJOY5zRkJglXs0sS/Qd9MJb730Mn8LX8PsIXQGtJhvZ2l4HjS3tYohHHXE+Nr9fPfdM7O60DChvlslmmRwP2qFZJ1oNxnNAz1BNSbzo6n9vXvz5uFhPnev5nm+1DwfBh0Vyu15tzmavnwxPQptwbSbwuDYUFFCJkfRrNfp3v/5x+fjl1O8i9c3i9Pe3u7Nh//3J5DodH1h1oos5F4v7kPXF6rGp3k47dwfufdo/8i1T5GdB/9l4uPDwpyQ+j1y9ShORLsUOSgzlVIfvBsbPZfwlbr8KcEPglrGzSR7NPbwe9/YxOo/9ya5BjDDqm3jSgL7MpYZ8addvhtbbvpl6O5/T4Ovq6GoaRk3NEDlLEbEiEA8FBIESKpy2VW4A+ikSbEDb5eKsCbtIxjLf4oFGl9UCCTPZ7UyWoMmKxMhtHtToUqVAhqq4K1QhQ0dN2KtLLFUCxYINWVQsoFwe5nJEKU9VKb62RVuA4srUNsW6EnAkJqzxbLlIPshTZF6rUCyZr2SzpUzmP+KBWogXm8ukAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/074.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/074.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 74
     },
     {
       "content": "Et pire, il lui avait laissé la carte\n\"Je connais Carbon Kevlar,\nil mixe dans une heure.\"",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAuIBo1JB5ELydZQjthSkNlTEQ3JiEiFRIcEQ4TCglBLihsUkhVPTYpHRoVEBETDhAAOycgRjAnUzsyZk1Ga1JLZU1FMBwYIhEOXDAmPh4YMB0XW0E3VTsyLSAcFBAPEg4OAEYvJVA3LVlANWhPR25VTV9IQEIiG2Y1J5BOO3g+L04wJUMsIk40KyoeGg4MChwWFQBNNSpTOS9bQjhpUEllTURmTUZlPjR1OyqRTj1zPTBBKSBHLiNJMCcrHxsNCwkeFxYATzcsVjwyVjwyXkQ7cVlSnoSDsoyKbEI4bDgqaUZAQywlRSwhSTAmLB8cFhEQIxsZAFE3LVQ6L2VMQ6CJiMmvsdK1trmfoFxIRkItKaCAgaCAf1Y8M0kvJigdGQgGBQ4NCwBNNStDLSWfg4TZu73Ip6fMqqm5mZini4u8nZ68l5a7lpdrTkpAKCA2JyInHhweERAAPSkgYUlFnnx9sY6NxKGgzK2q0LCs1ba2zq+vw56dso6Pd1pXIhMPIREPSjIqPBkXAC8jIXZcXH9hYJJyc7ybm8ipp8qrqMepp8epqcKfn6F+fWZNTB4QDicRD08vIk0tJi80hz6oW2iDAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/078.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/078.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 78
     },
     {
       "content": "— Salut.\nIl avait gagné, j'avais perdu.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwdtummAAAGC2tKhFHJSTIMqPQCmCgOIAD7WiMGt1c7ouNT3EratlzRKXxZhdLLs0vVyWLFmWXu+q77AX2AvscfZ9kCMLx25F4TmJpZeTwepl77xlXof+vGNfB+aZbzhK0RS4kb0XWqqAoVBVzg5qWpGleBKLB4fL0cEiqq2mYdx3bzrlL+Ne0zJqecrN4cF+wWB2IU9lI1NWeVZmqalnXAWV2yN//br/4bj5sPn67+H3ZjE/NQt1Dm8rvJejoQMt7wi0QO2eWNLMUaY2uAqq62k3jtw/3+7+3v/4FZ/FdVXFEYPCnjIEJFFPDJ6xgRgWs4uuO2vYoQ76htwtiZeH/s/lzffL8TsH6GRGxhA3R0McumMV+FJOsfLixN6fNR0XMNjWVpHA4MePdD57G/mBxAaAjABZYQmIRVIYnMhiWYkSGjRx4hnvO5WxJU8s8ZmlNSSub2rrV8OgrFRpHCApKA3DO9vJdCINCPptt7558/zufPB52Pp01Fq9aN9/vNjMTy/azrCq6QyRgRMQjSRTcCKdTLEZ1AS8CfI9XfIUISiBEs+4e4VRWanlSE/kAI6i2/B/Ep1YYVb8j7wAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/082.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/082.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 82
     },
     {
       "content": "— Salut.\nIls sont partis ensemble.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwVzttummAAAGDSIMpBDFXBH1BEQBQUEUHRUCsSWqEHW+2WNFu6Tptql6xJTdPuYpfLdrlkV8uSJsuyi73P9kBLH+BLPqgjCwfdtsKzEmBuT6PNSfB6p3UVum9GrevAuug3jTIvAmaoSZ7McWkc6iggsjUJ0KX89ioe3R4Or0Pnfr633u8ud42Px/6k1+Fy1K7MRgqTx1KQq4LQkFUeVAr5WVdfjq2byH18Ga/2nB/37/79+fX0YePKfKwwNkM+g506b5eZYo460oTloD4zxYVvPZyFi7H1tFn//fn92/rtcaPsCTmDJlkchSSaVFm6wZcmMnMTOOdeZ6yVQ12a9/SoVfu6uvh0fvqiSqu5NIokAYFBHInXWLYKZLMozNra1G72KyADw3ohiyVgOo1f+v2rgR4rAIERBE5ABRylkihLsVVG8OjszNHXfvukpZyZlX2zPqoJIkU6ivzet7olupSlICKBYIlUOkmIWWYRDD5fTr+8ih8PvLuJd3fo/X5YTF3bN2pHThNkiAaXh2gcQ5EUgWKFDGmIvCEWA13qKcKoLmg83VOFuakOKxxFEFtbz8P/LCJUlIKJeBEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/084.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 84
     },
     {
       "content": "Bref, j'ai dîné avec cette fille.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwFwUtzk0AAAGAuhthWCGHDIxBeCyzLI2F5tpAUk0ynMUSYmkbHk844YyceOvUPOF68efMP+31Utyw3c7zG7vPpfZuFH2pyfrd62l63Ddq+nRWZEOCRA1lLZ2bTK1VkqL7OupLsIv/3t8/HG3Jcps9N+rdr9mtrtRKLDMQRj23etca2wUEFUMfbos2iPom+9/dNAI/V/Gvu/9nXt4lK4nGVySQQkcX7LsBw4s9EaptmlWsd8jiBpsWLJS5+9bt/n3bGRIkDISeTCE1CDwS2VCJliXTKN0xf01VB2oRhoqWeUrzcr79UiSNFBVqkWAqggAxA4LTNw1VgUTwzAiw3HAwX0MvsxlNShTOg5HtTEs7InecsRJDa6sMN7kvSVyl19fqSe8PaAr/xfawmMqtJjBGqmQFcXfDuArKQxrGjXCOzgHpla9QFPRy8ohHg1si8oNlLGsQatEVXHjkSq6qsKXOMI4PYUEwwtjmWoge0wnG1Z58PTY6cUrcO2Po4j370jy+P3VPXnpLw5355PjSnOnkowv833UvYKCnOPQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/088.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/088.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 88
     },
     {
       "content": "— Je choisis le serveur\n— Parce qu'il connaît Carbon Kevlar.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwFwVtr02AYAOC4732/L1PTNElzaI5f2iZND5ntrEu2pYfNUh2sThCKFnYQqahD8KIIul0IgqBX/gHvvNiNV97563weQSYgAfqaMqi7O5Gz2/T3mnzcqcXlUsBEH2mEogu0QsAkoBAiqAQ0wIahDdt80q0VrSD1zEU/Wk+3E6XEkSbIODAT0ENmEBB0AgbSyFCLVlAkfpH4Xcd4lbe/HWeJVg4pi5FxZBZBjqINKBgELKQNXT3o1kdtPkkbkamNfP0ktrksJdLdCChHViUYInMoEyxAi2Bdlfdi/37ozHvR6mDwfpa/zNuZb+77RsJEn9AqYAjURSZUkfZMo1DUomaPu+HZIPyzXt58ufz348Pfr29PUh4r5RrbtAFDpCZSwRU3tzy7f1sqqpWH98KLB+HP06Nf64ub69e/P54fcj127UjTrA3gVJQBBQs2vFLJpGLHUC6n6Wq3tRz25tnWu+Px9WJ6utMM9EpQlut3RO0WkQCFx31nst05ypIXefT9zfLq7OnVYnY+2/+0nH9+Mlw9yp4d5s9HaREYWeiJlP4HTHFCaKy8L2QAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E36_brefJaiDineAvecCetteFille/097.mp4",
+        "thumbnailPath": "thumbnails/S01E36_brefJaiDineAvecCetteFille/097.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 97
     }

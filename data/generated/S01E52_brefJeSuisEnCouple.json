@@ -12,240 +12,520 @@
     {
       "content": "— Viens, on va draguer des filles.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXVJREFUeJwFwduSkzAAAFBmvKxQmiaQQAgJtwAJBLCBUtzZwU7d7jijL/rki+/+/x94jgNRAlHig+gIYtcLy7TQUmnZdlW9GV1nxeM6/75tvZTnvn+21oEoQUGKAhaGKYBMSb0P5t9jMY3eOl2w7Hq2P277umz7y8uvx80JQk7inEQZiTJMcqmsEPrvt/nP65ehaopUhCRXnb3f3/RwKdXZgYiFmIeYB0F6gqyUY5Tqrm6/72vXma/LedZ9xpsgkiiuWN47AFKIGAoYIeIEE1H0TPSN7DY7trJpq+bnPM7GVvoS0Qog7hwBBZDSOCM49Y8xjqogrsfBPl8tz+uu6V6tXaZ5/nxZ7dqpyfEBxUQAGLsH7HqR61M/KPSwmmmhmZa1mfRk9LQvy32dF2OckIgTot4Bv/+Inj5hgATAZa6WspkT3iZCi2JI876sh0H1o9LO4UhcL3S98N0H6HoRCLInn5HM8HIoS025ZnnPhIp5Q3lN0+o/VHI4jy6NJWYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/000.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/000.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 0
     },
     {
       "content": "— Où on n'a qu'à acheter des Transformers.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXlJREFUeJwFwclunDAAAFAuzSyAscHG2Bg8GAxmmQlLGSazoEbtIYoUVYrUXnrsJ/T/pb5n7W3sQeZB5gIKAKUkEUnR6OqktVFFwuXbZXr0nVH5ydQylpbjEj8QyOcQcYT4S3tcW/Pr1leqXCqtZf75fX1f74/r7e/n27ltLOBFmKQkTEkoQ6pUVi/t6d/Py+t5mCsTIM5jvSyPy/Vbe5qLsrM8GPtBgkmC/NjHUpsRBGpqzZ+Pq9HNPPTL8Uh5GdA8Sps4LS0HMIgERHFIEtdjMuuYqLXKf39cWlOPXfMYn+vunBUnTDMAuWW7kevxMEwJjqEvDurIhFF59eM+lVkhErX2w32a13l5GeeYZZbt0CBIMBZ7G292BBKFiMqroR++yqyqtHmdpuduWKfp1veDqa0wTIAXOW643ZPNDgOibJRKPR7KkcmWxjpTHZdNmjUqM1IoCwC63flPG//Lk7/dE0hyB6UsbeJDyxMDA0mFiUSFWYHCg+ux/5rVONsxnliNAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/001.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 1
     },
     {
       "content": "— Ou alors, on se balade\njuste pour se balader.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXlJREFUeJwVy8mOmzAAAFCkVgkkjheMwTaLbTBmCRDIDJOZHLok0mguU6lV1R77Ef1/qeq7P2/jk20Q7vYRxAKiBGOulevqtqtsY6zgxfM4rH2bSoVRJHjhQcRJKCHiIc0QEQnLv7+sP69Tb921d31V/3799Ovt9vlxoTgSaf0/ICxImNKoiBOtTH923d9vL7f1dJ8HJbUx3dcv97adCGLd8OgFuwgcGCISkwyHmevOZT3nhf3z/nw/T11Z9+2QZA1iCkFWl40X7CgADCJBowLj1FRjPzxFrPjxtp7GaZ2n1+t6ebhUpoWHGADmbf0wSQqdWykNgEJmjWuWkKl5Gsam7Wp7mYb75elymq1xRjsvjnNTVFLokKZ+wGJR63LkWbPM51JZV7rbspR2FJmLE83TyuNxfoAxxjzYRZsNDYCEoVb21BwfMtWM7XE6zjzvaGwgSQ809/aAIZT4PvnwEW6DyN9zQJTUo1SDVD1OqjhrRd4imgOcApL+A+KINV2TQVNsAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/003.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 3
     },
     {
       "content": "— Ou non, viens, on mate les trois\nRetour vers le Futur en slip.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXJJREFUeJwVzclunDAAAFBOgD1sxgbvDmBWw8A0kGSqnKqpqipRL72mlx567BckH1/1/cDzwIkAiEOIA0B8HwNYxDFVourt5Pp+m0bFtRJ312WWVOSIeklK44QlKcNE40InmYhS8bysL/v2+jAvk1ua5n4cf/+4tZWdjPFQLpKUo1zlWOW57Ixlwg7W7f305/vj7WH7traMVvvxWZmu1vX/IUlZnHBwKrOU37eD1IObD9tdqLR/fz5+vLplWPpuSZDM0tILAQGwCAGBp2LohtZ2hNbj+Glbn1Bhfn1d31/mfT2+PF3HdsRYeEGIQ1iEsGClsbopS3WKeNOcZ3dgWt8O9/a8dP12mTatOi5bzw8xgISWWvAKIREAEgDG5ejcLvRwmc/X5WzbrWlmjE2WGy8AOaUaIZ5ljGAJIgZjlSDD1SDuXNuvfTtXzaL0QIhBRHtlIdOMRnGBcx4C7IMSRiKMuA9ZIUddz1L1XA+UN4iYlJh/g3kzKTSD6V8AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/005.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/005.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 5
     },
     {
       "content": "Bref. Lui, c'est ma liberté.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWRJREFUeJwdzstuozAAQFEWVUMoLz+wjd8YDBgKtISoTbqJRrOY+Yf5/+8YtdLdHulGeUERFhAJVMk4wU/P8BTDNK2ygho33bZ9mycjLaVa1DpLUQQgR1gRalndICyLUvzE84JTLP89bsG42bnL4H8fq2I8QliWgONKCdEyZggxBZB5wQFUWvmPMSzj8gitEXYMGyciqogGUEAkCWuKnP1931DJKVYVtWPYr+uhzPRn81/r0jZj8oK/AcKqhIIyMzt/n+e5G25hqirl3OvH/uWaiRN934/L8l4z+71UEQ2RXMbhcb8uIfza16Pr44QQ4o63z6lfIdJdv/VNwFhHJeAACgD5Ns/T0F/XabINKuvzC0XY+nYNfmGs8d2ilYdIRVlG4gRByC/D+Nn7S5iSlJ7OuAASE+fbZexeOW+tmytiS6Si51MJACNYCG6GplGqTfM6PuMCmhyYLBeYWC46LgdQ2QLr/xb5MikohWbmAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/007.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 7
     },
     {
       "content": "Quand je suis célibataire,\nil traîne tout le temps avec moi.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAB5JREFUeJxjYBgigBEMSNDADQak2cDExESG0wYEAABG5gBSXAqN8wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/008.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 8
     },
     {
       "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWNJREFUeJwdyzd700AAAFCtsdo16XrRqd6pxZZjjMkAQwZWYIOBNSv/f+D78vaXAEgR5pgITARE4nTCWV4DKNKUbGMcu3kNo1NWMt0q02mbQMQ+gkRYkUqnBUVIYKIxUn+/ff5532+hd9IF1xwx/Pr6SBAWmEhMFCZacXfuB4gEgILW9hHi79fLvx/37+fBK6dUe36+JSXgCEtSqQIKgfmfL1dFdUXdFI/LvA/dct3m97d9DbuSLRVtUpQMYQmRZMwccb6N0zpFxhvn1zlcGr8AKB7z5NuVso+QFxRAXpTseQlvry/3bfm0BsY0Io33q7YxzZkxQ9vt1sWpj0makTSr6kpv8xLH4dji4D0C4injzm/WzaecKT203WqbuI8xOaW4hFwwc+2HI4y+65VqYMkBtjUfKOtOGWOi03YydtJmSvKixljmRQ1A7U3TOo8rkxW0qhtjA5dDVkjK25q1THRU9v8Back0+tJkz8sAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/010.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 10
     },
     {
       "content": "Quand je suis bourré, il me dit:\n— Bois.\nJe bois.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVdJREFUeJwFwYeq2zAUAFAnmHjJkq62rkbs2LKdwSOPlkIHpZT+/zf1nOp9jVfrOLeMGalQSKTgQQQhwwg4CuypbYhuiLx0vO14NWN0PkubhclcXwlEprLGNcxPqhdwG3cbtyuRE1NT28sK07w93hZn6ycXl+oCAhwXGG9PJnzdq7qTHceW+oFH7ddquu3l/sEEapNyWgBcS5FwHEQaASlgDrOyyael7uQoYnVsR4iLUpHJABLT/M7bn5ZfDceXcH+P8rnfB44uzO1oz62ojMsUnI+FmJeI73T8s/Pv05hf0v9S9uVy2T993MDkhuhzKyshPQMkEMA/cfmZ1h9T+aKxFJdXHUp5ffv6HcMEGkdhL4Os0EZjgrHJ+ZzS7TaXbd3v2+PYHsuyr8s+T8X5K2gkYFuqqlPDTw2rO153shlUP2pCzcgtAzsyM1DdU90SdRlE3cG5Yf8BpncoauzgmB8AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/016.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 16
     },
     {
       "content": "— Plus.\nJe bois plus.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwU1v0mAAAODXhNLv9u37tm8p/VgpFHAgroU6YU5kH0w35qDMTNBlbOiYJi5iTJboMmO8eNnBk9HEiwf9B/6MnY3Gsz/Bq88Duhm95ZpYUIQkLyUlCxq9uflJ0DgNwndhJXYsleFdhD1ILiu4IMngvm8szDhIQAAkH1az+61rne7WWWPp77Oli92F2LYMxTUVl3BKScYdA4Nh0Spqug4JAMx0sfJlL+6u3tu0ox+9xvfVK22dIDMOg8l1YkSqvuumQdO1DBmnJaRwbB7ak5XpycH5cPDpeef9h1Y7dtLOzPKwd3ZUrhz6/nHeAgU15SDiQC0jmrWbL/pvfp18+/fg9c+XG6dvj74eL4+2g/rjxY09v/w0597AEBhRZJOMo5ZQolOb/tn5+Lu/dn7YGD0Kt5/c/rxTH697/qtycc0w6hhxFAtIFKUkUxNrPNUu+aODW/vjan88uxLo4Xq2WSduhhc305qY5MAlOitBgGgIOT0leZEbDgpXB7nmnFG15JzCaRoj5SW1KGPMCFSCYSn+rmkBhYOmnIqc3B1vdssJPNmmaZ1ndJFVIUcwR7KiimiBSbAsxc1j9T86MlL1cci8vQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/019.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 19
     },
     {
       "content": "— Vomis où tu veux.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwcty0lAAANCMxSb3JvcBN4Q8LoGEAA2vEGhokQgVodW2QKmdDg7SVq3CqB033Ti68AdcufBr/AQ/wYV/4jnCxNErGV2WiJQAGFINpw+LtXml+9ILv9QaM9vGEraIaiq0huAuBsK8YHoaVwB5sCXWLPeR60+rwfNiuHIbX/3miZUnkOoopaMy115PimPh2OWcGRpKgkQisIrX3eFFM2rpzmmutHFKseFT7NQ1/sye+ed/T8Y/hR3NyEDZQGmD2G3Or+PBMuzN/b1Nd/S9HS3Ke48rh2O7cFMevNldXzl5QSeMY5bPHjV3phedj0f1q1nQ+dA9uIvi+9b+5/r+uj/ctMJLu7SyVAMAwSSaTQ1OuKakR4XV2+DVXdy/fXq6jo7ftT69KD0Z5Ph9wwtIUockA7GgK2qVqGHKaFP23kn9vhz+mixuOpPI7E38Zd9qcCBHSZoUobSNRropEEAIYDlIQt5bxD++xeupF7vUIyJjEvIUVsQMi3JiSzLl1CKbE7BEmKyV82eN2z+V5b8q6ysSlWGGsiwlVhoZLlLRNoQPoZgABUT+A0ODSGKgCLJTAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/020.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 20
     },
     {
       "content": "Après, il me dit:\n— Hey, tu devrais dire\nà tous ces gens que tu les aimes.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYFJREFUeJwVyttu0zAAAFCzkZvvjmNnjp3USXNpoKVRxmXdQNqkMUBtJQY8IiTEB8AXIPEGP8G3Is7zAaPNDRcyhlkCpzy9bauWp0Mqj6X71JZXdX3bthfG3GR8X4hLLYDlouHCYtwR/Nam+9qeq+zLev1rnlshnjtz6Ntj5VqCR0ZYhACJiSHMJPguIz8nea2Fx/hDs5gzHYfourQLTAalH6ssh0gnEMAInVHmY/L3uPhxrmyEM0jRw/jG+89jd993h676OM/f1tsXUhYQgTIrutw+k+rPXftu6U2MSEjCU3hhipdGv6qWv3eb9+OTQz1978srJcCmrCuhVrmdhNmX3rMUBohEOArwg5OkkrIX6Ztm9dRO9858bRTQlEtMCyYNzV4bN/A0OI1pCIMAgpPEci4w64thzIdHstzZM8ATIiARCSExaZi2WKBEqETiiJZCbZxb5Xrrl41yW+0ky4GmKY3/7ziAJCIoYgwVBfUwpF1ebdylF8vR1bvO9yrnWP8DrCYxDqqAyLMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/022.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/022.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 22
     },
     {
       "content": "— Ah et, montre ton cul, après.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwVtv0lAAAOCGCr2cAj2Hnpae2ssppYfSFrJmCFvDYBA2h5roHNtiwOuUMacxS0yWmJj9A1/1xScT3/yNfh+HRGWgqdcMz2jUVPDbfHJ7OF+Mzz99+P1isqoLwpjaNzvp1CECL1gAcHIR9LXquolS4rRa6dy3jzx/17DuRtlpGC4941WbrjvBecsPoB6pVU4pgZmp9q1+ucJQ3etq5ktKc5Ms0+1v+eNNQA9JPUXYR4RBY6xVOa2sJ06I4l+CcT1LFp/j/qoRFgpFWnPXz37cTU4GJiFyGQMNy/p+rcx1D/Zunz/8u3hzmX+8GFweu+zI9TZbjC9I82T/6+L7tD3EgsiqOMRbOXE4o/NlGj79Oey87oxctYFKRWbuve9fGLLUo52r5b9hfKbJKlHU1KAM6pza/ePev8pxZCkazwu6KEMR6mXPRQwAJ3u0ypKTHolzYsS6oyuQ67EAPzl74A8yZNnIHrrRyPJAUeJ4IJYUMY7M0fFusNPCplHBVQA5vZuBzTtKkxC2bdSwodeEFgEqf08q8JJUrJDtGzc7VUVQATVZgv8Bh91HX/+rABIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/025.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/025.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 25
     },
     {
       "content": "— Hey, je vais vous montrer mon cul.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaRJREFUeJwVzt1uk1AAAOAjPcCBw4EVaGHl8Fd+CymDDautidRM20y7de1Cu10s8SdxZsmuNfEdvDfe+gQ+gfe+i89g/J7gA+ev7s+n6zOaf4zSSFZ1LMcH3azb37vBpzh8SN3Wt1+H0YXvjpQuYQWwGD9ZpLPboN7bvsSLHQZxUJjYdBcHW2d4l4+3xckmHV8Ow0LVMIvA0g1bd7ywkoiogEEGVphHfD4wE9OY2+E6qVZJfpUUMxphDmsIAx8rO+rwUBRYcR/Qu8QzsHJRHN3Xk+s4eTMq23yyDqpYoywUCYeBzEuZIpkCjxn4Y3r4+zIsVHV39OLX5vR9mTVBOfdPZm410p1cO1QRATJHFCHVxFzql1X5dhs+9Yj8zH18e9xmRuEcWKVVZcaooXHe1WEHAQwRj5cd4etw8+fm89/rxXcJ9YhgmL2l1fyMvHnWM8uB99xyCl2PCQHo/55gFEvy6qFuv5x+EDmJxymUaoa+i+pvZ6HVBPGUejt/8NLoAwGKPBQR5DiGCYlcKTJgOFUyWZxraLCyo5J6x3bQOEZjqKak/wPnO0Chl5NNxQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/026.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 26
     },
     {
       "content": "On se voit le soir parce que la journée,\nmon patron essaie de le tuer.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZRJREFUeJwVy8lu00AAAFALNU28b7M54/HYGceO7Tqj4KRuaZNIWQpNBVVTxKVCCKH20BMgwQWJI5Qjf4x496fcnk4awXZZdJXHjxX91fKnq+bH7vw6DS6bxc/3D/fL5583szpAekd9EVNFRnRRpUMS6F1jx+HfefLndftwOrmJybGoxkJe5uzberYV8SoAWx4oMYCLKqtYbPX0NUNPJ/z7pjlJOHe9LSOpqc3j8FWR74v8sWRz5CqrMrtbztKAAdPJEH7J8f1xNcZE+MEXKS945GhmG9HrXHytw/0wVDKAp3EkAKQ+Cm2/Bt7bki/D4JOUv9vzs37/2YE6F4OLYfxOHr2pK8U1QOgiCfsjSKjjtRg0BIeWs2Bkism+lB/leMKiD015J+uzpFCgBYEdCJfOSDTCyZSwFU+Qbmtdy1b1vks3SeLoVonAeiBSUii+hWyTQItWPs3BgIN8AFJPB71DA/xvWudAHRKMHTcjFDlcQQ7VNWwZNHKpxII4BfWOoMXVnmV0DbNnHHbUvuePaERdxmH4D12OP6L+iy1OAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/027.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/027.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 27
     },
     {
       "content": "— Ça, c'est à faire avant demain matin.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwFwQ1TmmAAAGD+QEkgggLSVDTXPLOrzY3MGn7PzMIalUAC+gK+9AJuLdO13e1uu9vd/vOeB1MHXXXQVod9daQYumGMNeNubNxqmnJZSHM4jncazeHZoCU3T2r1ow8SpsrvpreqY0FjfA9dD3kQAhd6ATTt4X7+rJSVq9XjekM+lduN9scTGbPVq+f1n8fFd3fqBtAP5nA+A9BBvhdqPfm0Ui6VDnLZHZZ9VSkf9nt9bOFHq+Wv52jp2SCA8MEFjmU5lu07c/1OL+5WRHE3L75O0BzHZzqtDrZ++fey+v3zx98HGEUIhdBzbQuYEwiAcn4h5nYymQKTFGiaj1Ps+6qERZ+b4WXty3UTacrTt+XXAPnODJj3EMw+tbvbgsins1sEE6dScYotFksYuml1pb3eXhFdD1fLp8cQQWCDiY5cUD86FoQcx2cJMkkQNJVgeT6D+Sic2OCgIDak2sRfB8EihPP5bDrRdY4V0nwmmdom4ymCZAgySdEcZtvT1sjMl6X8m7fSBRjpnjm+0a4Utd/b3NjajJEJmscJJoZTGzGKSfL/AXnLe7/ILoq7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/030.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/030.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 30
     },
     {
       "content": "— D'accord.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwVlvmgAAAGAelmVxT1uflgp1zmMq4sCzjQuFGkZFKsETBQUEKoccLbQ6atvNh25pst+87wO86NmSRlYPdRcTW5wEuuYJPXPE6mPeNl3H9nXVkCVlLoijwZjr88B9/BJ5ns1WN+w3n6v7XMNisLPc8TXdvgtuo3DrOp5pmJqiizNxyA8BZak+Pf89HF4f9ofddh/d3IVRPGY5Bi2sN9swerj1Q9+9cazNSlZnUwHgLmlZWsbx75c//54eD2EQOttXfhHUa2dd5afmxMHGc0zHNNa6qi1ECThvt+u1Ot7+jiDodDJ73P8arHYUrxEtkhJ8Zu46muGsNE2Uhj1GGI2ABgynUykIhN68fVcpl3f3MTMxTkmOaeJUf8nSjGW5G9NVZW02mQrDAVAFP5WzmS/pdCKRAJMgddEpFUtluFLMFSAoRVM0J6qn5x3iRxcnqKsuCxQ+vMcyabTWyucKH4+OksfJJAgh+eznkxMYRgiSklQXaxJFpNWoNpnmV+Cymh30uUwmj1ZQHL9YLK/nc5kkO5KkTK96sjBbm0G3y2FYw1rbg3bpPxVGiE//H4ziAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/035.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 35
     },
     {
       "content": "Et le pire, c'est quand\nje me pose avec une fille.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwFwe1zknAAAGC+lV3ddbX6ko7ZVHYIrXlDnIn5zlCPUxQVJuNFfr+JgIJD2Ftbs2vXPnf9vz0P4odbBwLYTFutzILLLnh60czolbRc/mqca6tlAMwLTTVkaSoOx72egFj25e3drzVQVvrYNya+JnraCAqnoFl0AIw2N0t7aUHL1MH0TBEHItLvdpbu+un535/nv/cPT2F4G1w92v4jR+ckGK2Ch81ltPYC117NdFOeSMhpo8l3OoaqO7Z3Hd1dBRH0twL8kafKrLQawWvnwrJMAI2ZpqiKPEWoXC6VSh9ksDev3/b4/vbnbxHcVHmtdsy0xHldABawXBOAc3XYbY/7PYTCUjiGobvoi5evDgnCgXOuLVDf2PpRodwaso3WDM7n0NZ1cCZPx4MBQn58hyf3ksn9WCwW/xQnswSaSBzi+B6K7rz/UK+z3YlGUiWaqVF0iWuxCI3uVE4Kx/linirE4wki+wXHCfIAI/FsrdrodHhgBUy1TRydVJhKN59C1D43HIzQXfRzcl8cSpvw3nU3I1H2vJD/XjQVdQacElOjqILr+gJD/gcBYYbhFe/T3gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/036.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 36
     },
     {
       "content": "Au début, on est bien tous les trois.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwd1O2lAAAODeLrtw/rAEC0jBth5sS1t6oFBQoK2UUrB1nLUUxInIMIZk8WYx8Rl2sRu9cVmig2XJXmBismTRge6h9n2YCCXVMJou6rSQVpADy4uRUJCMRzv+29PRyfGgj5B9cXF+/eV6PJnsOjaWTDLFQqnrt9qoZqpboWCAWo8KHNNtuyeH6EPf6bbdq6vLu+n01920iZpYjARKunC030F1bc/Uw/hrioyJPHfQ8T529fPezvG+M/72df709Hc2a/keBlhezsjD4cC1NIZeJ8KrLBWDm9Sh6+QlwbVrZ+/dyfjm+fnffD7zfBdTimWjWh2dDkUQDwWWShK7A9lRQz3zGmlAsoDuH7QvP396+PN7en/vegjLFst125ZY8OrliyQRcnJ8aiPuFeUjS+1VtrRsRtOrpq79/PH94fHRayEsU9gGNKWAtTRNgHCwpvCumntnaQNLl1kgZ3JWrS7LecNs3NzeIvQG41Lp5cWlPYXdzYuQof0yVDm6nGJ7psZvUCDBqWpFECUiRlUqhmkaGCvChRV8k4gYkCkJCZFai+CrDBnNCowli1KSyyvbOB6JU4koQUII/wNOd4Ar+PnJKAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/038.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/038.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 38
     },
     {
       "content": "Et puis, petit à petit...\n— T'as pas fait la vaisselle ?",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwU9v0lAAAPB+AWOixDEWVv7T0r6+97rX9lFo6XttKhSFMdZmLbCFOEgW5sGTMdlV48EYry5xR/UrOG7u5G58I38/ARuE919Ok3iexr5Dc8+eFg/ytUppliWb66vVapmeTW9uPvy4u/v56/d4MhGgpvYcdpGl83gY+e5BPlevliBQFln89jI7jQKEtNvb7/fb7Z/7bZwkQqUuO5a7zNLjiL0OvWLhRb0imjq6mCXvF8PVkMuHhc+fPu52u3+Pj2l2JihQVxW1WSnFYW884Pm9nFYVr6fRerlII38zClLP4nb7y9dvDw9/54uZ4IX9hiTRZuldMhyHXnF/j8jV9aC3eTM/4VafKCZCzOOOwyYn01maCB0eiKLYKjw/7WDXQKBZ7pmgZ8B1Gi0Y1GplzWTcD30WEEIDnwkYI1utdVu1VxQT0CIURczkrnF+7A67mEIVmrzrMsuydd10HVs4gqoH6nJDohqgmhKY2qgD+l2cjti4A7mBZNgmZgcCjBGx25ZAdKyIhSe5w9y+qFTLslgALYkcoZDZc04HFBsAtjGiiiTVGxCC//TXchzuFZoSAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/040.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/040.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 40
     },
     {
       "content": "Il s'éloigne.\n— Tu pourras virer tes trucs périmés, là ?",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwVtv0lAAAOA+mZiZzA03YBdElLLIbCkFeoFySns8FA6D0q43CuuobpPppjHGLOFH+AOGxizuwTc1y4x4WUzmGz/K7yNYjofNlmHZrrOtVsXFhfmV+HLqXsJ17cPRgaYAIIPxeHw6+XD26XxLNwmWZdQa8l3X6jbkihCL3kkm18mNtOc5R75hiGyRzk4mp99//Lq4uDQshyCztFxWdj0f8MxaLEqTKY7OQoF1bPPYQiESjAZ6f3Z+ff3vz9Vfu7dD0AVOqlSDIChuZhJLkTr7EHF0XwO4radA8KDQWBG8u3D08fPX2WzmDEICNlttvTsMw2RsKT4/B+kMBiVUztVx53btRbL1Mqo8JzLm4O276XQ6eDIiFK1pOO6eb2NZ1EpUgFW/9VhX+TaqbcAgrb9aloZzGc3be/Pz95W7e0BIKsK6MWzX9nvm4f7T0bDfkCUMOFPK52FvHR8v8jurVP3kWfjl2yU2+wQnAYS3ujKnKaBj9TqmLYslirwPBS7B2xExuJWz1zaVDpSPXp9AbBEMXwYqQmKhKgpVWXlEM8UcFY2v0jQTydZvks0bKZhM5xiKypdhRcX/ATQZgCrOcpZ6AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/042.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 42
     },
     {
       "content": "Beaucoup.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAyNjdESUtXWlpaWVQ/OjcPDgwYGBUhIR5IRD9SUU5iY2FTUk96e3mdnp6foKBOUVEAMzIxPz5CQ0FAVE5GR0E9FRQQGx0ZOTQuUDw1HRoYbWJPXltXl5eWubu7s7S0VFZXACktMigjJzgkHVdLREdCPhYVEiIcGDUuKWRJQFI8MWBTRGJbUKajn8XGx7/AwFlbWwAuMzg9NzZlRThtW1JHQz8UExArIh0/MCksJyYoJSYUGyRDQj2rqKXCw8TExcZbXl4AREpMPTs8Wz8yRzg0Qjo5IhsYKiMgJx4eCxEXExohEBYcFh0mhYSDsrCut7e4YGJiAEFISy8qKzgmIg4JDx8XGyIaGCEbGEArKTcuLg8WHQ8TGQkRGkI2Lbmvp8HFx1VYWQA3MzMYFBgPCg8YExYmHyESDhEVExNoSTxPNDMMDBIPFRsNFB0yKSKzqZ+1uLtGSkwAMDQ3FhYZBgMIIRwgNzIwDQoNBgYKTy4WbksbGRYRDBMcDxQbIyIhVE9KcXJzQEVHADI5PhcZHRMLDkEyLjElIw8ODgcGCSkmFVZKLi0iIA0QFh8gIS4wLzM1NDw/Pzk+QeZEbS8bxWoPAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/043.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/043.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 43
     },
     {
       "content": "— Au fait, on va chez mes parents ce week-end.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAxNTdDSEpWWFhaWFRAOzcPDg0YGBUgIB5UT0pCPjpUVVJVVVF7e3iam5yxsrNQUlIAMjEwQD5CRkRDVU5GR0E9FRQQHh4aKSonY05FMyQgR0E8ZGBblpaVuLi5yMnKVFZWACktMislKTonH11PR0dCPhUVEiUeGikpJmFORmNIPl1QSl1YTqelocPExdjY2llcXAAuMzc6NzZkRTdwXVNIRUEVFBAnHxozLCZDPz4oJCUaHSMrLi+lpKLExMXe3uBYW1sAQ0lLOzg6W0A0RjUxOzMyIhsZJiEcQTErHSAlEBYfFRohCxEbXV9ivbu53d3fWVtbAEJJTS8rLTsoIxALERgQFyccHB8bFzAgHjwrKhQaIREVHAcOFykmI7y0rMrMz1BUVAA1MzMZFhoQCg8VERUnIiMdFhkODxNUPjFiSEUWERcKERgOFBsYGBmropy1t7pGSksAMDU4GxoeBwQIHBgbOjMxFA4RBQgMOR0Qc0ohKh4OBg4YEhcdEhUaT0tHcXNyQEVHADM7Px4hJAoFCDoqKD8vKhUREQgIChsYDlpOJj0vIxERGBIXGystLC8wMDg6Ozk+Qdo0bagfTKbgAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/044.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/044.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 44
     },
     {
       "content": "Beaucoup trop.\n— Cool.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwV9zkgAAAHDuNs/mNqxdTmQ4BQHxH3NMNFmCDgmYJOcA+SttcbtqZXfTs4d1PfTQWx9hvXb1DTr3BdblvlO/H8A0WUkdmGN74tmqyD/dSWazcKGQd2xjOr2KXIOm8Ivo9e3tj5+/fo9ME2CYg/7Ji/PwlWucip02DKUIAqsfVANv/O7CXfijag42DGu5vPuzvLMdFyDLNVGQxDaXgVKtCqFwjT0EJnEsDJxZoH5yh7bQ/P7t6+rh4f7+r+f7ANPihE6nkEkh6dTcUueenoF2ETjte/b4pULmc61KkSKIq4+z1b+V47mAqp9pmobuPmng2YU/0vln2yAI7yGBY3abdSSHV+ijWByMJZL+JPSDAJAGQ9P2ZOFYrFPXtjZ9c4liBQhGXFM/LGKmE55Hbx9tbK/FEkWqJCsSIEiy4wWzxc31h/fzaPLl5jOKYiUc1RVxyDHGQGEa7Ho8sba+ASZ3mCMGaJ9Imih4pqFbvm7YsjrgapTV4xSBO+u2LYFrkngsvrkPpWk8X63RANvpdhv0aY/n+yrL8cfPeWo/8xjc6nFsaMqX0SToM+UsxBDoYZksVar/ASb9cXCEfNhsAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/046.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 46
     },
     {
       "content": "Et puis, un jour...",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwdtO2mAAAOAmk9gAYlgkLcUKFKogJWCF2liKLUgppfREpeUvqTrXZZlCOBizw9VeY9v1lj3BtpuZbVdmidkj7fugGstK/YHtuBPgyC1+6+nmDo7lchnXGc5m17al1enKYrn48PHT5y9fzeEQqtXoTlv2vcl4qMgij6EJksxWq9QEjF5cuIEuFVPIYrn6eX//7fuP0XgMFaiK2Gi/fHZFU2RiK35I7WXTOJkn/Ik7B9I7f3DG19+/uXt8/Pfw8HcMPOiQ5U6aQhAEdGnXFo589TSJIhiSmADH0XqVAkmTWTy17V8Gv37/AZ4HKbplmNb05potElcSN5b4WGwTTWK+57RZOplK0wwHR+PQWrjXHwAPQJKq2y5YLldnqnwh1ubAbJ4IeDp77o0qe4TUN17NVtGNeGg9giZToihAQlfRLXt6M7u9e3sbXL6eTzXdSKKIqcpmkzHlU4Zh1tYjT0JhOByjymXouCVJ3a7Tayma1Tdsw3a38R0YhtVOU+fozkG1kSdCcDSLofVivlSmoDov8sesyh+JktIQO7zQymBILBIWuLqr8c89C/D71VyGKRAH+7vFUuk/l19zBX2HwpgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/048.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/048.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 48
     },
     {
       "content": "— Hey venez, les mecs, on s'en bat\nles couilles, on part à la mer.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUBJREFUeJxFzMlurDAURdGLMbi77o0bDFQFKq0iRcr/f1xUb/KkNdiDowNOaDkjpYrNRkkvZZi4n0XgMs48MBHoZMcRRyIHYANQUNxKjMpkoTPDhcpF6+xdC/k+68b0yvQ6YRl5oMwRIsCYpW2XT5u2paRV44KYlF6Mr1TGgXnExFUan+2YSmBTL/0UuCidP477kTsRacZMeKAySVzW1KwryhSY7MAd1Lob32YZrc1HWT+3nT3PwjB7aUote8/d+nb2m7UZKALaBWbnXP25Xt62/Wvbf8+79wVYeL3e+3aleqFfl3IYV2HSoHTiGHOsb8ft8+X8Os/vx6PXQ/vW2m3t5/32ML5OmKiKhDtA6RAjYkKdrM3BVx9aSr3kHkINoTlXpE4M4yQ8oQoA2D98ADESNY3/0VESIsgghoE/PTfsD5HJGn4+NQJ1AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/049.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 49
     },
     {
       "content": "— Ah non, j'ai pas pris mon\nproduit à lentilles.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWlJREFUeJwlj8tK5EAYRmtM1V+VpO6X3KqTdKc7TU/C2PaICCI2uhMX4saNC8H1PMLALHxxaQcO3+LAtziIEkEJBywYCK+cV1ZxzTMTq14KDyTXwgnuJHc8c5RIVBT9sN7/QJAx2Tg/LpqFNfOvy7ubY5D24fr26XBxtZuW7RBszVOBrKmrakUSllERrds2VaXkbpzO19v748O/v5+vr29/3j8WzeBNJVOFCM5IwjrnC6k3dTl1cRX8fjP+7DdtOxzvH59f3m4OV8vlvPC+sg5R4ATn0bh1EfoiHMbV3MVoDD5LESIql1PbTePsXVv7OvoCfRdznsroQqntvOqmvvXKAs4pCCnCtPu93eyTM25UFcuIAEvAkoGsQ2mEDdqtmyaYAESSROSZD2FZloPWMaVay4AgOR0oUZJ7owpGNYMTFNR/L0Sd52WaesCGJAoxagCr04Jm1KTMUlDfaAoasALqMNiEGAyWYP0FYu8k6OjKoPsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/052.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 52
     },
     {
       "content": "Il disparaît.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVVJREFUeJwdjstOFUEURUvpOudU1an3k+7mcpUbuGDEhIgDB+BEicaJH6AjR36B3+LXmiZZo5W9ki3efni6//zTcoaJi4+W7LoeDrudRkfSPH7//efvv6uLmxpT8pXAi/cfvx7vvrwUsse8q6X5YJWZUyIwbMKnb78eHn60UEaqOWRCK26vb1usjOa49Ne9Xo7mtQvaKmAEFuKFI1pzPWv9rA/PUbyaV0u2Wn+3Xx6P+/v97IhRagKDwES+x3LR6/F8XVubaxNr7YyswFwv4+nd1ZulkzQgDT4HMBmceMRyPkbPtYQiqs+GLEnuIR1Ox5zL83r7o9DCZEm6aLMz0XGKvgijvEJL6GooRrlpYgKryCE4OLEbkwO5wTqNtgi9BY45B98InUKvKCqdCCOCR+nhxBIEkEFRzOlUKPIEzpjCXBRtFsArnZECSK9NUZQAAmEEGQDifyylH3SI0JlPAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/056.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/056.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 56
     },
     {
       "content": "Du coup, elle le remplace.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUhJREFUeJwlj9mOnDAUBW28c70vYBsYoKGjnizSSHnJ/39Z1IlUj0elU8gpOzKgBDizMEYpPWVWqChU5CIIGSmzhGgyjBgJjDgapRt1AjspM3HItpyxv0zaS39Kv3HTuOlcVyITFX4YFDJu6tsd8hrzUnM7r6/t+Vu5tl5fY9io8FpnBoWNGYsgICNf1r7dSpdSlns9kyuYOaoy17Ny1dmppQ52sr4i5gYZUG+7j43KZEzZ5+WjNGMLFhFxb0Nb2tGnVft6rofzFVHzvoSYT7H+PPa7L7/2jz/fLmsnDtPrerV+5Xrp0Mu821ARM2g0WUCec/08js/z/P54/HjcbV5LWZe+9/449qf1lb1L0iAd0uABIkDSJjs3xVBjbCUvJS8hthib9xXe0kSlJxQQQuIfEiNF8EgJsP9QTQkMgxoGhbHCWOL3RvwFWK4b9Tf5EuQAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/060.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 60
     },
     {
       "content": "Des fois, c'est chiant.\n— Nan, bois pas.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZxJREFUeJwFwVmP0kAAAODGtrT0gOnQMjCdMj2mN6VQUOKaLpKAq9nL3cWYIBs0xiOuRmPcxESefPJn+30c61vHjrmP0OcxfRkTqIGa+dtZscvCPxX7OaSPCXlBeisEWUu/GHocgeDY7nwt8I95dORTDKzno3xble8S9m+W/J2wtWNf0J6n67EBatrn4r75zOveT5y7R2nQs0tCdvWTOR1cOt5dmH5P2anrnmCLABh2rRAa3FFsnyf9w9zfjhNDByOHvn+6mNn4jLkf0/BXmW1yNoTQR5gAA2s6ty4HNzm+LVlBbKRDr4Muq+r19OFuOt3n6e9J+q0Ipl3TRzgzra4CuLOKLiLqQITaJlCNrtpap+ntdHTN8MrGGzY+VOPDOLiJg5XjVibm6sQjHVuTW4qk8XzT1K1XVfkmH22Kt4voQ0f3Jr1qny3vy+jKc2o04MyWKQmKLDQlUVVlQ1fBwsvO/SW1P2HyRWkAnlehFpz62Z6R2jI5SVREQZIEpdU0dLktCrLR7CDNaQjtBi/zgtIQVf5BgxrkZOAuEfwPPadB0pYe5iEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/062.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 62
     },
     {
       "content": "Des fois, c'est cool.\nDes fois, je le retrouve sur Internet.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYlJREFUeJwdy9lq1FAYAODQLJ7zny3LyTJJTjJJs4fgVBmctlY7jG2nahlqeyFFRYuCN4I3XhRfwMcWvf3g09ZB8XpebJp5xBxJmATWC/c29j6VUS/lpp0u6q7xohkQiUiMifYubS7V/m4oCik9KkbX74X3dV99qxMH+NG8e54Py6RWlCdAUiDam1C9TGZ3y27dFuOsvK/Gj3n150m/S9xGJjfjdD0sjrMpJHaMSceYtpbOrgi/L+ttX1717V1R/6z7h6F8n/m7TJ1Vj992L47mhxELPQwD5xo2SQT0VSwb6W9U+CVz7jP/MgrWYfC5zrft8bY9e6pOPOzaCEbONcsA3SDIoorLgIiFw1MAB5Gc8dNQrtSij84L90Cgf1hRqpkGGDoIJH6sDn+fnK7SklsAJhgGVoSGGHvUy53YxbRlLAeqmTrs7UFI7aum/nXw7EOVC4u4iCATuZj6RCTcVsKVmDaMhfh/0HVI7eC8nK7L/mEaL5LAeUSJCcwChljhuB5mMaYzDMzEfwERBTQh7GribwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/063.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/063.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 63
     },
     {
       "content": "Et des fois, il demande\nà mes potes de m'appeler.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWFJREFUeJwtjdtLG0EcRuf+u8zsZLKbZLObZOvW3HCjLW3oxZZiRRCUYsE+SoVWfOn//15WhcMH38PhiDlRzbxOsSJqmVrPUpjTunjct+fN6Ho5/bWeLmNQwpKEIJ3oUpgzj4hXmV8zzpG0MDer+uKwqtlvh/H+ZLHLoxLWSygUiJM8NsFX3m+Hg10+aHywwt7tFn8+bu+/ffrZLe+62Tr1haBwYkBM2Q8dNVloYvY6xRLZS3fVlmebg3/XFw9f9/tZeZBFkuClqwwI1uCkI41s0Nt+WcLExxSL70ebH2+Omsl0VownnEXl5haFlq5HOaNBazBPWANgEQyixTxLdTGuUn57+uH2bfciyJ4XAQyBJrbkDCppA4Y8G5ap+Ht5/vvzO6Gks8p5AyOggcP+arQK2BJo1MpZhYmy43J08/74qluKxuMm+k30q4wrIi2dUfCMVn1cSfcqhP04fWkXZ4eL/zjeIQYEgfR+AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/067.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 67
     },
     {
       "content": "— Non, ça me dit pas trop. Désolé, les gars.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwVy+tT0gAAAPB96KDRHmAZatFIExiDIQOUMeY2nMM59jJA8ZWoMCUe6xINp5wV2EXd1XX1/3b+vv8AJZ9TWGZrTdjekHbk4oGm7It0JvxGzqZNgWuUZNvU2oZ6Lheb0trxOg9oHLtV4PcU+chQj03dqlWrsqgxmb+dekukVVGafB6Pndth/+qya/csCzB5tiYVTozSWdk4favXTW2TWa5vFH61jg7oZF3iJ4NPE+d61O/f9rofm6fA9qasiVJVL+/qRmtv1+m0VZ4v5Vb+dBu1FHH/rvz7yv42GIwvH8JFswFIUiXP6zSjiMV9tbQzvHDKipmK4DeH1fXF4Lla/Of0h3bv7oN93X7/ELBgPLHERfEslRDSS9nFefz1q9Aj0LccI+lYnAhFRq0TiiDT8SQVJcgwDmSIRAxPBQIhDIvMvpj3+wNYYCGf5YaDu1rlkIiQ37sWR8Z8UzMI5EUgFGDCCy+fz7g9qNuDeJCn036MiFJfbr7+GP/sWr10MjfqnFV4bm4WewKhMOwFUNgHehAXCLlAGPU+g5ApYbXICwZFra5k2GAwXKDZuUAIQqcfg7DLDf0HdNR00rca3VAAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/068.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 68
     },
     {
       "content": "— Ouais, passez une bonne soirée.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwdy21z2QAAAOB86WakkbLW1VDXo5FESaNSkoaMkAgNRb0dS7YK1i1oaWratdvpXtyZj/u9u9vz/QFyp3SBZSqZdF3MNqVcO0MzuD9/SldTyQZDfcqL47KsS8JHge9nUyrHAnKSLafftguSWpK1WrVREHgypBbEv6PLK4HtVC9Wi5/P918fjZkxHI96PaCSSrREvlspapWSei4XOUaMEEantu53Lkiskk79eXpazufPxu3DUJ90PwB5LlUSCy25OGg27waDmihQaGA11OZVSaEjP7T28svs12z2PwynWheIJ86oeI4XWlKu9nh7r9bbYf/BpSzVTwg9zy+v3n+7Hi+mk+831w8j3ehpABakUTQWDnHUEYP4ggf7mAl8Hdj300HsjEuOGtVgAKfJaCxMRA8PIxgO4CjpdiPePdT5xrez43I5vYgP7yma0lQo4njRV/xur83uhCG7FbTC4Bbg3XWaLLDJYjWBW9sOj8eD3Hyern+vJ/odTbGr8aDExFzOPQiyWyGbBYQBsxnaMIEbrzY3rTYQspFH8Uy2fBzlmJMEgoTeFYsoQsCww2yGXry07Noc/wA3SnRTjEKbtgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/071.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/071.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 71
     },
     {
       "content": "— Salut.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVy+1T0nAAAOB9yDI22H5eyCwVsjbGHJy8v7jxIuPV/RavQisgZCiEMAXHEQKdZ1d011kf+oO7nu8PkjsOv0vESmKikkoqUDqHosBRmVCglkrUhaAqJm7rFa0AP0u5Xj7dSZ8gMHp8lhaVfLYpn17Wq+1KIRtwQyHy97r7UD8txISvs8WP5WqpT6cjTbu4QEqJaEPKtOVcpwgva5VSMpb1HTVz4p+r8xbvSx9x97r+a3H3baovRsOJ2kFkMSVnYVUqtMvlu+Gwpygemhq/Lz/2mh/8ru+fztb6eD3/8jDVF9po0lWRaLzoC2biyVoqWx+o/VF34GXYPB/pJIWix/Wz31oNeveT8epam18N/geaCR5yYdYRCXh4B+16Y2NwsAMAKUWCHM0s1Yab5dysy8NyLjvjpO2Il/Pu7dutVjv58sBCWknL7oGNLsLSTV9z0M55p5Hxe8HWzhYwmzCcMAKE3d9DMbCJ4hsG04vtXbPFplQ//l4/zm5mfDh5226NytD66jVBmI0YgaI4gqH4001s4zlmMALMCKi3hzJUPL6TkJ+nKGcuFve7QyaCRDHiyTMDCbb/ATOTcskNrr7NAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/072.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/072.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 72
     },
     {
       "content": "— C'était qui ?\n— C'était personne.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwty99zkgAAAGAeamcbKjgT54+x4QkIcvjrynQOlAlOxgYkk2VdKs6lC92yaTa9c7nrvOq6ut66/the9r1/QCWXPeb39YNSrSyY1UNLKfNMlEsljOLemcANVeWDoQ3Vo74svauKllgCjvbzNVF4JVfeKHLH0C3zJZ+MX52qf+1ms/hicNH/ef91+Xk2v5mMB8NhtwuofOG1LLVO5LamdA3dkAQpzd61G4uGriap3qnx68tyNZ3ej29mA3t0bgHHgqBW5LqivtW1T71er9HIkMS3fnt2ptXSzN3lxff5fDWdPITuOcCVtExWKgr1csW87PTH9igVo8yDYoPPJdGw3WytJuPF9XBxfXVrvx91LAAnn8eZPBXLZdMchTM4Rnm8QQhGeJbBQuhWAIsT9DM2laRolowxOAGkmAyKUug2GQxF/Fu7iC8QDGDcnjD7eEtGacSPRSM0uo3DMOICIdgJA4ndnQ2nx7Hhfrzu9niD3qfhakn8sVz9+f3PVOtEhKYJNhzY8ftCThByOWHABUJrDvDRE9ABut3uzQRJteSymKBPCnmpUPT60HXnJgwjIX94zQFCLs9/RzhwmiyHdRcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/075.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/075.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 75
     },
     {
       "content": "Mais je suis pas libre.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwVy99zknAAAHBeuu5a/hgKKOA2mVMkhzkhRL4MoXFOnGJ4026auSWTvOUqh6mT1V2et2s9dd312p/a9Xn/QBWpWJWlpv6yVdZfG8dvjgoSkzAVuVer9AE/UOVRtXylKY4qX6qgJwlQXQHWkdqpGf1GzW4124auc1lTAWu7++Ot5Vi1tfdt7d3dudPpeHxt25ClHZ4d6wPLHDQbF5ZpafKJcDCyan8+D/uHLyoH2e/TLz+95WrqeuMPE/sdVNfUZqXaNevOWfvjed9UAJ/am3VOf436DTZlG/r9YnE/n63cm+X/MIAk5USUjHKlU693Hm6X7ZKUJgnAZlpAyG0Rc+fy4Xa+cicr9+brp+uZM4QyLGAYkUkDISf+nrzvlsQkgUdDCJ/c3SHjDM3KnKAViiDPSfm8+DwHxXezsRjNplhveP53MdaYvWckno6RGsfj0W0Uo+hEJoptBXyw74k/6NuEKHKHQCJqAUy6LZPbzxARCkV4KnbVu1CLKp3MZmiWwONoOBIMwGEYhbAQ+nTDH4KxVDxh6Xq1WNhGQhSGvNLLklAKwrjPH0bDOBqOPHq8sRmA/wG4C3HGv18GNQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/076.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/076.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 76
     },
     {
       "content": "Bref, je suis en couple.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwdlP2nAAAOC+LEtmBCkVWimHyFGgDCly/YZQWoQCPSgU1Cpsw1FRtkYJh8C6aIhkWfa0l8Vkj/6h+z6IA1mxSDdLrFI+uajXVCaVDQcVttgTBRUc9Vlal4RRmR2eMFqp+JE+hoRCvlOpXNSrPZHXzk5PuVIlGW+xxW/txp+b3tdG/XH+fWM8GZPFTB/r2i3UZOguX+03hKum1G/JUuEDn0lqUv1lMppIZZEilyP9t/G0nj6s9PF4MIR4munwjXNBuFXVmXbN5/MgGpmq7dfF3XmWkkF6szB+Lo31bGHo91PtGgK5GsjVy9ylInc3q7UqyiBMfOJrVxx75MHnA+3X6sfzdP48nT/e3T/cDKH3sVyISFKHBTJAhg6CyVh6D/ME9v2lwyiOOSNE9DiRolMZEKeyVCIdi0H7XtLjJqL+UMDliscybqffarFxDKfKbduuA8O8hC9it+Fmk8W0vQ2bdyCvw+V1uHxOdzySCBEJDHV+6Q7+/X1dztaAykSIeDhI4g4PYkUtOzAMI5AdsW29M9kQNExQiP3A7wt3lM98VWmJ7SQFLDBmMiN7KL5rtb95u4Va7f8BUNty+jD6LswAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/078.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/078.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 78
     },
     {
       "content": "— Ouais, ma chérie. Ouais, non, mais profite,\nsi t'es avec tes copines.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwWtXmmAAAGA+rHbSk5aVkje8BFhkQuhUQK693CGYgjrRyrKl61h2drZ2zj7uH+xP7GfueaBNKC1d7k5rj8Smx1zabapTw1polcFRunZmKeZlBS1tbdf39rkqwSAotBkq67745PJzk5uqbCgxBII8GOB9OvwsSY7qWl2ug6I8joHzc9CgoJdAfvaF5bWwsIWZxo9k9hOODThm5Tu+JLtWELjByHFCy+gbmq/p0NvY2Ay1lS/f6L2xwj75xsqzIkWMrqSJ2JtJyhSogWUNLHOgqx4A0Doa//v759djJNJ0lyTXfdun6maTstut27Py73rh/QJZN08jIIW2FRgAurm2X25Hb/OJ3etNZH4u8+ROnE5n+Hx+VYF/EoVl9XiZTz1QOEc2Lk5QCLAdvFw12NYXlvpmXmlwJsoeOHA6QLLfG5VXLHtfyjiZA49AURiOb8UgoljAjrMnR+mQ784UwUunfhDFqWEsdOE51F858hE5QlKHClHL7R8m43tQMra7/WGnlsstTOB0mvVEwi8VPVn66qoDIAZsa5ZL8aUCXS7tfkwkYsn/qKxonbJFX+YAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/083.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/083.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 83
     },
     {
       "content": "— T'es libre. Je t'embrasse.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwetumlAAAGB+LE0xpWq1l9nSItQLBJupAy845Fg5wuGAFQQvNI11uuHUtslis6Z/+gh7ib3nvo/YuO0lVsJufahKuFHVpUqtkBevmMIlo9Y169bOJ5LX+2SN5jRBUosVYjsEvwbaArdnhjrRVV9TImz8wObRYVKtg8Aew0q1JfB6STSqck9SiLULojtt6YC5BUJDe4DabhysHCzQdA+gYT8MHG/i2COMfOwMzD7xFPSeAmNhdx5M8BPDkdoM1NajCadqcwZAqMMJ1EcI+RbykTXomcTHNvr392OCIFKUTd9osazXrIddgMul3U32/ebqvcz9/lpYN8vTXteFXeLeNv9Es0fXnmFzocideFw5p5scN8hn30rMq0Bvc5noMr3OZcYtSS4WiLIgfOF5T6ut+uacyawu0u1EEqVTzwX6pUhvubMlc+adppzsRYNjE7FDgqdpJn3SKYm7sftmtFfs5yh3PtXhxtJePLiVxGf2VDo5bvPFTPwotk8RB+QBuRdzGvLr6M751hApyrtmrc7td9S9d+BMleeZlC/k6fTx3ieSIqn//KZqONjDrQkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/084.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 84
     },
     {
       "content": "— Transformation.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwe1zkmAAAHBquoEvcFiHmQ4FfMZIegDBh4eXASuUnDqn4G6b8/Jsq2zdrqt96EtXfavrn+73I1aRMcUw1pSjjoLlA1vV/I66cNAIvrRbkrhLH9IVUKv1LbiO7VVoENeRmfrGxNZHuBdb3UTTM8fejodXycATJClXyAxtZBlS9dn9afQxwcR6NLzJ5j6EuqJmHfDjRfWNDDaG8gUpaq3RIsteW5po6kVgbSfB3YlHDLDjQaiJ4m6O6gPxT+KeSfztQf0edZ4ylRPXDSEEzxvrQdhHBpYlgmNYplCmi8xOvgD3mw9Xl3fpeOl2t7PUFMQp6t3G4dzVr5PA1zSSLBP5PEVSNF/nVUGAlScL1F1GDq5y76JgFfigws4M5ea1l0W4zTdz+RLx6DFZ3Cueu/jtkWPxvCmBFJkzbHvt1udRfG7rgONQs6Hs8xWWK1A0UWVZE0iZ012/svtQFmr1ga5mroUO5YUlb0K9J/A/09gBQoli2BJLfDvzv18mvzen/z5lQ8e6aPNfUTtBYOHBh9nxh+nx3/fzX8vx3NXyOxS5V/oPWWVY0WGpWz4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E52_brefJeSuisEnCouple/089.mp4",
+        "thumbnailPath": "thumbnails/S01E52_brefJeSuisEnCouple/089.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 89
     }

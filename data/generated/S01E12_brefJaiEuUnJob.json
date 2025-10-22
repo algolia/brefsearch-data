@@ -12,276 +12,598 @@
     {
       "content": "Bref, j'avais passé un entretien\nd'embauche que je pensais avoir raté.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDGvce4q66Uf3uimJuUio3e3+jMy9PDw8zQz9SOj6YYHkgTHEUvLztGQkhPTVVST1gAy8TN6ejxqJiXcV9caFRRpZeZ1NTdysnT19bcjI6oCxRBCxI2Hx4oMC4zPz1ERUNLAM7H0OPg6KaSkGdLQk80LVQ4McK9xNPT3dnX3X59lQYQOxEWNiIgKy0qMDs5QDc2PADRytTRy9J8Y1xrTkVoTERWOTGpoabV1eHPzNZjU1MpIDFISWNLRUpQSlBsZWlzbG8A1M7XxbvAW0E6VkE8STYxQCsntK620tHczcvXcmBZMy9NUlZ6dGpyX1hiPzk/TkhOAM7K1ZiTnFA2LlNSXEJKXENCS8DBzd/d59TS3WpYUEJDZlJVdouAi52SoX92hVVSXQCxssGFiZc2MDdPXG9NWGw4NEJQXG6JjZmXio5XRDtcXIFKTG1vZXKKfo+AdYZdWWUAko2Yi5SkR1RmVGJ0TVpsNSs1OkRUODlBTTcxSzs4h4GMW1hqa2BwfnKFdWp8W1hjAEE3PIqUplZleVdjc1NjdS8pNE1IVJeXpKifp6uhqbqws2VfY0xHUouAkXpwgmFeaVMdxemDIk24AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/003.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 3
     },
     {
       "content": "— Do you speak English ?\n— Yes.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDd2N/m4ejDu76PgIDSzNSsoaaaiYnBucHg2uKWlK18e5QoISFGQEgTFRReWle8sq8A4Nvi6+juysLGjX9+X1hbQy0ncEY2elpSzsbLiIinhYGZJR8cPDhAAgMDUExKsKajAODa4ezp78zGyn1vcCogHkEwK3VRR1Q1K6eWlWhqgm9tgWBYWGxkal9bXYmCgJ+VkgDd193t6/HIwcaKgINeQTtgQjt3U0dkPTGKc25iZYRWV3V0amxkWmFIQUWEe3yXjYoA3Nbb6+nuycLIfHJ0hnRyakg+YUU8VDMqc2FfVFh1ZmaElo6Sr6SwHhwhRkNBmI2KANnT2uro8MO9wntucbGzv3VudTIfGjMkIYR6e0lMamxsjo+GiryyvjY0OU1JR5OIhACWiI7TxM21q7KZm6hygplrfpdDSlpxa3OpoahMSlp3Z3Z6bG+bi5UxLTNNSUaPhIAAZVdno4aaw7/KkZ+yZ3aMX2yATFZqTEFKtrC5m5GWVz87bVVTemRoKiguTklGioF9AFRPYIeSuaevvnOBlGBug1tnek5VZB4RGJGKlLivvTwrK25OR31lZjQwNVlRToR8eNEG0Q4+gMr2AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/006.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/006.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 6
     },
     {
       "content": "— Where are you from ?",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJxj4BWz5BEzUldSLYsK7s9Pn1KUuaKuYFlNXkdKuIm+OZuoCb+EKaewoayqbU5eaUlxMQOHiIWGurWTiVFTalyIg42qqHBpsEeyi7WdprKLlSObmAkvVINNdm5xWWkxA4uQmZ2xc7K745SSnAU1Rf25yVv7mle3VCwoz4j2DmQQMuCTMuMSNpJVsc7KLgBpYBc2U1V3LAjxa0mJ3thRu2dC07SijNnF6fu6K0Ld/RiEDPmkzThFjOTVbTOz8srLihi4RfR4xEytjOyKwv17s+Ia4sPcjfS8jHQ6EoPszZ2ZREx4pc3YRAzV9Vyyc3LLywoZeET1OYQMRKSMIpztC0K8oxwsQy3MYmyt4pytFFUt2cXNeKRM2UUMFdRtUlNTyksLGLhFjTgENVVUjbwsTG10NAtCfAoCPIqDPF1NDThF1LklTbglzDiEjWSULRITE0pL8hgExFU4+QR1DWyCXNyUJITV5GQNVeSNVJUNDW0ERcUFRGVEJDV4RfVkVSyTkxNLi3MY+IRFuAUEZRQ0A4IybQyM1KQlxfl5TIzsbe2CeASFhMUlhcXExSRkZOVU7ewccrOSAS2Ia3J3wFcwAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/008.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 8
     },
     {
       "content": "— Yes.\nMais ils m'ont engagé,\nà l'intendance.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJxj4BWz5BEzUldSLYsK7s9Pn1KUuaKuYFlNXkdKuIm+OZuoCb+EKaewoayqbU5eaUlxMQOHiIWGurWTiVFTalyIg42qqHBpsEeyi7WdprKLlSObmAkvVINNdm5xWWkxA4uQmZ2xc7K745SSnAU1Rf25yVv7mle3VCwoz4j2DmQQMuCTMuMSNpJVsc7KLgBpYBc2U1V3LAjxa0mJ3thRu2dC07SijNnF6fu6K0Ld/RiEDPmkzThFjOTVbTOz8srLihi4RfR4xEytjOyKwv17s+Ia4sPcjfS8jHQ6EoPszZ2ZREx4pc3YRAzV9Vyyc3LLywoZeET1OYQMRKSMIpztC0K8oxwsQy3MYmyt4pytFFUt2cXNeKRM2UUMFdRtUlNTyksLGLhFjTgENVVUjbwsTG10NAtCfAoCPIqDPF1NDThF1LklTbglzDiEjWSULRITE0pL8hgExFU4+QR1DWyCXNyUJITV5GQNVeSNVJUNDW0ERcUFRGVEJDV4RfVkVSyTkxNLi3MY+IRFuAUEZRQ0A4IybQyM1KQlxfl5TIzsbe2CeASFhMUlhcXExSRkZOVU7ewccrOSAS2Ia3J3wFcwAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/008.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 8
     },
     {
       "content": "Ils m'ont dit que je ferais tout et rien.\n— Vous ferez tout et rien.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCknaa2rraJiI8hKTg/MzKEfX9NUWY6OkwvN1FkZHOSh4aJgYOLgYWim6G3rKt7d34ApKCup6Kvh4aPKi42Pzc6fnuBUVdqZF1jPkRbYGFzjYSHfXiChYCNmZScpaKsjo6cAJuaoZuaoH19iBUcLRAVIkA+Rl1re4SMn2Vyik9UZkRESElLVYB9i5SQmYyLmG9yggCMjJOOjpVxc38TGSgVFR9LS1NSWGJ1cINZXG1ARVJJQEBbV2CJhZKPjJiZlqN7fIsAY2docW9mY2VxEhUkDhAcRUdSNTU+GRUZGxkkLzVFWU5UbGhznpyjnZqlpKG2qKO3AFddXXt8bldZYRMYKAoNGDc6REVHT0dGSUJDTm5vejI7RUdMV419c5WFfJ6fqpiVoQB4e3mAhIJfYWQjJSwVFh5KSlDZ1NXOy87Cv8HGxclAQjBLSTt+Yk6Nc2GlqrWgnaIAaW5qdHl0Y2VoKyszHhwjQUJIi4mN1M/R1tLTzs3TmodyWzwdiGI9jYSAm5ufkJKYAF9kX11hXTxAQyIkKiEhJyksMhETGERFSHl5fGlpbIuKjKehmWtjU62hmc/Fx6+stH0GtyFzLytLAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/010.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 10
     },
     {
       "content": "Je me suis rendu compte que je faisais\ntout, eux, ils faisaient rien.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCNioWGhH6IhoCem5Wppp98enFiYVlTU01AQUR1dHSJhnxnY1o+OjFfXVUqKjYIBRcAlJKNi4mEkY+Jraqmuba1hIF5Xl1aTFFbZmBlaV1WVU9EQkE+My8oVVJIKSk0CQYaAJ2bl5KQi5uZk7i1tsfEy42LhGtrZlhcYGRhXh8SDQ8IBlpXS0pGOlBJOR8fKQoIHACjoZ6XlZCenJa7t7zMyNORkIyDeXGBe3ZwaWBFPDw/QDqrp5x7dWZDPCoeHikKCR0Ap6SknZuWpKGcvLi9zMfSmpqYk4R6n5KTgouaXm2BVGFuhImQgn1wSkMxISIuCgkdAKqoqKCemqajoLu3vMjDzqimpKCUinyHmWp9mWFyhlNgblBcaG1pXElCMB8gLgoLHgCsqaugnpulo6C3s7fFwMmJg353dXZtfpZhcodca35PXGlPV19vaVhkX08gIS8LCxwAq6mqoqCepKKgsK2vt7S3a2hhSElMTVdkX2+DTl1vRFFfSE5TYl1MeHFlKCg2CQkbAKqoqaGfnqGfnKakopyalmppYy0pIEBDR19ug1dne0taaz9FSVhRQFRPSCEiMQoKHdZDukKrWghXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/011.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/011.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 11
     },
     {
       "content": "En y repensant, j'ai compris\npourquoi ils m'avaient pris.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB5aG95fIt0iJd+j46FlI5uhYRxhIRsiIVjiYJghHxgh311gX5+c3g8MTAlISMXEA4Ac2RRY3JoBnIrWJpwg7OZAIktcrKJWqx5ApA5E4s/CH0zM2FHMSInOCslNSglIBUSAJGDcGRwZSmFSoWvkI6zmUmsb2myhWmwgl2rdW+xjWutiFh8Z089O0IqIUcqIDkeFgB2bGhXamaIqpCYuZ6NtJh9wpaXwaOXwJ1isGyOxKOBvZZrkHZsUEVcPC9HJhk/HBAASEFEUWFgepp/j6+RrcSxFKdPMK5hNa5kCKhMEZ9JBYw4MnxRcVNPUy4eOBgOOBcLAEpEQmdobR14QRaEQF+kdAmVPwKbPQOcPQqaQBSZRhCIPC12THJhYVo4KUAgFDgdEwBcSDlkXFwsdUslgUgzk1hKnWlGjF9Jg2JTgm1FaFtSZ2Z1d4F4ZV2Ic2pMMSNGLSEAfVYzaVdOioqdlY2UhHmCfnF6YU1Xbldte2iFWU1ncWV+hniOZV1kPi4pJBILOiceAEo9NVFKSoF7joN5hnRtdmtlbGZiaF9bYU5LTk5KTTgxM0xGRXJnZVZFQGhbV1pNS4uyotrRo3h2AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/015.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 15
     },
     {
       "content": "— Vous demandez quoi en termes de salaire ?",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCPiZWRi5aVkpuamKGem6Sfm6SjoqyWgoJGKiFkRD1fOzI0HBZpTERmRz9LPj6lnq4AkouXlZKcmpihn5yloqCopKGopKOrtJWSs4qDnXhxiGNbZ0dAbUxEaUtDX0lIpZ2sAJSOmZmWn56bo6KgqaWjqqelrKinrpV1bqB2bUQtJ2VJQZ5zaYNfWHRTSnxaWKWdrQCVkJuamKGfnKWjoKmloqqnpa20tLyOenZlQzlePzxbPjloSUFeQjpcPTaJd3yvqrsAlJGbm5ihn5yloZ+oqKeuq6mwioePWU1NYEE3VTQuVTUtVTwzWUA3Qy0nGxMYV09XAJCNlpeUnp6bpKakrZCNk2FYXjwwNSUcHkAtKEIpIEkwJ0szKk00KzAfHQcABRcNEACNipKUkpuYlp9ya3FHO0FCNTo9MjUfGBsmGho8Jh06IxtEKiFIMCkaEBUTCxAeFRkAiIWLk5GZa2VrOi0xQTY6QDU5KiEjIBcaIBkdMR4bSiofUC8jLRsdEwwSHRQXHRQXAIB9goiGjFlSVzInKzYrLzcsLyQbHiYdHyceIhYNFDIYEioVExEJEhgRFB8WGRoRFN0HoJ7SkkgVAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/017.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 17
     },
     {
       "content": "— De l'argent.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwetq01AAAODAekmTk8s5yWmaZMlSQ9KbyZJ2du3autp664h2bLiyweaPojIQQcEiA384N6YOXM1WqS1UQVDGfAMfwNfy+4jdzt1GeZURb5KwttFe73d35thK3l0PPxxPwvPv099FdwkAyFAsiFN0jCIapVqxsEyhFUldHb/a/3XwghQqGTcIT95Pz0cXZxPbsARR5ThMR2lqLkZU/bqXKyVYR1Tqb3qbT+934kI95wUXHw+/heH062yrWuVpnmYQIBk6EieaNxqu7XPYk+edVuX2ddtnBXvRb49ODyfhcDb58TxYqy0YmBMSkQQVIQnLLGWvFZLJeVnWgs6zkv+A41HRWxp/PpqNhn8uLz8dDB43VqpZR8W6LKiEoHq6nmNZLGJlo/vStlqAQ6Zhjc+Opl9O3w0G/Ue9VrFczri+WchpNsFCXVFtFiDIindu9ZVUPR4DGCZP3r5+2GwvGtm8ZtmqaaSMtJzWsEYwyEDiAhljBIjX7u1bZleAUMLKk+0tWzYkPqUmNYwUBCWMZBGmCD3tuO5yPuMEQXN8tfPz797Vv+3j4d7uZk9DishLPEAgmgBRiqERQ8H/dnFe0nPY05EAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/020.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 20
     },
     {
       "content": "— Merde.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCLh5GRjZeUkpqZl6CSiY2sgHa/lY++mJSvhX2hdWuIY1o5KSSFf4eloq+dmaafm6kAkIuVlJKamJWdnp2lk4mMWz43ZUU9dVFIaElCe1pSelpSNSIdg3l/qqe0n5umoJuqAJKOmJeUnJuYoJ+gp52Njk81LWVJRGlIPycTD0UtJXFUS1g5MYx2eKqqtaGdp6GcqwCTkJmYlp2bmJ+eoKefiomLYleOa2SCYFl0UUeDYFh5WlJvTEOYiIuxs72loquhnaoAk5CZlpScnJuiqamxd2loQSYcPCUfQSolWDsxXTwybU9GRS0qMSkueHJ3mZWempaiAJGOl5uYoY2KkWZeZEI3OUUvJk80LVM2Lk40K0gvJlQ6MiocHAgCBiIZGkM4OktAQwCPjZRybHJIPEA9MTQsJSYsIB5DLCNFLCJVOzJKMipELScZDxIXEBMfGRowJyc2Ky0Acm1yOi4zPDA0PDEzIxscEAkMHhMUNCAZQCgfSS0jLx0cEAkOGBEUGxQWKiMiMSgoAGRfYjEoKzAnKi4mKBsUFRkSFRUPExcJCDgcEjEZFBEJDhQNEBkTFRcREyMcGywkI9GBlxel5FhRAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/021.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/021.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 21
     },
     {
       "content": "Je faisais du café,\nje rechargeais les photocopieuses.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDd2N63rrCViIrc2OLZ1d/X0t2VjpZDOjo5LS9IPkEXExQtKy4CBAJ8dXOsop+Rh4QA4t/kurGzkoWH3Nni39zmysbQNC0uGA8NSS8lRCcdLCMkTklKUEtKkIiGnZSQjYN/AOTh57uzt56Tl9jU3eDd57izvFU9OjspJVU7M0wwJjMlI01FRlhQUZCHhZWLh4h/ewDo5eu2r7OSh4vZ1N7e2+bGv8l2U05dQDdePjRCKiFTSEpvZW0NDQ5rZWKVi4iFe3gA7Ojut7C0eGxv3tri4+DqtbjGc15cWT0yWTkvTjQsfnF4nZCdJCMlbGZjj4WCgXh1AOLh6ayjqmlcYcvG0Jqismd3j1hhci8kITUjHFVJTXZvfZKHlyMhJGpjYYuBfX12cgC/oKitoqyfl6KeprZhcIZZZXdOXHIqLjtgXGhkXWdYUWCOg5ojISVqY2GHfnp7dHEAjoaku7K/paq3cH+UYW6DW2VzTFVlHxkeRkZVRUJTNTA3joSaLSgtb2hlgnt3eXJvAGJgk6ietZums2JugltneVJba0xVYyUeIyUiMj5DZSQgJGxmdyonLGpkYYB4dndvbY8AyEMGvgpxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/022.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/022.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 22
     },
     {
       "content": "Un jour, Fabien m'a dit:\n— C'est les chiffres, putain,\nça marche plus, regarde.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCkn6SppKSloJ5bVlMeGhYkIx9APDc6NS4VFRc1Lyl+bmJTS0dFQkGpp6eQjIqGgn4AqqWqsq6vsKysYV5bCAkHFRYWNTMvIiEdDg4QGBoebV1UdFVLSjYvoqKmjY2QZ2dmALGtsr26vbq5um9vbUlLTFBRUjg2NBYSERIREhUVF0xGRGRKQnNtbq68yX5/gmpqbAC6ub3KyMq5uLpzcXOgoKevsLg0MzQPDAwTERQSERY4OTo9LjCGl6eoxNdxfYldYGUAwsDE0dDRtra4ZF5ioZ6lwcLHjIuLRURDDAsQHCMuIiQpSURNlq3Be5Ora3uMQkZKAMLBw87Nzrm6vJCRk6WjpJWQlZqXmi0rKwsIDRQUGRIRFV1re5Crw3GGnGBvfigsMQC7urzBwMCysbOXkpV8d3pxbnI5ODoaGRoiHR8eGx8xNDxwgpN3h5hpfZJQXWshIygAsLCyl5WWd3J0Yl5fYmNmcXV5Y2hrj5OUgouQbGxvYl1ifWtqWEZFYnaLPEVQEAwRAJSTlWVhYVxZVnl5epiYoK2stMDBxLevrpOMjn54eG9TTF9MSVtqe2d6kCgrMAsECpBUtF4d10BmAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/024.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 24
     },
     {
       "content": "J'ai fait semblant de taper\ndes trucs compliqués.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYWVg0NjoxOEZ1eYuQiI98dHpXTk56cXGto6S5sLK3rK/Fur7Vys6cj5VhXWhSUlwAHiElCgsMICQrbG+BkYeLaltbZElGRTY1f3t9t6emqIuEf3N2x7/DrqWveXuRZ2l7AB8gJBAREhgbIGBhbqSgpIF+hnZPSW1UVXSIoImCiJZzbI12dr+usJaMj1ZYYklKTgAgISQREhIPEBFRVWORnrFKVWdWOzhaVmNSbItkY3GLZl6gi42urLekk5dqRkpkPUEAHyEkExQTCwoIOkFNfYugYGp9RD9NNzJARlhucH+VT0BBeIGRh6PBqLXIoY2hmHmNACEhIBgXFAwLCCQoMHh9i2FlbyIJET8vPWZ8lH6UrUhOYEhFVmZ9mJyxxY13hW45RQAYEhAYEhEQDQkVFxtwdHyLjpNNOT9ydIhedZBkeZFhan87Lj5fdY+svtNvdoMrIisAEQ0OFxASIxYPDw4PVUxMl4mIsKu3noyRhXJ4X2BtS0RNSjU9Q0pXdnqEXmRxEx4nAB4cGSkkJB4YFRYQDj84NXpsaK6ptZWAgpBnYp53boBeV4tqY0s6NQ8OEDExLxgdIQX9obhr62LUAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/027.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/027.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 27
     },
     {
       "content": "J'ai pas utilisé la souris\npour faire américain et à un moment,\nj'ai juste appuyé sur \"vernum\".\nJ'ai dit:\n— C'est réparé.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBaWlk3OkBOV2mIhI+Qh5CAd357cnWmnZ+0q663rrLAtrrQxsrMwMSBdHtTUFpiYm8AGx0hCwwNQ0pZgH2IjYOGT0E+XEVBZlhXoJWWsJiUg3Jyop2l1MjMmpSicHKHenuQABkbHgwNDDA3Q4N8gp6hqWddYX9YUGdaX5aXpJZza4lwbpmIjM3BxHt0eE5RWlFQVQAcHSEMDAsdISiFipeBkqhMTFdpSUVZX3BSZH5+X1ufgn6jmJ+4sbiMcXNnQ0dkQkYAHR4hDQ0LFBYYYGx+d4KWWV5tPzM+MzpKUmR6XFNbYllciKK/mq/FqqO2l3aJmH6TAB8gHxEQDBAQED9EUYmMmV5daCoNFz9HWHSKpGJ1jDw4Rl5uh4ehuZ+Xp3FDT3E3RAAZExEVEQ8LCggtMTmUmKGIho1NMjl2hp1hd5J0iqNFOkpMVm6itcyVnawsMDk9Jy8ADggKHhQVGQ8IHR8kdGprpJyjraOrXVhdJyg0Xm6EPyw1R0NMVFhhY2t7EBwqGSApACEfHycjJB4WExwZGlZKSJCFiLevuYxycZh9e5B2dIRkYHVZVBENEDM4NjY8Kh8dGPrGpXttTWOxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/028.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 28
     },
     {
       "content": "Il m'a dit:\n— T'es un génie.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA3ODsSFBYvNkNub358dXqAeYFjWVxpX16Sh4iqoKGqn6CZjY/GvL+4rrKAf5FjZnoAGBsfCgsLIScvaGp2gXV2dWttSTUvaE5KVkpKnIuJfWZhIR8kbmlttKmtb3GBVVtqAB0gJA4PDxQZHmRmcJiIgpOYomZRT35YUWRfaYV5fV89MzwtLEtBQqiXlllNT0c9PgAdICMQDw8OEBFSVWCjpa9jdotOREljSEdJVWhLRU5gPzZ2WFOLipaao7SNgoxySlQAHiAiEhIRCwoIODxGgI6iW2N1UVdlNy03KzA9WGd8Q0hURj9DepGsb4uoq7zQkneIAB4dGhcWEgoIBiIkKnFxepCWomppcSsQGlZmfW2EoV1zjjcxPkhTanmRq6GrvGBFTAARCwkSCgwWDgoUFhlpbXWYmJ1ra3JmS1BqdYgsOUxddpQzKTdGSVeVorKfp7UnMDcAFBMUHhsfHxUPEA4OWUxKqoRreFtLoYF5gWZjRDc5aWh1X0hHIRsZSkFDaW1/ChUpACYfGEY4LikfGh4ZFyolJFNIP19OQVI8NXVYUYxkT4BbTI1ybUM4OhESF29vVF5bItB4knPmFnMtAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/034.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 34
     },
     {
       "content": "J'ai pensé: T'es un couillon.\n— De rien.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA6Oz0TFRcmLDVqbn5+d3x2bnRNRENXTk2Ng4OnnZ+ypqmlmJnBt7q7r7OBgJNiZngAGh0hDA0MGx8kXmJwhnt9XldaEwgCSjMtkX18npWXpImFj3VyY11hs6eqdXeIWFxsAB4iJRAQERIWGVVXYqCanXKClDgrKmY/NHxudo6ZroBfWIlraIBvca2cnVlMT0g/QQAdICQRERIMDAtGS1aOnbFidY1UXGtJMzE/P0xPZIBvUk2BYVqemqeiqbmHdX9tR1EAHiAiExQTCwkGLjQ+cH+VaW1+TFFdMicyMDpKY3WMUlRfQzo8cYikeZSyrrnNkXWHAB0cGhgXFAoJBh0fJW5xfI2Rmzg1OywZI15wiGyBm2R5kzgwPURPZnyVr5+isWJESwASDAsRCgwYEAsQEBNfYmuUlZwzLjNkVVtmeJAsN0pngZ01LDlDRFOUo7WYn60nLjUAFBQVHhsfHxUREA0NT0VFoX1ncVA9nXtzemFgQzg7ZWRxXkZGKB8dRT9BaGp+ChcqACQeF0c5LiogGx8aGCkkJVJGPltJO1A5M3xcVpNpVIJdTo1wa0s+Pw8PFGlqUFhXIhhVkrDVQSZMAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/035.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 35
     },
     {
       "content": "Au bout d'un mois, j'ai compris\npourquoi un bureau s'appelait un bureau.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDd2d6ajo+nnaDi3+nW0tzQzNaPiY5NREVLQ04+NzkcGBsfHiAkJCKupKKflZKOhYEA4t7knZKTopea4uDr4t/onpmiGBEQHhIOTi8jMR0XMiwwREFBWVVSpJuYlo2Ji4J+AOHd46KXmquip+Dd5+Lf6pCHjDglITgqJlk9M0EnHz40NVVOT3ZtbZuUkI+Ggod9eQDh3eOimJ2km6Df3Obe2+emmJ5jPzdWPTRWOC45Jh9eU1hCO0AcGxuVjImMgn6Ee3gA5eHnnpOYjIKF6+jx4N7oqqauaExEXUE3VjYrSzUvlomSc2pyJSYlkYiEiH56gnh0ANza4ZWLkHpvdNjU3pOcrHKBl05KUjIiGzUiHFBGS4+GlmtibiYlI42EgIR7d4B1cgDFsrmbkpyimqSYoLFcaoFWZHhFVGcqLDRfW2ROSFF9dIlpYnEkJCKKgX6AeHR8dHIAqZmstK23nqSybHuRYGyAWGFwQUpYIRshWFhpKygvYVtpb2d5MC0siIB8fXZyeXNwAGpsnLi1w4qWp19tgFpneFJbakRLWRoREjAxSzAySzw4PWJcbC4rKoN9eXpzcHdwbuF+xvEJlX5GAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/037.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/037.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 37
     },
     {
       "content": "Jean-louis est à le trombone.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCflJqBeHdaUkp+dHBZWGRJTF9lYWh3bm18dXeUio6MgoOOhoqimKCupK6nnaWlmp0Appublo2NPy0nc1hQVldkQ0piSEdSYFVSiXt8mZKfmI+ZnJOcnZSfiXyCd2tvnpKbAKadnHJtcjwmI3tWSzw9TSwyRTs6Q1xRUYd+gJiJipySn5WOnH12endjWoV4dohsTACaeoY3NjskHh9NQEIZGidGQkyDgIaEf4eJe3J8ZVR8dHignKedkJBMQT15fIN8b1cAlGF0JyYrHhkcMiooIyElKCYtQT8/a2drbXGFVl1zamx2emlrkn5+IRkTFBANGxkcAHppYCglKBYUGhoSECggHDMsLD88Qk5NSFhnTl5ua19gZnJTOqiFZodlRk89LXxgSQBFQDktKSoqHyEmFxYeDwtBNDRXVlh/d3laXEFTWzZWVUItJiYnGRNDNCh6YUyUclYAFxkeIyEjYzQxMw4NHBANfi4tmk8+VkxBQT5Nc211iHdngmdPcmJgUk5NNzEzVEhNAB4eIQgHCjQLDjMLCisUEIAXGKcoKLuGWY5zUFNJRId1bamEZo+Fha+lrFtGRpePliwkmZJnQrD+AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/039.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/039.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 39
     },
     {
       "content": "Tout le monde le pliait\ndans tous les sens.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBpZ2tkYmdnZWlWVFxkY2k7NTYhFxEgFhEzKiRcUlAxKihhVVNgV1VZUE1oXls4MS4AaWdwZmVuYWBqWFZfZWJlRzEta0tAJhoUJxsVJx4ZQz07amFgcmtoaGFebWZjRT89ADA2VDU6WicsTTEzTEdKZHZXUZFpXG5QR3VTSicaFR8gHiwrKT06Nzc1MTIwLSAeHAAnL1YmL1sbIkklKUs1PWtvVVaSaVyUbWOWbWJJMysPEA0bGhg1NC44NzIsKSUoJiMATExcSUlaRUVVTEpWUVNjYVFQfVhOh2NZjGlflJOaY2pvXl5eU1JQQj03OzYxOzgzAFJTZ3Fwf2dnelJTZ3BvclZUW2tVT1tEPYmOlqG4yp6uvJqrupCismpveDo1NEM9PABvcIGWlJ2GhI5mZnV2dHlPTFV3dHRhUlyCjJuktcKhrbiSorGMna15iZlOTlNHQD8AbW17kY6WdHJ8Z2d1ZGNrPDhAkpqfYEdVd3SAqLnEm6i0fY2fd4iYd4aVaG53Qz09ADY1QWJhbnNzgE9TcjQ4WDQ0PJKeq1ksOYWBjaW1wZGfrGZ3im5/j3mIl2lyficmJ0JInIuRxR78AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/040.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/040.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 40
     },
     {
       "content": "Il reprendra jamais sa forme initiale.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gATEyIWFiUbGiofHi8uMEVAR2dvbHpmYWhTUFV2bneGeIB6b3aYkpqUi46HgYiGgIcAFRUkGBcnHRssJCU3LS9EPURkWFhnODM4MjI3b2pyfGFdel9ZhYKNm5ObnZWemJGaABwcLB0cLSEiNCElNy4vRCksPklLVmRWUkw8OXdxdo54d3h0fKGouamhsqadraqhsgAdHC4iIjQbHS8jJjsrKTwZGiJAQ01kUFVLNzNuYl2ShId2fIqYq72fk5yZkaGbkqMAEA4dGxwtHyI1JSQ3IR8wNzY9T01WOjtIWl9uaWJkNTdDalFOk4aGimBCo5mdnpedABYXKB4gMiEgMR4bKyMiNnJueLeutHuHk4+GlIZ3hmhncXJhYqGRkM/ExMnCyKegqgAdHS0cGiocGSofHC4kIzY7OkliXmNwcHR/eHuWh4udlpqSjIyblY+yrbPFvcGinKMAGhoqHx4wIB8wHhorJyY5HR8rCA4RCgoMDwgJEAgKLioqOjU0EAoMKyQolJCahnx+ABcUIx8eMB8cLh8bLCclOCgpNRwgIhccHxALDxILDk1LT0FARhAMEBMLEGRfZHdcTAIwi8Ep23I7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/041.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/041.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 41
     },
     {
       "content": "— Vous avez entendu ce\nque j'ai dit, Jean-Louis ?",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gByb3Nua3FcWWRubHNvbG8/OkApHRQlGhQnGhQ7LiluYV91aWdsYV94bWpTSUZsX10AZmV0YGBzWFZld3eFZ2JmMSMdNSIbKh0XIhcRLiIcXlZUd3BuaWJfaGJfUkxJWFFOADM5ZCYsUzEzVEJIcDU7ZG9VWJNnWU82LjgmHz0pIh8dGT48Ojk3NDAtKiQiHh8cGQAuN2gkK1YxM1lCSXs1P3RiUmN5U0d2UklwTUNgQDckIh49OTQ+OzY1MS4zMSwtKiUAT05fTk1eU1BeW1poXFpjYVlZbkxDfVdMfldKjoSIgYyYYmFhWVZUQzw3R0E8TEZCAI+MnnFxil1dd3p4f2FfaGNbWGtTUGJDOGxfX5ivxJ6zxpirv4+juGxzf1NKSn1vbwC0r7WKiZZzcYF9e4JSUFyJf4Gbl6NmVltqZHOqwtOqusWer7+QoraGl6paW2B2Z2YAqqWrfHmFb26Bb215QkBNfHVzl6a1emNxcmRxrsPRqrrHi5yve4yeeIiYaXN9gHJyAGtpeXFyh1FWeS82Xzg1QHt5eJamtmMuPIB0ga/F06GxwXWGm2h6jHaGlnF9ilpXWkQypxmPRXFNAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/042.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 42
     },
     {
       "content": "— Oui.\nFrancis, c'est le scotch, il te lâche pas.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDu7PHv7fLs6e739vuqo6NOQDl0W1NbQDZiVU93Z2QYBQISDAgODAYLAwQLAAUMAwUA7evw7evw8vD13NjbPjYwYUtDi2legFpNc1hOgHNvKRMRGA4JExEKCwYEDAQEDAMFAPTz9/Hw9fTz+JmCf1Q/N2xTSlY9NGlLQIRhVayemTwlIxcIBRYRCw8MBgsHAwoABADPzdTb2ODg3eSDbWd0WlBzU0pYPjdaPTRKMCi2q6ikmJU1JR8sIBshGRMXEAsRBwQAZGNjZ2VlWFZfWk5LW0c9bU5Eb09EaEk+XkU9nZqbqKanUEE6QzMqOSkhLyMfLSUlAImJjERETCUoNDQuL1JBN1pBOEo0LUEpInliW5WWmIKBg1VGP0c6NUVESEJLVEhWYgA9PkskJTEaHCUXFRs9MCpVPjNZOzVPNzF8eXmcnKCYl5lsaWtSWmNLWWVFVGBIV2MAOztLODhGHiApDQsSJx8oQTMxSjczXldZf4GCnZ2gmZqdcHmDVWJtR1VhR1ZhS1lmACYnMSQlMB4hKRAQFhYQGVNPWT5ASkJETaGgpK2tsZman2dxfFJfakhWYkNQXD5IU0A3lsUNaZ1zAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/043.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/043.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 43
     },
     {
       "content": "— Vous êtes sûr ?",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDc19z+//++vLxcSUKUdm6EYVZ1VEh8aWRuammcmpp3amkZAwIWDgoQDgkMBAULAgUA1tLW+ff8fnFuWkU8XkU8dFNHiGFTnYF6fXNwmpmaoZmZIwwKGA0KEw4JDAUDDQUEAOHf5eXe3nBUTXFWTEk0LVo+NFk8MmpTTHpxbpKRkcG8vUMsKh4PCxgRDRILCAwGBACNio+alJhfTkhuUEV3VEhvTkNlRz1pU01+fH2HhoXa2duckpA7KiUxJB8kGRQZDwoAX15fLzA5T0RBXUU7UzoxSDIsdFBCdl9Xbm5vd3d3mZqdhH9+RzYuQS8oOCwoMiwuADMzPhkZIzQsK1NANlE0ME0uK1tBOIqFho2OkH9+gJqbnoB7ekk6NklHS0VOWEVSXwAqLDkQDxcYExg6MC1ELCRSODI8NztXWmWPj5GAgIKjpKePjpJdYWtSYG1GVWFGVGAAIyQvFhcgCwUJKCEnODAyYVxiMjZBJCgzZmltg4WGnp+hi4+XYW17T1xpSVdlS1lmABkaIxQVHQwJDxcTG2NdYVZQVC8xOzo3O2BYWKSgo8G/xZGUnllmckxaZkFNWjpEURjelZqo9HOcAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/046.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 46
     },
     {
       "content": "— Oui.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAkIR0wJiEcGhdZUkeYjoNjWVc9NTNKPzlBMCliRjyAX1M1KiQ/ODSCdnCIe3V9cWsANSgjbEQ8JRoWPTQsh3tzWlJRRT8+b1pRqnlnpnZkoXZmd11SJSIeZl5ahnl1f3JvACMTEWQ7NVM5MTwvJpWGgHNra3NtbpV9dZFnWIFcUG9RR5h0ZllCOm5kYIZ+fYF3dQAbCgpNKSVoRTtaRDpuYltFRUZCRUZXTkmfdWeZc2WTbF6Wbl95WU1BPDsuMjQwMjMAJBMRMhcUQyYhXEU6RTgwFBkbEBYaHSAioHpskW5he1pOjGdYalFHFxscFxoaGBsbAC0aFTcgGzojHko3LlBEPUZHREtMR0RJRWdaUpRsXnRTSWZLP3dnY3Z/i0pNTENFQQArHR4/Jx9DLSY+LiZoW1Zzbm99d3dnYmNSTk+HdXBxX1VTT06Nm7CiuNOSpbyKmawAIyc5MiYqOicgNCYfeWtnkomMlIiKjIWJoKSxpLjNc2V0fHaJor3YobPJqLnOrb/UAB0jNSAlNycmNCQiKXJrbI6EhpSOk6m3ybbH26W80mZBWFI0SZixyam5zai5zae3y3ecm7Oqo4aTAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/047.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 47
     },
     {
       "content": "Elle, c'est la colle.\nElle sent bon, mais elle est saoulante.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjcHIJ7OzuLyprqqqtb6gv76yrsjAydDHVKwh2n5AenuRhIyslJi8nlZMU111fU5yRypDg59be2VNY3pNXVNPeWrNiznQ/X7+FrdXbW4vnFCR0JofY6GlYaqsUZab2tbWW5eUwRNsYhobk69nVWDql9XbXhoaGaOsb5idE9KeFFQe5Tc6JKQx2z/dzcrG3NbGw0tHVY/DUU/Zzi9Cw6TS1z+npqJZTVhGWktXV1p5WkDQlJ2ZGXlxjXEBOsIe4tLSMopKEtAxDgJVebIBfbHJ5bFLmnBndvv6evv6eISF+bVlxTXGBDbH+tdE+TYV58amZTs52trYWDOYaytH+7vFRYe4ONjOndtdVVMTFxHt5BaVGRU8vTO5NCW6I9Z2zZNuCbZfap61q6JzBICqu5uTgVpRXkRCT4+IWaO/gr61nr6xhqaZtF+Xjt64xb2ZNeUx8XlJ+W8fMLdNXnWBQUDEzsfDSNnBS0rCWUTaTUTYBISVjeRUzCQVDf48AZ5cQCRltaVltVS2rgIh8Bg1tWzVtWzllU3lVMzkVE2lFQ0k5fUk5fTllUwV1C1EZXWl5PWl5fUk5PRkFfWl5XQBABYtCW0I6agAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/048.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/048.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 48
     },
     {
       "content": "— Je t'ai pas raconté mon week-end.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAXGCglJjojIzYnKDo5QF5cX3d3cHVdWF9rZmuBd4B3bHSOiJGbk5aIgISHgYh/eoIAFhYmGRcoHx4wKCs9NTtYVFhzUk5TLCwyVlZcgm9xf19VhX2HlI6Wn5ifl5CXlY6ZABoZKiAeMCIkNikrPy8xRTk+UVlSVEU4NFtTV4l5enhjYJuisaahr6aeraeerq6mtwAfHzAgHzEdIDMsLkMgHykkKTRoXmNeQkBfU0uDfoVXWWmFmKqhqbmhmKmgmKmclKYAHh8xGhwuIiU3JiU4JiMqOTpCPjtEO0BSX1tec25zQDZET2B2e4iVm4yJnZadm5KZABcaKyAjNiIhMh8eMUA+SaWdooWHkHV8io93g3t5iHdteH6GlqOdoMvAv66osqaepwAdHjAeHS4dGyshIDM4OEhsaHCKhoqFiY6bkZakm6SjnqKknJu8tbjQzNGzrLKZlqMAGhkqHRssHhwuIyE0JCQ2FBkeEhYZKB4aPC0qKCQoMikoKCMkMCsumZWejomOkoJ/AB4dLiAfMB0bKyMiNCwsPSMmKRQZHBcZHBMNEBsZGjs3OxwcIBEKC2JhbHdnY4xoUZPGlztX2TZEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/050.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/050.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 50
     },
     {
       "content": "— Comme il faisait beau avec mon mari,\nChristian, on est allé à la campagne\nprès d'un lac, on a fait du pédalo.\nJe m'en bats les steaks.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBra26WlJezsLSzr7SVk5akoqazrrK1sLS+uLyhnZtXUk5INjEvJyIbHRsaGxkXGRgAaGdqZGZqgYKGW1VUSDkzSz87aGtye36FhoiRYGBhU1FQZ1BKYEQ+Ni8pJSMeJyUfAHp6f5GQloWDh0EuJpZwY2hKPFJNTnlxcXNqa2tqbFRUVWBTT2VLRWpXT0g6MlJZZwBsbXCPkJaQj5SEYVaMZVltUEVdUV1yTluLZm5/f4VNT1BpZmdLPjdkTkRwZ2tsg6EAjouSjomRe3uCg3d0glpNVTkwQ0taUmWFc3mSgX+HRkdIeXl8ZGFiOS4oanB+eY+pADIvM0VETHV0fbWrsXJPQEMxKjozMVRbc0lWd25zgFBRT3h4fI2NlH9+g4CMmoGUqgBAQEE3LyizrrrJu8GfgXp6bGqlnKK1sb9nY35zW29+YViAal2CfH+Ok56Ck6hvgpkAm4N8tpOOzcLQzsTNyLq9tay0zMTSyMTSoYmYax4xczU2e2VXhIqUgZOnbYGYX3KJAKuHcKyZhMe/xdLL2dDK18S+zK2ntraxwaKap4xSOYhSOX19g3+VrG2AmGN2jFprfwwUxS6kxk96AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/052.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 52
     },
     {
       "content": "— C'est incroyable.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBZUlw4KiowISAtIiRCNjp7c3t2cXZoZGhxa3BsZmpiWFhyW1ZmVlReV1hZU1hUT1UAOi8xPCYfOCIdMiMjMyQjRTg4eHJ4bGhsdG9yamdqcVdRrXxth2BWWExLZl9gU01TAD8xMTMeGiwbGScYFysfHzImJnNuc3NvdHZxdnNrbXpYUItkW2ZJQ1pNS21lZltVWQA4LTATBQMiFBMfExUfEhViSUd6dHlybnF5c3h2a22EXlSDXVR4Vk51ZGFxaWpkXGAATEJKBwAAFw4SGQ8TPSUihF5aiIWOiY+aipKffYaTYEdFVjUvY1JNiIB8cWlqZl9jAEhBSjsmI1w9Nm1NRmRAN3lkZJ6tu5qtv4uespCmulxfaTo2PnV4f4h+enJqbGpiaACtp7rOxM/FrK2TbGNoUU+Nkp2gssGSpLaTpLWSp7lcSVxkZ3uKoLSLkZp7dHhvZm4AxL7W1tHn2dfrvbLAkIuWnqu4na++jaCznK28lau8Yk1he4KUobbGnbLEhI6deHB4AMS91dDK39HL39vX6sjG16OxvpepuIiarJ6wwIOOoFkuPo6SnnB6hkBEUExRX354g+5YuOTd8RI9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/058.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/058.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 58
     },
     {
       "content": "Jean-michel, c'est l'agraffeuse.\nOn le trouve jamais.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwYlu0mAAAOC+x0yMiWKWLVvEMIvDXbDYHYzIRAElEMIcJkZ0ISgwEC26Vgp/73Pd35ZylAznRFy8MNEX8/sQQAitI4Gl1Ai2NXN5KrZ6O7vtJzMxai8qv0jXk+H9rQBPcobSPZHaptpH2IbCNmRd6mTjyTuzro1b7puuq0HPfC7ojyyhiYDvMJMWaKiyhsaZx4KFAFLmKFWXOpWD8ibqzmDLq3PXA/PTeDKSCvhq8e3mq9cCYygsVDlL4yyEpXQeQIW3GRqG7m4m1tDUmjf/YMfBi9zTeDO9e1SscbQlAigxlghMRINnamfMwLN34mAj+BBzz4a97rBv4WVkB0/cqyXv05TMA4MDhkCbfMtABOfHR3NU14YF0F0JpTzTroVrV25cmsLmZh4ve/ZicQA/dfpjVeoJtCEAE1FOf1V5pwjsctN4U3mv4hWtVowuolm/L7rifV6qV/n+yfB778uk3RuLjIUQqkPboxIwpfrbic4NAaGXDvZD2DrqyeXLVRaWWlBzxr2vf5yLf4PzCZInVGCPDkm58Gi3+6E6ZEg292R9celZpUEeOwVCwEUbnl60P/+0z38Pvv39D93K0YkNOXQ2AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/060.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 60
     },
     {
       "content": "Et Fabien, c'est le post-it.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBsbHmVkJiJho5/f4drbHZpb4B8g5TAw8/n5+vg3uGwtMCJjZu9vL7S0da3t7qSk54AY2F0l5CZlpKceXZ9X0g3WT0pakgvqYRo4d7h4eLo0tTdv8LOy8vS4eDlycfJh4umAFVPap2UnqCbpmdiZXU/CF44ECwfGW9CGdHHxc7S3czQ28zO2srL05eVmYuKi3V6nQBBPmChmaSnoa1fXWJxPgpEKA4ABxY8KBbCt7DIxsq2uMO8w9PGx8yMi4xwcHNobIsAQDhbopmlm5OXUUdEiGRJqXlWaFZMXFFLmZCKraGY3rugxbKlqKeq2dnanZydYGF/AEw4WJWMmZN9cZlsTplwVK19W4FlUWBTTGVVTF5MQnlYPohtVoF9d4aGhV1cXlpXdQAmIFJOSmBdVU9ONiRJLxdBLRo6Iw41HglJNSNaSjpPQzdXVlN5enhTUkxPTlFaV3YAChBLTExnXl5aPTk0LScjKikqMzAqREM+WFlXTlBQW11cYGBdd3ZxbW1nV1VaVlJyAA0TTk9Sd2JgXSUhHiUiHhsbHhsWGi8qLiYjJikoJUE/OVhYVnJyb3x8dmFhZ05LaI2WwcCpV3hTAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/063.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/063.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 63
     },
     {
       "content": "Il est voyant, collant\net il s'affiche partout.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwlj8tu00AARecPyoofKCt+ByQKUoBF97BKSgky0EZpg5U0TWhs59EmNKof8WM84xmPZ5zxKy38FXIr3eU9uveA9a2zsUPoExwwEiYUC0Fzz8H69Ho8NlwLDQYTz0YUcs9GthkAy/R9F2MYUyxYJBOSFeJhbqyaX5Qr41rTFrqxUpSua4UE8o0FwcaG0CcR4iySguYpLbJkh3z26XPrt3ajzVbGbHXeG3Y6qnMXEMSB6yAUUIIFo1lKi21cSVbu5D9Du2l/6yyWpr74c3SsND4cvnr9ttVqA9eBKGA02gpayLpdZUmVJ1Ua56o6+v6jO52v+8PJwbuP+y9e7j17DlzLrwGcCpI/tbOkHinFfQSTk9Pzs95wvjRPTnuN94fNZhu4dogCSrHgJNvG5ROQ813Od9X2r4jzydVicKnrs+XRsdI96wPHgtAjJOTJo7RkNZPzOjKpCvHASXY5ml6MjP5grKpDYN553gbjgMWofvXoXUpWy0hWprSQrDLXXu/X6Gv755uDxn+GMBnI7GVF7gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/064.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/064.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 64
     },
     {
       "content": "— Elle a un cul. Elle me dit oui, je lui dis pas prout, hein !",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB2en12en1dX18qLjAyNTRLOzRQRD8dIykkIiYyLCtCSFA3QEo6ODZAQEFOVFlmZ2YAm6GnmJ6kPzk4Qjk3MDEwUzw1Qzc0FR0maFNORSohKzI6PTxCWUUlTEUyTlNbZmprALG2va+0uzcyM0o3MlJfaFBYZXV/iyw3QzgyNXl7gE5caUNGTmdgSlNPQjk7RW1ydgClqrGfrbqXq7xAQkdqiJ+FlqyanbFFYHNIRVipwdeHorcvPEofIicvMDNJUlt9goYAkJeea36Olq7Ba216U1pkb2htcWRuVlhfdl9keYSScIyiRlZoQUFAQkI/Q01XhYmPAHyEik1eanuZrnqDlUM/RENSYGFQYEkwLkU8P1xWV1hUWFdkdYOKkH+DhFFbZoCGjABsc3hGUltka3OGipRvXV8fHSIVEBUQBgkxMT1acIE/SFM1RFlFVmwuNTouNDp8gIQAY2lsRE1URT8/UFBSPDU4DQIECgEDCwIHDwQJDgcLAAAFN0NUdHh7IyUkGh0cdXl7AF9jZDM4PTZDUDhDTh4dIQoBAwsCBRANEggAAyEaHVxZXnl/jGZtdz9CQx0hH2RlZXmKjbKzcqSWAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/066.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/066.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 66
     },
     {
       "content": "Je me suis demandé si j'étais aussi\nune fourniture de bureau.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4e393en9sbnA/QUIrMDMsMjEvJyNSQDhZRjw8PUAQFRoqJyg1Li9DPzwrMDdHS08AmZ6mfX+CTkdFXFNQNjo7Ki8uIhUPVjguTz43QERIIiUqW0U9LiAbKB4bMzg/Ki0uALK4wERCQhcNCW5VTUpHRSkxNEQ/QFY9NS0lIiwyNyssMXhYTUInHyMZFDE2PjE0NgDCxstjZWc2JB1tT0ZRUVF+laVpf5NaYW1MVVsgIygNFB9BNDJjVVZjcX5HUVplaGsAnKWumrDDbXaBPDYzX214lbPIgpuubnSKcoSRHyAlDBAfVVtpeIaaqcjdqL7QVl9lAIyisrzV5aW4zEZCSW+DkXCPqn2br46GlISBhiAeJg8SJWhXapqktaS/0JWvw0xbaQB8lambtsejtcZ1ZHNid4dscHpnVlJzWVdgTEoaFx9KPEV7W2iRp7xsjKZ1kqltfo0AboSXi6W5gaG3lYyiUENIRkJCVGJsW1ltTTdGIB8ib1BIhmVbZFdWZ19hdYufc4udAGh9j42ou3eSpHuCl3tkcWZ4hVJnek1XaUE2PRUSGRMFEUZHUl5mbltDPFhEQFVSVRLWoLLFM/5gAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/067.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 67
     },
     {
       "content": "J'ai compris que j'étais la poubelle.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVVVteXWNgXmNranF1dHx8e4KBf4p0c39jT0p/XlVoUEl0c3qysbylpLCzsry4uMAAgIGRkpKnmpmuoKC0oKCznJutnJutbGhvkWtgvI6Cm3JkXltfrKq5rKu3tLO8sbC6AGReYltYXltcY2Bha29xfKinsbu4uYJ3c21QR41pXnBQRHhrbbKxw6mnuKupuaqougBgXWdUVF81PEk0Nz5UVVm2tbK3tbCOf3eFYlqQa2GIYlaajJKtrb+rqbmpqLiop7kAgYOYe36XXGiIeXyVgYSVsK2rtbCrgHt3W0M8ck5DfWpmpqm7qqe3p6a3qKa3rKq8AF5dbFlcblFYb2hrf3BxgJ+kq52su4SctVFPV0hBQXSFmZKmv6Spu5+draCfsKGgsgBmZ3heYHNhZHheYXRiaX2Vq8Khts2atM1LTmNZXG+Qq8WZrsSmus+iqruPjZqTkqAAOjU4Tk5SWFpeYGFngZSslazEpbbJmrXMV0dbYltunrfNmq/FoLXKrb/RlZediYWEAAAAAEZFTC0uLi0zNYObtYqguZ2zyI6mvEgeL31tgaW/1JSqwZqwxaGzxqSst6ajpgGQ47AyDz31AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/070.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 70
     },
     {
       "content": "À leurs pieds, à les débarrasser\nde ce qu'ils voulaient pas.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAV1JREFUeJwlkNlym0AURC8oEgwXwTDALMzCDCAMcuSyqxRHtpxXZ/n/D0qRvHbX6VPVIBi73d9u9/vt/v75+/Pnn1/vPz5eXl+dcwUh3DhGGauFtEHaYMIJUoDiSElG94dM9r5RJkFa1BLTjACUrBbGtcrxrpd26KczYAR5QoqKlw0f17XmKi+qkvE8SRAAEyL70CrLtTdh9qdH2NL9/li1bWfG9VwLU/GOtgJ38VZ9SRqlhe4bZaUddD9vhk1yrMbzeX68CBNMeJAmYBxlAEWKTGodRu0mNy5h/voP2CSHp29XN820VZ2fhbQZAMY7RhthgnTehFM/LePyBBhtSyUhz7fvrJWY07IWBcEMgEvjpqXrJ2GcCSc7LNMGxBEBEE19uV7znGJeIRYYR3hIa6GVG5UbuHadH+3wMMwXyONdCpHzflpWkuKxqDDJ/v+TU9Yoq8wgjFdu0H5y4/oXek8nB8v7v7gAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/071.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/071.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 71
     },
     {
       "content": "J'ai tout jeté, j'ai dit:\n— Je pars.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAcGy4jJTksLEI+QmBIUHZvbHtdWGBDQkh6cXiJf4+KgZKTg4Sfkpaak5qWj5WIgY4AHh4yIiU6KCc8Pj9YSE5vVFNiNzAxOzg8c2tygHiHmI2dfVxToZGZqaKurqSyraS0ABkcMCYmOyknPDo4QycoMFFTX4JrZ2JGPmVdZ3V4jaKotGllca6ww66jua+lvLClvQAhIzYiHzIkITUuLDgeICZERVBWR1FORkxJRElzg5iQh5yFhJmbscSimqeflaKbkqAAIB0vIBwuIB0zPz1LXlpbe3aATlVie3uMZV1qc3F6gmF2qa2+u8fTsqy1sKauqaCpACAdLyEeMSYlOz47TIJ8grqxtp2nsqibp7Sksrixu6yjqdbPz+fh5MC5wKegraWgrgAhHjEgGy4oJjsoJzscHysvLzU7NjdHQEBbUVFhW1xhW1tPSEd4cneUjpKUjZWBd3oAIB4xIR4xKCY6LSxBJSYsExcZCwwPAAAACwoNNzQ2Pjk6AQIDNTI2eHBynXxnak48ACEeMiMhNCgnOyspPyopMSUmKSAiJQ0GCCIdIUJDSSsrMhUSFSAeJDUwM1ZANl9HOWkNnUG+kgCtAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/075.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/075.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 75
     },
     {
       "content": "Le scotch m'a dit:\n— Vous êtes sûr ?\nJ'ai dit:\n— Oui.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gConKWtoaquo6qvo6uuoqquoKiwo6mvoqZzZmRTSUZkU0x/bGKHfXp0bGabkIyekY0AppmkqJulqZ2lqJqkopehnJGboZObmYeJgWNYWUY9SD44clNLhllXjVpYl2tqybGzAHt0eoN5e5uDaItxZ4Z5fI6Ehn1obnZQSHRSRVQ7MhYNB2tVVMKptLmOmZt1f8u7wgBvbXBsZmF3ZkV+bVB+bU6Ab1KDcVR4a1NmSDp6Tj5hT0iJa2+hZGqkaG6HQUbHqbAAdHF2Z2Fdg3RdoI96oI94o45xnZWHk5mpYl9mZ09IoqCqnKW3p4yXjjc2eCMepXl5AG9uc2hjYIltHqOAG6aCGKGDJYR7bYlsaXFtdT82Pnh/jnN9jqCvwoqJjVhFQXhkYgBxcHR1cXCJdTuLdC+HbimKg2NsX2BuY2RMSFE5HB9scH5QVV48PEFJS1I8O0BBPUAAX19iamdmfXhzf3p2jYN9cmlqZUk+cXV/UEpTLxEUZW19NjtACggEFxcUGRgWFRUTAEtMTlRVV19eYHBrbKmXhn1YQlo8MVRUWExDRy0QE19jby0uLhAOCBgWEBoWERoWEcnutbG68l/XAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/080.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/080.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 80
     },
     {
       "content": "Il m'a dit:\n— Vous aurez rien, hein.\nJ'ai dit:\n— C'est pas un problème.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwVy01P02AAAOD+FAfpYEKYsG52nchQ1kLb0fXz7Rdv27Xd2heWLQxjILAYiLKMmGwgXNSDU6ILBy8yOSjxYOIBf5TxuT/YPJ7IpfAHyYlHE/fcAqmwPEOzy8UVYa3c8AKW5j27rlSAtK7JAgCyhS3giWwKn09OPp6ZNkslrSJzHK/y/FX3xc3g1R40BF4zVCgLQBVNIEOMSCaW5u6vEmlukdIqqq6YHLducWvfXh/+OOseeRrzlHUsX5MNTbb+h+W5lL2Ua3JFn6ct1bB1KAlSWCm3NWHPlKpM0REVD9Yt4G4YVccMMEAtHFjSh6PO+5N+K247lqup+n7ovdmOezXY9fUYVqtOZAEXmtUAuthxszH+OLq7vbv6dOPClq5u2IatsKyYz4F8xuFoFDZDL3btmu/UkR9i30fXP6//nJ9+lqUom+WZkorQzubOSypDkjPTwKw92+2hsAkNP/QQCmLson+Jos5Dsjw7+4QgODIvbO0OesNfjBAU8vTz3uXxu/HZcNw5HGxF25u1BrbKGHiSnJqi0umVDMESGZYqiGj/QpSixcnsQX90/uX27dffw/Hfk9NhC7X/Abqmn+WJAsS/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/082.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/082.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 82
     },
     {
       "content": "C'était un problème.\n— Vous êtes sûr ?",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwVtP01AAAOD+FeOD8qALo0WCuIQNWO+Xc9rTnvb0tKe3sQ54mImEy1DRDcSh0TAfRIyaaIgPJoLEmBCfZozxF/hv/D5u5uqVgJ8MFcXUoKVBRdSkplyfXyTAWSGhLpohzoDh6CoEJnIszE1PXDNqc8iwEHBd4EITSJJMDP1yNPw5OtiOPENxfBRB00MwcADhxBnBECUXYuwQ7BAXurKsEbl5+mjz7OD+VmApTT3EzLE8zw4RDLmOWsea6iMSBSwizHcD24JdD24G9rpr0oU7KcIxyX2XUp9RHHMfBv29rQEjRUrTLM6jIEaO18vp89VikOAege24xWiLeCyhWUZjbvz993D/xFBJiFmZd1Ka+ggDWdKFSShUQl0ri7WEFjTICla0WML1d181GlgQZFnCSVi0ktbOw6flvSezVaHG80nZW98+7CzfjYO8na2UWcnxvHjzRkMQ1FvTqmawF+/Ov/769/LzuDZvLy3YG89O944vjj7+eNAfrba7Zd7hrk/crlTq1ao4NSXNzgFa7g7ffntz/kesgcXq0uPjs6NPl6+/jN9f/N0/PFlb7v4HiJ2kFl4MQTMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/084.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 84
     },
     {
       "content": "Non.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCIhZB5cHVBOzuDentjXGBRS1lMP0NNS1tMS19PTFtJRUtuVEw/KyYvJCApIBsgGBIAkJSjUkxNLiYkZV5eZFxbnXx1cU5FdmdkenaDVlJWZVlcgGVmRiYjKxUSJx0YIxsVAF5eYlpUUmJaXF9ZWW9oapJ0dGJBOVVPZENMcV9JZr9zmKFhfU8vMDMPDigZFSIaFABAOzuFen15cXeLg41ZVGUtKTNfUFF8c390cn2gfY7NeKWbZXJcQD09FhUwGhYlHBcAHRgXd15YUjw2TEdVMS9BExQhPTg9rqCdzsG7xrWzxXegp2B8b0hKRiIgOCAdLCEbAHVrY6iIgHBNRz88SiEgLRMTHRkYH21lYZqNhaOWiad/i3dOZm1eaVIvLEYsKDcpJACbXVapV1d2Uk4/LjobHSkSEBgPDRQrJSVMS0N8gF+KgnNaRlRlZXJjQj1pTEVMOTQAjR4hojA0xKevVzE8GR8rEAwUCQQLGRQXTEU/XlRBR0M5IhsgLigncVRNi2tjX0hCAJMiJaAzN9a7yGVBSx0gLRsZIw4NFgsJEVlJTYFmbjxFRggMDBYTEVdBOoppYWhPRy+2h/uPnRGgAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/085.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/085.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 85
     },
     {
       "content": "— Oui.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKgIFQSUVORDxcVlg6O0hAP0tpYF9aUU9vZmmFenp9c3SJf4WonKKekZOaj46RhIMAm4+SU0pIKR0XXlNTQkZWOz9RT0hKb21xlpSehXp9iX+Cl4yQsKWppJqcqJ6ei4B/AKaamWZdWzkxNEM+ST0/UC81RzAqK1NQVJCPmJWKlJ+TnJWLkZeLiYBqYGlWTnpnYgCbkJBQSlEoJjUyMUIyLz4+PENQTFNHQEJHMCGOd26flJh/d3x1alx+cW6ZjH50X0QAbGRfISAmJSMtMS48JiMxUUxRjoWKkoyTa1hOZ1hRdnR5iICGVk5NLi8yWltfV09HAHBmWS8rKSUeGjIqKigjLhgYG0ZCQWFjbWhuiFlgemZaV4xzanBXRhsQCRkSDUs9NQBgWEwlHhwPBQM+LCUuKTMyMz1XUVZmZ1Vnb1BnbWxRRT5iSjWWclF1WT6IZkWlhXAAHx8fDwoMKhgSb0ZAOi45PzYzb2NgcmxrWFdAamVIUUk9LSQkGA8MNCwkZFBCc1hGACUSFy8SEEAXE5QjI5QcIKxbO41uSDgyNE5MV5mNjo9xUW9aTIh+fVhPSkM6PV5XXrNIlRIKU63fAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/087.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/087.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 87
     },
     {
       "content": "En partant, je lui aurais dit\nd'aller bien se faire foutre.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCLgYFNRkFQRj1fWVo7PEk/PkxoW1lpXVxxaW2Fenp+dHWJf4WonaOfk5WckY+Th4UAmo+RUklGLiIbZVpbRkhXOz5PYV9mfn+Ge3N6ioGGiX+DloyQsaaqpZqcp52dj4WFAKWamGRbWDkxM0M/ST5AUDE1RDU3P2JgZoyChpeMlqKWnpaLkZWKiIFrX2RRSX5pYgCdkpJYUlcqKTkzM0MxLz5EQkk9Oj5DPT6ThoSVhoWbjo6EfIB2a157b2ybkIZ6YkQAcmpmJSQrJSMuMS48KCUzVlFWkIeLmZKYin16bF9Zc3BziYGHWlJQKiosVFVZVE1IAHlvYTgyLycfHDMrLSYjLhgXGkxIR2BibWNqhFhed2RZVolwZXlfTh8TCxoTDUI2LQBoX1MwJyMSBwM+LCUsJjE0ND5YUldnZ1docFJpbm9RRkFfSDOVcVF5Wz+HZkakgWgAISEiDgsMLRoUa0tFMyw5PTY0bmNhdG5sWFc+aGRGUks9KyQkFw8MMCghYU9Bc1lHACURGCoSEEUaFpYnJ4oeIqlgPolrRjcyNVBNV5qOjpByUW1XSIV7eVpRSj41N1lTWgu1mArbK/AzAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/089.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/089.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 89
     },
     {
       "content": "— Au revoir.\nBref, j'ai eu un job.",
       "index": 42,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwtzU1r02AAAOD8EhniNgiaJulr0jfJmy/qRuya5E1i0nbNmuajaWJnCtoxGM6Lh+EEV8HhxQ/oRZwDPYgHQRERdhM8iSB49leI4g94eIhPr07fvzjZm90WNR9Ibl10GIhrvE3xNg0xCTDUOmUxiaNhtBVF4YD49eP317Ofh/ee6evhP+Ay0KEbmIHOX0YJbVUb9nqjbJzFaTJMiKdP3s52HjjedVnvQMWnoUMCa5Vt1xruuRVBocnjG+HDKh7FaTEuy7wgkOrzgo1kX9U3kdZlBHeZaS9dNJYZi61JGF3e3cQHxaAY5eW4zLOc4EULqb6q91S9J6sdTvJWWXPpkrFStwFojq3mfugdTJLp9jSNs61+RPCCCSUMJQdKWECepAQsdM9TVy9QLZJZ4ymyr8Iq7FaTKh2OBmFMMGAN8C0OthuijdRAb/aRHADBM4JpNDvkpCsbLevO0WLv7jxL8uBal6ixzTpncNAUkKtoXVnryLK/bkRhsX/r/sLtV0l08/G7b49enx2//DCpdgn6/2A2RJuDFuA3OL4liVhRAtPfNnGaJDvz0y/zk8+Lj9+Pnr/5AyHiklG5200oAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/091.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/091.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 91
     },
     {
       "content": "— Vous avez bien entendu, Jean-Louis ?\n— C'est sûr ?",
       "index": 43,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCtws5+kqFLPTtmSz9QOjBbPjFxTT14UkKAWkuIY1h6XVV2XFeJipF8m7CHoLGxwcsAjZijV3KJOz5FbUw8YUY5PS8rVzwxfVdJeVRHX0c/V0hFiWpjc3eEaIifl626nrTAALGXj4yQmj5NW2pLPndRP2hKPVw+MXRQRXxbU19EPIBiW5h3cFxoeV16kniSpZSkrgCEXlWYdGlyc3pdTEd8VUNxTT1lPi5wS0CLa2WCYFePal6AampaboF3k6eHkJu1oZ0Ai25oaUU8jnt3XVhadVRHZD8ycVpTl4J+imdhdlJIimhfZ2VtXnmNdn+JjGthnoJ8AHlgWXNYU3NSSXJkY0g1LXNfWLGwtLa0uXliXWFHPWRST1NkclptfXJbVVs6LoJiWQBvUUhzVEtjQTd5XldsZmeysLOloaVQPTw7JSI2JyIxNDhAUFxgVFNvTT9jSD51V0wAUTUvSi0lTy8nc05Fr6anrqywZl5eRTg4WU1OUk1PU1hfYFpbY0E3US8lYEQ5XUQ8AGhcXXJqa3BiYYl1cbStraumqKaioq6qqq6pqa6oqK+sraegoHRgW11RUmFTUVpNTZiQsxXxVWrNAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/096.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/096.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 96
     },
     {
       "content": "— J'ai pas entendu, c'est sûr ?",
       "index": 44,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCswc1yhpROPjpmSz9LNSxaPDB0Tj5+VkWDXU6AX1drVE55YVyIj5h4mK2RqLexwcsAnKGoWHOJQj9Dck89WEE3PzAsYkU6gltNbUtARzcyZ1RQj3FqanWGaomel626mrG+AKWFe5ONkEpTXm9NPnZTQWlKPV06LX1aT3haUmlNRZBuZI90b1ZofGSAl3iSpJulrAB3UEeHYVd7eoBjUEl6UkB0U0WAZl17WE+JaWOBXlWSa2F3aGpddIh8laeWlZu5opsAi3JtaklAi3ZzZFlYcU4/lIaFtLW7nYWDg2BZc1BGiWlhYmZvX3uRd3J1k25ip5CLAHhdVnBUTG5LQm5bWH9zccDAxJaQk3FaVWlRS19GPV9RTlBkc15pdW5RRmFANZN1bABoSD5sS0FgPDOFZ2GwrrSZlZc1IB0qEQ09JyQ1JiExNTlFT1l4XlRqSDpsUUZ6WU4ATTErRiwmVjgxiWtmr6uua2RkTUJCWU9PYVZWXFhYXmNqa1xaXTcsUDMqZUk/VDoyAHRpanx0d46LjqSen6+qq6yoqLCtrbGtrbKurrKsrLSxsqWbmn1qZ3lxcm9kYmlgYJZDtofLagJ3AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/097.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/097.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 97
     },
     {
       "content": "— Vous êtes sûr ?",
       "index": 45,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCluseOpbVIRkpkRztYQDZELydePzR7VESAWUl8Wk9nUUxsVE6AeHt1k6iNpbSsvskAlJieZn+TOklXYkY6b0w9TTw1RTEqdVFFfllMUTkxTD47jG1kdW1yV3SNiKGxl667ALOViqKcn0pfclxKQ3pSQHJQQWZFN2xJPIVkXXJUTIBgV5p2bGRmcVt3j3SOoaenqgCKZ12XcGSAgIZTUFR8V0ZyTj5nQjJpRTiKamSBX1eKZVuHa2ZZZ3dyjqOFfH2ggXcAjXNtbUpAkn57U1lia01BcU9DlImIi3NujGlkdlRMgl9VdGhoVW6BfXp+akg8cVJJAHpiW3VZU31bUV9ZXElAPp+Uk7u+xJWLimFIQlpEPVtHP19iaGllaXhURmFFOnFUSgBqS0F0VEpnQjl4YFyQkZS5t7t1a2ssExE1Hx06JiMhIiY5QEhyTEBgOzBrTkFvU0kARCgjQyUfTSsjiGdftbGzmpiZX1dWYFdXa2NkbWZnaGltbnF3gXh5bVxaZE5JW0hDAHJoaHNra31wbZyPjLOvr6unprCurbOvrrSvrrOvrbSvrbGvr6iqrZibnpCRlYiGh+NttmLhvtULAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E12_brefJaiEuUnJob/100.mp4",
+        "thumbnailPath": "thumbnails/S01E12_brefJaiEuUnJob/100.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 100
     }

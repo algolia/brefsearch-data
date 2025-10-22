@@ -12,252 +12,546 @@
     {
       "content": "Bref, j'ai grandi dans les années 90.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwl0Hlv0mAAgPFXoPQ+3paupaXtKHRktEOkZexCrtEBnTocx5iMQowsGI2EaKZuiUb/2Nc2ix/gyS95QMXUGna259qvynuBZ7ec7GE65aXEg22plknWTWXun6yvX4edere0tyuJIHDtc89pF3LHWeOFIhUkoSgnPFU8zqh+0Rm1W5tw/LCcfAsHq363kjZAQVN1ltVZdptlTY7LQi4DOYODpqy6Vn7SC+aX/V8fZ38+3dyFw9HLCmhXSnEQ5TCSjRN0HCcQPMEkeCYBGdGgWFfTZoF/fVq9m1/+Xk2/L4bg/naaEsTYMxRFCDyGI1GMxBhTNXXZ2OKTMifedBod7/l5pfi4Dn+8H4HHzYeLZjUCogJOaQwrkEwsgrIEzJu7lr4jMGI5Zw1qhyO//XUxvl9egZ+304dVmBZ4hSJ1CJMMhyJPDqQEXdIgI+cUveo4vbo/9FtXzQPw+V3/73r5pnZERxAepyFK4HHif0NTfLc5Piq/9ez9s5ITuPnqjgEWF2dfZoPNYqJCAY+gJELwGCmR9BZJ0Rg9aLRmXb/39N06sfT9tPIP/PpOiiYj6GwAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/003.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 3
     },
     {
       "content": "Du coup, je rembobinais mes cassettes\navec un crayon pour pas user les piles\nde mon Walkman Auto Reverse Bass-Boost.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwdz4tO01AAANCLa2/f78dtaVppu3W1bsytsGVzOmGUQpotLi2SFRwP51Q0JIKQGE0I4cdNPH9wwCjy0nZ40Il2G7WeZzcNtaErr0y166CBa47q3uUkuZ5PvhWHW4GPAwBGUbXnO5sWeqHJoSpHutxEahMpseuMu/1FXnw/Pf6zKu/O85uPs0EUAB4jREipFINYzmB5xPKIFxVWMtV1X9aSeOso3b9d5A9X5e/lh19nOXARItYgCxkKp2GFghiFJBPJhiLolqgHyDjP9vbjVpkMH3+c3l8UYDFNsTUIcZrEKJ5gIEbRBOfb1ZpT0+V1iVOzwfb7YXen9fLxqvy7OgZPP1eBbdPPoMUJrqJINI9VSJbk68/roRtqotZw7DRuzcbJspjdXRyBp5uvZ5NUIxlbUixBkmkOxyi8Qgq0aMoG0mueFXaq9d3ecPbubba9CW4/lQ/XnxsbGwxGiCTLQYaCDE0wRIXkOHU+vczGJ/328KATpa3gTeCAZTG9/7KYZwn5v87gtEzziBU1RlBYKR+9PtkbHrbDncjr+3bsmP8AsLVIiuh9NzYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/005.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/005.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 5
     },
     {
       "content": "Je regardais mon âge\ndans le fond des verres Duralex.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwFwVtv0lAAAOC+mCVeAmsF1tILhwLr5XRAKV1L6Y3Ti66j6zpYwoaEdVOnaDRIdGZm8dGf7fdhxMtX+N4e+fyZSLxgyyVAsQoADZIbSAoa+2+C6SbWHlaXq8BL5KYDKpjYlhmS5fGy0aDkOjkQRO8IMjW6TdG2OgjdeDfVf2bOBvWXlhhBDgNsq8m1uBqltYAuiZ5u9Li62R8uHDMPonDsbqa97WV4kwSzOAh0DdsvVQ+IA47Ytw9pJDBvIbdKovv3X6+zi9328b6408S2qtkQDkWx3xZ1DBBlQJR6FD7u0JMOlenw0/r2rvi8nC1ur4vfv55GvW6XY0yeFqq4BHWs9brE1SidZ40OGNLVE6U5990zP0BQOJ+Ef7c/0rEV5O8QikGlYnsJptDkMex6g8HIP4tNI0SnkqhBeSgd9jJ/UuR57EYCyqHQBVRDNRDGV3C+To+OlKv8Yj2fj9yUkQNOcmMncDSr1Q/X6w+P37/cLK6yJDKPLQyQtKdrie+fOHZkmSlCgmwwHVNtC7pqzabnT7tv//48fCyWaTqantr/AY+GYBw47tMwAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/009.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/009.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 9
     },
     {
       "content": "— 30.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwWlvmgAAAFA+bq0VEeTw4PBGiyIF8UKrIsoZPCribOeWIW3TrXVrmyVNluz44XsPQE7ep+MxAoJO30UQEIKjUAKE4Ehk1hWf9qvAM/1Jz+sKC0UYS6zCZQEsepaMx5NIIhGDKTyVS5MZjMAhWChmX8Kbuw+L423w5+3Xt7VjyOywlgVoGCITCIGgCAjFIrEMisvVCsfQeQL74s1D3w23q3+//z4s7e1QVPkcwFEpBseg02g5neJoUi7lryeKXC5UyFSwNsOVGbqTaa2ol6nvnmXKLNCrlc4ZqoSjM5F/9pzjlfXqu6E7u7yoHXx372iva+vteqlXc8eF7o+bQPTkDAEhBidG9eonTdmNOi8b58fGVbvtflOu0JTGl35+XN/a6mE2+Gz2gSRKSA2JRNF2gbGl+rLVeFoaj8FBmziDvi4LHT5LDuvlbV+8N0Z3iykwEC/m1ryay7NYfMSVQ2N43O8evz5vlv7OuznnFIbmzF7LaHJGgw0cFYBBWBakjtgqYUinyHhq153q+sS2NMvQbDrDjgfa9HJcyxfqJGG3+f9RcWESnbGJJgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/011.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/011.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 11
     },
     {
       "content": "J'ai attendu des heures\nprès du téléphone pour qu'on m'appelle.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwWlvmgAAAFA+bq0VEeTw4PBGiyIF8UKrIsoZPCribOeWIW3TrXVrmyVNluz44XsPQE7ep+MxAoJO30UQEIKjUAKE4Ehk1hWf9qvAM/1Jz+sKC0UYS6zCZQEsepaMx5NIIhGDKTyVS5MZjMAhWChmX8Kbuw+L423w5+3Xt7VjyOywlgVoGCITCIGgCAjFIrEMisvVCsfQeQL74s1D3w23q3+//z4s7e1QVPkcwFEpBseg02g5neJoUi7lryeKXC5UyFSwNsOVGbqTaa2ol6nvnmXKLNCrlc4ZqoSjM5F/9pzjlfXqu6E7u7yoHXx372iva+vteqlXc8eF7o+bQPTkDAEhBidG9eonTdmNOi8b58fGVbvtflOu0JTGl35+XN/a6mE2+Gz2gSRKSA2JRNF2gbGl+rLVeFoaj8FBmziDvi4LHT5LDuvlbV+8N0Z3iykwEC/m1ryay7NYfMSVQ2N43O8evz5vlv7OuznnFIbmzF7LaHJGgw0cFYBBWBakjtgqYUinyHhq153q+sS2NMvQbDrDjgfa9HJcyxfqJGG3+f9RcWESnbGJJgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/011.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/011.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 11
     },
     {
       "content": "— Allô ?\nEt finalement, c'était pour ma mère.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwf1zkmAAAGBSmcK0bSxxM78VRWUTFCXeQMAXx/yg/EINUWxXLarT3fq4nVfXz/3XPQ+iUcUUhgmJqJyLD7nKwR7/HMK/VvdxrH6edra3zY2pOKY6N6RRR+i9ZhEeD8KQX0mSGpWagbpdK9syOKztP/Z0vzB/rIbf5sbHie4M21ZXNBUe6V8STgQ1Xr64YQrdRIwP+GEktKyWNk3OLeff0zm3lPS0xtyQR7o0UFrI4AR7ShHrBNFIkuJJGGBHEEOlwDPDh5hhtEfg74Ta16H+y5ntP6y87QLxSLwdDi3SF9o1I4SxHo4aeEAnIm8ZatkRLR0sAbeSW3ea+PRp/XDvIHdEUAv55efHSqUsYwEL97lk5KZGPX5xR7p0C1hLbcJqxrP6/w673XaGaEG/HvJD8qx3Tb/JxnelpKuJTPZyINUhz4BqfgLFvsT+/u7tt7OJ1kLUI58UI6RCSi1mYCmzbNbGEMBGpVVM81RKoNOVOAGYwsP9xjEhrNNILeArB9FiBL+KElzs/NXpcSkWvSpkOSrH5tM8laAvzgvRMwM0pkZbZun/cf5c2omPjnEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/015.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 15
     },
     {
       "content": "— Ouais, je vous la passe.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwdtu0mAAAOASQRjrkHVBwXGmcqbn9UTLSqG29LCfcdYOcYvaLWIgYWYXRjFTk134CEt8BW+81Vfz+6CbhbUEwmogWWw5FAjt7sBROJJEkEY22WWqKlkUsFKhVss3MBTDyiQOfVvNt97wy0IHQj38cOcgEq0exvlirpJMcFT96IjEGapEUVWKoDia5Sno92fnfgO+vjkBEoHGkCaaGovk9QswMxSOp2sMTfBMq0moQlXhyhpfgv79cP5snV8b4LZJJpOw6nlXYu68s+uZeQGOAZ8dizmHzehMVqMzKpGC/t469566buPGQYSP7SvF9EggZzx+qckroOh4aiIWAJt32ILNogZdgNYmN6IILX14uhfSY4+aaPJyZl2Nzc3QvPXmQ7lx0Vc/uM7ype1Neq/7HaiL5r3Hu729oAYH7TjSwZ6NuMa0knvvdLfT0zsXXAF5vegvXefdxJiftKFW6qkR9PXhABN40EvFx2prIFIGAk/pyqeu8PPt+cfzycKRz0x5oLKmREJsOMT7fXbYf+z3SfsRnSafpxOvyBJ4Er0pJr6L+Lyj2ApvSYxMYyJR/w/JB2gfscKvrgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/017.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 17
     },
     {
       "content": "J'ai payé Internet à la minute.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwFwftTmgAAAGC2vGngYyDIw+QZBLJ4CwgoYjwSJVyZ1Z3rbrtzt7XuWr/ur9/3AY7Eok484HQbRG4I6UWOXcaAF9WZmxOTFPazE1LgFO8gx0cxehYCYBpGhD2zGd07Rfa8/lcv3s6jXVAzVgLylxA2vLY0LqsnXvmqppm/AfI4kA1TEicxxh6N5Im1PTUKo1uON4DG6d3Uer8Oj/WKKR5GbnpWPgGBpVexh00WLZhMkRFNKwN/Oc7rkWpbkmiLwvfl9N/hbhCtIC0cFg/AF55+LGb+7vkDQqFtRFW1tzr/4WvbyMssNXHtb+viUpIaONM3Qn5WAHNV2Pj2hTdv4nQDgh2B/VUX+Vh8XSepLuYK5Y3F1ieoI5mCN3cYEtgli6rcn6tOCyGazQ7cRbbr6uc2//M1W1lyPqbYAdrHR2y6i+LkJrSB1HGr8tbx404HAcHPJx+bQ2J42FabmR8rjExhbahH0pJiRsur8v3lN+CYXrLINTvoI3i3h3Z7GNhGum2YwkkMJVCC5SSDkcwLLTDd+LC//w+DwlJMv9Ub5wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/019.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 19
     },
     {
       "content": "Pendant toute ma sixième, j'ai fait toutes\nles répliques de la cité de la peur.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCsqKnCvbrLyMTf19O0vbgEV1MGW1YUZGAIXFgAVE81dW+5trCurKWhoJyWlJSKiIcAq6esfnmWhICki4WsfH2jNFV6K052LVF3M1V6JUlyMEl3a2aTYl6NfXmSgHuHfHqCAKypq01QYldadVJVcVVWcmtmgmRffHJuiHVxi3BsiGhkhVxff1lcfWhrfGptdIB9hACBlY8laiIqcSgwdC4caBwQYhEZZxgrciowdzApcikUZxQociYzeTAydzMsbipOcV8AipyVIWsiJW4pKXEtJG4oGWccKnEtLXMwD2ETIWokHGggBVoKLnMxFmYbJ2wkKFpHAJGmkRpmGx5sISNvJhloHBxpHhVmGShxKw5gDwxeDh1qHw5hEh5rIg5fEBFbDSxeTAClqaNVb1ddeF9deGBkfmVvhGxrgmhvhGtsgWhvhGtziHB2inJziHBqgWhxgGhHZmIAr6qsmZGYpJ2kq6GpoZ2lWHN8XHiBXHd/WHR8XnmCZYCIZYCIY3yEX3d+X3J6LFVZAIuIiZiWlaCfn6+qqZGbmwVQUQBOTwFQUQBQUQBPTwBMTABJSQBFRgBBQgA8PQA5PBEypEDGW2kyAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/020.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 20
     },
     {
       "content": "— Dites, on n'attend pas votre sœur ?",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwdly0lAAANDUFioBbqDZFwIEuJibfSOLhLCVJiJ0rO1Ix7qNo9axzjg+2hc/wkcfnNHv8Ad81A/yHOzgzkFpv1Te278HtUmcXq4LZzQPR4mnGyIriHzL0w2ZF+Mw2eT5dp5hQr0GDivlvZKDrHGUvtwWbrQIkHriIE1uWXBoIYOjeW8I89ANkI55IqNzpADAJkst099MMxW5L46Tr7v8BCkhVGJdE1lRU/qGLJvDBPMletKXzkf6x/MHNoS2ilzTnofjJyMz6gqZrY8NjWWkGmCbBMVRIrbsi6fWIDcHrhtH883s/qSn2evFq7gXmIKCoJXoyO3IANAMyXcZGlMosk0eMVw7/PIz//7HO7tuyfDd6maavF5Hz+yO48+K61WCen2OFliSxfAyTlQJvkmaq93DX/+W336n/vHz6c2yuH20+KTzSPBnby7OQhXSTQYAEiPwGlUn2AbF4rh5+jb/8TfYfU79iyx9nwZPO5wKjeV2VcTqoM1LDGhilcO79Ur1qN4gcEBSgnZ1O3z8AXadJLiKvMsehyQ1RZZnt6VqpcY3Gv8Bo09QorMjCskAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/022.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/022.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 22
     },
     {
       "content": "J'avais une banane trois poches\navec à l'intérieur ma Game Boy,\nmes jeux, mes images Panini.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwFwdlymlAAAFA+IGksNYhCQEXgetmuLBpRkdWoCG4xmNVMZoyj6YNvfU0zmcx0+tJP7jnY1tM/H4b7WTi5bLxlM1lrP8RXfjgxm/0oGIhs5fu3vCkrDElDILdUhL1F5t/N6HgTZ139uIol1L0fBZ575fX8pGOFGhQoCtVhgaBguWxIMnaYeH92q+M6eRw4X6+ZBrVtEnXbTgc1jon3kQ1MpshTdImgFE5Ako0dsun7/uluHC2D/q/XjRMvbn3bRSpSG0mvc2sAqZA3+VqFKp+ekQROY6Am1DmRoSssUYT2IEj2Rq2h2j7U7Jm7UUpVlZEUHlhVlsBJCsexeolk8uegSPY4CinWc7UduauLYPF0mb3MvsL+4UafXkjNLE1bQMif5rCpys0b/H2rvrZEB8oZrYX6UgHuIf0YJZ/r9Pe4HuSA0VpsHAXiJzlsrgsLQ7y24NSEkSzMa6JeBo46WV3/c539sP8T0eicM9RWavFcuUBiPmB9UIkkLtbEuQl3gfniasvxdjh893q7bvO5ild4ELKqB+jij5Oz/3uvYYRKfYNxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/023.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/023.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 23
     },
     {
       "content": "Il y avait une quatrième poche secrète\ndans lequel j'avais mis\nmon portefeuille à scratch.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaRJREFUeJwFwX9TmmAAAOD38tBlggsVUUh3OI3gwDB+KYIYCCQBYpgr2vRmerf1167dutY6v/qeBygcjRpRhR4qBSypM2/nkfdZR5wU0xfHagixQ6jBymr8wod/+WhDO8CcOLh+rbQHZqG6pvt7MXlnrtbmiug5AG12PrXSqVeNt5EU/za+sdYDCD2bkQct7tKq078kP6UGjOh3r3YEJSJ5+CmY7OPJw3qLeKuKtcTTZ2Coyty7REczCCWtUgPvSJQzl6IvTUEzegJ/Sr8k/vf15kD2ESM+Wb0Cvt1KY6+/eQblRhHGNFXb30U7TUgtYyJ3PXOUBgHeaB+cMKi9pL0FGPfYmal3RlOo3socFoc895Tehxf8n2XkyexcPRXOzrKZD0c9i7IimSLAVz+4uf3RFgyoRGZz8MdiOZndvD6mP2/DZCzONK5WxlCCIqPtyA0TWwfX+jhZbBQzPEIqufwxABBZI+/msa2KOt9p4tXDPIJTXUaZusH9+9s/0O/b7nRxPnBLGAmjNRglcgiWycJouVZA6yWCpjijyQ5pyb0wgt3j7j/IXl0Ws1PELAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/026.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 26
     },
     {
       "content": "Dans mon portefeuille à scratch,\nil y avait une carte téléphonique,\nune carte de détective Mickey Mystère\net un permis de conduire spécimen.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwVzVtv0lAAAODjpKO308uhFygwyliZRaBjbAtjFGZtq1xGuZkIEzpQFqdzU3HGGOMSXbwlPqjxxV9r9v4lH6BSOWU1Z6xsiIm0nV2b1bbftu2f0+G/V6dXz07+fv3xzqs/cSovPeei55pVG2BKiiiYmFGhpVhnU7/ouJ9G3pfZ+NfV94++Pz16/nB/7+nd0qJX/zbu1BtNgKk6oW/BHftGfD2dWptau59H7WOv6947/D2f/jk7vTQ3+8X8i/r+YtDKWw0gp3OMXlzt+nK1gVGICpLayq1zq3p4v7noHry2yhMtLiCFxUkYUYWyA7aytzuljL94E3cHgWXIUNzSEkEuU5BksAARwOgAwUKI8CBkE+ttuwacHWNoVTyvB43dm6EoTTAUwQZxJohDmuZZRkBIlpDERZKq06ttZMBxv++Pz1r9uZjUsVAMp3hIMvCaIo4VhJAclqIIcpJmFJvDccsFD2x3PjkZPT7XMkWcQjiFyOsEirwYC0d5BrGQ5zgpmTX37MHl+w/AutOYjY5c71G2UBYjKpITXDiJQxEJihRRRUVTM6VUvqpvuwXzYDKZ/Qf9olbLhq/6ywAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/028.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 28
     },
     {
       "content": "Et dans le portefeuille à scratch caché\ndans la poche secrète de ma banane,\nil y avait une poche secrète.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwFwVtvmlAAAOCzRGW2DhSr84JYAUE9gEcQUAsCClLR1nrpOiTOLOvSdlmybM3Sve1pD3vcP973AQH1z7QJLltd5Pt16Zvo+5yZgXrgTkXNwid3uB+fwSFk1Qa0O8gHpue9VceYbGOqmxFUaf6RoLtNjn+a6M9LZ7++CcbWy+by625FOBvQ88Ay8GR9mBQGp20N79nk5vFVmRPpqsVUHubukzeKdPjnPvr3EN9ubxPIAxe6vnUH9Dh8DQdZwyO9KFFgS9nsAjLvLT0Qeeec2vD1LzMzCueY6gORb24HrevDkVCcVL5M0HK5uWgWGoiuhpDRqJLN9x8RPCiqi0an5gpY3dZqpHnT2YmgJIkCjhdy/I3dcWbnDaNM+BytdIK/Q/iiSkekyW0RxJfz3eaTG+6JCpPIVRPJNFYyUG+3q9W/s/nfPfqgWFp7qrRtUw/WEweEF1a0+7CK7sliLXWSw9JEMkPR3f1WNH5B9jOEiFVSRVhqjfrO1c/nH8DQ7Xfru6G7yBepTLb4Jl9Jk1WSv25JywLVxWuoyKl1QWEkCxqzOD7+B30WV9jWeGtVAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/032.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 32
     },
     {
       "content": "Et dedans, il y avait toute\nma fortune, deux billets de 20 francs.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwFwVtvk2AAANBP3WiHK3z0xkZpx6BjXIRya2HQO6XQ2xqK0yq6dJtbarJGEx9M3OKjb/qbPQccGsPKsTAv17+JgzatA5J/CWsI0yj0koLgwU6ca4bk/DYjuRiCtXAaEHJ7WGA2nHWrhpE1K+njjObv806+/66ojQ7dS9yeEMFHgpYi6s096wJMdgasmtZ00eiuosBuXuzREkqdQd6keLMktYi6geTpiWWmUeTqAQCMRHHqeUXQFfXGlrf+RaiZj47+K+o9Jqu/z08P82WgyL/X8z+fY2+2Ahgj7vHmq7pGktRCOt2FneflaHf1/unL/d1ssUnvHnrN7dD+uZr827wdBDPQVsUjUcMVJ8vKdbaetLQf027HHo17i+/T4HoUrnU59YzU7/jd7pligE/hOF588EYxpLkXGIlkMe6oGslSX2ncdJyvKuczDMQLGMUyzcFV3wNTt71epfPkmmaEDAoRFCL76AGCFmGRwPMHKPY6R2CQPBFty4t22y1w7W4yiz3/kjtv5MtVWK7iJJPNlWDhOE+elCo8I7Rqgs0qnmQN4mXyH29FVlJETmEWAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/035.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 35
     },
     {
       "content": "J'ai guetté le générique\nJoyeux anniversaire de Dorothée, le jour\nde mon anniversaire, et j'y étais pas.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwd0E97knAAwPEfiE4iAubGREURWaCAIIJiDkQxmW3+ebBWPObjnmdtubJsJw8dOuzp1KHn6Q106Nq919C76sn793P5AoUmXFUad55UOXZYV6aOPe8aC9+c9+1PDhMonJDLy3wJS+IAxABAQEdgZr2TxXnQVitutSLmMjqf7xlq6Nl3odmvK1k6U8rmSJwCIA6gONAZauS576LnpsDrufS5Jk6M8pkhDczqsKmdNVQxwxTT6QMyBWAUQHtAymYstba5XFy9Xl6Hkyu7vAy6A9v2LTNoaGGnqQsCd0QfkvsxBAMQCrY3y/WL0c2ri/E4uryIItcaup5tuZvb99+/3t+tbmX+OE/TB49IJL4Ds97JNBhamtWqWWP/6ZvoZb/tiLw0m69+/Py92nyWigKTOqRwIhbbAYo6Yjm5UKgoojIdBOFp4FpNTZK3X779+vP34/a+mGUpYh9DcRh+AKAkQFGCIGlT0Zq69czrjny/pRsNVX97vV6vPkwGQZ5hcYxIJjAITv4fhcCJVIrxWk6jZpe4x+XjMssUrGr91On0apW2JlMkje49TCC7GiD/AB9GUpeadDrQAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/039.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/039.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 39
     },
     {
       "content": "Pendant toute ma cinquième,\nj'ai fait toutes les répliques\nde la cité de la Peur.\n— Barrez-vous, vous, con de mime, là.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwVy0tv0nAAAPB/KdhRmoLlUVocLbCmSCldgXYtFiiU8ljLc3M8nGK3GSBE40lNNFlidjLZ1US9ezF+A+NnM/7uPyAko+U0OW7qVlVWOfasoQ71stc5Xtr1nV28VimtKGSoJM9ksCAGgA9ofMapPPam7sQ06mK+wuWEw5RZ4ntadTPSt265wIuP4iRL0REsAoAf1HKpE47dri7m3XaeSrgS55nKmZIfP6n01OOnplov8jxNMXEyhhMAQkD1iM3SzGLo7NeX3ur5VUvd92uTdmtQ01pK9aJ9MrXMIsukE2QMfwjDQfB2Of2w8fbnw/n5ajV/eTN1Xpxa7WZ37M7uPn28v/u8u7rm0/8DgYdhPwpctbR0B3bDqoiVXqN1s1p6i0VdrYkl7fbL1/tvPy/Xu6NDhorGwyHcB6OAiNEkxWZyUpblO0bz2Ww66/f1snLadb//+vPj99/1qzcpMhkJR9EDzOcLAgQJoSEix3KGoltGYzEajuyuKskzZ/Lu/e3rzdbt2MkEjaE4EghCUADAUAB5gAm82G1YYkGWClKeE/gs1zftgaE7NdmQRQwjDpCQH0Yg4P8Hv21baEbRwDcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/042.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 42
     },
     {
       "content": "Je me disais que quand\nje serais adulte, ma vie serait\ncomme dans Hélène et les Garçons.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUQzybiXufi32mkoKvnIyNdWZqUUekoZ+LdW+AX1icko9VQT0UDBASDxgRDRUHBAwAh29gq5eHqZaEuaKRt5B6LRwbMx4cjGRRrX5mk2lUw490onBaHBMXFREYFhIZDw0WAHtvbbCbiZCAba6YfaJ+ZUgsJWA4K4ZbR4JZRXZOPq10V0w1LhcTGBIPFw8NFRMRGQBkXmyEcWSYc2B9cGVkX11wST5aOS5MQEBkUklmRThfRDocFBUdFRkbGCESDxcVExwAgkQ+iWNRjFtFj3t1YWRsfk5IlF5VZmVsaGBiYEI3HBYbNyQcKB4eIx8mEA0WEg8YAHp2iHZlYoZdR5eDfV9aXWxOS3c9NXducWxiY1dIQgsJEkQwIC8iHxAMFA4LEhIQGABQXHg6PU1kVk6Ri4tMOzxHJiNkNS96amp3cHNYUlUGAgtTOiMsISEMChMRDhYTERkAgHyCWFhmUkhDhnp3LxcaVB8aUzQxV0ZGoJqdR0VMBwIIYEEkIBYYBwQODAkRDQsTADQuMWxma25cT25bUjwhIj8WFDEhIlk5NGhNSDoxNFM6J29KIRsPEAUCCwkFDAcDC5x2fSVhLUqEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/046.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 46
     },
     {
       "content": "— Wow, c'était vraiment une super\nrépét', les copains.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwdtummAAAOA/aUxWs61aW0HOQj0wraKAWhEBQQuCghaHVldbazu1W7N0TTPXbNnNLna5qz3Bstfc9wFF7gz6E9PwppOb2+tPl7NNMH7/0Q9+X/q+d65rvZvF3fjtlVFvOflMK38MpJqePiqmDuG5f3H/4Xl9+6Cr7tId/rubXQzONdXuaHZH95SKPK0WrhslwLEccgBxFPoUmNvH78FowReU+fThh+8NdFuWOtJJ29D7PdVYDZz10AauYeRQqEAiv5bWz+dvXSt4k+JkQf3a18cSn8bIZr3F5QSlyJtW4NgjsJp0R9Xs45n2ZztfL++H7hVNlY7T3N8vi89nVhYhTKMrCnIxz1f4hia1wMSx3sncypHnGj/qbwJvI9e8GoVve+KTdxpIoiVJRkNrnjQtVWMzJVAVFJEh21LZrNectqvJZrVsCniSQyCRrTiaW06xRIKCIRKN4ySRASjC4AkizRBoAkNg9GU4EYuxyAGdTJZOzRmTaRyxKgChnZ0X+1EkFkFA5BUUeQ1jKEyhFE3Qu7txhuZwLBUKRfajVDi8lyuYUJyK7sEkwZJY9j8LpWYSTqi++wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/052.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 52
     },
     {
       "content": "— Ouais, enfin, heureusement que j'étais là.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwdlP2nAAAOBfhiSTYxrEABI1nVwt0Fp60dLS0oMe9J5UWsMx3cEWD5JJsge3Bx6XZXvef7vvAwNK0mUHb1OVo6qpeYbmW+PgOrr7aJo/rOFK1YSBzpBip4kbqjcWdaBKE0N2i7njPZCWOTn0Et+dxdPVr6eHf48fvrDI0nYInO+1SRLt0xgDnEnEEkIuncuksiNG8J1Z4CWRf/Pn5+7p4YWuY7duIHA63qFaUOviDAaaqOMQlN3LFl7nHZ61dd/QgptotY1jRw1xVG7VGKI3DDl2giJklwKJ6yxNdv9VplEqLxTat3yaFE3FDnCMazQpuBupI/Wys1Z4F4WrhTK4X82eE/UwnRHb9ccJs7wKFdmzdX9Jdb/Z/N/P4e+FsdGIMYZW3xRqpQq4n4fbeIQVD95r5Pcr4WvsSUPHtaajgbpbuJ/4NnyQnxLNhSJaTH8tYmBuK7tbjS8fPr8bvsTSZhqIg0CWzHaLHNZOt46wps+R/RRSPr3myAR7C6ASvInkuN9SEWjUaUQkN9fcyy57Xm3ShdSKvkhYonecRysn/VpdOiv+B6APai+uxuQfAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/054.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 54
     },
     {
       "content": "— Mais où sont nos copines.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwdlv0nAAAOAmRBPFdclGxNoIa9ksFFagx2+U0vs+6NoBpaBFTsOGaTweePF1L07ffPKv9fsgsaeLQEVK6BXWmIwyz45tI5wkq4UT5JaauYGhDQEr1S8pXQks0YRMxceRagEqIPB5lq7icDb0xvP57uditpbBTqCW08UNUOkmCzrCgBMhusWePCsWCy9porVe7KPhNPST+XR1yNaG4AYUHTsx39NBhyeqxAX6HkJPz+HnJ5Wz0kRgHjZ7x7pzzChNlpbk22ri6GkPmP2extVJovyGbnQgn6fgwotI7OYu82OzsK1RHyjCjSoDDZB0l2S3k/HSVduVSgU+JSs16PsHA4PhpcnlHvNtFjnO2FQDuW8QZXRvD57W4d/7+N8+vHdlnWH4Ngc9HoZ6DUkB8WAzx9QOvViRHN8Z4e/qO0f6nVkaCo+u8WOsPX75vFY56Cm/Tdha1Kr+2odffW6bfGSZoTwwcIxqlctbmf6TKpt2WcSxO0HaCU0o6HWPqWRdInnIW+TVJ9nwBmHnmn9dwpiz4qHzaqv1x0xDrb1VmtRt8+I/UJNsE8DkpO0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/059.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 59
     },
     {
       "content": "— Elles arrivent toujours\nà la fin de la répét', d'habitude.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaRJREFUeJwVy1tv0lAAAOA+GGO2LK7InHQCvdDRckqhtIXTnt7PKQU6aDssQ6fdXFxmvGVG45N79GXG3+JfNH7vH+XaU+Knd9nii6ufi42/p6M/P+887+Tm+hZHqxDh18X27MUFCZfIIm2mQ01JkU3z+9tP36o3kSj8GjL31YbMzrblZa+rNQ9Zz3CPeaXDyqbuCS2ZWszLLCm+XrzPcY6HqGQ7n1dZgPPt5grZZGz6c3zioBhZGEI8EAGVzjdlURGnmOFX+ep6Ha6/v71xnHm+fDlL1g4k2E2iIHUsAiEx5f+hzJdV4J+Gbh5Hm4WfvfMCZCfQDPm23BOUsRGMNAfIxtgMgGxQvp+mXkJUtfHkeeMpP1Enl/Y4d7ENcb9nSJKOrUBtc4c0o2tI7o4oBOOhrMGudBVHdt+Q+AFo8kpH8d2Z7yQTiKtp8jFCB3t10DMEDlBQDwYK3Kdbpmr9/vGhyjORAxynCBxoHYlQtyVWigBg6Ge1fabJiNRU1+Vjg21263XeAIPz2MMjrQ9MgVMO6KPdR7Wdh48ZukHv1ijqwd5O7R9eOmLFGnx+KgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/060.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 60
     },
     {
       "content": "— C'est bien vrai,\nje ne te le fais pas dire.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwe1zkmAAAPAnr6sZuVqbuaFOWQ4wXxEUhInyDOHhRUHBIeItpt1adztbZ11dfehLX9aX+rA/uN8P9ATY5eSX2Ct8P+u5CxN5GhxdBOtL3bob9lamqatjnpPpUh3KFlIMgNQxmScTILGX3Js5oT9Z2sgLF9c/4+UXV7viq5d+xHcUttrh6l2BEUGjzGKPnz1J7Bxg+64x9SZL2/AX89XHKNZ7llnlXN2VBNgs0Sd4kchToFnMp7HdnUdJ8ih34cxtw9fOx/NZrJ6Z2mCGYNgVEFtpkJnXLYLo8Qr4c+f1qcJBMtU9JdZRbBq+2Bl02325DTm6yVDND74rlanD5ymROH6TK4F/34KQp4QC7nfKN0GgDb2hYg/O9PJRLpDaD5v5w3vrk8ZDhl1oatgXwP3Gsd7mZ+zpzZDZhiOkObKoGsiXW52/a2ujteVS8Uqs/oijX6toqzbB/a3t1o8tOvs7Rt99OZq8YxkLDlCFbo242ldHuZXIfvZFNX1oM41ppQCmYm3ri7CYvtZZo1FbqQ4SHa4h5XGSTj0dk+nPxgCeZMhdjMrgUjH7H9UpaN8eP36DAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/063.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/063.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 63
     },
     {
       "content": "— Oh non, Kheiron a encore baisé nos copines.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwctv0nAAAOBf2DpAIDKwgJW2UKA8S9baUkvbtaXlWcpKNyoyx+YeMiIKKi5ZFo07GOPBeFqyy24m/pt+H9DU7qDvZlKlQdNczVYnx8vxZH57+e7ufOL03abaO3+zGLunhqibVL5RqQKh1iBSFQCAUiR/zi9m08uFY99fX/1dz072j/tqd1dqG7qt1uRDvnomM6BAFHW69GjDq/Hqt9WNK9XlSnVsHaxce2ofWcaQYZRmw+opxswZzB0TMNTzf7/eikTCrEvvl78P7WklV+409taj4fgF3WZoqsTWKFZh+LY5Mc0RIIni3c30o8ldjdTv1z8+fflD4GVLEh8W7u3ZdDka6lKD43apMsMysibpIAFjLzXm4evRZ1c/HTp7ho2jhUw0uu7xF5rwoSUMRJ6jBUVQOoqWJ3dA8ml6JwnrJfyVKrelplZvJZFMcGOTJXJipdYVjQ7HpZ9lEzEciWM4lgc+7zaZSpPJeNDvR2OIP4B4PFubHgiO5/XW63SGo1kr5NsGYAt+gsVgHAAARSPxXBbN4kgOwQOBRNAX8kI+CAqEw6lQMIJnxUgEDT+OY2gRQwv/Ad9ZY4khBSxtAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/070.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 70
     },
     {
       "content": "— Un, deux, trois, quatre.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwVFzknAAAPC/nOnlUvNScKggSwWWogIDBojIgeYAl/PYLd0cm84cc9eDrdn1UOuh66WHunXXB+kD9vsB07DZutSsifNpsJqvfP/9yfjmYRn8Ovfc3qFlOFez25PjS0sx7Bpp1BjAVCUIRIjcy/Xs+uvUu7kIVuPzx/sP/35+n/RHpmLp2oFlDttCaywysxYLKKwYD0fIIhnM777dPSy8iSPwfcPd+Ge+966tDji21TVct2Mthu71kQ3W/iA4lJs43tnvrT//XVxuqjsVXeo4Taa/J+ic3KhyrQav1lnbGdu2B4LxwZ/16KiOvzE6Z/Mv95vfYmP/QueXg8GPq1NX4AXRlCWdrjBcU9HkDhDp0uOntx899dRUTOV1t3tcLTMjGlkqxIgpTzV2YrVVVlIlrafplVIdlJGMzZVuh+2BILmmrcm93PYOmYjKJWJvV+T5PkW8ymYKWRhHYayIUSCTQmg0jaXieRjFECwWgyEoGgLQNrrbs32SFOmGEw4/C4Wi6XQBTuMACsXRbLaIIxSepwvEVgKNP01CAHoSSaRSxa3Yc6KkpF8UkkkEy1FYnvoPGqpkUrPHfOIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/074.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/074.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 74
     },
     {
       "content": "J'ai connu le monde sans Wikipédia.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwe1TmnAAAGDu2k5ERQP5qRWIqIhcqChCvAiGW5qvI0U9tTKtXOVy7ZrW3T7t9mW3f3rPA3Xtyupp828z6ZQSH/a8AS/qhwMkABRB2JLw6FQu68qsaY7rmmPL57oIDc6s7W73a9ZRmVjIh+77Q0EkkIoAIX5k5DM3PWv+pXbdNqd1zamWm3oBGimsSxGGB8kEUDubUBJHjUK2X5Ev9PI8l+yVhaqhjZr2tFXt2vq5pUAuBRx4zwzjlt9fT5F1nn5o2X8fr8cnpUme/yZxb7fj7fPt+/e73fNyfTOCLvZ9fYGvHfMyjBRBWKUP5rY+UqUcHrpsnr4sxz+Ww9fV5GXh/t4+vT5cQRbDnImiETuQPLBLRVxVnJ2Ibpo2OHrcrS2GnU/K8aRpNkrJ7dfpn/c1dMpxVoLRYHgBgjuaGJLRHoYO9KJW4HMJspiOy9lkpyo31Pzb5n59NYB0ltXCuENgP1OxFhESPnr0KGhX5ZYpqQInpmklS7NRTCCjq1l/0v0M8QSWxoJpxCshvnYINQEu4hgJAHN4yMYpjiKzVIyJhMkgWswka4r4H7n5XpXQobcuAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/080.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/080.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 80
     },
     {
       "content": "— Ça veut dire quoi castratrice ?",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwdtymkAAANCdmNgk1RoFoqKCiBGB1cXLqohQoqBiRImJkgvNjNU2jVN7yUNfOtOXTv+75wBVKJTevRFj4VaOKtH08eGxKotdhKjTSOqMpOOEjlAwmzxZ1UvcLBfKQEsmdC7TQvVuFWWJ83DoBMOq3VHJaJyIkUeHb1NEejm2N4uR3tYErgyGxaQlsbWmbrQ7bh06FQFXGxiiVCzBksnWBc8l0wNI7zw86dTeowq4ElNDMSexTIFvTPqz78F9lsehE1ouVbw2/una26Hh19N/Vvn9NTRrChgJtF1mMLZIYebff37d7QWog6g0Hl1v585aZwI1s0LxX3P230fl2/MzeLS0qURD2SBkf+Isg4dNuWKCMzxwHja306CV2BrsrUL+cOi/T+LryxpcNhtYlMym+iF4GY9vpu7dYuavbNcxLEvtuuhCy53r2cinfvH3svTF7wMQJjN00dW0jW2s9O5EN3xvsb9xvnrO7sr2er0Gx8xkZm2013350WRACBxEohSVlWNxhqAKDN/gJD2Xl+f26M4aWIpioaqraU7PhBBDPv8fQHJba/hSXxgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/081.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/081.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 81
     },
     {
       "content": "— Je sais pas.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwe1zknAAAOBf3e3SNnHQQMChQrwIiAPlRUQdiKEIczmB3LqdusZ1Xe7D1rrr1vWhL/3dPQ8IeroIv5XhgoK86VRRBqugEGzKLQp+hx8jPFnpckw6m26CbtzXZEEBNn7iUqjRUpyztt+s1VC8VIRUXqhjBIURMIRCh7Bv23fLYDp0aFoGU5YIm4ShO7Y9WnSFK6vjKVK3pTYqBFJCoBJSLJR5Es2jztK1bKkJLpXqQqHU9zRf51h1sb/dxm4AikSdpE2WoY4RrIyO+cpDgP9ai66mgLh1GsmnI2tEiHP9/Pr341McfQJHAic5ebpKNSzT8ZWCfPWIf1vxYZOAXeSvtLolnh1xK3Pw8TrbXMQZQIe8Fn//cn/Tw+8HZKKefPPxv5+Z5zwBvql3ZWXhTzd3j7NonaTbPz+fxv2eqk9Cfxqr/JghnGo59xovCbdPDfC6gGFY42Ye7tdZ6nlZOHvZ756XRj4xf1zNN5PzHkdHErUb6rcjaeti4ODVAVQ85GqsxjZpkkYJweyHw37Q16wPuhF0NF9tR5YZOYN225KZ2n/njFoX7YnyUQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/083.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/083.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 83
     },
     {
       "content": "— Ok.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaRJREFUeJwVy2lvmgAAAFCyI7UjaFG5RcWBoBwVUA6hHnigkQ6pqyEOpHW1WeKSdVm2LkuT/fVl7/sDroeuhBRE+FyGc10aZQkSzEE9SaqVESwPVxGMJYm5O8iWZtiXhaYC2CTmVRBTEh1Vm4mMQFJYvmjJEkNQNIIjMAaeX/D1RhbOQ2/ANCRgyVFBi7A0w7BGgd5KhlbsmpZqCNVapYRC7y4gEIbBwq3DpQvT4Fkgkqnoku5xDb5ar4uLZHt/t7l9AzGlcnWoKDKFo1BRrxGpWf67a4aOCKwVOmhTU7PPyCuut/1x+nZIjyCqlijt826f9pm9jcc6+j/EzM9sDjyEi9jkR22+JNzw2vUm2kXrXZGZFN/Pj3eP+xH3ZUSlJpHZyMtH+jkbAqOubl92PNs9Pnxfbw7Bavvn+WUfLbu6Ox7MbmzVYyt9shB38V9R6ylqAjkQA/NkMJ583UaJ7/uWfTrc//7kPU46Tx9mp8C/agvTJpnacnKlJQMcOHv1Nvf6jKUZleXZCovgXKszMeylrphj3Zyq2liWfV1bOY6h2WyD+wdTs1oFVPnz+gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/084.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 84
     },
     {
       "content": "Il y avait plein de gens à la télé\nqui faisaient des blagues racistes\net à qui on disait rien.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwVtvmmAAANBvmZp2tlZrsaBYEFRuMtQC8iGFCsg9tVrbabysbnEmu3T6sDTZw572sJ+9c0Cg99jzLJfLyFi+VcVPM1mJrDqqWj4roGfnl7mC3KzPk2g97MawzTVEoKGIiSMKLxhtibwsZ1LvmgQ1dhw0jxRzF+l0NpcthKb5aeyF5g1VE4BHYwGLKbIBoeVLXCQyCi9aKsSLJbyI9Nkmf0VqdWwbiI92D3IMSFrliK9INYIm+UE/OsweZMUFR1WaZN1253tgfY2HK9g4hOifpXDbaYGYq/hMWb+GFS7su4vXn3sIfXAithVvO5ut+sRCw8ZCfh/g/zbsYfMA1qF9L131WPG0MTHt6Wa1vTETcNIV1buXL7u5hu4sfPr+4puL/V1Svz4nwFVlXZI8w3xa/PDDpyD6MA5GPdnX9di7HY6ueadehlju2aj+nrIvkxZ4e1zCMcrXessweLTMiW2/7p7399YucnbxcD6wWgQxoEof9c7KlNYWAtJvUkepY6JSF0m6hhEI2hC6rsQIniRsQ2di6JHcHWlqYhjdNmQo+j9DYVttOyNP3AAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/086.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/086.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 86
     },
     {
       "content": "Je jouais des heures\naux jeux vidéo parce qu'on pouvait\npas faire de sauvegarde.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwU1vmmAAAGCWJU1m06mtFZiKaMEPBoLOV/ziVcQKLyUSEK0iymq1NZ1m7rDDdtllyXbpYf94z4NJZfbtm7PzswgejeHvo/jFhZCjRDYvC+WV1XP7tVtQgjx9QNVfD2hjylg6mbx8F1GKWb8j0Uk8m7gqp8nr2GX8PDqoC4HerN+k8on4CnK/V63XsIVR8ShkUrsBmMhiIpagCCJP4gWS2GitgVjSAQe5rCNXw54QDHP/ljwm5m/aOXIG+MCAS8fwzKHShm3h486AqNvWpEKfo2ZN4YvVWXaKMxVgLFP9xLJOTz4Eztox1O7Qtf25e7/zgzB4RK3atkJsePKkN76j5latYtlcTShX7w3FG8Fk7IphpMU0eNmf9k/HdbBj6NJWIH82Mn9V5ih9GBERjKKlSknUQXncl1ugAxWERuNwEU4ngYNsX4OhmHm9k/548Mdd3SqmsQxV4YuSXMiM6oLdbVrq4DhBX8fa3ndOj/Nns7/R6jvUPKzs09Y1uzWMIAp0iuHSpCLxMwieh+CbrT555lzvvni3p/X0wUUL1AsM8NlqGID9D6nwZkp/ET12AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/088.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/088.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 88
     },
     {
       "content": "— Maman, je vais chez Seb,\nt'éteins pas la console, hein.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwVyt9zknAAAHCe125rm2OCP0BEv4iAAslvRAQBNfmpJnNzuNZddddt1fVQPfVQPnS99Qd3fZ4/kGcIsaflob2NnCJxb6MxWUEjmS98K7HFeMSHljg3+UDvOQpjCABKfFPqM4MeMzEGsWfeLqcS3Z5x1OfVdJ/Ym0DNp/ra1zJfi8ZSoPeh62hC1HEWtHm6wxANEYHD6mVk6Tuh+47F3zjidjG8WdjbxejV1EhdBdotZ3QLqH2WJzAZgYenxyaKzAdyhFVeVy+KTmPz8v/eZ16Rupu5ARXrOd0GDEk0KzWujN61qhlN5Yvsrcj+fVE/WOLjJs0m8tePD9+e7ot4BN2kPkW2ei1iSDX1K7jAYQtQTpBMFOMPh/7iaj9j786T398vPzysdrENJZ6J17CzkxKPoDP4ZH1+1Kk3FdUe9JVD9+pLG/4RWHuDs00yCXqJK0NjmaUBADihPz/Oy6fJxbNmpaEJiq6NP1HIbx47hG4qkKpcl3jCljlIBJhniHnoh6JwXToKyqWzc2TY5Rx1tKpdHkzu+9OjIwCJJRgSl1jwDwfLZXUs3VnLAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/093.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/093.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 93
     },
     {
       "content": "Pendant toute ma quatrième,\nj'ai fait toutes les répliques\nde la Cité de la peur.\n— Attends, excuse.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwclymmAAAGAu7bQJtZ1WQRDZFwkoGCTAjxIWxQgjqNAYl2mMk0NNmk4PuWVyaTO99QU6fdh+HzQEeuqb+QgU48Ey8Vbp+Tbzi5FNokjlCD6hG3lgJAN97Gqhpbq6AM1G4Goa7i8nh830sMkO6/Ruk5axC7+FBRwHslAO7eWkX8ROHp55HQYKHENiOUvvBI45CcDiwtuX44fdzO20dtHg8TL5nHrbPNpkwTIZjG0FcntdnmH7htbhGB7HWIIwlVZpqiaGZH2wM5RvtrybR9s8+DKL5qEJeXZPFviuyEl1VMTQNksrKDpv1EJBjFQtxJDreuUeqPf78rYYrhIX8qweT1EKSzVqtUa12hU4l6VXLa5M8ps0u2LwXzr9fTF/ef7xcDNfpwACvdMminVFjsFwAkFO6+g5huREfezHrhM8qc2/Dv9nvbibgu0iKmMb0mTx9SsYfletwB8VSYwVyTp+M3x/lJ3IPRz/pyHP7ebPi+Ar4Ed+d+obkMqRLEkanbbMcW1JNEWpVOWIIotPx4/Uh5c28RQ6vy2xT9cUiQvPlP/iQV+1Hl94vgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/094.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/094.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 94
     },
     {
       "content": "— Il dit 5, 4, 3, 0, après paf, pastèque.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwVtv0mAAANAv0q6Xr6VX2kFL6XUMKIwWYRRmSZ0bI0LwssC6GBY3BposmjhjjJuZ8qKJMZol+kL2oDH7nZ4DwqCR0/RXp89v/9y8HvfmneJiJ38RVZYH9/6Nm9NH/cN6cZVjBYbhKOpsEoOT+OmT3oN3l4svv/8OAi+01evIXHS92LPnFaVU8ifbLVsWEiiuSanZYA9cvZl+/TBb/vwUtZuKwA236u8D/ddu/nHV9k3NNTIfhxsPCxqNY41Ga372Fox228+G989P97tRuGllr+L+eeTe9NZGtXzFNLrNYNCJDmt2y9biyfzi83ew7Zd6nfpBv/Ny9sI19K2CaWX1yFZ5ToLWDlU5ko0aTxE8I6SkrJjKAklWN71yP2oyvBy12tfffogZ8w6Cy4rD+id87TidMWiSwFZwFElgKArW9470NXfDdTFK2A+D5eIyrVo8iSumT1eP2fJoVZQllmWTLE0QHITADMe0oCg5R5BUiuLCu76T08UklNIW7U3p9aHAsJCAKdXgBdngkoDNVRGEoHgV0gIASNlxvLwj0iSfKcDimEx7DIRoYsWxHIqRSAz+B/4jVNetFWNKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/097.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/097.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 97
     },
     {
       "content": "Mon pote Ben m'avait filé des photos\nde Tiffani-Amber Thiessen sur disquette.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwVtr01AAAOCzimvSk6S5X87JtU1zWdLNtuuNCmZZu7q1dbUN2A7GwHpBBhYR8cmJiGMiPojgFfHFB9/9g34fSHsdz/Uerlbff/1+PEke9Px3A//DQfXPODwZpv1uy1YlLItYErup3xtFYDkdjfu3Lq8uv/79lx32I105r+s/JrXjALfDKCh5PMOwTJGhmDgwVmcpOD0eru/PPr19+vHNest1sCJPuzufb2+d7FY8pDRLuiEUIaRJouCa6MurU/Dt6mJxlMwOOs8fLad3Zi1bfXE3fT+sPkl2TA33as1OtF0WGQg5bPmrxRhcPDvv1Kr9dpyNBq3u3ral73qOqmCZFwmtVgjmXtDwkWDiimXcIHkHWLaHnPAoaXtuuVEyf75+OV+cAbAhSkYxyvh4jiVBlZFjx6JiUaINGtnaS7Jy2deQIXP8YjJJ9g+vb+RU5FLRPb6yx9NUkVVCs84LCLII2L1MDW9yoq4hB+QIHemNMKAJUlYdGC1pXGMhCSkOlyLISAXIAiVOIW8SJEtx+FqO0DU9bdYFGjKKTzoDyJqF/GY+Xyi7AQGFzTz8D13oUEvoajR2AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/099.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/099.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 99
     },
     {
       "content": "J'allais chez le libraire et j'apprenais\nles codes de jeux vidéo par cœur.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwe2PkmAAAPDnwtbpUZrDFx58AcRUTvBAREV9BOFBCfQgtFE7u3VetdVHb+tLm2t97Ftrfar/td8PECkyfU5SVElstRW5N9K0uTHGlmmoCletvxCawSZKbm6j3euWKBdyFACpbObiealIs2yjJ18Zg8HcGK+cBdIHlTJTY6pI13fOPDbHtiKLlRoAj8j3Af7+8c1tgD001bUBmhieY6ORLsCyUofFPFUpltwO70uC2eJANNH+ff3053j4+3D48e764NsYzVzH9jB2TTOwrQYn0LCqSV1YhkKBAr+O9z8/35z24WkfflihO3MQD69c2/KWy8APXkUhmk6lrowtayKJfD4Hfj/cn/bht7fBMV5u0dBXRNzvLZ2F5zrrl360CbbR9Tbe3SW7ZCibag982dibserpajLTN3pvrXW1rsRwl7B+qfZH+mjq4tUu3iZRGKKR71hA5Bp8ga4RKfpZtsM3OcjVs9STC3j2lE1lqwTJ5OjWwlysg7Xnedi2AMhwRIaFxRrblNvqnGv3Ic2f59nH2RpBMkSaOkuXBaFjzc3ZdDYZ6v8Bs1FcIGDJ56sAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/103.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/103.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 103
     },
     {
       "content": "— Haut, Haut, Bas, Bas, Gauche, Droite,\nGauche, Droite, B, A, Start.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwdtu0mAAAOA/0YhzI8BKm1JkbVkp/D1AD4yuR6ACrbVtXCnbJNRuahyazelcwoVm0XhnskfwysTn9PuAxHJ9ivQlmNmwhWGFR5WBKGuQ8/ry8rl3frpM3XGswhOjlzq6qWgAUkyga6mlHFtdhaJLWxV8Zxd9UlbZdq7xS5HOxMaYxF+51u37/DieA5Fmp/vEVDNjkcsNBd1BFYrOZ072zM4H3InRzUx1atlnvnWReIYTAabRltuSqU1UXo386OGD4kiAv17Ht6fxt8+X1x+v3sb+amJ/SYYXie8e2gAtE4FhvvRCcR+O9WG5VGPq5MrVnQNrFqc3mx9XobZxKueek7h+2OsAiagFnfpMt2IVQqpNVMlA6OiQJQlKk7Tfm6832fx7BFeuYfGqxzGAQao8SQ31MU+1ykUCK2LWUzx0J7LQD7wX//7+Wb9ZT1niMvE+LaJJtwPwUrWONLotfnsLeVyo2LywOOwztNBE6/5Rend/f/dhPRLFhdGLZFZnm4DeRVsYgWyXASjAPfrn2fzIOCCrNRLBw8C7frdMR5ZC7Y04dtAkB1TjP5vaYEPOJanUAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/105.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/105.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 105
     },
     {
       "content": "Et pendant toute ma troisième.\n— Prenez un chewing-gum, Émile.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwV1v0lAAANCbGLZUHQQcMAasMKC7XSm9lEJpK1uL0FLWUj4yBpXSTpCoi8MJWZaYuBij8W2S+GLii/GPeg4gw+GTo4wtwOO9qO/RDksxDb6ilpihps6nswtdP5cYR8wPRbaKyhyqAAUhiy8MeEgl8AAWijwJhjH/cwa5tZLHkS6XUw9jXku+//Dm9Xji9Pugnt5XiuUOTToVJubfrWQOXfV0qso2yoyEgsPTmijOjPrNxKppdt/sgzxO8KzMHbOWbmBbAZ2lv88Hd7Z1t3CvPG/eM0ZaczVsLF92DdWc9jqgwYu6osIUlAU5sBPLxfHFmdyU6ubI/fTlx3ujuqrtvjNP7bZxXi162glow7hSEduIINOwmCJKyTiJp/BE7vrV7Ovt7dI2vlnZsSxUSa6H4KVSAvlkQmBFCs88xqJ0ZK9dpM9aHUigP78efm8e7MHYog/Wk+7K7lpV5LUkEAvFYQpi2yHfVvAFeaTQiMxQDKTXm5+bv//ulzcSSbr18oXE6CLvdZog/Szq334KgI/NZT87XRkV8WCEgvT1+urjwnlrNkRItFhazB5I6aReyP4HlulpgUkDlZsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/108.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/108.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 108
     },
     {
       "content": "— Tu gardes ça ?\nParce que ça prend de la place.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwWlvmmAAAOB33RJjq7VeVQvUo4KCnJXDF0HwKC0avA+UbNqoXbNmR90Sk6XuSJZ93k/e8wCJKvEYMoL0UMzHAuHgSfTOMBWS7Mi81x+uZt7I1CYKNYWcIwllugzKRapTkcaQHkAmE02G/OFEIJIKxUyOWUrkSshPmHQrjz1OnN1mOe30gICiN0SmKdfmXKHN0UFfiEWxJs+IKOIplCeRQ1Xq6NWPo5bbdQTYBbmLnMxBka3WoaEq2hHwvW2qB9feL6ffn79s5+564HgNeLjvzmzLqrVAJoGNLctQakKhJAtqwB9pQ2l9a+gVw90+7Z4+7VrZz/rFpu8MtNoM8kBEztssbkFYJ3OpJK4WKRW/ui5SaQTfLhb7x/fPY/NHr2SJqkrQrkiAy0j0usjoYjUVQUInKT4eN2m6rjdInPn35/B7v3c0bQ7Jb++ma9toSywI+sMEenWZzL45OkVi2FhieYItpPGKWHl4efn76+fK6TZZ0jPKdxzRu2kA7CyeiZy/fuU79p3e2/WvY7uI5RLHZ7ICP2wWD327xdE6mddJAmZRmEb+A5r8YRqaEpQjAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/109.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/109.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 109
     },
     {
       "content": "— Non, regarde.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwFwbly00AAANAFHXtf2l1J0WHrsGTLSIntmAQSh4SGghmGiiIzFDQwFFR8BDOUdAwdBRR0tNBR0vJDvAccJgVjJaMFJTqAESQOUx5iTXhpE44Y9hH0ELwLgzuBB3zQWT0YuVCykzwh9IjyIyZgyDTVjmsY0E2ejllKA8QDhL0ArJ3aZXZldKNUJXgjhSMsDDnDOpE2FSbmqtQGhUJjzkMMxji6nMVjbBaRbpRstcptroXj1NTGllL7Pg1DjpFURDomwf0y2aamUTzyvIzgdRJfnd5sh32VtV2S5CqiISNIUiwlFqlQYFskg1FLF729ffH69uX16eHs+GLdTkM7lTapdaQgFcwobjMTx0yATWorDJ+enfz7+/vbl0/betGk8/2986Eabnb7ZTHnSCxXh83xo4fTpBABc4o5AA/69s+vHz+/fx5jtSzqx1fP+nq67KsuLwTRi+58NjvBAYE+BgHwekXfPNl//fDu4/tXu9yNzfri8HyW97syybUtXFFkK2cb7GMG2X/lgDL/Ncp6uwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/114.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/114.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 114
     },
     {
       "content": "— Je le mets à côté de tes trucs.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYhJREFUeJwFwb9u00AcAOCLa9/5/tl3P/t8sWPHsWOntRNTxyqEQiNSJIRQ547dQeIFUB8BiYWJB2BgYGBlY0E8Ft+HYp9mQhSC5ZzGmCjCUs4tZ5qr0qaC8LMZ8RxCHOLOsIM81ETqHFStwkZJy3nEJTCehdJIlUgtfDkVWa5BeL50fepgtEtgnEcdhLVWZRBskyjikmAZS1hAYgJojclUJIgEyoVHUR/r62XSx3oNugWotQKhOdMg1LmJ81B7Zwx7kvlhEmhgEl3ldp/GLYQG4wWnvYmfDYfNqi9sWeioBPCxZFRJptIQbKDQmNmLSNVavTs8fTGMx/3NRbWbtoddu19FptaaYyE4BFxnCqwM0OU8XhLv/vXLv79/Pn78sC2bOaTHq9OT9vIwjFWS5qZYt9dvXr3tlgVQgWrBA4RO4/Dvz6/v3z43Ia+S9Pbmrt9Mz5uqtqkJzaY7VqtBEEZdisjMXVD8cDv9+Pr45dP7wequ7o6n+/Wymwo7V7HiOs060EvsEOqy//bhMVUF6qKyAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/115.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/115.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 115
     },
     {
       "content": "Bref, j'ai grandi dans les années 90.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXxJREFUeJwVzelumzAAAGAUCtiOGZc5bGwHwplCEgI0R9nUIyWV1mlS/mzv/ybTvhf4FF3VDQ0Yqu4DkLv2JiQ7ER8kY9jEOoQaQuAbCziGeKGoDwtDwQaAqg41g5p4bZuVZ3WSlyKB0Eoizn1WJNXn+y8TmcZC0x+AgjSwBNjBFnVc6UetEA3nj0Ieq3oeDu+H/e1pfNntHIgsuLRNT5nK7Lpv5rG/fz///bj+eZ2GhD9n4nnNTwl7WrGjjPo4sBEmS0wDqbxU6bUt5n19P7b3U3s/bcvQ37LwnPJesF6yYxIPkmIDRabJ2Vq5ZPJtk81t+dnVP/vN77FNfVIFZMrksIo7TkdJOx4hDdgGoFGijJJN+eq1/v/cduVXV6U+KYh7TvkgWS9oL6KG+kADSAdhmChb6g+S/ihWt2350eRfXbUOSE6cS8pPSTSIoIuDNXE0VccGjHmluBA5yJwe63ORXjI+t3lKvNS1Bh52sd9QUgQktm1toUMdeh77B2RYNAFbuGppAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E56_brefJaiGrandiDansLesAnnees90/118.mp4",
+        "thumbnailPath": "thumbnails/S01E56_brefJaiGrandiDansLesAnnees90/118.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 118
     }

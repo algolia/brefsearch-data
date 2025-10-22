@@ -12,240 +12,520 @@
     {
       "content": "Bref, c'était nuit comme les autres.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAT1JREFUeJw1kMlu40AMRHWwemPvu9SS1VZseTyxkyDrIf//X4O2MUBdCNZjFdhRrDASaMeaei4hRXsUkCTPnDqEeNNju2MEye6/FVAPQGy0x3X+rtOHFqPiAyNGQKRE4buBYNUAvIMW0nPBYnKb13UIf6Z8lTwrMTq1cBaaAXGMxB1A4jEDdcmeSnrO/lynz3u3aOXs1F5AosRYOXVAHUbywQDzXtcxXLI/J7dN+cZZkJCcWpxakjsd5q9O8YFghfoWx4iRPHtdvT6M4eJ0FRAFhGifSrqu889WfzstC1DHmafE9D1QYrw5ZH+e84sRUzBrSdf9+LaUj8P8daq/XTvDotdVi4ESg5EwcormKZh1DJd5eF3K+0NjfC7p2klor7Bqr/ggWOTMB7Nmt2W3DQ14KelW0m2Mf5M9Wjn/AzAEIMJdxfFvAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/000.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/000.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 0
     },
     {
       "content": "Enfin, presque.\nElle m'a demandé.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAU1JREFUeJwlkE1v2zAQRHWKxY/l7lIUSZGiQplOZKSJATtt0wRFDjnk//+kwjUwh7kMHt50uzsN2pd8rsufw/5z8hupcaBl4Oq4WiqiRyX4UM77+pHza9fvQPQYXFvL76ftu5afBIFNQgiEyQ8HpgzK5fjS9p/z/Kvrd1oKGm1Nftv2f39sX9411EEra6lM/uhsZcytvm+Hr7q8XwlaDhZLHFocWpvPc3wK7sFicVyDe7S0sMllOi3pnONzx1SZVoQc/NHRErgu6TTa1ZrEmEe7MmYyyVJhnMnkzkAiLEYHoiXGl8kfj+1jtBWUu2qYycBIOPmh3XonetTKaWmlRKIlpUu7fyvpZLRD8AZG0I4xBffImA24q3S/g/9fGSnIcp3SJefXgavRTilWkhEi4QzgleROChK9uW1uYV5juoT4bLGAsKCdxcyYlCTRwz97pSXWpylveAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/003.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 3
     },
     {
       "content": "— Ça va ?\nJ'ai répondu:\n— Oui, oui.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATJJREFUeJxVzstOw0AMBdAsMg+PPc/MTCdJE0JSIKGiIFViwYr//yqUVggheWFd3WO5EkwLpkklJTwIy2tktVLSK+k5I8Fvw4jXyBkR5kpBEGyP9pShghDsaDBrlQU3ICxIe2NaMEKI1X3bh2vJTXTTNn8/jV+kIqlosDjdKekF15whQqh4jfc254QQkl+Gcnl++Ap2QGi87oMZghkMHghiDqd/QEmf/BzsmPy8DJ+NGw1lp7vk5+TnaKcubX9gf0nYxk6leclhmfprbk4KvIJgqY1uatM69deKVCOFuQMQzlJJbr/X5/NY3i0VJb3XfZu2Y7k8Hq+VxmypgLC/xjrdOeq6tLVptXRIfmnT1uXzsbyN7UdlMHvdIzQEUQrDa0Roghn6fO7SemuvN/DaxjWH0w+tHh0nqdDINgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/004.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/004.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 4
     },
     {
       "content": "Elle a dit:\n— On peut arrêter si tu veux.\nJ'avais une panne.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAT5JREFUeJw9kMlOw0AQRH2IPZ6lZ+8Z2+MldkwCSUBsAYSExIH//ybkWIrU6kt1vS5VVhYgGFKiKFFFzosN46UFFkgOJBdFzkku1qFEoZkykvOyEGQRODDvVA8creoF9ZQowfxVXQ3SmzErNqzYLBhKdLDzaf4b23dgaGQneWVlLyiSHIqFKyt/WD6sAGAY7NxVT7vuU0MjeZQiGmidHoxsgaHXw8P0m13xQHIuqAtmdmoIdje2F2e2SlTLndqimVBPbXych+/VsEbUqMfK3wd7NzSvaCYFNSsNMESzS+E8dV+H8Se7lcBKraBGPaEZUzineAIeJQ9eb1N87JuXsfvYtpfs2oO8eTQkLZomHIPdaUjR7VM8t9VT3zwP6a3Gh0yJmpWWU7cWDwydGlI81f4+un0TTk04X/exxqNTwz8f7iAlZ2C4BwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/005.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/005.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 5
     },
     {
       "content": "Je sentais que ça voulait pas repartir.\nJ'avais pas envie d'arrêter.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBceqBWfapchLNijL9olcxtndhwo+Fzp+Z2qud2qeZ2p+F1o9pynM9sk8JmjLpihrEAXYOwZIu8aZTKcJ/Yd6vnf7PwiLrzibz1g7n3gbXwgLPtgLPsf7HrdankeZ7JgZawAGiQwHCbz3am3H6w6YW17J683LHG3Zqxy36HlXZ7hWZqeFNed4Wz4p3F75Wxz5CjuABxlr55otCAruGFuPKKuvGdutqgwuSStdqMi4qFgoNyb3VYW2umutDDzNi1v8yTprsAd5m+ganUiLTii77yj7nlorjQpsDcmL7jj5KUhoaHc3F4YGV2ob/dpsPhnrfSj6jCAH+atYeu1o+75JrA5a/B1Ky4y6y90aTB25udm5KSj4B/gGpuerbX8LLc/JzF6Z22zwCFk6WWqLyits2pt8qxusutvdGap7d4fYZhX2dcWmBdW2BiYGbIzdHU3umzv86mrbgAdX2JU1VPYWNfkpifoq3BprPFgYaRUlFbRUJNRkNPSEVPWlljhYqXoqqvcnd2h42TADY3MBocEiQnGTs9LmJmYmlsbWRkaFJRVGpqZ2VjZVxaXlhYVVZYQUNFMh8fFi8xJPz+/CB8Vy/LAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/008.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 8
     },
     {
       "content": "J'ai pensé à tout ce\nque je connaissais d'excitant.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWZJREFUeJwdkMtu2zAUBbWI4YjUpfjQJSlSb0qybMc2ojhNUKAu4DpugKy66P//SqFuZnVmcSbiiWUkS6lemJSZGFCOWm2cnZ09q7Tma8HWnK5AEKxxiERilzU1jOo08RCjVpMzz0ZNOR4kq9kqYSugD1QQLLIhkknOqWEEk0fJCBq1DfWP4/7Ppr/17TU0Pyt7cmpEKKwILhsXQYFjREGseGIz3lT5PPX33fjZ1Jeh//20/7sZv4b+HrprHz4iCU6Ch1ilBAV4IJlVg8e9Fp1Mm1yfvJ0tHpydh/4zdPcIHoVgFcQIa/7/DCJvkbeMGpnWMm2V6Orye2hvhfuWm+eIrjnEGSPIiIZYQiwFOE614m3hXrXalf7d5zPKjeIdhyIyeMzNUtDnrxYPgpWCFVpNpXsr3Fvobj4/o5wUD2niFsGZF+/eq/LStb+69qNrrnV1cfas1dbi0eqTyZ6sPmi1NdkOxfAPhGktHDRyumkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/010.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 10
     },
     {
       "content": "Ma cousine qui s'était penchée pour\nme faire la bise quand j'avais 15 ans.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUxJREFUeJwdkctu2zAQRbWLxccMh+TwJZKSbUmJDbhFjBqB0UXR/v9HFQ5wF2dxNgd3CH5P4VLL57E/I79r6a1pwZ2D363pSjo5GlThcXne9j+1/BrYnaZ8q+V+6r8Tb0pYwhr8mngv6Rp5R50Ip3P//Fj/zu1rkKPN8Tq3x7E/53rXilEnaxphjby18sPbxdM81/tl+7fUxzC+aVCc43VpX+fl6agrYaWwStjo15pvKbx76iVear5Fvw7jG4gDaOVLvLbyM/gTKPZ2ARWsqTl8JN4c9eBObI+E0yAORowoJVnTol8DvdToN8JJCjKQHXUDxdMceUMdB8JuTUfISjoD2WIlKKBYSw86go6oE6hAOCXeDZRBCUfYHB0NFikIdGSa7TcbyAaylqykQ508NU/9FS0OBnW22AkawURY+NXASlolnBiNeF3B34v/AYq3JjDBhQVpAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/012.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/012.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 12
     },
     {
       "content": "Les filles de la pub Energ 3000.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBde6BYfalchLRijMBnlc1sndhwouFzp+d2qOV2p+J1pN50o9lznc5tk8JmjLlhhrEAXYOwZIy8aZbLcJ/Yd6rnfbTyiLr1irz1g739hsD+hrz4hLnzf7Lsdajje57IgZawAGiRv3CazXim3H6w6YS27J++37HD2J/C5pS+6ZKnvo3F943K/5LH+Z3C6pez0JCjuABxlr94otCAruGFuPCKu++dvNqfwOKWxPGcqbeIg4WKqciYzPmwxt3BytW2wM2Tpr0Ad5m+gKrVh7TijL/yj7rlornRpsDZmKzCipGednR/eYKUnczzpcflpcLenrfSjqnEAH+Ztoau1I+75Ju/4q7A0666zay7zY2XqH2AjHBtdV1dbY2wy8bv/6/Y9p3G6p22zgCGlKaXqLuhtsypt8mwusuuvdGhrLmFhoqFhYKEhYJ6eXuJjJHX297S3Oeyv8+mrbkAdHyIU1VOYmRfkpieoq7CqrbIjI2Qb25vYWBjXVteYmBjdnV3oaexnaSsc3d3iI6TADY3MRobESUnGjw+MGJmYmdqaGdnZl9dYlVTWGJgZWJhY2hpY2lrVUNEMSEiGDAxJFGEB18XpbRtAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/014.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 14
     },
     {
       "content": "Mademoiselle Chiffre dans le Petit Spirou.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAMISMPJiMbOUgnVzcwcjIkOTszKzE0fkZZd1Q8JS1EYTtzo1wzYnA0VGhicUaUmUoAHkEPGDocJE5LQGtVRFk8VjMpmlM/LC8jjWVImldEQCsheIqBapJ7oqdBrbhCrbNLACtTGDBpIkSEJVKJNwsUF2AzKpVXQhssI3RGNKdZQCUSF0F7W7fZcMC4RqmmVaiWVwAbRh8gUTsuZz0sYS0lHxqEPTF5QTA7LCREUDqXb1aQWEp+glnLx4KZpn+Op4iMmGAAJnUYLYIgN3opR1BAWDQurVhDoFY+gDwuaFI+qXhemm1ivY9l4OW86d3NydiegcVWAMnJhq6sc86yb5BlSmI2LKh4YLOEapBWQ6d7ZadoUJVdS7t7Xu7dydfAteHaxZiyiQDczLbZycTHnoGoflKDRzdzSz6kblaBRjaAVkaibVaARjabW0nPpIDLt5jLt6Hgzp0Ay7+IwbKlwauVqn5kiUszjEo1o1tCkk44iEw1mVM/p3tUyKRwonJf0LmEtqCEy8BxAMa7dLenlqqReczCs551ZJxaQppZQoFFMopSOY1GNat6UdvLe76nhL+kfrKhkbOlgYtxvUobh99qAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/015.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 15
     },
     {
       "content": "Les vidéos de Nina Roberts,\nde Dolly Golden, Katsuni.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVRJREFUeJwdzctu2zAQQFHtGlOUyOGbw5ckyrKixK6NFo7rNkaB/P8/Fe7ubi5O4/Qa/CnHn0O+zdNjHv9AjxKSNwe0m5ET2UG745flXod7DD8aZ14DXkq6zePnuv9a6kPypCArKApKsJsWI3nhaNY6fqZ4bZzdgr/kdKv/h9flC1gAFjqqBY8Zvwe3AYtW1f30KPlXg/Yt4rmk65A/5uG+7R/A0KrZqip5TniK/v1JuW2pf4f80Th9iO5tzNcUzhZK0otTs2BRsNhTK3nyZlVQrKoJj1bNjYbs1ZzDKeHRsGCo0SxQInpqeOd57xVkYEFBkTzx3jeKZysr2jXjMeERoTgWWe97aiRPWgzA8NmQBaSuVU27A9Y5yZMVk9MH3WHkoeYzJQoYwlNTlAjJsxKZEtG0BLpW0VbxDgVMkvoi8+XwW0KhRJAXtvvWt0QAQ8mj5PEfmP0srzF4TeUAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/016.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 16
     },
     {
       "content": "Puis, j'ai pensé\nà ce qu'elle allait dire à ses copines.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBcep9XfapchLNijcFolcxtnddwo+Fzp+Z1p+R0puJ0pNxzoNZxnM5tlMNmjLpihrEAXYOwY4u8aZXLcJ/Yd6rnfrPxiLrzi774h8L/iML/icL/icH+gLPudajjeZ7JgZaxAGiQwXCbznem3X6w6YW165+83bHE3J620n+fwnqVtHGJqmeHsI2/853D65az0ZCjuABxlr54otCAruGFuPKJu/Cdutihw+ePqsmEf3x8eHdpY2lRVGaovtXDy9a2vs2TprsAd5m+gKrUiLThi7/yj7nlorjQpcHelrnbjo+RhoWJc3J6ZWx+oMLhpcThnbfSj6jDAH+Ztoat1Y+75pq/5K/A1K25y62+06XB25mbmZCQj399f25zgLjb9LHc+5zF6p220ACGlKWWqLyits6qt8qxusqvvtKfq7qDh45ycXRraW1qaG1paG7N0dXU3eizvs2mrbgAdH2JU1VOYWNekpieoq3BpLHCg4iQWldgREBNR0JMSEVRZWRrkpiln6asc3d2iI2TADU2MBscEiUnGjw9L2JmYmdqaWBgY1VUVmNjYmJgYlhWWltbV1pdRUNFMyAhFy8wJH9v/r2TZYffAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/019.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 19
     },
     {
       "content": "— Et alors là, il est devenu tout mou !",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVZJREFUeJwdj8lu2zAUAHWLRJF85HvcRHGRLHkt3ASBncRGkKBAgf7/HxXObQ5zmGm82Q/+lMfXmt839b5b/izTXYtoVAl2G93B4ty1wFo4ztepfDTeHmI4l3z9sb9P+39TugD3Rk3Bbp1Zgt2Syl0LpGrN701wxzG+5PQ21ft2833c/d0vXygiylH0RnLraY3+pORAkKd0bR498aWky1Q+5npbp9t++QTuSGWEhCqn4VzGZ4uzxbnma+NoGcOvmt/mcqvp4nFO/uDNanGK/qhEMA84ebOgyo42Td8hqlx/Hsr4Sr2jjgItpIqWg+Re9IZUQV00JA2p6Z5k32nSJQ3nHH9TZ6jVg66SO85Iy0HJqGQEEST3pEojhWdMsxaAu0coZMOHQaZoV84QuEdVFUTOSPSEKje8N5wRZyi4VTASbghXL+Pz7qZh7DsNwnNm2ifZMwQR/gMoUSrO5X7kmwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/020.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 20
     },
     {
       "content": "J'ai re-essayé de m'excité.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBbeqBXfapchLNhjL9olMttndhvo+Fzp+V2qud2qeV2p+F1o9pxnM5sk8JmjLpihrEAXYOwZIu9aZXLcKDYd6vmfrPwh7rzibz1g7n3grXwgbPtgLPtfrHsdqnjeJ7IgJawAGeRwG+bznem3X+w6YW17J683LHG3Zqxy36HlnZ7hmZpeFNed4ay4p7G75Wyz5CjuABxlr55otCAruGFuPGJuvCeu9mhweWStdqMi4qFgoRzb3VYW2unutDDzNi2vsyUprsAd5m+ganUiLTjjL7yjrnlorjQpsDcmL7kkJKVhoaIc3F5YGV2ocDdpcPgnrfSjqjDAH+atYau1Y+75JrA5a/A1a24y6290aTB3JqdnJKSj4B/gWtuebbX8LLc/JzF6Z22zwCFk6WWqLyit82pt8qxusutvdGap7h4fIZhX2ZcWmBdW2FiYGjIzdLT3umzv82nrbgAdX2HU1VPYWNfkZifoq3BpbPFgIeSU1FbRUFNRkNPSEVQW1ljhYqYo6qvc3Z2h42TADY3MBscESUnGTs8L2JmY2lsbWRjaFJRVWpqZ2VjZlxaXlhYVFZYQUNFMx8gFi8wJQHn/DAHdK/OAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/024.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 24
     },
     {
       "content": "— Venez les filles, on s'embrasse.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUlJREFUeJwljtlu2zAUBfXmStwu9+2SEi1TcVrVfRCEpg3a/P9fFXGBeRtgzhm8fUlhL/lo9W1d3qXIgganrt52p1dvbnQykvmGx1J/lXwMzt5TfBQ82/y+rR8aimRRC2TUAIvJ34PtwGL2327tT8VzCO5rjo+K51LftvVviTsjGnhixGhZS/qOcddQc9i39WPGc3CmY/oxl3PGA/0rhlc6Kaev0b0ogcHdMe5WNW96SY/otuGpW6s/Kx6augDodDNQrWqSJyVysN3I2cjqddOyDuOF00kF2zHuDlCPMqommGdECxYE8wpQigw8RrtpKMN4YdMoPh8DBts9YAJUkMkXwalVokiROHWC+WC7VW0YL+L/yFOjM7egr3v/rSXSSUmeBPNkAk6dhipFHsgoxwtnxAjmgSUFi5bXJe1B3xgxZITpWWTEcvrJP7JRKHHXWBt6AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/025.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/025.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 25
     },
     {
       "content": "— Oh, oui, quelle bonne idée.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAyGyJBIi1vOD5sNTt1OkOHOzqMQ1GZVGKiUl5uND5pLjV8PUqOVV91Rk9tQklmPUQANx0oWS80omFZo2BgcTg7UyUmkUpUjUY7jklGrFFjYS0uOiEjiVJbf0tWfU5Ud0tPADcdKVwxMY1QN5lcUlUuNGw6KYlIS31COYFGN5hDS49KQUwtI4ZLWI1TXoJMVHxKUQBmNT6VVEmZWkjBd3h/QjiDSDODQ0aPUEVqOCaXSUJ0PTU0GhZsPDWNS0+OSk+ofnAAdkA9oVxKllRQoVNQqEVAiUI3ezYvfDsycTEui0Q9dUA2PR8cYTUog0ZCtGNkyqCHAGU0M5pVRIpKS3c3N2kfIoYpMG4pKIA0NZdDQ7ZhWOGDjrdqa3Y8MXg9NqdZU6JqXgBXKzGGRDqNQz6jTk63X12/cG20Y163Qke6T1GhUkzYe4HDZ2V9QjZsODOnX1eXYVAAYiszeTY1m00/u2hepWJXkFVHnE9En0g/okdCokZBslRJkkI6h0U0hU5Gjk5Fg0g9AKpITLROT5I9PIo/N5JKQZZMQ5BEP6NMSIE1L59FQLVNTblPT59RR2o9LIFEP4FGR0ILmyqMMCV5AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/026.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 26
     },
     {
       "content": "J'ai aussi essayé de penser\nà Marla et moi dans un plan à quatre\navec les flics d'Energy 3000.\nÇa marchait pas.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAzGyNGJS5/REt2PkdxOD9+NjSPRlOZUV2dTldwNUBVJCpyOkaPWGF2R09vQ0poP0UANh0oVy0xpWRbmVlajUhJXzAviUdUikU3gUQ8uFhkbTQwXzU/kVdhfUtVfE5UeEtQADofKmc3N41TO5peW6JVVHc/LGw2RIVHQHM9Lo1AQFwtJ2AxNp9ZZIZOWIFJUX1KUABvO0OiVk2gaV3OnZaoUUdyQi9xOTaBQDl6OzCVSkI1FRVdNyqmYE6DREiTTVGzincAh0pAm1pEnVdVpGZhfi4qdDEpcjAnai8nbTEukkxBbDkzeUxBhFA7gkQ/u2ZmwpWBAIJDQJhUP34/P4M5O38tL5lARYtDQZE8O3o3NrdkYO2Kl81/fX1FNXc7M65bV6JrXQBpNDl8PzeSRUCgTky/cWbHgW68aF6+TU+rS0eUSkfVdnmwW1eHRTdtOjamX1eVXUwAaS0ydjIzmU1ApVlQg0g8g0M4gjoxjkI3ij02pUZCtlNJmUY/iUQ1h1FFi0tEhkhAAKpISrZPUJtAQJdEPoxGPY1IQI5IP6JNSY48N5I/OqZHRrhOT6RSSmQ3KIFGQoBISGTNnXbFjI59AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/028.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 28
     },
     {
       "content": "Moi qui suis le seul homme\nsur Terre et qui dois choisir\nentre Nina Roberts, Dolly\nGolden et Kaptsuni.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwf9SmnAAAHBeoN11y35NJUT9IqL8kBEICCpDE8U8Cl2GdTSwa6bdNmsec7fummul86+9wP7d7Ul2e5MeYp8PtLa+s7kBwy/QGAxwkFWkUqdWO5DFRAwLbcc2YIAkMwmQwdIMjjNoPA09XwmFtxACZySxTGQ5Z9/89yv4HfTqWh0BFBwnkikqQ3IkvZvO5HYQALE0T2ZZRdYqxbLEy/cf/Ke/f35MBsPBDUELKEYmsSzAKZYVs+TLcASFhpfX5/2R/+btw+dP799NfP9y5Hl5VvB6btt2SpohFXRe0iS1yvEqguJQw52e+OPF7HE5//n19v52ejcN7oz6gVrQbNtpNG2rc+qc9PfMTrV+mBNUqOl9Ma1e/+x8+X35OFs8zObzb4ujrvtsLWIYVvuwy4tlWa2a++2W1TVMG3Jen15dDINxMLmeDkc3o6uP/Ytx0zpGcUYs6K5zVnllkBRHcwrJqaxQhlqN1sD1zL2mKGmCrEcSFCDzXL4E0ixJCwVFp1lRFoulYmUbSYXCcWiXkwROAil6MwpigErgTI6TVEXX9Yam1RhWjCLY6np0ZXUrjGAETv4HBxJ4VSw1jy8AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/032.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 32
     },
     {
       "content": "Ça marchait pas.\n— Il est devenu tout mou !",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwetPEgEAAPD7Q6Sdm5mdch133OUJ935xxz24B3cEaVuAWhCzOWMsmMEsy0wspMWjFX3RNje1xprp+qDz/+r3A4jQFDs5G9yFV3C6usC1CPxjIj10/YGRrkSZPIRWaXXHe7gumWti8imnAHEQMqbhfnbpdLm0imIFBO2Z2R0Z3xLZX05xg8SZ29NvU9mmHtRNr6qnAPLWjH4nsudwg0XZm5utC5FPuv9GZTeY8C7D7moxHw53nKVtPXglmZumA9hQ9MBw2lb8cNFo8HhDQg5UZeSrNRZuLhA5aIoFJ9qm8FpU+o73r9cEKiR5lrf3HbGblIdivCVg77j7HUVwwMkKOlcmEQ4MvRSiLZkb5x//fV8DlqP40Oc6traKocWJ0DYEN7F7XYrqyurITV8Vint6oiXg6yT2I5P6/iQHFFFyk6M+yNRnWTq37GsvN7bdC14+prlDI3VZyB0FRluMNaT5Lw+sTlYDyghRDiNdhT5/lLkprVw8L93U1r4m6AEfHycTv1312FXr85GajG2pVFNigCNF+2PZI5EfSGzfkL8F+knGPjH1/RjR46nTpHZpWT9905kBn9HkC1H4D7ySmeNVPPnCAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/036.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 36
     },
     {
       "content": "Elle a dit:\n— Attends, attends, je viens sur toi.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAV1JREFUeJwdzVlu2zAUQFF9WIonDXwkH0lxFCnLlq0osgPYiIu2AVKg+99R0SzgnpshDlJejLlZe/fhmeIvZD0llrMOiKEQEI8UPBCj9dWYW4Z41Hpx7h7Cs0+/T8MfZxYKBhpZlYxCUGpS8kIhmHYO/p4p9Z937hG6Hyn+HI9f59MX8khqJXiHLEk5GT1LPGg1Wj1lSk3W3r4PH94/on8/9c/X6S8QLcVBYI+81+qk5SB4FDxkQo7OXkN4xPi0dpEsSBa8vji7CJ4Y9Zx1nAXkHWdeYMqgbgVPSg7OLt6+IWl5JbDCefzU7ZmCRt61YkAeGXNKHLK6xKaS0LQMjBJJiyRB84rP/XU5f0pMyJyWPVLHwEiMWbmHzXq33ZR1xaFRjGjBHCftFOexe2PUQS0oaZsKyx2QRmYvxSZf5XmeF0WxXe836125g+/SNLUkFTZ7Wm6bl2K9WuVFvvkHC8EtxtEKdSsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/039.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/039.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 39
     },
     {
       "content": "J'ai pensé à tous mes ancêtres\nque j'étais en train de décevoir.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUNJREFUeJxNzslOw0AMBuBcoG1msWecWbI3aTuhKxW0CAkkLkgguIA4cEHi/d8CJSxC8sGS/fl3BMzzMcnYKFk5s0vtrq5u1+vXw/Hz8vCxPHueVddOtR7yVb7usk0kJsRGICaE3ClROAplejGtbkJ4PN+/bzZvq9VLCE9h8dDN7hfNXRSfSj5CiA2wRMaUYJ3btaOQ+b13W5csDXWp3RX5scivsvTQg8EAMAvMWd0S1kqURi9s0v1WsLQgbFCUPwliomRMKFKDDXAHIiNs/4HO9KBVshrAWCH3Snjk3qpWiQJFSdAYCn8gUTMNU5RDAjCjRKZlSVDZflBrbDTUdgCGgtHzZDgvRRaNTxgwW7it0/MEakdzJQtLIVEtYWuGBmUpeSaZF9xFGvpjWhbI0z5Bz4CnGqrvB1Dk/R5zgnvJHBvrL38/KV+Vz4qOAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/042.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 42
     },
     {
       "content": "J'ai abandonné.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXFJREFUeJwdkMty0zAUQL2BNvFDtqRr6UrRVfyKH4kDTqYpmRJogGkn7XTDggVsGP7/I5j2A845Mye4fhfOrxIWKZlVIq1Abix9peLRFY/t+BvxJgl1HEIcKp6WIMeARYpFOpoLFiGI1rovvrygObrlj/XuXy6H6DoTKSF0LEIp+gBh0LKFlFC23u6dP2v72bp7Xz0P01+AtRJ1U566+pyLlYYxEClBthTMIaxQrlBPlu4X9J3Kp3b7B82nXDR9823avHh38HQXxDPOEwspKV5C6jkjIVrjTlRemvUv405SDIW7GVYPdfHaCbIYZeohWype5VmZxigYoTlSdVnWT1pNOt/4xX7/4WdT3BV0COK5yBLDEycYCUZZbLQotWytPxucvN0pXi/UWNKtlp1VYzB7HychJCG8uRc8sZKR5pVWWzK7io4mX2vo36YXS3d4BeZXLJpxFuVZjKj6rnvYbl6a+qyh17LV0BfuNpctT8jhx/+nPjNn7w8B3gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/051.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 51
     },
     {
       "content": "Je savais qu'elle allait dire\nque c'était pas grave.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUtJREFUeJwlj81u2zAQhHWoJZHcXS1p/og/siVZsawUBRLXQQ5F+gI99P3fppALzG3nm5mt2gO0B5ANqdbIhkE4UlHjiXGA1ogDiJpETe0Bmm9KY65EjbJh1R4ZB40lutuYfjJmpoFUgEbLuntqZxj6CqTvMGkcOkjH7twfr+v4dU5vSljGTNLBs1nWDK1Rja5IxQ72DSidxnyKb3P5eN/+RLcx5g56UoGU30lhZcNVB5lUTxBJBY3Z8vkyfD6+/x3T+z4Mi6YSzBLM0tuXuXzsAO4ZexJDZExTedym34aKpsHpizdz9lsJr1O+j+leEQRUDqUnSCQdCvv/E4bo9ZL8Ft16ij+mfJ/LI/utAuVBOSkMqoDKgzB7FWZvFm+WaK/Zb2O6X8+/5vxI7lbh80wqoHQM0XQny6PlKTzdyd2iXaNd1/HrMnyW8PoP0wkkNpgwlMIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/054.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 54
     },
     {
       "content": "— C'est pas grave, hein.\nC'était grave.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWJJREFUeJwd0EtzmzAYhWE2aYykTxfQFUmAkIEmrhNo3NqTtotMb5PJZLroOv//b2Ts/bN4zymgVOUVlFeArxne1OgDw5sKsK34IMXozGr1nZa7nH7O80twh4IRd0bXgpSSQ+QQTD22bpU8a/lJy9shnoK5d2Yd+qcx/y4AaUCGQxDQcuJr1jo5j9231i2ADCC9jcccjpx2wZ92N/8KAS0jDSeeQwtIMdJEc5fj8f7js1O3tdh2bm3twiAatR/6p4KdaWCkYaShSAsINWtzOB72/6f+u7cPqfvh9U6JXLG+5kNxoZ4SR4m7tDUCfN883Gz/RLdatZ/n12n6a6pcUc+ILShuGPYUW4otIw0gBUhxiCk8Brs4s87z6/L5bZqfpUiKpwKwuWiDy5pie/lAUmx6/3WIJyWyN0uKj2P+paoJb0QBWFNsBY3nDdhy8JInVW275pD8F1NlLZIRWbKOE09K9Q6CEyvhB1xKHwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/056.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/056.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 56
     },
     {
       "content": "Vu qu'en temps normal, quand je faisais\nquelque chose de pas grave, elle\nse sentait pas obligée de me le dire.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVRJREFUeJwdj9tu2zAUBPXUmBR5eL9TpGyJdiTHhpCiKZI0RRGg/f9PKpTXxQ5mt6NIUaRYbylSEpKETA6S9UZCsurszKPTlz1EUkLGD9ABVuTAyUGw3gPWgLVmNdlrMoth1YjJqYuCYvmxhm2Mzx3vLWAFWHPiCeKCeC/naJZr+3s+/nZyzv5+zC/JrtEsySwd6w3rHf1iKOIMGw3FQImyzeVtcLe5vM7lNds1uZtVl471lvWWE896A1hJGgAbBdnyGvXZ8urFKchmYcj2dqofuyGZtY0fQ9iyvQ7uplklB0GRpEgCUooEx4rjY3ZP2T3tBidOyazFb5fTn2X6bOM+HT/Qr2PByXlwdy+bYmUHOPH4GwDWXrWgl+K3aFanWrTr4Lcavk/lvcYf2W9j/rm2f13Nb8ndFauceEGCoFEQb/jxcfqc616dyvtcftX0YsVUwvN/q0EqwJfaxToAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/058.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/058.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 58
     },
     {
       "content": "Elle ne m'avait jamais dit:\n— Tu fais des pâtes, c'est pas grave.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVZJREFUeJwlj1tzgjAYRHlqFULu5AuQQEKC2II4rTPW2rH2/v9/Uked2Yd9OWd2k3zJcSrTO4yWnGSAU56nkuWVloMWPcdGsiCop6gsSGthSkhWkKxAC3otCi0IRVCK3up56D5iewTR1zAbmIHHUq4vAEWAsyJPi4t+SRgCYF4SW4o+Nq+N3gZ7aPRc8qjlmOCbeCmuIdk9xilnSEtiFXOaB80DMA/MFdja8jkRxAps22pXw0SRkqxheZUtSHZPrvc4SUVB7I0xakx0MQKPg38f/Ic3+9gcvdnXaqII0IJxbGo1erNvq53iveIxKdVGkgZYZ9RUyQe4DIgWZqOmzh5Cc+zd++A/Q/PmzEtnX5NKP3l3du2xgo3AFkQsxaBYJ6kbwmdsTyt/Xndf6/DtzF6xkNC8rmAbuq8Yfn17ktQBjzyvKdJGTb07jau/x/5n5c+dPdRq8w9uTy2USqTdIQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/060.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 60
     },
     {
       "content": "Ni:\n— Tu bois de l'eau, c'est pas grave.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gApGBMoFhFKNC1zWU1yVktrTkJjRjpgQzc/Jx9KMSliRDlbPzVdQjheRDpNNS01IRsAMB0XMBwWVz82i25him1fgmNVdVZJclBCWC4gVTUpellMb1JHY0c9Z0tAaE5ERi8nADkkHTkiGmBGO5p9cJl6bZJzZIJiU39fUG9EM2c+MIhqXXhSQjgcFEwvJXxfUlI4LwBBKyJBKiFlS0Cgg3eig3WScmJbPDBoRTdVOi9ROjODZFl0RDJJJRluUEKEZFVlS0AARSwhQCYbXEA0oYJ0iGlcbU5BMRgQTTAmaktBbE9GdFZLOx8XUy0eWD45hGhaclZKAINmWZh8cKqNgbmbjYJcS3FJPFk4LGpDNWNCOWpMQnxgVU86NBoNDhIIDFhBOl1COAB7X1SafnG7n5O0loiocFKPVUOEWUh9STZGKB9VOzN6V0pFMCsJAwcEAAI8KyhdRDoAQysgYkY5lndmoYJynHxvkm9fi2hZjG9kKRYURCojckc3IhQRBQAEDwUGVUI7fGNYADcbFGE5KYBdNn5dP4tvZ4xvYYdqXmFNRw8GCGU8L2ZHPCQYFw4FBzYdFm1VTHVeVLHWgtdWzw0WAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/062.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 62
     },
     {
       "content": "Ou encore:\n— Tu respires de l'oxygène\net tu recraches du dioxyde de carbone.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwd9zkgAAAGBe5mEikPLDJSiCCIROUJyYhggKyMJ05+xynppZbqvmOaurbjuva3dtT9312kvXX9r3AeO6PDwUR7X8oCI5EtMtZAM508SRHgYf03ido5IPwINIJLMXEmLIxVEDWJj5ZVtduZWpoQzLQldiPtnlWVU+a1cWZimQ0l2BZkEwuxd6HEcve01gaSszs7jyqmdu1S1wgyJ/1VS/+PXNcctTcnWa6HCPrPR+PhxWE9j12ANuV6eBdmDlhYaQmXetzXPbz5Ab3/hzvQ5qmohGXJ5+ofACHOVQ2C7kAEeRAk2moIjOpv7tru7OZydl6Wbc//v986/t2yfZbCOXc4QUG0Pj4TAGQQCDQB2amIqpraMv7drP8/ndu9f375e7yeD+pWeqeorY78uMTMRJGM6QOHDCJW/yzM4ori1NQqBTqzb12sOWcXlk/p719CxLRiE+hlBIlMbiDIEDH3jqo8yMZfaNob56qi18e+KY6777Y+TdTvrBYUlMkEWKTMVQHEYI5CEgR6ERk7S4tEonvg060475dfTsoq1rdGLu2TPfUZLEtlXyxTQGgkgI/A8CsmBb0BGliAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/064.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/064.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 64
     },
     {
       "content": "— C'est pas grave.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwdtu0mAAAOAmZqTYv2uBUloaemIcSilQKEI5phw6CMxCwTFWx0IAmRATh0yjzDijcTFe+AAmXvmgfh/0sipPdOmipNj5REfi25JgyYJBeZ+T2DTOtiXhBIbTCBJ6cpShiDdWHbquyauWujK1q1p6qEZ7CeF9S7suyq+7+rarz/IxNUjEASIcuXIMubMb0Kqdu6wo605x0dIakvgiJ72tpT/0Kjf92liNrrRY0u/hABJ2uSoC82l6Cn2cjbpZRY/weZG9nQ72ttkO+fZW88/n3ajyLOkBNOIWj4EInoa9eCHCQYYcMVPRoBvuZeL/Hm6/r6+ckvptPvn7ZfdrM9NZmgKIiKE8hgYACGA4JHrQkUit0+LdqT4uKI+b+eN2+WO7uLPNn5NOUUoxGCZ48SBAeILgAyS0lLgHhTvUM5uaGseB09THRnVQLe3PjN+zsyRDs/gxg+MBFOX8fo70QzdhZqcIdkKYlzPrVvmV1Vn2zcN5/zBo3DvDi7JW5elSOBQhfT4EJVAMiqJgyFL1MJcN0fe26TTKXx1rWkgpNLnomZNmPRnwvTOy3RhHuGEchv8D2nJecZIbpjoAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/067.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 67
     },
     {
       "content": "Parce que tout ça,\nc'était vraiment pas grave.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwWtXmmAAAGA+VC6QixKXJF4RURO8AHMTMgeiWBrtLEU76lnGscK1NndyftjNnZ2tH7D1A/Ztv3PPAw2M/f7zfL+qeGWpmQVeSXJ4uk3hPYZwJT4XwxV4uwDDuxsb47p20zmEplbx2q1cWOrIVNr55GVVvm/oY6P49th4JQsmYKQorCFRbnPzsvHs1nsBjWuFqa3ddsx+VWnmxbBWXDmV1ZlzXlcn5bSvpFIo8hRFhUjk7qS+7LegkWXYcvZASnYq5XUwHKqZQSH1eH/9ORhV95giifEoIhPYHrxtSEkjI0CentdBIvFk62cw+Pt9eeXWbprm7+X838OnoalrLCWSsQwVZxCYxQkKxSCNwi9yXGgo79pG6LX+rO5+zYMfV5OHYTt0bYEFaSouUSSHYeldFtA70AcZfFXFL12zAejDbHJ20uo1rIlTe5y+DGyDI2IiRTIoypNxkWUEmoYWMpjlga/vv7Eq01Z95rlzz10PjteDzqLXbWWAJfEFjuFwfCeKJWIkdJSgziQgJ5jXB+r702bYbX7zj2opzinJHye+Jgp+Kb2wtRyJE5EICSP/AXXeXW9BsIC+AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/068.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 68
     },
     {
       "content": "Là, c'était grave.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUBJREFUeJw9kN1O4zAQhXMJTWJ7PPbE/7HjhLa0WliWslQU9v3fatUUIR3Nxeh8mjmnYRu9Sv2ov0eSc7Ivjg5aFIKKLEBvDT5E89TwjebfAK0kim6wauf0YXSvo/tjcPF0HGRFFglKw1vi7c16w1B0RkNRPFm1zf6U/Wv2J4PbQc4EteGt5i11d9Ddyf4e2QZvG2RBQxnk7PReQ0EWFR+t2l0vQO8GXAgmya8m0ZmVVKIbeKtZq6F3kgVHhymeG4JKUEv4W8K7p6PBrVV7px9XDERn1wJ+W7WTvSd5fYlERwRVi6zESDBpka3arXObw1tNlzldonnydMz+rYnmGXmE3kPvtChrP3vFE8G05K8S3mv6mMfLkv9F83zNMMVzjR/ZnzwdFE/Ik+IjbwdkIQy/pniex695/JzHz2RfDC7/AfdcKjJOQ7WsAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/069.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/069.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 69
     },
     {
       "content": "D'ailleurs, dans pas longtemps,\nelle allait me demander\nsi c'était de sa faute.\n— J'ai fais quelque chose qu'il fallait pas ?",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVtJREFUeJwdz8tS2zAYQGFviG3Jsn7dZUuyJV8UN1BMZoBCMgM07/9QnXRz1t8pSC1QSXFJCZK4AlxSaDpv9+TfrNgUmyQkaHpJx2D3Xj0WBAlcUlxBixQ6tLiiEqI3z8HuOX45/dTJrVePko4Kxk5uRYsVqQVBnNQMPRBcgYRBwajZPHTnKXxM4TPY3fDFiMxbX1Csm5o3NUMHUj+QpuIUa2ishmRYcupk+aJoUHQwfHH6950kIRqxQmMlREEDLgEdWlKLFskWCd4YSXrLlyl85PRT8NYH+zIP1+hee3Xq5Ob0k6QjKglBXLIYzPNgz4IGCaMV+f4g6KDZLO9NkkYrjlYcFaRgz1O45PiT/B9v97F/2+ZbofkKpGNNz4kzIvfql+ErI24eLuv4NfnPHL9z+jsPVyNydO9FDNcYrt6eNVs4cQoSbz3FupNbdO/H6bZNtzV+T+HyH3z6BxVxKsVK4E5IAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/070.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 70
     },
     {
       "content": "Voilà.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVhJREFUeJwlkFtvmzAYQHlZAN8+G9+xjTGFJBuhtzXbIiVtpUn7/z9pavt+jnR0KtIItGOkEbSVuAFcA2k4IC2Il5B1t0goHHtJY9CnYE7VB1cz2gqGJKoZQ0rBEMw252u0904eonuMZlMwKJa8PFSANGk72krSCFxTTpwVRcEQzTr2L736fpjek3swYrLdXtBQATL0U8A1oB0FbIBYCcnw0quj4cV1dxoGzXOyD8FuH0mSpTGcSzz3Zk12A6xxAwwpQbwgTtKgWJTU224Z3FPFkO5Y0Hya0uV493dd/u3Lm+YF10BbybFRLBpeNM9fctXuaPMN4RoE8UbMwWyDfw5mdWrf6x+9Xgf/nNyjU0enjmM4V1avgB2nvWTJiklClmxwcj/n65QuuX8p6c8Yfg3+Z69Pc75VOV1LfhuHm/96B0VBCWZdxtcSf5d4mfNtGd+X8bXXq9frf0PVKiELEj5XAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/073.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/073.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 73
     },
     {
       "content": "Après, on a discuté 25 minutes\ndans le noir alors que\nj'avais pas envie de parler.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAASZJREFUeJw1kNlqw0AMRf3m8ezSaDbvjp3EaSkphLaU/v9/FdsJ6EEPOvceVKjKGRFV5UBmMoNkuA94O47NI9NKppcMRWlFaSXDQlVOVSSZsyIZHiUDyVBV5O0UYK79jcxoRMp09TA9AcnQ8GBFOvYDQN0503fpXvtbgFPES58+2/hR7PGoedDcv3xQMYe6jbgEmLt0z3SNePZ2rP1boSr/1GDP+FeJd6Z3eoi4ZFozrdGdrcxbg+Ze8yB3QJRw8IeYEdGKvCudm/Ce/VpEXKb2a2q/Ii4eTqjaV5UTJSjmDA87lkA1ZIcCZBNg3q7tRGbMdM20ah72+O05yV0iLl26j81j7n8KzcmKbEVG1QY47dgAsgbVZLqduu+hfvR5+8/c/y7D3z9yUyKQ92H0BAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/074.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/074.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 74
     },
     {
       "content": "Elle me parlait comme si j'avais\nhuit ans et que j'avais fait pipi au lit.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAU5JREFUeJwlzslOwzAUQNGsmsF+Hp5nx3EmdyCgosKilFLx/3+FKpZ3dU8FrSK1oI2EVkGrSS3+k9RC0GCxWCwCeklDNJsRSwUNklqSmnFiu5pDg5rloE85XBzukQ1OHYM+aTEaPg3ureLEQqegRdbpdgecWMNHxYfs35d0dbKs+XsZvrw6OCyK54oTw7p/Cet2QGvBidM8O7kM/uyx9GaL5sWKyclVi7mCFhH6oI9WLqwziudux6BVSKOVM0KPNChIGpLH/ZJ/KtaZoI5Luo7x02FxcrW4ChrIjtNG0kZK4pxcpvhZxvs63CpopYRoxGTE7NQ+mpenQW/IksUS7RbN9vxA7/CQ40fl1FFQL4gzfPTq0NtXrw4IMbnzfvqd+uucvpJ7T/7Su/My3Kp5uE/plvzFYpEQFBskRNbp8Wl4TOm65nvJjzI+otm8Pv0B92koVsptW6kAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/076.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/076.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 76
     },
     {
       "content": "— Ça arrives, tu sais.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAU1JREFUeJwdkNtu2zAQRPWSSrwtyV3eJVKKZctynMRNnKJI///DihiYh3k5GJzp5GDkgEZkxRDVBNwrZp1ZrMzAydtjwJNVk+i1ZJY9iQ64l4NRjIAHzYPoNcFU3L6Ur+J3ghZwQ2jBPLf8O7tzpxiJ3oheG5keHQhGBzXTttbviKdI5ym+B3tIeGrx1mkRgTvFSIsoB8t/KTFop1uyx5bei7/M+XMp9+L24i4EtdMiACPegxys6PUP0BvNvREp4xbMc7CHYBYHU8RjokunGJKuY7hGPKEqCBPvgT1x0YNiqIW3MnkzZ9pquq313490pq3lj9Ffiztnt+fH9OMJBO5Q5YjrGK6PvHZysEYmK0en5ym+zeVe4y3hmaBlt4/hdQxvRiYtUqTtMP3tgj3IwSpGBNXpJdiVoBmRa7yt9bulj7l8zfne0md2L8v45z+YpiU6zb1qgQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/078.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/078.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 78
     },
     {
       "content": "Allez, on dort maintenant.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUtJREFUeJwlz9lu2zAQhWFdFJa4DbchNaJIWaJtKUqKGiiCFE7R7f1fqlByPx/mPw0wrzonWq2YAx6sSsAjPwFvtWTWyhTsBU0FHmXnyG+N6AxwL04HMJIUO7AREfUU7cVD9npCU61MRhKauQEetDg0cNQiiBaAY7RL729Lfqvl0btrpvuS3zwUI/tGds6IHpgXLShm5cdD1BPqQu46j68p7EPYx/DsIBtJDRzp6FQiXFFPViXUk2iNlcNHVfWQtYhOjUaQkamJfjWSUthredzm37f517b8SeFZMa+Ys2o0kqwkD5lwm4bvzRC/fQ6wKn22bvXfOh/GqZH8Oo+vW/17nd4L3Qd8aoZ4Vwy7L1yclBG91+dgarQX8jfyW7TVqtFB6f1KuBPuzbn8POf3IbwQ7mjmYGYH2UFJ4aWWhzuu8xi/LvnHUh6ET/8BnNwmdodrqRkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/079.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/079.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 79
     },
     {
       "content": "J'ai fini par m'endormir et tout\nd'un coup, au milieu de la nuit.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAASdJREFUeJw1kMtOw0AMRWeF2ozteWRecSaPptCqhCKqImDHpv//TWgyQvLClu7xvbaQewONIxlJJpRBQVcKO40sd3b/RM3OECQFrIANDQIhECQNvcZMRc0as4LOmcXbI8lg1VgE2GvsFbBQhe5UASpTR7Zq6sIb+3Xiu6URm1AZoZHV1mnMGhllIIiGcqtnjteB7+vzY+Ib7L2h0aqpAJt0qI4FkAFlMNg7e8zp9np8XJbfekBsz6IG2Eyqg68/0FhMnFk6vx6Gnxw/kl9HvguCSNARpO3iRBDrMqeXVs2GRmcWjtc5f8/918if4l+dEKLC3tCgMRsaDY0as1VTqw/ePkd35nDl+C6wJI7QOJSh1bM3R41cf2VosGq26hDaU2xPwb5Ed/kDJyAjnfoBq9sAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/086.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/086.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 86
     },
     {
       "content": "Bref, j'ai eu une panne.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVlJREFUeJwlj9lO20AARUdV29gez757Fo+XTAIEJwgEcakEAomX/v//oKQfcO85B0i243T27qVMX1YvTi99WDvzwHAv6ExRxNAhaDB0dcXqDQGCzpxOWtxZtSheGO4V3xl5J9hIceIko0ZjaBlK16UFV8Jk1b3iheIIa4kaXVcM1oKiwEluG0VQEGSgreckA4JiWyvJimSF4XQ5u0BKjiuClqCA287pRYkb1GgtbgGs1eZX21Rc8v3Qvwf3yEjuzGns36xaQrcaeZBsZnggKCq+Bxi6nz821W/C6eTtuUz/hvRu1aXe6WP0f406/k+/ik2gMyfJt3XFJds6/ejdquWBtoGiwHB25smqk2KlbRTFUdABGHmbupfk13n4mPJnCn+cPkpWFN8lv6bwOvZv2/Ezx9fkz1rsQdtoiqKgEyfZyEPq1uieO/PQ6WPv1+TPRh4YyYrvBR0pit/V/Ss3AD/fBwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/095.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/095.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 95
     },
     {
       "content": "— Non. Ce soir, je peux pas.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZVJREFUeJwV0F1v0lAYAOBeCI7znu/TL0rLKZSisG60NELHIEPGRE1YmDOR6TQ6JSaaGHe7K+eNV/4Cd2P8o4Yf8Nw8xvlB+mE+vH4xvZokMVRCDDGGCEOLYg+DT3CNEAdhuoNQCVXuIWM97FyMdj/O0i+Pe5vRw74jE0F6iuYW4zsVWUE+wfYWACoBlMD4uez/vpzebaY3z7Pb1cFJoN7u+acNdRaZhU00ARshiWALygiVwPg+y/99W/55V9zMk79fl9eH7Ytu9VkgFgFfarFuW4lJbYRcjAUCfB+MH6+e3H1ebHJ9uyo+FfFTrY49kUky9uS4pg49Oa+bMachIw3BXcKMl4PkdU+v08ZR3Soc0VekiVGTQGrxRNGupLnNM1u0OK3ibYBhlcvnj/Z+Xa3ej/dTk2sMHqAGhUlNzerWwBX7JstskdkyZNQFMCbdzpvZ9PKoWHSj41Yw8p2YU01gWFUDV0QMRwx3JHsgWVPQKiFGpnUehmngZ76Xek5bcQ9Dx+S7pog4bQkaCxpSUiOgGakz+h9Opz8ieNlDvwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/100.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/100.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 100
     },
     {
       "content": "— J'ai mes problèmes de fille.\n— C'est pas grave.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZRJREFUeJwVy8tu00AUAFAvaBPP3Jk744nt1HacjBPc2oYmTWI7xYQKAuoralGfQAULJBAVREUskRCvH4B117DgK1Glsz3Gs/uDNzvlYrcY2zxidJXTFCFDiIBoBiGAD6AIZcvEvHXDOMnXnlfZ64fr76bprOenAmKkPiWaUY+SEKgHIE0KNUKXKV0ixpfDyfXbR1/ng+9H9y429Pu8Uzh85OKTlqU5cYipTIom8DrlNUqWiPHzdOvf1faiaP9+Nfu0lfx4nJzFzfPYOeyovVBuNrFJyQqAC0wSYDVqXF/uf5hE356Wfxd7n2fZZa53QrXfVoWNmysyd8W6LTQyjbwtUBEwLobdl6Pun6uDX2flYprMo0blYoYQIySS3VF86NycDoLPwePMGAfux/n0xTCahSp3cOLgXclcsx4LeOBblWf1FY5cOXCsFgefM+O4Kg/G/UoHu6nevt0qvUYApFGvrwo2dmWEtIeQKkwbUgseIDP6rWDSiwodbgTNxLY6yGxiZrZMlegiiyXvCdZm4AHRErXE/97CPo5qdiiZAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E45_brefJaiEuUnePanne/102.mp4",
+        "thumbnailPath": "thumbnails/S01E45_brefJaiEuUnePanne/102.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 102
     }

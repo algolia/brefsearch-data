@@ -2,9 +2,11 @@
  * Reads source data files, merge them, and create the generated files
  **/
 import { absolute, readJson, writeJson } from 'firost';
+import { pMap } from 'golgoth';
 import {
   forEachEpisode,
   getBasename,
+  getMediaData,
   getPopularityPath,
   getSubtitlePath,
 } from '../../lib/helper.js';
@@ -26,10 +28,21 @@ await forEachEpisode(async function (episode) {
   const subtitles = await convertVtt(subtitlePath);
   const subtitlesWithPopularity = setMostReplayedScore(subtitles, heatmap);
 
+  // Media
+  const subtitlesWithMedia = await pMap(
+    subtitlesWithPopularity,
+    async (subtitle) => {
+      const media = await getMediaData(episode, subtitle);
+      return {
+        ...subtitle,
+        media,
+      };
+    },
+  );
+
   const data = {
     episode,
-    subtitles: subtitlesWithPopularity,
+    subtitles: subtitlesWithMedia,
   };
-  // console.log(data);
   await writeJson(data, outputFilepath);
 }, 10);

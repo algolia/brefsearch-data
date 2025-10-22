@@ -12,336 +12,728 @@
     {
       "content": "Bref, on était en train de faire des trucs\nde couple quand ça a sonné à la porte.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwe1PEnEAAODLCBFrp4vJAReehHDcyb0Dx8vdwd3xuzs4vBNBtGLWkVvR1ti0TdfmnJa5aKPFsg+uT9Zybv6PPQ+UyxCPAvNL8AIei80FYhiyks8ymaWwloqnogga8MMPZqPBIBdDAEfWKBxSC0X/jC8ML1hiIS80ynRR5FUsWQOK2Wm5DVUHkqIoxpa7adCrgMEhSayEHsIEim6DuqObTrUWj6RDj5N5oaTIumHYutbovxzuvd1n05kqhUM8X2YJroSntoHWNJyBN5RyUpGXW+vPgNVxu6/qZlsqyCZwgLVpmg5kmW63N3Cbri3mvZ3nPW+kKrZcBJa7qzVfqHaflR1DkNaFMoUXWEKERJIUs5TEsICjdSEXIrVIZYeROwwnUwSdXROEsmVv7fW9UbftVTgVWkGxNJZk1vhsOhsJJ0KksqjsJjf2tcHJ6zfvT0/PL6bX337djC//ff99N/rwGcKWV+NoIowkok8yyDK1GGdQruF6R8eTP2fTm6+XtxfTv19+XJ+Mr9qdgWn2IN/9Wb9vbuaebz4IM7zClRrVlvfuaHJ4fnV49vPgeDL6OB4efKprGyRGP42k/gN1WW9IoMJPwQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/001.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Et comme dans les films américains,\non n'attendait personne.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwFwVtvmmAAAFCSLY0KyLX95NJSBJlchH6UW0VBoKDS9eY0W3Rro31Y9rCHNcu2zqct++E7B5lp2tpzdxdhbRoyzQokq4qS2hEEggYYybRpggI4zjZbVKNJiryE3Dv253H87TK7s0ztCLA4uSomV/GIwykep1iCIalOC2NaKIVh9LFwinzw3K9Zsr+pa73PtDAFgO20mAWBCvgjtE2iFIYzPM22ULqJMprcQzah/73Mf9TlDNqGrDinElSU1NR9VSVeN9xjPh90x11e5w41igwkEXnw3V/X81UcLWL/7/NzZNmNV81AVVJv2D8xpqqYWj2ZILokDg4OIN1GHI6vhskkGq6L9N/L3jiRZcDPfW/kJ0q/ONP9NM7g4NxWNEeUIM8hTJsdJ2URRrvF4nHz9AaAc0X5uFzX+bx/llpB1XcnOkySrK6ulqOkQjosN62up2HwsHzvw2FowWw4ud++vHvab778yd8+ds3I8jLPCc3ewLRDpAPEvKh9G+Z+UFzEdZrdrbblp5+3u9/l7U61IqkHBdWxDRhYrgiU/31sUcCvv4OCAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/005.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/005.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 5
     },
     {
       "content": "— T'attendais quelqu'un ?\n— Bha, non.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwVzOtuk1AAAGB+mlSzAodz4JzDbcCBcaeDbrB27WjXS+Z6cW2zzE6rxiaLNXFZog9g/Ok7G78H+DjIC4AXMYQKRESCZRSUcTTudN5NJpFmhKqZGFYokzKIQ4X6ROfEIx4BSJAiS8jEpPC9xLE349Gy35/l6W4yWPe6KSZuU3B44CkqJ4P/t6PpRIKMUpuqbc95mI4X1fnhZvh7/+nv8/fddJKo+glU2kHMyQAw02wH/rEiM0o1hEanSRWFV6G/uTj7sVn9OTztF/PcYo4AXBlzBMI6z3pZxCjRIIxNfdSKE12bFdltVW2Hg8P6blnXEVHtpmA0AecQfJUGhceohCyML4KTjscumX3fKV82qy/X9a/tw8vHD/3iPFSoK1NOF8WCWTbGFkL5sVF6roOpj/FtK/08rN+2sqfFbL+cezJxATIkxNkyjHTaDf2uH5waBsO08aqBeTEzzflZcV+VX6eTb+u7Ve8yxBoWIBdrtLCMWZHljoMF1HyjvG5gcCQhHniqfp0m22H9/Pj+5+6xmw9Mmv8DMlBPChqwp/0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/006.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/006.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 6
     },
     {
       "content": "Et comme dans les films américains, c'est\nle plus courageux qui est allé voir.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwdtu0mAAAODf4ASmUhgdbYGWspVyaBcGWxkMCmUFutbWloMtdECZizoPjdEEpjOZRC+IGi/NEr3xwluzB/Dl/D4gNRvlfD4aDlN4fBvDEAgK+teTSMTWVffs1D2b9ZTjVplbWOqkcSCxNJCbwj7DFOjU5+ePrxfu3NL3tki/Zw0LbTiD3vvX7sh4KAv8C0M+4bn6Ngk69dpumrZbwr8fX2++XK2ejKXdnWgAAuAWgaBP7eF00FVEYSq3rMN9FsWAIbWxMCwW83+W80u757TqplDTSwWfZy0OwzyTlcqc0qw7kmBXuVgABpauFVkWC4ZWz6YXY/PX5ZulY41qJcjr20JQJhbNogiXSXcrpeMdZvPuBuiriqmpWZK0Rf7v6sPP+cvhwV6FxOnIJo1E0hiSw7BKJnOYYViMCPkgoHXaQ8OYDHqdasXta9/OnQtD7RbY5cwcVblykqilqEaOLZJ0IoQGvPeALB71FHk86M+GpvlAfuvYC1N7N9Rvvn96pbWrSZxPUTydzeMUHkTWb/tBq87LYtOQpUeaOjFN98RsM6mr09Hvj/Nz5ahExAsxgktQOTSB3oe9njv/AagQagJ709YZAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/008.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 8
     },
     {
       "content": "— J'y vais.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwdtO2mAAAODeLDGRobSlUnqgJ6CUtmCFlUIbSlso+7WIDDkIQ8bAgUajLAbdYsySLbtclrjsBfag+z6IQPf2InAMRvgYrlDkiWX8uFl2K8WLVmMzGQTFQmYHlpGohJPx7XAKiUIshh3wjKNm7Gz6vGH/fbpfdoJ2Mfcw7v7e3P28uTTTYhaLlVWNg1GN4SBQyF0E9bFTWRy6L1/W1/2OITAj2+jXqten7zbT9zrLSxFUiCDsLrxPJaCn+fhh0lsG/tcPw9t++0gVWwfKAnhX3c5lAO6GfSurqFgsGY0RobBC0tCy3Zz69sSrTv1aKcm/4VlPzoxt89vsfFZ31oMe0I08TkokTYV2NSoB1eT0HDgT19RFMfIa3nq1laUoR1Vnb/1FszEHII/HJQTDw3B8O6zACOTtK0cFddWqV+QshnIozAg4LZK0IUmDujtq+p9Hvc3HaUlR46EdSxAgK5Nqm/qnlndcA3J+kmDrKCqThMYyRZ4rd133++3Vn+fHVe9MIKQySUCVFHtsGkPPOrSafBJQVJWibYZxE0yjpIHn1eLfy6/H9b0DZrncic5J/wFyGWUcuquTTAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/010.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 10
     },
     {
       "content": "Je m'amusais à faire parler mon téléphone.\n— Quand je suis content, je vomis.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZpJREFUeJwdy1tvmlAAAGCWdModgcP9IpwCxwuTCSpaAcWudjah2nZ1rm7Z4l6WZiN92P7BfviSfe8fZnICkuRd2D9ls59lcdPruTwIVOMcqDrDyxQLSIZjBIaTSIpvNFnMbgmhZnyeJH/ev/syHRdhbwohkjVf0tq8ZHKiQnMCB9iWTDNCE+cwKIBIN38ssr+Pd9u30ctx/1RmsW17/4PFA5VpiS1AsYCgBILgMChKsWG9XC7rdYlU7VRt8n5n7kGF5gNVd4EsEDTLiDwrarzQbHKYJYDEtH6V+ePV+rjbdRVpYBnbdIifkRedwNd0CacK5BQdO7Vlh29hIsnGpnWYplX1UD/XsY+up+n3w0eOhaoc9VEyceB11w0du83QCkFiJi8qFNuFaJLm+8PX1XK9vf1Q17/vq+NosEzCC89bzEd5WayiXoRsiDmyip+RjuM7LipXm9vt/nR6vq8esuH4apa1Nc/UUTJM4+EkjtPZfIU1Xr3GG6RtQRHoLuxubu4+PX07tzxkeMhGgRWM0svBaDEYL6IkR/6bf6FrRvkYilxQAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/011.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/011.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 11
     },
     {
       "content": "Puis, j'ai reçu un texto\nde Baptiste qui disait:\n— Désolé.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwFwVFv0kAAAOA+GXVosXAHba/XO9pCy3F1gKXCKDBKYYrdXGWmlM1kosRkLmEzLrpXk/lk4puJ8cf6fUKPN1sqbhLTgPLc91fTacB3XUXrOrylUVvBJF9sqNiUgCEBtYQEXoCsCAs5yTWq38+y39++3q7f16HMJMCh7Ci6JUEGyw6UuUZQGQsetdBjKf9Q3GP8ZBxeZdmHJGkouF2pcRk5iLpapWPWGlBpqriGTaGumdJOnkggHY2+ZNnlYnF9evaMGC6iNVBGOdEEShNXPAgnZThmtoBLRC2i3L2dId+9SJLVJNou04aCvGq9RS0qQSwWhk5jRvSPDl51uVB6ooI8enC/iIAaep3zVy8iP1CBUVWoDWT1kUhEySuCSC5l/f6s2xWQHtruu4q9wHRs2S8Zj5+2l663Zm7K7LmBXKekhJTu6yQMwtXhsaDRA4ulNZYN4pvT27/Lmz+vP/2aZT96g+1e73O7fR640YSSt0FwPJlujg4F3ZxrJDKdNxZL+/H1+ue/ZHO3iC/3hxeD7sZvZSP/ZN7uzJ/3VvHR3dX2PzYwV3nayU/FAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/014.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 14
     },
     {
       "content": "— Chéri ?",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwVtP2lAAAOC+mYyh2PbQy2lP20PvnBVbWEWEyqWIKBQEcaAUE3VjcT5sCQnbTPa07GHJHvYP9lP3fVT9jV+WUAnhQl5IarV5J64XPcKJDS8oQWTyEqYBgahAA7wPRFGlCAMI4OksE9rk5W759+t2s0wdNl+kAeFEg5MsJu+yXFGALpQh1KiygsVsDuwy7YNg0e1t0vQ+Gbu8XNHMIg8dSQtU/a2me5zoS4qumRRB+u5Oxubhbbv9ZbF4nk6fZ9e+rJYQNmhWyuYsXj6AyiHIn0Ku5XuUImgcLWR3Mt1y+DhI3rU669HYE6Wq6xGIFBoYQGha7kBDaxfNowrF05DNwcwrYMjqMDr5dDVph8cyUB0JWyzHv97T95kqy15gZdWJ+8dVSsE920s181ISKwJHTFy27JHhzE175BixwhueAGMFnRhm0h/PznoUwue2t7LJsjHc9lc/W9OXaPg9utiGR0+H4boSpE1SO9PxTfd0Enc3yxsKFc7VQt90rktHD6OPv97//je5+zEdf27Un6Lah9C/7VYvB0GQRM3Hq9mfb9v/+0pXBXxrTCcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/017.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 17
     },
     {
       "content": "Ma copine m'a appelé.\nJe suis allé voir.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZNJREFUeJwFwU1zmkAAAFCmzbQWUZYFCV8BYRdBQHBXUFEMISY1TmNTJiXGWjtOD5320nN/ft9jroBo8NAAoilIBhAVju9BBYoaD+R2R+xbKHCHoevTcJTIlw9hxJiwZwLRhJIBJI2HaocXeJnrygKQuY7k2INpTG6CYTYMI164kWRG46HUBpAFSb/vq7rEdj1dnzhXxNQVQZq7+H46KSnJPT/hQCWIzIeL1ru3LPeen3mep5s2y+0nKHP0VBOxyC9g+yEZ/tiWn1MStzqPssL0uj2s2YocamrWxwV16Y6OV5TGhu7q5pxkx3Xxa5sfFjS4aH0PIwa24TpbNbvXgpYDM3JN/25VvTzvj6+n5vnw5++/8/FcjbyGBIh5c57OGIJH6YBk/riIU4KDAEXLvPq4qZfF/Wx6XdeH+uvp0655KtfkUi8xZizZRKoTWkHUD1zD+/J0ar79rl9+bh73QTzfJtkmXeXZ7TKriE9cAzGAhQrQLMWxVVwGkzyMEfKwjZHlaKpF6bJcbK7pbYzGI0RCZ/wffNtHp4CQ6r0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/018.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/018.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 18
     },
     {
       "content": "Il y avait ma copine et mon\nplan cul que je n'avais pas vu\ndepuis des mois au milieu du salon.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwU1r02AAAOAXBD14kMG6pm3yvkmariZd2yRLYvNlkiauSdd2bZK2Cf1ACjrmbuKl4FlRZIKIB4+CoOBBhoLzMkWYylBhCt78LT4P6Lhu2O6EW0EyiObpbKcbRzsjvlwB4JyK0a8eP397dHz47ujDx0/uumBU6yDu9mb93si2rqeTm4sbWsNUpIYuXqky3LCmL+N0MZ19+frj5PuvgJNVdgN4pjXf9kNNWSTp/u4ty2htcA5N2aWixzKOUTWa4ubx55Ozv/86rNxgWOCLm2OJH8jCRNP2dvdMY4yQz9A+SXkQOVhOr9DCg7vLb6e/BzVNIhkwYIrpemnSj6b12iSeltkeolrFYgAJG0ErjzVY1n325OnrFy+HolXFCBBVKmMSzYfJiOen/aEiBAg1EfII3CRwM5uVCpj06P7B6c8/sWBeXsHAtboQQtj1O3aZjZpO0tqikEFAl8DNQl6HUHZldb8bHr55n9gBz1QAD0lvNaPwkpjDJZLaVnUETQgdAjfyOR0RgitJ4mr24b2Dltu+cP4i4CDNXVpBmaxAUhyk9LpcKGiFvJbDlMyaRKxxnmq2NfvO7eVVwyFg6T/kcHOuFGjtMQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/021.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/021.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 21
     },
     {
       "content": "J'ai pensé: Stop.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwWtv0lAAANB+1skSp3EmDjcwuEzmxAyymmUZrrRQ6O3zFtqulz7o87a3KAPW4Dai/gP/sOdQPDeQRREqmqEblmFnYWqBocSxBi+4tjtzAxd5yEJhkLOsWNl9TYERmMCJbdqO7ZE4XYZBBsHk+iJWQBalWUJwnEWzuChWAOgvKq8oRVRuDdtFXhSkJQ7JWPibBxFgrRH3a13iJJ/nP/I0X60eIXTe7FcpqOgucqNZTLL5nwUukbpNfE9gHYHbrtdJlBFc5Jhsyt8QTp/tvKTG2sTQTabLyoK8wf4GSf8WSTLs3X6nH+Y5jglJSZEV5f3WcfHznT1KV3UZqNWD2lH9eBlOU+kmEZhp74o7+/g4z3B+R/Cc4OJ+/eT7+bvqB0oWJXEkdc5p9bz9NDNNhu6e1ORO0+lf+ux1MgSxF828cHn3YFnh4dExNerz3ECwzj6X9QPMXI6+tZjTRsJfmQzNNxuoXk1UDSGP4AWEaP/tIdW76Q0ZLq6/53crRqPWa530v376CflB+1RqNadfmnanbY5N14k0zabp7n+3K44ZHLePRAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/024.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 24
     },
     {
       "content": "Après coup, j'ai compris que Marla était\narrivée dans mon ancien appartement,\nque Baptiste avait ouvert la que Marla\navait ouvert son impair,",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwty8tv0nAAAOAejPPAgLku0G3BqlCGrX39+mYQBgs4EVpoKW2BlgLSrQuPbbosUTRTjDHxkXjz5sGjf6QXv/sHsbtwNLJ1985GLBIjcngF0HqpcBtO355OFl6/Xiq39K7ZsZoNjcJxjgXQEQrnkGQ0joAsphdF96Tq1I7fDJ31Inw/D1ez0NRajRdqq2UAihQ4DiqjO7V0Att7gKcPunl6abXfDe3VqP/n+5e/v36ur5aW6ahqq93uiCyriBJUSsENDNFye3kMLeJpp1peGM2zZv3b64vfXz/NJxPPn9qOaxiWBMChokAKEi+ntrXcvgmwZDRKZjKzjnqlaz9eLT5czN3+YDQObMczu87/ICbjaXh7N5HC0YfZxA6ZyT6TpHOrcx1MXF13rJcDb+q6fq/nyhyXlxUoGdva3LwPw/uPUjSOle0TtVFUZJbX688/3lxr6g3Hj6rVoWm6EsfIggDd24ggCewgW6NImyCsgjwIesFyHHxe3YbBOl9YitI5zYxpxqGeVnggQY/RQ5I0Gc5nOZ8FHgNGgnRWOb4sHV0K0owXT3kxYIBPUL0nhM2yxj+zZHS95srL0wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/026.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 26
     },
     {
       "content": "que Baptiste avait ouvert la bouche,\nqu'elle avait fermé son impair et qu'il\navait donné ma nouvelle adresse.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwV13kmAAAOC3plsXCxEBARWcheLJRJYfbal0FPYBLqs1nBsqmpBmG2vomW620nWO66a6WBf92z0PkNIBMUEJ7BOj3dW2y2oMPxDodj5Wpj29amlxNWT8eIggcRSDHkMw5AF8GNsRiL1NttFoaZJYf8lNTP1KV5UI9LWm/Ftcx5lQdC0cICkYgn0IAvJrwXQiWC2nGnpLk8VGOTexWv9nozcsMmpUby7PKQShSZIOBCk/gftQsBl9iiB+ns/ox81jRVaF6Ptibv652RPTQ/X1r/EZhqDZ589wH+aBYAInQGY9i2LUKkyWZFXfkmUuUuKjJx92735+F8JMgYtxdKgqlQZHtTyf0CoKENY3UCzwwLWaTOXEglhXtq23O+Y79e73H4aJPFxaSTBhXavf/phdnNi9Thdw8RSGUQAshyPxzItscePVqWlplcrk3OETfFGUL8bX0283X+xRxxwYHQt4PT4cDwDg9vrIZFKQCqLdap4axtxxJsPx4vbvdDq3z0b9vt1sdQ7rOnC73F4v7lp6tLwCsSy3J231DmufajXHtOazhTO8/Njtm9bAaFsH2tH+vnYPtCxuNcifn2oAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/031.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/031.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 31
     },
     {
       "content": "Plus tard, je lui ai demandé\npourquoi il l'avait envoyée chez moi.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBGLiY6IBUwGhMrEQiNhIN2dng4Kid3XFV6XVV7XlZ+Y1t4YVo8LisjGxtUUFFra2wASC4kPyIWMxsTLhMJl46MgoOGQDAsUDw4WUI9dFdOTTk0dF9aSDk2IBkZXVpabm9vAE4xJEEiFTgeFDIVCpiPjYWDhWNLRXJWUGpOSX9lXlhDPntlX2hWUykgH2ppaXNzdABPMSRCIxU5HhY1FwyPhYGoq6+IdnJ/X1eAYlqVf3qFZ1+SeXKEbGdUSEd8fH51dHUATC8hQSIUOB0UNBYKin56sre9mZKTc1dQaU1FclpThGliinRtZlhUeXh6f3+BdHR0AEorHDodETIZEDIUCIh8d6mssaimqnJcVmJAO2A/O31nYINybXp4eYODhXh3eHNzcwBIKh04Gw80GxIxEwaHe3assLSvr7NxXFZrTkdzVlB1YFqNe3aRj5F/foF1dXZtbW0AQyccNRkOOB4WMxcKeGpkgoaMe3Z4dF1YXEdCXUhCcFlTkXpzi316eHh6b29vZWVlAD4iFzEXDjYdFTYZDUEzLkZITl5YWW9ZVWpUT2hSTXJbVX5pZGZaWF9fY2trbmNkZKWglSbwIwTlAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/034.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 34
     },
     {
       "content": "Il m'a répondu:\n— Elle était à poil.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwFwetP00AAAPCjvT6u7V3b63PtrV1ftGOwrcC6F4Ni9ANgAFHiBAnDmGj4YoyPROMf7+8H4Bav8xBz/FEefWj2Ph6vnt6sd7Kqg00iq5NRwxwvwIqjyBRJBELAc5wIOJmDl/Xg79WLH5dnz+vN2/ObtBMRRIo4K3132zZ8DVFZJAIEIoSR45qKcpzHX9vJ48ni9bL9cv952q9zVg2rgzrLZimLdU0XIBYgIEgOLdsj5LTMNkeHm9Xhz7uH75+e62LHwXQ3GlTl8uXB8jRjDCumJAIkiFiScxZH1H6Yjf9cnLxbLN9f3DKPUaTkVqcbDubzm6fV9LyfzJgPeI4PVFzFaeIEEdbbonc92l2MGw2pPnV7blCH2bR+9ft+/TgfnlU9oEmotO3Icrd9RrGJoJDaVJGQLkopMQuDTlhSps2/b7/uFnWbhqBPKSN6IKsjz8scV+IhRQojRqTh3LAT290vqrLfVtV83PWXKQNdQjiwNQyD22bS0w1NEBykDahlIcVWSWR7szjOwypL9nPf3+u4/wE7AjtXSa5o6QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/036.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 36
     },
     {
       "content": "Pourquoi il ne l'avait pas prévenu\nque j'avais une copine ?",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwFwe9zkmAAAOBXQUcpg5GI/Ib3FXgBEWdCmDYHotsId1hrzd2uru68Oru+9KGrL/0P9WF/b88DmgR5RJAU0XhCkuzTVh0ARUY63xsKncK3zpBm8fzj38fD5++oBzlWAA2CrNeINtk4oY6OKYqo1x37NOlbl9jcn0/35y/Hivjv55/dRWWLRk9AoFar083mEmoO/4w/ZgAAnj16P1/cBPYhX3zNZomh/FhX39IiDmaaOgDtRjMW+N3zYKTKNEUBAFA/fLvItz76XRW/qqu55zmyjHXouXNJCcBEEVemeheHE0NlGD6fp1WaTS1rg+Fh+ermbDawvL4oYh0ZKGE5E6xdlNlmMcRB3w+cUTo+/XCVz1y3GuLbdPUiWq6SxNc0rCMdxjTdBZEmJ6Ya2Tj04xAatiSmk/HDu0/T+LJY77Jsd19uIhc7ht0VB3SLAZBjVYbucKLZ7fm6GkKocidjb1SW+7Lcb6sv99VdhB3HdDui36Zo0CAIAIAkIUtWsCJbkoQEQWLZfHG93Xy8Lh/evL4dQmgokO1YVLP1HwZpSFtbcM7gAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/037.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/037.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 37
     },
     {
       "content": "Il m'a répondu:\n— Elle était à poil.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZJJREFUeJwVy+tP2kAAAPDOu+vj2t713cL1+rKlRSgVCwjo3BtFiCRMF11IlrllyRKTZf//l2W/7z/BBNBE0jLjt4N8P1/uP264G+pQ6eeDtt+4suhi2cOSq0gYABVCQQaQSvLDtP6zunjZrn89PV+eLQyFxN14GPFji4ZU97BMRaQh+D/YqkpE8bYuv1+2j4v53fv10+4xDdK6mk3zou9ZvoodLBsScrBMRCi4OulQazseHs7rn9er59391+29T+wiLNtyehJlHSw5WKESoiKSARC6phP7vHScl7eT39cfDpvPy7OFiuSI2pmf9fJ5zViAJQygAhECUEhMO2NJSO1B4G/6x6vZa+Z2Tc1gXtiwpE5O928+7Ud5TnX5CKBXQIiJ6SmkCpiB9Y6uB4YlQcQ1mhB7xnjh5YeHH393N+simvBOYRmCBqXG975MGm5Q8QhaihpgrTKcWLeaNBv2JqP2rgrZuyLaNtXNMBcK3/t2db466Y26LLXsSCMJITbWHM0Y86gN0yK/KMLslLMx71yV6T823TfOFA6WKAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/038.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/038.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 38
     },
     {
       "content": "Pourquoi il m'avait pas\nappelé directement ?",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY9JREFUeJwFwVlzmkAAAOCF3eUG0cCiILcJIBJtEdES21AOgzmmk+m003SSmT70pW996e/v9wGORjyEEkK6wE14nsMMgxmKoqypOxYVInCawLM05ZGpM/NFXgEsDUUEJQZJDCNgzGMWIcQw7HWy3fveOQmf13FmXMxkaTLSJyoBkKI5iHiMIQ1ZGgmYhZBGmO1vTl0UfstXv6rtsLo0R8pVkM2IByiaRhDRFNR4fmcZAsYAAGWknw71S57+6T7+/rTvlwtLVcNgo+khoAAlYmxw3BDYt6EjS+ohL5/b7pQX90n49+7231PbpFFgGIaZSMoUeKq8dedH13yK/SqOEj/qy93bXb317OHSfjuWXXnzYb2JHdeYxaIwBn0WfXm/aqOgicMiXm4WYWLPh0Px0D4W6a4/nvfV17qs8mQ5GjsCJ4F3i0UVuoVjprbjE7L2vevA93Wtrpr682vXvbbNz4fmfp+lomyKrASsiWYq8ljgiWb5hMSWeWWarnYx18jQfx9OL0P/49w8ZqEvSoTBwn8zhjjL12J7qgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/040.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/040.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 40
     },
     {
       "content": "Il m'a dit:\n— Elle était à poil.\n— Bon, c'est pas grave.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY5JREFUeJwFwftvmkAAAGDkcXfccRx3wiGoPFSQYtmqUiu1c6xLs7RmbWeXNXXLlmWvX5v0/0/2fQpWVAlQIvjjqvr5pv69u/22PyReyAmrj+eBhaUJBQQeAszQiaErSNWJDlxCfmwWLzftv+vd4e7ptKqFLV+PJgmzBrbVI6aLDFPtUKArfde1ISik+3R28rEqvr5tD7uHTx/u8njWVGdZl/Uo5gg4AAgIqKEpnNB+1yv84Nd29XzVvNzvnr//uVxvGSJVf5RL6ZnQNRGHRhcaWNMUgXAxTHrCn/fk3229f1V+vrots5nAVh7E02AYU8KAbhk60Q1D1ZWM85C7qQwl5Znn7k/Ky+WaWUxQnnb9Jpku0+J04Du6oXVUraMqkeNMPTkSniA21IDAlgVNDtHYFhPGF9H4uGwfmvOLoYwd2zORwgHYTNKZH8SUCWQKhPsWTSiLKE9ksC7K4qityvNV5G+z5GIcKQzjL83yvq4f2/fv5qsBJjllDkQCWSl3N4PBSI7LyeIoDHLpLqLwPwjyNLvHaVeYAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/041.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/041.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 41
     },
     {
       "content": "— Tu veux un autre verre ?",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZVJREFUeJwFwVtvk1AAAOAT7hzgAOcUKPfCKKwywF4caBe2WbXd2rrGWhvT9GE6o9G4BxcTf77fBziKhoDuE31/Xuzr0Zf1h7a5wpLm6h1TRoEqhapkQd4QOZmhIE0DhqIAADHWf86aX28uHu4+ruebOh8mbugiVFraoINCTXYUiHlWpGjAMYyNOz2C12V6aMbtWXXcHnbLrWc4fdt9l/VuBr3SwqEq6xwr0RRQBMEhhofx/XT4tFl9e799PH6dT2c90n128nzX1P+W7Y92vBxEkSqZAgdElsMyCixvUaQPl/Xm4mq3uAssX2H5CJEzP1kV2Z+3zfdXZesbL2wCOIb1kJ74cdSxriN3NZpU/Rzx0CbWqRvmbvS5mTzNp4/X48PkdJH6QBNhoOouNiNiIY5PTaOwu0SUfcNJDWsWx38X7e/X5/cvy0/DbJZ4IEbIkZEHFRsqCidovIAh1ASYIC3TcROd3Fblsan2k/wydipLB7YsSwxr8KIvI1MQiCj6CvIkxZeQr5NRnHhuMS2aZR7XQTcj6n+FzjzWxUmOhgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/044.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/044.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 44
     },
     {
       "content": "— Elle était à poil.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYRJREFUeJwFwdtumzAAAFCrU9WlBBt8wVyMbcBAICSQkuXClrZJOq3rS7VljaY+tNOk/f8v7ByAqKQ8C12U10M9uy2nO206pUsEPeTkc6X+nd8Pq3sECQDAQRggN3LcwHDCMY0d+Li57eaDTzmCHnO1dB1uWYUqRJQDALBLAePGtmkVBAnBu1QcpzUm0r76mAfS+PKo4rdtu9TaeOHFxQfXoQBewyJQpS++1+VTk/c64VRgG8aYFFH0a7//2m+fPj88Dru74Z4RDzCIep0rzKhljy8vhUMaIRLOOEJtpv68/D49v72+/D2sVnfD0UgNqiRd51NFvMhxc8ZukmSZpHMZVbHYzprX5/P5x/t+OEjiVlnVpBmYJ2kT6VomuzI/9bOf60UZcAbhafvpW784LdvVpFFBrDmf5uWm7cCXrpOEYhuFyE4x8sejQkS1MVXI+6qpRVjF0SzLmjSbKF0KCR4WbScDfH2FrREdjzxo7debTdf52JmYSSrikFHOmPHpjfQDaP8H47w7UtWYtNcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/047.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 47
     },
     {
       "content": "Marla avait sonné.\nMa copine avait ouvert la porte.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwVy01vmgAAAFCuyzpFaUWQTme1dSggVqVGXbCoRCiTL0GlKOB3W+sWs2ZZl7RZsrmumckOu+6w7IcuffcHON5cE1sCdSC8jog4JmRiJlt03vKeyEpkzColvBqhpFEdh/JogERAwBqMbV3WCocKiZn5+EzmTf7067v53+3mxusveGLRpLrZSJ/cy0eCZNgH2M5s0FHFzEudQC7Fk4nKT1XhdjrY3q5/3X26d1uzesY+3h/QcBELEmE/4IwubENvplAFh1catzTPlqa8MNq/v3z+8/htc6GN2aNBLuIehxkskEVBwJ08hVoiLCSgpfoU7sf9dU/ZrKb/tpvvVx2vEj+nQm4OLqAgHQEBZ7Q4V+VKFKpHwZlYdSWuz5XfG+0f68uHD8vHK2NcjhnpXTUVzMK+HOoHrOFk2FHeJFECem6xhXG7UcXjK0O87ohDiftpCKPUfg9H5CSYC+1kET9g9oZdWWJewQUEcrn8XGlIJdqul+162RHZjwzVhQLXh7EJgRG7z0j4BaAbVuu0drLn94rpHnHQYyiNq8gl2mpWuo3qMhl9YMg7KnVDH6WhnUzI9x+lOHWLU1FR2AAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/049.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 49
     },
     {
       "content": "Marla avait ouvert son impair.\nMa copine a dit:\n— Béatrice ?",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwVzllv0gAAAOCaqCxxQ0Imm2FJ12HLOLoDUVbKoG4c1sJa1osetLAyoFIoShZMKIuryhIgWXzY5rO/1Pj9gg+QtNboZm5PbyWtQX7MZzAs/+FErOsNs9/8PFCMTlVSyWKRQJGDEJiMIIAxdL7d3o1nv7uWVRPPqZNcLZ9rqHL76/jSHhnWsNmzRaZSxfZTETgUDAK2M3MW987yz/UP13UnpSzOE7hCFcxu1+gNWsOrpjkQOdZii9k4vOX3AyN34SwfncVDo9Wa/7wmU8l0FP6UOigmUBE7Mrs9XtUYhjHoAhELIZsB4Mv3ubN8mC4fOZ49hsAMAp8mYvVSliSIGITkAhtilalxVbWA47vQEQL+L41nd5PFvXB2tv3qNRo/ZMt0neMlQduB0bUnHjadNpuyTCSLaIh6uwv0x85w+uvKXWLvcc9z7zYYrgm6Iqi6pOEY4V3xkdHoJV9RjvcsmuiUc4DSttqjCS011/2bKx5vGEF1Se9oFxeyTmTz/lU/9WbHZMlpvUwlIuXUHsDWW3LbqgjqRmDr2dMXEBimqfNaVeBoLoOf+tbWD1/6bLb096ZfiIfeQcF/l/uEPk7pzn0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/051.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 51
     },
     {
       "content": "Ah oui, parce qu'en fait, peu de temps\naprès que je sois allé vivre chez elle,\nma copine m'a demandé:\n— C'est qui elle ?",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJxj0FFVtjW3yC0pb+yb0NDT19Q3oam3v6G7t76rxy8wSFRQWJhPwNbc1NPHx8TKMj4lgUFFTlZTTjrQ3697xqyuaTN6QOT0rhkzazu6jA0NfWzMw13tlCQkdFRVLO3t4lMTGBQkJRVEhIw0VGtb2ybOW9g7czZY24yc4hIzQ8PSuNCFDUUe5ka6CnL2NtauXl4MMqKiskICiiJCkeGh7RP6m7u7Grs6W/t6E5KTdFRU4nzdegpSIpyslUWFTbU1vf0DGMQFBKQF+OSFBOzNjNKyMjLz8tKzc7ILCn19fVRlpNMCPDd0VcW62amJCTsbaru5uDCI8/NJCwnICvLbGOmnZWYUV1Tll1YUVdVGR0eL8fG6GRvMrci21FQV4+ax01GzMtRjkBISACF+XnNd7aSU5OKqmuKyssTIMDMdTWl+PgddjaoYfxUxEWlBATNlOVNVBQYZYUFJQX5xXm5dJflAd+f0xLjKtLhIZ2tlMVE5Qf4kD/uahDBNKQkFYSFrdUV3A3UGKSFBCQF+IQ4OZQlRV1ODjEDPvBCvAFtzWzNzVXHRSEeLztwkC3UlBWFBV331TD9nAK6xd8J+hQwiAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/053.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/053.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 53
     },
     {
       "content": "J'ai dit:\n— C'est une ex, je l'aimais pas trop.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwctv0nAAAOAmxuxieLq5/rq+6dpuLZPCirC1ozyEUlbaQguWJsgYRBkw4nZQE72YGJepiQc18aAHs+ywcPNqokf/K78P2k2QEomvhSK3b61Igqhr2uuj3vvZaE/a7bpd22jUikWjXG7puppJV1QV2oTXQSi0FgrnWeZQ2bcLyvPAvZyO6wcHgR+U1IJlNBrVmtu0FClVyOUhLBpFI2FN4N/0Xf9h0cplLyfDd5Njt6aPBsPHvcCzW22nfRQEXrOZlfchKhbOYGBQUd+OHuUEgcYST3VtVC14jns6PbWMQ7tWb1SNfqdjaBq7lYaIdUAClEJwgaRz6Qdq2Rz0nyxOno3nr+YvLhzTrimKms33PU9VS+x2BiLJLWSDwRAiFrnH8ZJu+h++XN/8+ne1/Pvz5s/w5CWH09s0m9zkRYYXEixEkHyCETluh8QZBFB60//89er7t+vl8vfFxx+lekdM5uJ3ohurAI7DcByGAEIDQBEkz3L3cYxRKs5iev5pdnw+metVsyDLlmGmxBSB0ixK8CgB3V1FI1E4FgMwoAiCE0R5Efgzz6HYlCwmz3qtsWsPO+2x2z7rOv5e9j8hU3HKjYPAqgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/058.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/058.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 58
     },
     {
       "content": "— Je lui ai dit que je sortais avec toi.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVy9lP2nAAAOBf9gCadYBRBIziQsFFKNDC5HAcbUdBoRctpdhSenA5xhiSKYJGdHvYgw+LyZa57J9d9r1/IO1/kzmIx2MZFEHFEjHTlAZR+KI0v3/o66dlDi/k0Pi+z4vncYosu50OkE4V/YHwzm5QIslZR1329Hb15L6nf+3pElEcq2etSukQDjTFM47md9xbwOPZ3XJtujY8dC5/PzB/3c5/3syfb69/3y2eFld/Hu40nsdiWKdtSYIcCsDA593bcLggyBmBQ2OJf5yO/q6WP2afVj3jcTJ6ur4USySZRE2tK0tqLBIF226fA3Ks29eglw4qlVwNjIeBORVZi8InIrPsm2w6wcZD521dltQ4EgUQ9GrdZl+z2T1efzaZMarvbyztSmDnPDNtcCZ7SuePDaY86fVbsnaUeAvsNvsLAKKxVF0ekjUti2J9rvptYC3a8qTJ48f5Wt1QFOPjYCSwAnIYAQAAp2uTrhuqOW0ZF0StkwhHcAwhsWg2fPB6P/iOkml5rHYvKYr2bXv/BziIVBitLg8V80K25ozQ5YqFk1SyQRRicCCHM5zyudoYVoRzoqr9AyNKdsA6G1t5AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/061.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/061.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 61
     },
     {
       "content": "Ça faisait trois mensonges\nen quatre secondes.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwdwu1zknAAAODfUtQr3arR8EtDE1OHJ4o6dYJAyotzslCRTljCoYJKl6vNXtxtd10f2pd1tz7Un7u7nntA7WWyHI3VUiRZpPKZzHLYn/VODbF5Y483Y73H0sdUHU8ksFhM4o/JXB7wFF8q0ch+skIUdaF55dh2t211pF9z+6P6VhOa3kgjUxieSp/pVrlQBHHsAN5Fdrafvo5hS6X705v9Xq/uLs//bdZ/Nl/vN19uLz9XCmStemRbDl2jALyL7MFI5En42c7zHkNd6OrdJ+/v94vbpXMzse7X51fOrEHmeYqa2guuwYFIePsFHH0cDAWhIBqNjnjmh2NeW8ZClsxWY62rc7XPH2CDKulO5myDAyEoGAlHQv5AwB9AUYwt5Lx+dzWQPbHlSa2F0ulzlExVbFmYT1yhKYKAD4L+Lx8ykjyuHjJcLrMaKtfm6Js+fN/m33BtpW9YujEzpwzNAsjn3wJgD0akjqadfThR3UqpTib2WSLLEXg2HksTVFM2T7XFyHAJPAcA2PL5Hr2KJ49oUdGcd+aqqy1OWhJH4EIxX8+mURQTe9P2wBWUKdvWHwBSnHAVYLz5iAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/062.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 62
     },
     {
       "content": "Pas mal, mais ce n'était\npas mon meilleur score.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAwDxc3HCUyKzY4NTkxJiM2KCZ4Xlh9ZF96ZGCGbWmLcGpxX1wpIiMyLjBMSk4fGRkAPjdAJioxExoiW0hIZUtFU0I+j3RtXEdDSzg1d1lTblRPQDIvKCIhRUJFXFpgIRsaABseJBIQEwsNEkY3OIJiXGhSTJV6dYdwa4JqZpp7dX5mYm9dXDo2N05MUWJfZSolKAAYFx0PDA4LCg0gGx1qUUxoT0iKbmeYfXiXenSVdW+ZfXqHcnBHODZUT1NkYmkwLS8AFhYbEQ8TCAUGCQgLQjIwWEI7f2Vei3BqhWlid1tVbFRPaFJPTi8mXk1LZGNpMS0vAA4OERAOEQUCAgoKDkY8P0cyKmNNR3thWm9TTWxLRl5EPlA+OVZEPmtbWGNhaDg0NwAJCAkFAwQZGBw8QEtJT15GODhGNC5iTEV9YVlzVE1iTEZLSE9fWFZrYl9eW2AxLjEABAQEBAMCMDI6gIqeiZCdhpOqfIGUdn2PeoKUfYWXfIOUgIiWi4N4WFxpT05VHRkbAAAAABAPECssMkdOX1VdbltnfVdgeFtWYE1HUEdETjU1P0RLW1NgeUhTaEZRZT5GVycYfWz+5x98AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/064.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/064.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 64
     },
     {
       "content": "Elle m'a dit:\n— Elle s'appelle comment ?",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBKRUdMQEBJQUNXSkxtVFNrRkBnWFZmT1k7EBw/FyOVjJS+w8q1tr2xs7qwsrl0bXQAUUxOT0hJU0tLfXx+nKCkeXN1TkE+ZEdQPhIeRx8ra1dWo6Gk2NvjycvStLi/bGNrAFFQVjQvMTs1N1FMUFNSWGlYVllCPUAtNC4RGTggJWFHQmlgYZqcoYB/hbK2vWleZgApJy0WFBgTERUXExcbGh88Li44LCwICAwnJis7PUZFOTo+P0giIyoAAAF2dnxZTlQADQ4SIRgcUjU5PkBIVEhJNi4vNyorFA4SRU1aUllnPj5ERExaNTpGEREXGxkcNzEyABMVGiQZHFA+RUJJVD9GUiswOSUXHBUTGCwxO1ZJTE43NT42OjAzPCAiKhMUGxYTFgATFRsTEBQMCgwTEhcsMDk6PUcbGx8dHyUTExgSDxEbFRgnJCgZGBkIChAHCA0KCAwAKicpRUJHQEFNeYOWjJOgh5WteH+Uc3yQcHqObXeMbniKdn2JfXZuSkhMDg4SAQAEAFJJSV1dZ2RndGNqe1ZYY11WYGJVX1hXZFZXY1xeaVhZZGJgaF1cZ3l2eFpXWgMBBmqSfOgJcpiKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/065.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/065.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 65
     },
     {
       "content": "J'ai pensé: Si je dis Marla, elle va taper\nson nom dans Facebook, elle va créer\nun faux compte, elle va l'ajouter\nen ami, elle va lui poser des questions.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLREZGOTlNR0hYRERyUlBgPDZ0aWxQLDg4DhpSMDyztby7vcW3ucCztLypqrFQPUcAUUxOSUFBXVdYioqOmZugZFlYZFNTVC05PREfUS43fG1ru73D2Nzjx8rRqaqxSTY+AEdESDMtLkM+QFhUWFhUWXFZVFE/PjwjLSgNFEoyNFpEP358gI2Ok42OlbK0uz8rNQAhHyQUERYTERQZFhsfHCFJODUlHyENDA8xNDs9O0FGPD46PkgQDxQaGB2Lio8zIioADxAVNSAjRjU8QD9GTkFAMyosLyIjGRkfU1xsRUlTQkRNPkdVLDA5DAsPKiUoNi8wAA4PEzwmKU5HUUZOWjxCTigoLyIUFhkcIzs8RVZERE05ODs3PS4xORsdJRERFxYSFgASEhgRDxEIBgkXGB4sMj0uMDkREBYTFyAHBwsJBgoXERUaGR4LDBIIChAIBgsJBwsANjE0OzpCOztDRkRJWFNUXC4sTy0rTEdFPjUzPzg5RUBBQT1ASUZKPz1BAwIFAwEGAFRQVGRlb2Rmc1haZFVJSF06N1tBPl9VUlhOTGNbW1xUVGheXmNcXIaDhTc0OAAAAeUucjlu/I3jAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/066.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/066.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 66
     },
     {
       "content": "J'ai dit:\n— Béatrice.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwVtvmmAAANDPRGBt2plqMa3bnI2XZVpvqzLBKwNEUSlotV5IAYPFIHaVxlaNXbO9dVlj5su2f7tzAPY2kA2nEzH8UzRBY2fLodxj6UGZetLktSLxOZwlMjH/yXuPh6+LmXQG4ATlC0W97/wyS1/VuR/GqEUWRwL/PBl9bQtCqXAj9XPJRDQcUeRRIVsAHo/P5XA6D1CpzJhtYfNg/Zpb2+X9n9X9drXYLOa/1yumRKZT2EgzGKoMPMde1IW+QnZzicRYqD1dK38fF/++LTfW9OftdPtw93w3q+dzX4isrk85tgYOne5DlxuBkYP918V4ZNZvv8zMF2s6614oFXqlDhaa2kiGm/iZoU+5Sh3s7e459h2w3Q7DSDwY6tHFx2vVbPFmozLhylqdVfkqT6SGVdLUTa7KAwSGEQjaQXZSn6kiJeKRj2Ox9l0frvudeVuYdZscSYmtgSopY23C0hUA2SEAQPBDrCNNLqSbAt3ETk+7TMmSLnWxxqSTgVC8WJX4rtEfWvk8BWw2GwTBGMGct7WOZHTk2wLbC3hPgkdo6AhN+n1v3Mc42WpcmmxTpxryf+lWd1FIswF4AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/070.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 70
     },
     {
       "content": "Quatre mensonges.\n— Béatrice ?",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwFwVtvmmAAAFBezWrcvHCpoMhNKR/tqjCqIApeEASsDKxVcLVbYrq5NGYmTbZ0TZOme9n2sqdlf3bnQFUMBYdoW+AASaZT6ePqUeBNviwv9suZUpejafBuPvesUeQ5gdkaNCWIQRCFpWoYmkkdZFLpNwKwVPXxw+rft72ltRcXi66q273ByOxNbOcMAIjD0Eo2C79IiyViZbTmfSPqaI/v46fN2jXNy9mlZ9lTb+KOnHkQDnQdAkWMh/M8CseG+nMTe1oLVOj7JLxPooXvf775OAuiie0G/jSJZqHjQACDq0WCxkkSKykCaNbluqwPZcmSG350tfm0H5l9x+wZZ9oqivSmBpHoYYUWKEakKT6XxYAo29NkubpZuuPt5vbu4bfvhpIAJPFk2O5IDQUicJpiBK56zNVOOBaQZM20o7dXu3i9ff7+9PfXn+T6toSWKyhBIgSJFiGcYHCChZEyTrBV/pRlwcBbnMfbr7u7Hw/Ptjls6xZfe/3yIJvLFHKvClAuj8NIOV8gijjDsIDjRK073q2v98HYULt8hTo3OqFt9zumdtrwm8p/K/pnLb8+KLsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/073.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/073.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 73
     },
     {
       "content": "— Aline ?",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwdy21T0gAAAOB95Q73CntpIOTWAFGs0WrC3Ngm0LgsPhAXnccMEUzcIdB5juKgOEyNEXWmSNYf6E965/P9AaIso8typ9fvjyeD786XyXTgTAbOD3s4evKYR0HYC8KJOC8pSiqzWT3YAxgfHfHTZdN05rfnV9fj2fzs8moyv60ftfiVlcPi1l4++xDHV8Nc+mWuXN0BFnHvIgZLT/nTn7+mf/85N3/OLn87s9mbUkmK873d0rXdEMOP4hyjqqqs6QCFIDQCchRRq1eH44v+t1FvNPx6cZ7LGXyIa28Xpp2aIawxHiQlPlc30wAOgTQMLuEeQ0t9sKy6ZdUajYOjlrS+Hg0GTrYL/0+PExE25iONhKAoyn1A4aAHzaZkq93u2N3WSbdtfzJ0DXW5KoY+bVYIEApgmBzl4tEIQCEwhUI0AmpJcf+w8bH7udO08roSekD6Yej9C2X/lU64FzgST4aXnjE+gEYREgKJBbewHCrmMlalbO8Us8IaS5GcF+2ZhdbbfBBDQ4Q3HQulYyxAY4jH7UZdruWA7/WG2Cxu7ebUrCho0gaLwcfv8rZZXPVTrBctKYKZSd4BKzB3fEECgNMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/075.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/075.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 75
     },
     {
       "content": "Ah oui, parce qu'en fait, à l'époque\noù je draguais cette fille, Marla m'a\ndemandé:\n— C'est qui cette fille\navec qui tu es allée au cinéma, hier ?",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwdy09vk1AAAHA+gwcPWxNnFjXbEtcZhrhC23Vrl9FSaIEC4/HnPf48yitltFAkxrpvsIMxMdnBiybu4Nfw4slvZOLv/qPE0ZUkCZo2FUXh+PXJ6LJ/3WIix8RJogEPJjlaFFZIDBTrMNZtj9I02TRVCO3ZTOlznHzO19AsLBVIAsSEVHdJuYVk5cQZiFIAAwpCEAQuIZHvWeM2aw46WB0n+mR4dopQMN98Sqs7Un4Ms8pL8iAmVJriLJuvi8y3Da3Xys1J5RobW7/VZYwgXn8IlmWc10m5RWnhxwlV1+uqWpVlDmYTpcsu1WFhKslUJNIgtHSX5P5iFS0LB6dWMHfCOfXl6+cfj98fvj34QFe7rMzRC2W0ATORbYYTIUszO7lF/wPAKV7VFI7Q46+fv//+Ib4tnr0ZsSd2nzM6by+aB/Nh7965WcjyjWYYPoGLEqUl1eMYGxj32/cq07w6PpievwvHl2aXlXkasc3VfiN4uWcdvuIHw4npKTaiui2mQzelnae9vYZ0+ELkaFfouX1+3Gbco/1i94n9bBc+b/A0e9q+6A/lf0PDmFtO+COwAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/076.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/076.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 76
     },
     {
       "content": "J'ai dit:\n— Aline ? C'est ma sœur.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwFwf1zkmAAAGD+j7rzdrtYbabug2nNbQryoa/HR7wKgsgLCO8IVFwyA2S13ep29UtXV39vz0NAUYrQDFumN9FlAchA8pEX2q6v6aYKbzEObGSOdIkfXFKt5vEZoYrK+gZnyeJLXohDhetyAYQrTbUACB3v759/cCgyV7TAcOxV57pNEyqc3iXrIokf86JItz5y1RNKqzX4ayYP5r+fn8fQ6NFCt8OdU+1avUVYJtoskySMym32VH4F/ODisMa9Omo227Eq3TnWrx8/fRc79lwW4cX7DqGI6hga6SZPN1my+NRuXdKnTaHaOG+cLaD8GHrfkihwsYv8uYMVCRI8C3gW3PhR/rncZaXQ4+n6SXePPK7Wy8DNbeNWU+6zIo4SU58JLCCk4QfQl6YGyrblLrvX1Mkh+ZbcP+IZHkMFSwOLZ9J16jnYNh0RyMSwL3G9gT6aREGYxKvxxKuQFFl9F/jx/t7rN2TN1Kynh++74iHb7uIoIUYyHPYlTdWdmRPjSDfnpy22QdHxx1WlcvDi5YFlomW49JA/myJ9ZPwHoZOTpRxsUu0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/082.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/082.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 82
     },
     {
       "content": "— Elle a une maladie de la mémoire,\nj'ai pas envie d'en parler.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwX1TmnAAAGA+w7a2dXZd160tUxnL47pcRiYLaecOXy5wHUKgID9fIHHyCwVFKLRp6l3b3fbnPumeB9HE6sHObvTdfr/b9YbQdweW3lKrfE++MUHD7LSbiiLxvFzhSjSdTqWRxo0Y29tPfsKHNpw/TJaPgdkGVPq0QOWeA28Vhstff1wvEDiWLRRpOo8Apc4w5VKJdWy4mvq/1z8F9iryOoInsL8T59/sHt45ugmZbwyTZ8plDpmMnMXTfLl8mofBY+ite7cXB4kKQVSyGchXbElo1FRFVs3uj4YC2KvviGvDYOzM7icj11nYFhf7GN+LLbT6WKrOdTBS5PBhulg/uyPfHfl9a4DcGiaEA98PoTv2rq+Lm9tneMqVhHwqJVGkRhBmx5jNVxYcdnTTMHqIded4wXQShJosc8UCix2SGxEDRelXb45eviWw5EWGlEUZAF1VmrKkIprW1o2+yIvUWYbOkl9IMvchZrzYMLe20Sh6TpwTxydfqUtouwDodVlFRLFWV0A+d5lMYJ/xIzQaxxMY2NoRdt/H0cPs8QmOJbE41mrqSqPVrtX+AwsDn5IL8wgRAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/084.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 84
     },
     {
       "content": "Quatre mensonges en trois secondes.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwdtumgAAAFB+oVnWy1yWZZnJatbV22adq1IbtDjUpa1QZRYQlYIgF4uIKApU0BZpk6VZlv3Bnrc/2NO+aucArSYe34sWjosTTVUEQZP6PEWIeF1iOoY6kHs9Sei38AaB1sivTezsHKAusNCTbShfuPVufM8KPJu8wLKptKUov358d21LvR5ybbqDocdHUGwvDnRIIpM+rFZOg9Ui8Gx/6eQ+ftp9+VptkX9+Pj66C8v1f//9Z5gWjl+eFErAdDwy5/PpZLr2nGDpBMaomc31quVJm7K7tM4yDZzsXxsM20dr9SJUApzZxF+59/7SNg1/ZjRiyczb2C3X/TYa3Mv8zUDR9CnHCgNlqGljgRcBURBHmj43LX1mrSkytbFdKcCz1mXzpMhVPqtH+WD9sPIf9LHpuHc9XgI0fTp3vIV3J4liu4ycvngFhyNcLhfd2CxuhcrRRBUpcwwnCDJB0DTNACwrSJLapugyBH1BkBIIwk9D480dZud5LBwBs2A2nUHPUFkeYihOUV2gdl7vdrkKjHyIJlL78ffJVCHyTtt6hoXf7O4nYDCfjCYOkgc8L9HtK1kZ/gdB2qLi0eBnsgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/086.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/086.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 86
     },
     {
       "content": "C'était ça mon meilleur score.\n— Béatrice ?",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwFwctS2lAAANB8Rbtwuqqb1icIKjIYgRKjBhKTkgfmSZLmcSFwSVSII2CMqNBmSltoVx1nOtNVP7LnIJmdvdXV957r3F4HYQANRcU+4AMIW5YNZNlvAfDJ+kjRZPUcOyqlN1JIbr+wsvK214Wzx3j5fT4cRszx6debwNOUPoS///yVRfUMO8nniwROZDMHCEGxr1+9CQbjL9OneTJ7iO4vCii3tdUkqn3XXsajDrySFYOmeRwnt1M5BABo6NbtMIqiOI5iijw/3U7z7zbKZazNM6EmJJPYBbDV9nXd4XkZkSRdEBRJaqqqCVqwfFTCsvu1fCGT3pVrRBL6z74bXodX/TFo9zhOQogqw7GSptmW7WmKgaJFbjdHZfcODwp0Eb3zrEFTjO/iafIjuAxN00VIihMaTd0ALoDddvcYP6tvpk7WNivlCl1CYYMJDeXz9DGeTMObsR/0EapGy6LiOJ2H5GW+eHla/BvHP/ujb4P7RTCcjyfL59niVzJybaDKOsvwSJ1hxYakaabhXLregNf8Q1zEGcfyRjiprO9UFL2jmj3xQmPrQrVK/wer06TRc6fceAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/088.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/088.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 88
     },
     {
       "content": "— Aline ?",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwblu02AAAGC/A2KIFKkUtRJEqIcTNYebyG4aZLe26yM+YsfXbzv+4zs+ktA0IBY2NoSYCxIIBt6ChYVH4vsQliG5u1tZEmiaPD/rUDhO9lB/Ng3DpWTYTpi7Sal5S9WBKoCKYSGyxGszyQGGLIvXWJ8nhnvf2JiyTF2BIIq378NqD+LChKnmR3PHRQAwfN+K4oVr6zzR10jCFehQFdhhFwB3We+TzbuofvDzrR3mHgyRNIFZFlZVDubK9GpQ6uJbz3hjqbUuQhfAcucmZbDaLqu9Ha3sBUQeduv7+3q9KXTpTsR7kUAVMhewJGSuvdl0DlMQF35aG0GseYG5CJHPXz79+v3z8fuja6gi0WMG7SVHFSpPd88W/M06y60wc5LSgqkJM1juEMfSv/34+uffX2jNmD7KDND55FK67EzOW5DEPypCckNpnCA50IkrOyoQArtQFeFDHvHoK/L0pUD0fXaijwcC3gXd09Wzhnt8YLw4Ho4pVjFE3UFw7GLUPmEaT4nDJtc6YjDUpHD79YgddszW87r5xDxoOIfNEdppY8SYpP8D8nmXgthHJHYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/090.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 90
     },
     {
       "content": "S'en est suivi le dialogue\nle plus triste de toute ma vie.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwblu02AAAGC/A2KIFKkUtRJEqIcTNYebyG4aZLe26yM+YsfXbzv+4zs+ktA0IBY2NoSYCxIIBt6ChYVH4vsQliG5u1tZEmiaPD/rUDhO9lB/Ng3DpWTYTpi7Sal5S9WBKoCKYSGyxGszyQGGLIvXWJ8nhnvf2JiyTF2BIIq378NqD+LChKnmR3PHRQAwfN+K4oVr6zzR10jCFehQFdhhFwB3We+TzbuofvDzrR3mHgyRNIFZFlZVDubK9GpQ6uJbz3hjqbUuQhfAcucmZbDaLqu9Ha3sBUQeduv7+3q9KXTpTsR7kUAVMhewJGSuvdl0DlMQF35aG0GseYG5CJHPXz79+v3z8fuja6gi0WMG7SVHFSpPd88W/M06y60wc5LSgqkJM1juEMfSv/34+uffX2jNmD7KDND55FK67EzOW5DEPypCckNpnCA50IkrOyoQArtQFeFDHvHoK/L0pUD0fXaijwcC3gXd09Wzhnt8YLw4Ho4pVjFE3UFw7GLUPmEaT4nDJtc6YjDUpHD79YgddszW87r5xDxoOIfNEdppY8SYpP8D8nmXgthHJHYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/090.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 90
     },
     {
       "content": "— Je m'appelle pas Aline.\n— Je m'appelle pas Béatrice.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwVtP2mAAANA+sgzXla+t9AbKpR1ITSlNhWE6im1cdaFAG3GuBLOFRazAOgqbE9kelkCQJWQmyHzdH/UcaJeNq8WiP57czuaT+WIyX/xe/m21P2+iGLIBMzhelHKKputHxkXvovWpCXHRiMzvdLrd2Wo9vV9N71eL9aN6oGfisUvruKrktzB0L5czzMrZuWOdWFCcoliaeHeo3z2s//x7vFs9TJdLURCN/fzya3vmtlI0mWMTlVpdUctZUYIim3gUAyKXcLvu9a/JaHzjX39Ps0k5/cpv2tOrczkRzVBhyzTVsibvFSAKBUwISTPkiVXr+cPLvuf2PZ7jkiQxOK3+/+nxDFnkYpWyoqgHWUmGaBCiAZJiSLtqDse3gx9jt9ffFwUk8Ox9qXDj1MDzIBfGVWFHSHHcVgSi0RCBwCwZNo+PvOHI77SNvLiNgRgGPNtovMlT8AshShlSppAg5QiAKIBgG8FtDNXykvvBHjXrmsgniTCLhWYd55tTT+JglyEcVbYKvEDCEAkQOBAgX8KlLP+lUTktv9YLslZSYwg8+dgYnFWzUYrFgWe/vbIO46HgE9g/cRoQw9X0AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/092.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/092.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 92
     },
     {
       "content": "— Qu'est-ce que tu fais là ?\n— Je viens voir ton frère.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwFwdtu0mAAAOA+hDebS4aLcxJ1CRPK0EK7MkbblUJPtP3piR7/trQUCszhmF44IzPxEB/CxPgCeuOr+X1Iv8/wfE9RREHkeJplWkTvdS0Asm47IjAtmDmTBfAi1QkVJ1JMF9E0SR8prmsBkWujJwLZvB6DlSGrA87w4+Tqfby8ddOFCTPNi3XHR4LAhqGTZlDnL1kMTYdcKPWnQJS7pOFH4XydLDfJchPMru2kMLwIyfN4NpsUi6kpXApnjdVI/ADHV7o81XgngEH+xp0UQb4K52srnoGxj2zv7z7d392+WxsDatCqJzz91lIzgTW7Lcs0NS/2JoWfrfQg0Vxo+Amy/fzxz7+/v37/1BhSwFEJr0HuwmM7nUp5buueDxUXOkluRbkZ5XCxQXr0+dcfX75/2+IvnkhEXSUbLkteVMpU7fkNTd5wzBDDzilWGI2tpDCjHCFbDf4MUxsvscP9XrOqtF9FPCXjqEzU08d7WWnHP3rUrFRPiS4jqAKwEQKrM4el9v5DqnzAoMegi89H0hCv0dVn2cFOuvfAKe2yT4+OUax62iQ6zH9h5ZT9EOz/4wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/094.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/094.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 94
     },
     {
       "content": "— Je n'ai pas de frère.",
       "index": 42,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwUuTknAAAHC+xR62pra2cbbsgchqyMM1QMEF5LU85A/iC3BAzbeumtk4NtM0denUF6hL1z117dSpT9TvB2mqZBiKaWo0gVUK6MBWxkBXacJ2QCuehIPpPO6MrWu9lG8qPBBZCACz2XR91xapvMmSvswPHd2qXLU9EI5W09XmuF0cE1Av40BgnGoJCoNWHIdhy1XfFAaGeIj8haPtWna/5UXj2/Fs+XG//f5hktxwFldqSgy03ixXt/Oo7SnFXCDRm6Y1s+SRIURmrREmvf5ou1p+20+PfddmSVAhoJ+/ftz9vtus5zUSlQkEMPjElqXXGYclwnbb6fSSfvL13ejLtOtUqEBmoPf79Z9/fw+7lUxmJRzRSdQgs8X0eYOnPgf+xm8EtnEYdT4NvaDG9FQOqtDULu46ZK5GXlaxjHmVdxmcQ583OCqEL8JXFzGGBDK9AGJyw1s0BpVyGfXeCffkoXj5UsDRQOEDidGKuTqenT4+7Z6dRnk4llmvXPA4UsZhiE2nxEf3y6kz/kWKRp5F2nWsC1UM1tLnbx+cDLHMROVmdcGksjzyVMDg/z+6k72s2M1UAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/096.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/096.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 96
     },
     {
       "content": "— Ah ben oui, ta maladie de la mémoire.",
       "index": 43,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwW1TmgAAAGC+d7dzIpDiPJi2sxuSIAhIkm+UYphG6pyYbyUTUIulvahdbbVq2+1u2932bbcfsR+45wFG87ueYea3M9lshqTjZXXXHE2s6ZU1veg2qo2M0FPSKYqQaBJygYgLBJybz9bpe72hFRQlJSVb+dRRvTI5X5zMb66GnW5BKiU5VaASxLoPWo0FMWB2/+3y9uOn++uCqiZ4bqDm2sWcdTazFx++LKdGMcmG1yoiJUXCMIiEvF5g/vTz2B4/PNz2W63tgP9tRihx0YGcdcbOmW0YSlKNk+0crzAECnvdz9zA8usvw7SzmUSbZeznrvYmqzMb+sqKJTDnw8673WQzzQ6KksYR4UAAAWHg8vGHeeLIElf1+VoeqL/JdkXmEIaa4ZBzIM+09KSSq6X5fZ7YwAJ+CAFOrx+PrZHM0TU3qAXxpsgeiPFyCO9E1u56e/++L/9cHI335TJP8q+wEIoCh6YTF8Qtjkr7/Tsej76K6BheROAqT/1dDp8GVaMotbK8HF3nQhj5EgNq/SHLCbEoEaMiMuh5A8N1FNUQeCuI/16Y03q+FCcrIr1Dv47hL3AY/g8WI3pzidWU0gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/098.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/098.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 98
     },
     {
       "content": "— Si, tu as un frère.",
       "index": 44,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwV9TmgAAAHDeu9umNPwDZkmlLIEQFBB1IDIkLZ3MSg2dpBxZWsZlyzpZd+Vqt93u2q6HPe5pH2Efb78fMLq5N7qmpuZFUUwwXG27NDgbDy6uT5yJUdHMLXFfFiSaYN5g4AtvAIQA5/bRHg4PmrqiqnIu91GTrGb9dOo605tJu9ZS31ayqZ00jaPoKoxQ6DJwOf9xNfv8MHfzalEUeFOT2uV3J5dTx737PjnSBUrAsYaUIlYjPtCHLYWA668/Dy17/uW2XdN3lkONPF9hSbsgO6fnE7vTkVPVNNUvCjy2BoF+eBECZt+ezV5fFnmTxI89r9o51qDixsLCmZK96DUslTcKnL0lKGRsJYiE/UFg+vhkDY6VTLLu8xmBQFfiu9nUAQybSWKsy25LG75XWjJXorEogoQgPzCePXQsq0ATuy89ehTdTzP1DFuNrfVZ/PdV798v92nUsspSmdlIRMIoEgKa1ihB0yJHi+Gw6vEaCNLBSQ16bZfEv3ejT3vaYTHTEFkpvs6uRzYiK8CueZRMcTQVZzbxohfc8wc+RGPbIFilyT/3530tpwt0VUgUNjFiKQiDi/8BD3h52ts3yg8AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/100.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/100.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 100
     },
     {
       "content": "— Il est chauve avec une barbe.",
       "index": 45,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwetT0gAAAPB11/WhGkyMuWAM5ni0wQabyBoP4RCnIHFl5cxHhuhkuI3GidA8C+PhqMuJferqj+33A9r9L93B9cW3gTmamOMbc2L1h2NzNBGEDIGi2AISwrBsJv1JPjpsfJT2tgFJ2rmypl+nP4f2bHh3//2XPb6bHR7LcZK6kg9+n8tsiKCCxFq5zAvp5HIKSIRDRq83tu2RbY9ubwfWzfUPq1golISULtX+XaoVnqMC/tXiKh1j8iUR8LkgsZBTjXZL15qaeqppJ4rCUpS0VrDU+qwj0xjKBLAkw/BCJpPOAc+dIBPE68eNltFpap+VtiErLRIPvMq+/HuhtN9vwiDIE9gSGYm8oOI0AyDOpySG7u/vGX1T7/bUTnerWvE4HWkyPG3ukl7k0YOHScJfoMOpRU8cdQMIBAY9SG29dCKf6rp+tFVdWvQR7nkxQQ3q7zgcW3BCEQTOk/hKGGU9EIBADt/8XJ4hD6riZeODsV3NxWMRBC5z0T/9szxNYq65hN8rZbkiFaBgBwA7QPeTxzwVPntbMXZqr1f4NxvrbDS6kYjcnzc3lxnimSuJe3dzrMjFPBD0H+3CePl3SvzPAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/103.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/103.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 103
     },
     {
       "content": "— Et moi, je m'appelle Marla.\n— Ok, d'accord, je vois de qui tu parles.",
       "index": 46,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwFwUtvmgAAAGD+RLNkzZLW1WXVNuusCspDEHlUQctDXgICIq74qIgE7No6tx2W9NhzL7tsSbNkp1725/Z9gCwLhqG0qNZJ8URgmC7eiK3+xtVskffCaDRLxuF89clb6ZyEV7sNCLAsfTweohgGl846SMXlaVfgUs9s16uGYc2z3Tq7/fo5e4iDoEfyaBWYBN40DKBKuYMjCoVt7P7NyLobWbEh+0PbX6RRstlt7x+3qy8TTcBBYPdtmyQRAtckhhQbYKx2H2ajtSrEfX5iG8EyC2bX0WL2eB/9uB7qFAy8/Hv59ec3VDmXWpiEgzoBJYaQ2bpDYxrHGH7oT5fz6fT73N1N1OCSAp5+Pj3/fdZQSCPrEg51wA+DZs1vt7BC3usyjqL2JM33vCuJXSrsQuUAuU1nZEP/WGDOi2z5tAeVHBopH+wjx7nggkgZUkXQ4UBLbcFh6g6LABf5Q/P1Hv0ux73POW0y5GmfQpHCWwMF1yI/RqGwiV1ZWuL0zWZFrJ0C0v6ry/wBevjGRqHUM1cDeUDARPHIJuDEVCJNvLHEtSW6XFNGztjS8X84+JCV+gwzMAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/106.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/106.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 106
     },
     {
       "content": "— Vas-y, entre. Chéri ?",
       "index": 47,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwftTmnAAAHB+2922W4WKfhECnAgihM81QdDc6mI9MDPNrRWV7S7J5aPM57XhzFpdD/1h24/7T/t8oN39g5Y1aP20OsNRb3TTG930r38n1FTA4/mqpeM8yxBEoZg3jozc9mYmq0MpWWpbA+v+4dfj5OppcjWedIcjPsAXPy39v6z965wwKFBi0dh8XJIVMRiGOGp2Z+fLaPw0fLgf3N0O7m4b7TZDURsLSv+gYH0r8jgaYX2hYFBb06WECr11ITGOKX8/qTTqZrVq1mrG4SGFomtK/O+FOamX3nmJOOtZkCU1mZbiMkQ5HT7UtWfsNbr902ar2upU6g0ac3M4NjaN/eUkYZvRooLK+6JzcyExCBGI3etCtgv5i8sfjW6ven6eXdFIO8y5QUlLssCJwzMCBhSGTDEY70YgzGYj7PD68mLl7KzZ65fy2ZiXxKen0gJzurXKugELnBHSXVAjepQVURgCMAym3sgin9nYPC6bW2k5FRY5DHwUvO3d3HvW6weIwhDX5c9m5gPx+gWEIw7Hq5chlpbkxKqmLYUD+sp6mBcS9OyxvjhPkyxwJP2eP82jppHz0/QzAJ14sHVNqswAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/110.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/110.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 110
     },
     {
       "content": "Alors j'ai dit...",
       "index": 48,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaNJREFUeJwFwVtP01AAAOAaRZljvd9oe3o7pdtOy+lthXbtZJeWIQ6YsMF040EJMTE+mJjoiw/4st9h4h/1+wjA8ArJqBSrM/x+ixYpThBUmpFaJC9LGmqjrnWQBjFWQMLyP1e3hM7wgOYUktVoTmkxAsntkSJLixQlyLIeB/EI4+IQJ6oe7za/z68IYY+mGiTSANZ1rtGyBDG0QW4BUxKRqkyTsD5KBmFQKCB8/mr7+EDsPNttvGj5uhFBh3vZnELlbQR9ifNl1qOaE1PenA4+VuVQBcnO679PvwlTAooARSFSwbHXKcYdNCv7IYSRaXlt/6auPtdHD2flUN4vKO7f9g+Bre776dXp4BxZga11U5xcz+ar5frD7Xp9//jj19ObEC/6cU7RQ17afvtCJAdBzw0yL8xR0NbdXtSvqotJddFLy3pyvlzev7u8u75cjBDODWMUxoQh6h3Q7hrIlmGZ1avN1/ny02y+ifNJhqJFdlKk4yIdHwd9z/ag6hICKWmcbsg2NtD4MHadDrQcaNqGZjguPinPhmmd+SV24tBNQzf9D7cyTf7DyeNaAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/115.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/115.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 115
     },
     {
       "content": "— Je suis désolé.",
       "index": 49,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVy99zkgAAAGBeqqvbdZszNa3lbeamAjJ+KIjAQGGAUxohGvgLFDRnw+3M2m5XV7vb1dXd6nrZS7313p/Y7e17+YDVh+t379yLhsIMRRdyWY0mnUbt+t3p+Wv/yGrXZdXu9Bp1DclBRaLIsTyQeRxbDSVoKKsVoLbAjg1tWFe+BdOLqf/1/WLasQ29qWmHeD5PkyWBrwJyKradeJrdTJkl0FGqlxP3omNev53/+33z9+d3f+CYbVvXDRLDOIaVJBmopaKHOwkR2oKTTygIPuu3PFVcdq0/Xy5/ffrgOl635xovTYrAhT1ekQ8ANhGStjca+fT6/QexSNytKzNN/di1f5wt5t5o5I37g2Gz2b4NHK/INSC+Fg5HnuWSm88jUSgNCjjWP1CugtnSc21joOtHtj20LKtE4BzDSaIMrKysRR5tpJJoZqsiMy86arUIw8oeH4z6U/8zVjimyxNJ6hXxIktTFaEKxGOZnfQ+BDZB0ETgVqvhju3hcna6CK7E/XOamVN0gKAegrwicJVjBQCGTRRzMNzZRbu3IHyOP6mIS7J8QpWPKfpNgZyguJvf7SGoW6L0/+KEeTszRRCBAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/118.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/118.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 118
     },
     {
       "content": "— Je crois que j'ai envoyé ton plan cul\ndirectement chez ta copine.",
       "index": 50,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjMJQUVhUV4eTkY2ViUVVStTY28TQzKogO7ynJK09NKkmOtzW3DA4JCwkJt7G21tHQZNAV43dWFJcUlZYUl/OxNAyyNYt0d07wdOkvyStJiuusLC1Jio8I8PcPDHGwtdPX1mYwkhTxVZVwVJaWl1V11FWPd7Gsio+siAqe01y7emr/kolddTmZEaERgUFhTg4ORrq6DJbykh6KohG6Mu7qsnbaylaaagVhAWk+bg3pyQu7W+d2NmcmJccnpkRExro4OZvo6zPoiQs5yAh6qEiEGijZq8lxsXMFOtpl+7g3J8VPa6iqyc2Mj4tLTEqNio53dXEBaTCUEtEXF5ARlZSWUjZRlJUUErE2MIjzcGnPzy5PTwGZHJMVE5scF5/g7upqrKfHIM7LJ8Qnwi8gKiWppKlkaqjlFuXpaWtk6GJjGx0U0FVX5+VVaWae5Omd6OLkZqSrxcDOxs3LIyQvo6+t6aurG66tHerlHJ0Tn1iYmjqpvT0zrdXKttDcMlvfKElXL1hfx55BSEBaQ9XV0CjG1DzNxDTZ2Dje0DjJ1i7Lz7fUzb3YzCrP3CrL1DzNwChORz9SSyccABHTc+GQQ+sZAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/120.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/120.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 120
     },
     {
       "content": "Bref, je suis dans la merde.",
       "index": 51,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwFwVtv0lAAAOA+6Yu6YbzWJagZRpwSA5swJ2ALXUvx0AstbY/rhd7b09LLZmADpjOL8dGf7PdhLDMSOF4WZW0GdWgiN9AmQB6NVQa4c8+xXNt0jO9mHBWHR92d3afYZMypsqpD3TLsMk6WQWAwBCQ/h6KAgiSJUxQmoRedl5uTL8PdyjNsyks6NOaGHQfoh2cG4ug3ckKORga8yC/SOMuTfIGyq8vb4XDyHH+FzaaKbTq+G+ZpcZ04hQIu7TOfZyNF/LXeRj5aoCxL8p/bvwQ5vvfgEabJmiTMTklGFqRNbBfy6F/uLTjWA9TNahkHSYayPC23mz88D+/cvY+pskYN6D28+qHRvIrmEUeEgPTZAd9ubMoCJecLlOdpuV7fKqr9+MkeNuVFakB/OjoRO8fXAXTYXv/tS9CsW0zXpUgkSL4dBm60Wt1wPMTx1xhgQZ+grObHVa2afiMVstN9Uz37eqiQHXCw79RrMdQt0ymy5XgsVR7i2ClFU10irL5gKztKvcYdt4iD/RCQdOu91GrojXdWrwc13Z1HPKe12/3/HcuNWsauSC0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/126.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/126.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 126
     },
     {
       "content": "— Mec, tu m'en veux ?",
       "index": 52,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwW1T0gAAAOB9Li31ApQSXHPohDE2BgQDNoHBXtjG5EVFN0ACN2QrgjDjtPjEXR5al915cV391J4HWHvy1AdCJY7vaFq3oVvd7sW5wTPpxvGxUpRyTEYUxEwiATkd0LrLD/sAx9LSi+Vlmc21K2r7sGa1mrlEsoBh/bOuKpeKHK9KspSMRuCtsO91EIYB9+oKtOG2m5pZVUf2+4FtQx6UlwYHR1O+cCjxXEVW2gonxkIMjsbQALDldOx6PeML88rqT8bjnmEQCKEbM914KAvlLJ2uSHJH5WWKZEkshQcByOWk/Mjt7d3j4t/j77+j4VjZ3y+wPaU8K4tyiiSqWbqWTUoUmY9g8QACBEFvhsAuhx+/zX/O73/N53fT4YeTI7ttzrSi3NnbrsdCKr4nxvAUikR3t4EoskNj/hOB7ev1S9v+en3z4/771eSL9en6Hc9NMF/vDdEKoyIeoHagCOQFmFBAoSJvVUFnU6V8/rSuLxZ/Pk+mTXNgZzIWuDEI+LRwUPTDBY+bfrUO1IpCKR2v59NKnMjTTO/cvBmPzvSWIh+ckuGOa7UPvmyAm9VNt7q2wjx/9h+KJX8CAU39pAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/131.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/131.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 131
     },
     {
       "content": "— Pourquoi tu réponds pas ?",
       "index": 53,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwVFTmgAAAGCeu9rOSisrHGIqS0QD0lNhiYJDhoCgSBqkRMapedZtdVu521bbnN257rq2u10Pe9rf3PcB3oX5Fc8Sk6Nso+GYZs+2R/2ByBYbUsWo6wz9qsSVBI6LBTYh71IEBAHvwvzi3FyWIB1d62jVoW2rwpsUDLv7pqE3eZaVKnKVK+TR6A4MJUJB4IXP6/d4auXXI9PoNpvj6zEeJ9KZlm59L/NdgWNlUbZkUWeydPxlLh4Dwv61gM93oKmfL96dD04/Xl2RaFLT+u3hH105YWmqzAvtqmgUKSaxXSAwAAHB+ObGWf/06e+/x99P07uZVCzIXIsVvhiqs7ebrOSytXxGoVMcgRXwOIBHQunIllWv395OJnf3Dw+/vo6v3Xa/1fnUPugexsIugcoYopAJGkWyKAIk4SCDJ8Rcum+ovUNzfHk5nUxvbr4N3r53rM4FEjzL4E5iWyMxOhrKhCAA34IVKtUoMScSK+3RslT9Obv/MZ21j4dHqu5C/mEY6qJRBUOKgQ1+bQVQykKNyzdYWqXI0i7RMlofzkeufSxLajVftFaXe+DqEbhugOvK8iL//Nl/vg9+XZjEXloAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/132.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/132.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 132
     },
     {
       "content": "— Sérieux, je suis désolé.",
       "index": 54,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwctv0nAAAODe53QLChRxASortA1FxlagtLwpUGjhZ0shAqUP5tbKYAlwwCxhCD522OZBjAdjPPlv+n2QY2/PdeAoMYzZ7Qw7yoWqTiy7kk71JCC1QCGTrVVqXDaLwu6A80XI54Oc+09czw5AnTcVSZelsWHUcnkGxS775xJo82WuJTRBIcNiwfgxQr5GoKPnDr/bPVIkW25Zmr6YzSLheImfyoO7almtV8qg0dRbPGDPWBJPEjgUcLmC3pez8fjzzc1yPl/MZonIyTt12b/YKUIvz9Ai3zABD1iqFCczJAEFPTAdPt6uN7///tv9+rO+3bT5arWgVxrrttjNnUSlDA1Yqpk+406jTASHSMSfJjDbMD5tv335ev/4+P3udnWuTUx7M5C6No4YVBREwgL1Jk2EkjgKUVioGCOVcu5SFiemtri+frh/WK239vyjJUnLsP8qFR/FCCFGMCEkgfggJoKJ9Kne4occ28gXup3e7sfP1Wo7fD+1qjXL65yiAYPERALlXsFF2An15PbbPKMUGTEZ45IJra8urj4YA02oi0qKHrkPxz6PfuRRvDBwHBaf7v8Hhl1+9JPHQ2EAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/134.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/134.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 134
     },
     {
       "content": "— Elle était à poil.",
       "index": 55,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwe1TmnAAAGC+t7rdWDTt1BBthoLx00nmmQqCECIwbhiokS9FpbLSfGm129xud7vzNm93285d121/6p4H8sHP4JWVUACtyrJj245tX/f67caxlM816w2hyLP5wmFJzKVS6DqMvdiAPGuryOoT3zpiaUrH0B3L7DabaTym7mfOTk4rkiSVRLUsizQAQT8VCkJEwOeHYRLDhq1GW1Pvp7cNywpv7b2pz2T1ViopsigaimJLRQ4QGQKHKGwLRZAkjs/G41G//+XDR0PTs0mmM1ia9U8VTuAY1tTUVoUXXsXz8RiUiryMeD2HmfSv5ePvP38fHv+17ROVETl+ouvvZLZQoOkqm9NzaZEGBYqEMkQUhIJCem80uPk6/7FY/Pw+n0+7bsOedpz3xkG2G9s2QEwhd/gEmYqEIYCheYoUaHD2unxpGZO37ufZbPFtMZzc9cZ356nEfSLqJEiLivLEDkD9EBUOizQw2INeVakVsxJXGg5Gy+WDez09bl1c7MYu0c0+HjLiOLeNMt4NSGTYmqaafP6omFX3kzIvjK+ubly3ZpiVsmaFg6ee5+cBb82/qXoQ+enaf+OafjahJedlAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E61_brefJetaisDansLaMerde/136.mp4",
+        "thumbnailPath": "thumbnails/S01E61_brefJetaisDansLaMerde/136.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 136
     }

@@ -12,300 +12,650 @@
     {
       "content": "— Dis leur.\n— On divorce.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwVzttummAAAGAS+MFaM0tPE7NhOYhUfkGsQBmHKlhAsRMqsazO1RqTbdmpO8Vu2cWS7Rl2u1dd9j3Bh4jUHnxUCdXGADK+dGRxFbdB+5DrQ15+XDlv18eaFGvwwoCp2ZpZCtKk9vsS+8xWjqm9ANZ6Iu1J3KWlpo7uH7ORYS9jfzU8Ww3ddWS/jEwkUITbvvpns9RFZigzX7JeaiqL4MnYdltCD4rRi3i0WaRf58m36/jnIkbaLH10QLZ5miLLKv0w0WGiwytLnVqdJu/JovdxGr2+HKp1zoaNX7cThAAEAQAOsP2tgsNWA4mZudq8b0SKoPBdgdGX/unb2C1iaBEH9/MxUsDAFsC3iUKNfHBSowadTodnY701NVtOU7BFZh2a3/PRKnIipf4pCxEMxXAMFAB+WN4pEUVFlK8851Xi34TGTIfPXfnv77t36eA+G0w0yRVoBGAY/r8EcBQoXO3DdXI3G20y70d+/n7sfs4v1qG96HUnmsSUt5uHJAIwADCAomh1d2ce2G/yyc3T0JX4U4YaaXJsKPlZN7NP5OoBQ5bocukfiStY/41aIAUAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/000.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/000.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 0
     },
     {
       "content": "À partir du jour où mon père a quitté\nma mère, il a tout fait pour être jeune.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwdtu0mAAAODeTOhh4JwUN1oOhUJLepD+FGz7Fwr0BOU0x8oGrkx0xGh0ixoTl+xCE6MXJl4ZfQvjjb6EiQ/hi/h9yABwSwt8PJ98uVw8GxkzTbAFRqZJbGuLz6QPG/y4VuiIpbHCune5sKchT7zG9ZH56/vVv7+/328Ou1y2V831ypTNM1U6fWwIM1DY2EpkcL7CL12IwDL94dT+8fniz89v85YCaNLhcxee9iqAJp8/MeWJlB2K9ECgD4xa5JtIOoG3KtnLkXHm3vOEQrdMvwng1/X0bQCHUnHSFBZtcGKpS1uPPLjyTQSP3UhtY3U2V9gj+f3UUGTWUH7eAa/dpsVSoJQNGuKR1XjgGJEPV/02sreTTOJxFI0RGJrEUCZ1cyyXDkTGq1AkgXKZO5bMDXUl7GqnfivqWwi1u5NK4EQ8hsbitxPE1Gyu2yCssV5lHzC0zhU7Mj/QajOruXDgqm8hqW2cJLBdAtP5UqDK754+vJ77jzRhxGVWbuu+BnoS56jSxFTnPT3sakj2VrJZzjtA7CuCI3EvjqefzsOXrrqB4tVZ+HjiG2y+XqT0anEM605d/A/5rWNzINvQYAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/001.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Il mettait des slim, des baskets\net même des slim avec des baskets.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwe1TmnAAAODfncDPLDKb0NCpZ74UqImAmgY0QQU1BUmGZiTbvG750tY279ztuts+7m63fdkfvOcBaTJUiFE6m23QMZWJ56lDNk5qxXSHZ/rVM7Nesi5K1yI3krixzLsNAeSjxKiWnyl8ijgwuIzKxAuxhCKI05b4rqd8MNsLS1ta2spqr4zGk9kAfYG+b5d/P02zEdKqnC4N8WU4wxyXHwbqp4mxca1v3uj7W3vrmj8888/KAckjggziKYo4CAQSh/tNOpmNROUU5b4WNjP7eT7+tfbcthQniNtm/d9nF/h8vh3ohygM+iH76ug8GdX53EQujyT++b2z9eyHod5lswAAuUj/XU8BRNEAhH4MUvhuLEwW0nn+OK4JuVu1Ygj0G4mdD5ofDcWpF4eV3M+5DVAEgSgGUSy0i4eDoY50+Wh3H+3Woi/fXZbnXfHr5Go7uZqpVSFGXF9wwI9hfgxFECSM415f3Xj20lQXemXdqVq14hend6+LY4krRolUaK+WSQAMQREfAlE0n4gM5fLdQLvRFZFJ985Ljiq22NMOn9NLJ9kX+9G9nZMI+R82zl4PvRsvkAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/004.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/004.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 4
     },
     {
       "content": "Il faisait comme s'il aimait des groupes\ndont il arrivait pas à prononcer le nom.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZNJREFUeJwVy8lu2kAAAFAbsyRNDd7A29geZjwer2BqwBsiDk6TWKiRQg5RpFRtoh6qHnrqpdd+eZV3f8zdLu92+S5dxNgNICKm+fX25vn+8VA3L7fXVRyNhhejwfmSkDbfHK8aZh0FxLanoggNcxsnAj+eyUZEM5+kEfbDORpwZxIvFItlW9Y3VcVw7JBl+izLqfJ05Ye6rCCAx7z68YMyB+RQlPfdscmLY7N/OT18e3p+DwPurN8bKhMpwt5UEDFAwliZSQZ26Mqj+yzLk8V+s/7SHk5d9x767IjrjaSJSG1H5gVxMlMmsiapjg4jx3I11TWMPEmKJMkoZXrssMcO+fOL2CUedEPH0RVDHotgqlqqFdvA1dQVISnG1XLxyfMYTZRTj7ZV/fPtx+lzWyADmZZnQWKAyPV9U0scUAa0COg29FcEM11d/X59+/X99VhmjQdSMKssMwVmgeDlHCa2WQe0Cv0yCjYBTV3EPN1d//v75zJE5VxbQ30J9K0NUtssXLi1jIrinY9zgjaUrCmJofMfbPhCaOwNqP0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/007.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 7
     },
     {
       "content": "— T'as entendu le dernier Blaque Ayed Péhas ?",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwFwWtX0mAAAOD3i3HMRCkFtgSWOBiXacGAIRvbXnd9d2GNsZuim1hS6OlY52SnD/WlH97zgAXSAlMNTG3cpU5reK9e1TkODplRh1ogPbLN0DID05gbmo8Mz9RB7Jixg2IHMa0m/rpwgmP9Du1xbMAPko+zuyTOonC58GN3Frt2OLPAtN/zdSWyDZbuVIqlWhlrVKtXsrCSuXWafX94ePy8XqfZ0p8vDP0+vQHSgFFYVmLPx2c0+RYfdOjby+xrnNw5duKFT5vH3z9/ffuyufbnDpxuVrfAgaInSwHS+q1m77iyCb0sThMvUQXFR8594P/78/f56UfiOu6FuL65Bq4serLoK5AiqixV9ybM4MMIQZ08Ol4G0XN2ZUIZKaoNBVuari4TgISJJUyUEUNgWOWwOO1SgaY6qtV61/gUhRbPAQC2cy8vWMaG0zQMgMGP1fHg/KxLk+T7JlUrlV2eC625LqqxLLUJ4sXWdn4nP+x24XBoQwkQOP4mv5/bymEHh0y7vbfzqrBfPsIbpSJRr9Q7J+TebqFaxiA7MkTREPj/d4ZrQrniOhYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/009.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/009.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 9
     },
     {
       "content": "— Il est fort ce William.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwdzW1TmgAAAGDuEp1nxUByEl6SRr6/4DhF0Eh0swSPQU6dhFBLF0d6yzV32wdb7uW2bOva9qGf292eP/AA86vLwdHx/HJ2d/u7r76wte5k+LpE5yPBULMqVPKFwBqW3AjSifT4bFwucAAK+5xLj7YJcvHtq6HIY71rG1opHt9LJw6e1bgcjaygWSKUDW5y63iFJAEX6IFXvbkweTV9f2GdDl4e2HpP32WtujA5MlmaQaA1zIuFichAlNpUCnCCnicQ0udLd/PZ/b+/119mi+83ptx+VaR0Se4bn1RlAK+ifizEc3yvqQB+X0DIZvap9OexfXv958P0x/D0p9J6x+X3pGJF1y6ss1+t1gmBE9HN6AYeAlAEj22lMmRs9yltirKpHOqKcaJPNO2jKFqqMnp7fmOPFs9ranwrAUN+wOHwgE4IfhzwedelMqvyXIPJ9wR+KIlN8bjAdBriUFZGne5UltrpaAJwgB4QXHa5oAC+bRnmm0OtxpX3OTYXIqlMlWFUQei3O+dMQWpU5XQkCSw5PP+TFbcbTcWoriTWS+U6y7K5fDzGFRmZ3+mkkjtu13LYjyEQ+gBdaG1K5c2ZVQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/011.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/011.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 11
     },
     {
       "content": "Il s'était créé un compte Facebook,\navait ajouté mes copines en amis\net les draguait dans Farmville.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwW1TmgAAAGBuB7VSw6GJYoJdsTk5BTUTQSaEU0gdRkS+JIlOrU7ry0zX3eZt3W2X3c7bPrXtbr91zwPcf5nblvXp4+zvn6eueTIw9Q/Dnphhw2iwmBMUQQihwVdbIYaMNM1GMS8BHrcPevacwPDl4qHfqF+c6uPzlsTQ75Jx421B5jgvvBnFw4nwdsqPyXgIgEAHAnvTJHk/ncwnE7umXduWrcp9KTd931XEgt8bQBEU8xO6XOrlWAACnegGciZkl5/v/v1+WnydLxc/LtrD4z3GLqtW+9aypnhwx+XyJZn0sVIBfN6tPM2oifhtr/Pr8efd7PvVaFE/m4v5upKRmsblYPjQsWeR3ehLggyiOIC4AztEJE5SGSrWLKpdzWyVzXPdGrRuqtXLSnk4Gn+7Gj3qR/3Xu1E/SgAguA5CLhjGEDcm7qUMkdf4jJnnDmmqLOls9vTgoF07GmvatWn0ExQNgKADhJyrqxseD2FUtI6hVwtF81Ddj6XilJBlazxvnhg3HKcJ+3KCSgIQ5ARBx8qKc20NwdBtTS40NK3E84rwJhZl06mSkDMYWnasv/C5YGwz8B8TE2xwEAVX4AAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/013.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/013.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 13
     },
     {
       "content": "Il avait un iPad qu'il utilisait\nà 1% de ses capacités.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwUlz0mAAANAcPfXmxRKSQLYvSb8AaeKIQUlpITRILVB0GAS6IAWJ2WgoSaXtiB5aHKG4dLw4Hhz/pu8hO1IsTT0o6vzWoSYX1exjRZPgblnXehpr8/xEoA+S1B4ELmBtViwnkHQGFRpYbUcyuQ21ijMGU6jB/FvumcOJE1EIIGNtAAsKZzDmgEILIviIFkZcIfswh68dZND8RNx3U7qXLo4362ebYCZV8tHtJ2ukD9gx1HbXETygiJBBfRbvUOyIe+1lLo/3Pnerfr9aDhTWSZRrW4v7mX5r0A6X0lGEOKejH9lEh91WeLXNvWqlukfqwMo9n2RfOg1JVmr50t3q12z1EzZTsXoMIQIKvaLlPvTaleW0eeO/IEOauQTyxVNv+qfeGBw1T0rlbvPEyvjZiIkhmEdhIRWxmWRbSQw1+F4mbkH8micvgNLPVVod440rHhoRk34U4mhAIesVDDsmjVGyFBCSzVBjBlzR/DkNrtn4FKdPCfJdkvkQ33fVej8tWRwSteOYS3p26d/cuf8yXM57i3lvtTS/r+xvX827xWC5OA2Gxt8fN78/hVVX+w/x5YJz42njEQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/016.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 16
     },
     {
       "content": "— T'as vu, il y a un chronomètre dessus.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBPSUdIQkIVEhYNCg8XERNoSkJEKyYIBQoCAQUrKi2aoqigpap7aGJ0X1iFcGliTUcAKyUoLScqEA0SCggNEQwQXDUsZD42DQoOBgYKAAABcXd8tcTMhn99Z1BIiXRtgWxlAC8pLCciJhANEw0JDg8MEVtHR2pdYRERFwcGCgAAAEZJTrTByaOts25kYndlX5mJfwAnISQeGR0ZFRspIykmIikvLzknJzAGBQoJCAwBAAMiIieqtr6yw8ultcCVmZuSi3EAGBQYDQoQFxYaMi00SDM0SjExLiMoEw4RAwMICQgNCAcKlKCotsfTpbCzm5mCh39gACwjJB8YGj4zNTwxNVU8PFY8PCwfIzcnJjwrKQkFCSEiJpyosaWurZ+cgI2FY392WgBJOzYxJyVSQkJMOjcXFhkwMDdCNTZQNzFVOjMZDxFdX2Siqamgm36XkG5/d1p1bFEAZl5dMjQsHBcbIhwfCgUJWl9ue3yIIhweAQAEEhEVVU5QiIV2qaeEjohqfXRYbGJHADw7QSYjIBcTFQkJDggFClFUYW9yfhYUGQAAAx4cIFBJSoF8aKCbe4R8YHZtU2tiSNSBd7PYGYvdAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/018.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/018.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 18
     },
     {
       "content": "Quand je suis venu vivre\nchez lui, c'est devenu invivable.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwe1zknAAAODfmgYI/MCXQBAUlDdBJgYrt+Gct2hN93Jm27U55+2GupxmWFdd1+pDV1fXl25/cc8DTEU3NbOsaIHv2yXVUrSr/vksHEa3N9/vvnnV2poktSqGJ0slIR9ej0Dgb+63mmVFkzhRyDApAupycRYOP0fzoLlDoThDpxlIFxgWopih6mCrYvpO1VT1rTV73TBYOi0y7GhwtpxOLEXPM3wuw9IkTeMURUCKhOBwLzg56hiKdtnZe/+qU5fF0+fPPsxultOxV6mKbK4k5LlMNkmmYALSJAThoL+YjJ+43rbnRi87p+t2y3X8en0+upoOL3YrpsrxaSpN4UkCIykCgqDROAh2i3kZjePdzadnGzUxSQPwIAlTYf/8/u2k51gSkyVQHHmIJdAEsDUzz4kESiII8Vjkp9uexfOrMWwFxEVO+Dmf/Lruj47bTrGocJzGc8C1He4RT6IQiWGuqt4evqiZVQBiKIJjKDnodX9Hb/59Wb676I27+6936kDOFdg0x7OikC1Y5dpGvSlL2upKHENIAED7oPvj7uufj4u/nxbR5cmg3fgPHEJTpQKVXHcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/019.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 19
     },
     {
       "content": "Dès que je m'absentais,\nil était chargé des virus:",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaRJREFUeJwVzA1zkmAAAGC6WnWVbU4jUfkQFAQH8uHkBQERUEDUzSm56Zhernkr9Vaz29/ven7AA21Wqx6QYr/jSJzJFIUirHGVWeCGlkFiuMxy81EUB14ST1Y314vxBfT0uAmN8/ko8CTOF8tzC3TP5cPjw9Cxj169Pnrzri2Ll3ZrNhzcJ7fL6QQ67HeRBZLxwJVYo1qat3WzXt99X/55WIeKUEFyvq6OO63ZMNqslstvU+jl91NkacnV0OQZCkHFKs8Vih6Du00lGQSBCHzVmvacOAp/3C7uphPoefvLb4GbUR+wDF+u+f1rGqMoOC/ghC3qdcLkUTHQtUHHWlyO4n4IHXbbng4uup5dFywFrNbPaI7MniAYjEslQyhZbJ5vy5LTlI1Gs1quQX/3e7+luaBZySOKCLbblyrOpFNZJEMoZVOlNTpfM0S+VqbTx3DhKwr9XK/thuIClS8RDMnqTVOmueNPaRKhPaF9pTZohFNrbA5G8QJGYhR0n9y5QO3qGk/g2c+Z928/np7AqQ+pYoYKZdM5OyO+MDLzv2cpOgdj/wC/SmB8U7wznAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/022.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/022.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 22
     },
     {
       "content": "porno.exe\nbigboobs.exe\nblowjob.exe\nIl niait en bloc.\n— Historique ?",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwlzG1Pm0AAwHG++OLe6Nw0MW5UkxrLnEttjKstq7OllPJ8d9zBwcEBVwr0wfk5jFvyf/F79Zc6cvf65/Cyd/fptHNy3v16qXSubk/k3mdZ+SJ/P+3cHJ1dHRx/OziWPxyefzw6k677I6U/elBnlgcdgF1IPBzBkCFCIQ5dhAEijo/0pT2dG7+fNUnpDy96g+GTzooqFXWx3lSbnebxuRXpHh0tfIfkhosDmqEosTwo3QzU7o+H8fMyE3VetaLZlfVWXzgwyni1Y6KNixpRjhMe0NTxA+n2fqL0R5O5zav23/5l1e7jJOer5r/LZsvKdZiWJM5ciCVVc6dmYAcsFXW+3ohmJ9q9aP82+9f19qVq96LZxPmKsBzT1AGBNJl7UxNbKImyMikrvmryqgURNzE3cW6gdAGZhWIYMoDp0gHSrydjPHM0C6EoIUlGsyLmImRFkBQoyUHE/ZD5mHootH2kGbY0eJzdq7o6NTXD001g2Mj0CCT0PRwBFLoAWy7UDEf9Y4wn2hvg2EoxVv11swAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/024.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 24
     },
     {
       "content": "— C'est n'importe quoi ce truc.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwQtT0gAAAOAdEANGGzIajzHmXPESjgHjEdyOaJOhqIzCREHyBCFKIrq69JRIC3k0c+rFndWP7fuAy6+DfrstiYV1XowGmFL22e/x97vZZDI47bwqVoRU3Od5yXM7azmeZcRUEphefPvS63UPmrzHC4PG9Tj7bzS8V37J58OmtCowy2KEqYj89gq3mmA2sxygzCbKdHwk5jIL5thjuiZk5hdnf++u5/LkuNOs5oXT3dJ8eNLdr794zm0X8sDtlTzq9xoksWG3cQRRpshJWfpzLd9fTW9GPz4cdt5srg3edW5+3p4fn1QKItBrtd5LxTpu36dcFZJI4a4kucQGwrFQNBJgIkE2ycTb1b2PrbfKeJZPPwVKOb7MsjXcseNy7lEkjqCAGtKoDVoNZNAhapXuCeU+rL1ulLeUz0d1aQPIxtisy1W0Yg2KvAz7gyimBREzgplNVgx1aB8YU8GQ/Kk37nfPDqpbYg4IULQPs1Ew6ncs7vq8bsSs0RohHawHH0J6WKXSx9weiUvbFywWE+b3RIF0KIxbnVoQBiE05CCWbThqsuKPnBRBu5e8i056JZ0REgkUthj0JtxO/wfO1HAe/rBBDQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/026.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 26
     },
     {
       "content": "Quand je partais, il me disait:\n— Tu vas en discothèque ?\nQuand je revenais, il me disait:",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwW1T0gAAAOARyIEbMt2Njb0BKplCkHDx0jzANthg6nRTLhE47gKuvAPttAuKAuPKtVwgeFdp5xf/aM8DaINBt90uq0WJEyVO2BcEo9+b6tr4+7fWUbGUZTdCa3IqVpZ4/nmUj0WAH8OLL+dn9WrtIJVGQHiVpH733t9dj250rV0pSrFwPrp+wL8sS7yUjBTYBDDSLifGz06zsU2QQTexn34x/nh+Ozb+jq46b+uvuPTnI/XuotuqlJRMUuE3gcmVfmPoJ7HongvdoGlx2XetFB4mxv10dPtL77ZO3+xIn+q1P9N/w17/UBKAD+12p9moepmGz6NShEAz8tKynN4scDkxw0nZLTaa2MpwRv/r5FLLswlgL8spLFv1MmUPfeih1zECsDrNj+xmk33GAlnNoAOcf70rj981h6fHSo4HRDbJP1mRMaxEkYPA4xxFmSzQwhwKO1EUIRwggiP4sbqrn52oWb6YF4Hgkj9EkEF4IYSRlbXVFI6bZiBoFgbtMDgLW8ygDydrO9uRcAJD3P7FABAPPPUzizab0+5w+TDqmZuE51DXPIajJIUxOEqFV4K5eNzlRGxWyI15/wNUbnKONfwOeQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/028.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 28
     },
     {
       "content": "— Alors ? T'étais en discothèque ?",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAW1JREFUeJxF0E1P20AUheFINHNn7r0ztmPH4/FHHCdugoNp1GC1EbRKWymbiqpFraqyo12zQLBhwwaJ/40iKvgBzyud03vVF01V/NmefHnbHJRpGUdtFt/8PDnftHUS7edJnSYK0NeeAgKBvb6ApiouTj9/fDNPBkEWhd3Y3V9sL7+v99N4Ubh54VixbzyUvAMgZZW7H5tuVY/q1FY26sbJw7/t7fmmze3UxXEw0GR845FkCdRDQq31ajZZz8rFKG1zu3DR9dn66mx9kNnI96XUhDuAkhVQj4gJOfQHx8306/vlcZVXYdBV7miczFJLaKRkJdnTzwANk0HFcRCuynSeu2EQhKzrOKydVUqDZAAybF4AovHZaDLTolhOinmRju3wMLdJEACQBAIgTRqfNiggBcSoSfEkH71rXn/rmmWZDT3PYyMF9QWCICb9/9YnQKj39uDT0fLu76/fH1ZtZgdao2IpsC9QCCTc5UHgI6IFKxERy9ofAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/032.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 32
     },
     {
       "content": "Il essayait d'utiliser des expressions\nde jeune, mais il y arrivait pas.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVNJREFUeJxN0UlPwkAUAGBOdN5s0HU6BbpiS1NaiKAhJaFchCAHUU/Gu16MJ4/+A0/e/LmmBZdkDi+Z9728pYUxbBbT2/VlOR4mfeGbennWf3+sqsyPbCN1pWuZFChGVGljpY1bALArZw+bZR70LU31hb4tws/Xm/08Hkpz7DuesEChBCgoBCmkBRhXs/x6Mcm8XiSt0NJ30+jr7e5+mY2kiHu21A1G+BFAA4gjrFUe554zdmVim6vE/XjeHBZpIoXW6QIwRv8BSjgATQa9dRHv5+NCmqljVal77svANjHmGBglHP8Cgnn9gMeOfRH0fCl03jEpy/rCtwVCDCGKm6H/ACW8Q5je1YvQSwcycOxQGIVrG3U/XEGkBsBOANcFGCOsw9U0jMpRuJ2OXNOQmkpxnaQoDUAUNXHr6DCijPCnw/bl9mo3SQa6qjF+2n3zCz93+AZ+rCvTEZxSwgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/033.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/033.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 33
     },
     {
       "content": "— C'est trop de la boule, ça.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwFwcl2mlAAAFA2qViRWSaZHu8xiwgSEQmCMUI9TY7VNBuPi6Ru2kWXWfQzuutX9EP6Vb0XSyd5Pt8k8TrxplM7gFYcB9mm3Le78yTIoemZug2t0FSha8dhWGBlWjZFW+Sd7+eelz+kaeOad8mi219dbxnbwQzaQHeACk0QW3aOVfOyXbVtc6yqY7t9edvdX+rF3bLb7L8nxdenanvK/JmfRNMa+ZWJMux6OFxPz81ye/x8ef/xfu4evz2fb9N1VpyS7JNvJ44RQsNzvRy5Kx3MsH9///z+9dMFk6eyvhzOu+3LbbQARuC4hT62OXUloweGUTUZQB1Jiou9fnmsk9S3ovv5so6zTd7EyFcVx4BzVQ0Mp5PBmuVMTQFFNHMMGxOVUBzpDMnJEuS5MVB0W0c0JVGkKLASkjWZk1la5FkxcmNkRZishX182LvBhwQ/GHAEwdKkQJEjhhaJAUOSI5aRhwTzESdoVhMUHyMpuXeD93sDHB9KggHNgKEllpEk0RRGugenAYrUsdP/0KdInuO1/8kXSO+s1RHXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/035.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 35
     },
     {
       "content": "Il draguait à l'ancienne.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZxJREFUeJwFwdtymkAAAFBeGo0EshBZUBcQFrkJGy4KEVAUEyEt0+Zimk7GppeHTjuT9qkf0o/od/Tbeg41C1YXydV0uojtqYU924znQV7XT6v1g22GumYb2MO6j1UzjioZmdQy3a6LNo53lpNHJL9LowTLzdXjavtxYoSpS0zVmOieigyHXEIJU+ukuq5uq+rxcvd8V+9/1OWbLF/XX8r2JS32h3VRTq0oqlyyccMGijr16/B0X79bZq+/f/398/PL89sPD+3783i32Bz8YGvj0Bh71iRy/I3pVwLUqX9//+x3jW/PP123tzffVnlLrFDDc8fJ+qIt2TeCnAiCihVT1wk4U6gmK0KLBN6iSS6Ws7JKS0O1xjhR9UjWMtm9F1DSFzRikQWZDUWFkkauwA84IA2RewagZ3gDqAIOnbJQGyhjSZH6CJxKujIJ/QJrHgV4dPSq2+syLBj1ehzghgwLOR6xLDw54XkecUCiaY6mOVEOkOJRnSP6uMMcdxmGgaYRjIYmAANR1ETRUFX/3Jk51pwDYq9D9yEWoP4fbjZK/Uucfp0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/038.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/038.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 38
     },
     {
       "content": "Il faisait du charme aux serveuses\ndans les petits restaurants.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwFwVtvmmAAAFASq1AuHzfl5j5hOltTyXQ6qVKYiq2WUREFC7W21liWufqy7aHZw5It2Q/fOUgYeFHgfep1s0e4kpdUUclkcA5wEi9RBHttm8NOW2EFieYlpsCAApIsgyQKRraVp9iGCqNekybod7BUkiCao7y+5Q/sD2d1Q9dFOk/gLLKOFw9JOB2PrGajWztZT4Z+35oP7ZpWVmUYjZ30dn54ukuT0Kid1rW3yIXRNs/bI/P8ZXP/7/Xnr3STLv1N4O6TwLV6s0vHH9jJjbt/jL+som3kIwzJAJIy3utf7+O/Pw6v27s/3w8vq2g2sDoVLXYuJi1dU+D+Mdkli4fFFKFJtpgX6pXKYnz1+9vuKZx7phF2m06rUYVa56Q6+1g/1SrparmLw3UwRTjAqQosiUWe4ooiBGRBh9Br1Z3GmSrDPCMa1SpN8mar/ZyE8c01QmAUhgKa5I5RQOIsRfA0ydIYgWYw9AjngViWy2iOggXl9vM4cq8QNEscYwDNEgJgOYrlCeYNxy8nl8/bnTdxZVYABI/mABRkf2j5o/5/2q1T7s3hqf0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/040.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/040.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 40
     },
     {
       "content": "Il faisait son regard: \"Je suis\nun homme et j'ai une voiture.\"\nIl laissait des pourboire.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwVymlvmmAAAOA3rgoIQumY4BBbj7ZaYToPrNJ5ELzqCVZR1CBKtYvrTE1auzTb52XZj172fH6ANVTtyXAz1bdzY3WndqXMolsX47FMLJqJXuYFXkoI49vaoK505FLtpgCWI21t/N+P5my3NN++fTW6bQon+WDwUyh0zrKnNN1T5MbNtSREy3wEDKrytNNcj4ffF/P9/fJ5bYvxKxLF/B+8Qjh0yXHBj36eY7RSTklc5M+8oJQU+nLR0nrbubG3rZeNnY3HfITnNnU1KKTPWZbzMgJNHEzNbkrTdgOstM6oLs96rafV4vBwv7PMcjaT5BizmP6lN1tpPkAzEZ9vVMx2k+Fy7BT8fn78c9jtlzO1qoiJFEXSBIK2PkcXFfFNb0xKuWP8xIO/xxEsTGLXgRPwMFJ/rM2/r0/N4hfIhb1zQA7gzEUCZkX8OWknQmcQhOEogSAexAmTMAxGddlSWy/2fGsMaYqGnG4AjiI0talJupSCIdSDEh6UgCEUd+N+igJ31Uq7WOiXpXFD4RgWciIOhyseCL32FT2fRGAMdeNuGHMdwQiEUvjxP4dTXcv9cy2uAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/042.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 42
     },
     {
       "content": "Parfois, ça payait,\nmais ça lui coûtait cher.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwd0Flv0gAAAOD+AOPLNGrGhLrAWAVKDxgUejHosZSVY6bcDAo9aCmj4xi4ek1MTIya+Ixvxoc9u9/gzzLzB3wvH0BjcDr2MuTzCQydikahXd/B02dIKHSEYMdkpnzC95p1Xe0N1d6gfz7onwNsAsnAESgQoI+SMAg6p5x5khPRWOWYVTut0aBnaepkbI0MbfifAfkUTqEw5A+IDJ0Ih4todK0UN92qU5VKgpAnybIkleWSrmkj09C1IcBlkhQWP/T7K0KBwrA6lRqLjCMys4pYEGQkwwX3IRQjykr7Yr4yTAvgiSSLoxEQLHH5U4YCHz2WkMhMLtQzeJ4vVrt6c7z6/PvP+vvWufJGzhTg0vcgvLcnsXSRIZ88eLi/s1NCIkzoBZYgWLmhv/3y4+7vh+2tffXGmFwCHJHMxqMkjnvuRUuW5RzLIEgtmzhLoXw6xTG58cLb/Lp7v711vBvTXdwv0Vjc1fXNcu5N7I9z92Y2XbZfLRR50mnpjZrVUJafvrlffwqVZp6XACIG8Vni0jCman9lW2vbvHbs14bq1srjbtvqdDTlzJlfN913wQMYfB78B72AiI0OAIf7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/046.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 46
     },
     {
       "content": "— Oui, je comprends que tu\naies envie de parler.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwVzdtummAAAGAiBzn+QFFBAQ/1MJQOreJkiilQXRWrGK3MhnbdwaXZdOc2y+57sWTZLna/q2XvsMdb9r3ABxWlRBrQ7Xzmsde+8vubwLteDl+H4zfr6ZlrBba5cDoXIzs8tgK76VsGlE0Jh5Wi29CeTvq+ZTwZ2bvQf3c+vb06e7kY+d3WZj7czAfRib10OrPeIVTNZqZ2uyxLvmU8rOQj19quxm/PZ7fPVh+iuS6L4aC3C/3opL/yrHHHgFIsUBM8gcclgRdZVlPEy4l3t3v+ajX5/GLd0Upey9gE/4d7ssRgcUgBzD4PKILgAYNjeM/Qv91s//759ePL+5to0a4U9ELu2DTcpl5XRDOXhsqpPZUDKIoBmuIoUlPlu4+73z+/f/209eo1eY9PC4laTpkfPbh0Wr6pQ3gcAyQZi8E4ikqAJhFU5dn1oH/abaY4AAgyyXE1NX3aKM+s+85BCYJhGENRgaHMUraez9BxnESxg7xSy0o8RWZYkKCpopQc6vtOtfCooUEIgiAwbFWL18FAAEwMRhAExRCUwgmWJHMCJzJUEjCNUmHpdi/GR/8AqXNRuXXPSmoAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/047.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 47
     },
     {
       "content": "— Je vais prendre le foie gras.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwVy89XmnAAAHDaq9ueplTCECxEFEOxVMYvv+FXUBBMRUVIfsSl13ptK197b4euO++y6/7XvX3uH2QJxDWUVsPPni56urgba0Dg+AsyssDjxnkK5l93ntlvM9jJVbUCu1dIZOuBqW0NZQ3l0FQ9va9yDORZ0GKfw9vXZPWW+Qsg1rDTSxIfXgvI/czY2Td3E+AbSmKDqSQ82OD3Y6A3q4Ehv0bzfbzwRwpHYByJ9Vgaub81YwdG1o1vKNFk4EPp53b650v44uqxNdin3o9snc1GHFHiyqV+vYpk83HiwMjWNyM5tgbroQgF7u9LGuv9Jei9JYtvofu0saUGzVM4EHgkHA+CsfY/QBl0miyBk8XjX+kS8jWe+nRngYelkbm60qy2KuQ1QyMbKHm6uJ0AudU4LRQrGNY+p94DJ9S6aC5PYdjWkHYTtUNTdQKvExjClnGRY1LXiN1Jp1E/Q9EmffEeupmpEqVS/mNupnaTKTC6PIOd8OckcvDh8OjwiCGJfRp+j4NCLn9WRFdaT+FqhfwxT1ccuTOTBVtsX1JEGS3+A0JoZf8JHxBsAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/048.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/048.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 48
     },
     {
       "content": "Un jour, je lui ai demandé un service.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAapJREFUeJwFwe9TmmAAAGCqs3WdzVOIgZpaDJUwNFQEAl5+CIRCh/gT3ozT7upa19a67W6fun3Y/7BP+1/3PAhxlB2JnZWtzE1xagxmhpjYUuIoPF2TW43H2ejLKnyOwzQYtipks4QjNTS/sCTogZWtLCx5OZS3ga5yDavdhFrfl/nvd9G32/Bx5nU/V2gCQ7gyEZtS6lvwGsSOmjjKfWCal+yPqfsnDYMe+zCxvybB09yTmlSdwBCDOZ2DwTZ01yMjdhToKhtfX+jCOwz+Pic/I+f1Nnxdh293E73DUDiKmCyVuNrmxl6PzaV9FdtXW193BE5r0f/eNhAIDxP7ZTV+if2ZMbg4KSITpQs9sBjK8FqHruZJPHtWIwv5drX0nvidE8LqsukYbAN9LHJMmUTM3kUEhInaW9pqZEh0uVg8xk9LJZWt/5o6CkPlsh/5xlk60lyBowkcyexlsFyOKn4a9ttP8+AGqHi+gBcwjTv/DX3AMYeH2Xq1FNtyBASeqiCZvQ+7u/s7O5mD/QOeqcOxS6Docb5QJfCpzJMoSmJYv0H5Yns04MzL8/+2LGQ9oR+6LQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/049.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 49
     },
     {
       "content": "Il m'a dit qu'il avait\nun truc plus important à faire.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwVzltP2lAAAOA+TC6np+f0ckrbQ5UBBUtZE1wtW7K5LKYPOB0wsBIuYrkLTMwQp7i4xCzLtuzVF//tsu8XfIzAQpFFCsZU5F0zezGdrlZfZ5PpqffmplX7u5z3y6VcIhk0T4LmcateZkSIBBbJCGsCds3s1eWXu2/fL87n/l5xUTuc1cs/FuPBUWk56AYtv+tXGQQgBlDBvCby9vPNz+PJ+uZutbz2nJ3btv9rPny8v/5zObmdDnvtRnDyiYGAFVhEEK/y2FDkxsfysX/WO+vX914vKqXfs+HTw/phPhp1mue9TuBXGBhhCccTDis8ysXVopVPm0Xbct5ZxoFl3Lf9n4vJenD63i22atVxp8EIHIpLoi6JCSK9TG456VSBEr+Q2lblPFX7B96ocnjVbbqWnd0y3jq7jMRhSkhakfOqvG8ZGUo9M9HZTfEAbWxEkzHi7diumUvHk3FCQQgy//eivK0qR3a2+qqAAdJjmxzLhUPRSAjqEslpMQVLGT1FJQ0BzMhYUAVCBXE/n/ngvOChoAgKBxAbhtEwiwCGYRh6FtFlqokqB/h/aI5XNyilKlAAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/051.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 51
     },
     {
       "content": "Ça puait le mensonge.\nÀ tous les coups, il allait voir une meuf.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ1JREFUeJwVzV1P01AAANC+WNbe2/vZ9t51rZ3MztHQKVCDwyiRDnEFYQ5Y2ZjNBiyGhSDa6XzkzcT44E82/ICTo2BgYIAYRGVGlqV11vt0d1dcz253W5t50lp87v+Z31x00zfxxniY9bsHCtR0Q4fcIJKSp2UxGY2K+aL48es4TdsvwtuTo8uj/Z8X59en3ckwG/Q+KlADGCITEUmpx2n3w95kPJ1ezbKDzrswmJ+f3s+mfxdfi8t8MhoMjw8VoOnMwNwgFsa+xVvNaGOrE2/tvt+M95/Xb3qH/xbffn+fpdtv88HZeHCiUANJagrCJCUNtxxV/Yol13038iprVaffiu+v8iLPXoarzUaUJjsKg7jMTF9YVZOtP3GbteX4sfjyOhAIl1RtpxlmyXa8shJ4Ncd0MCAKhkhQXpf2q6rTXg0Eob6oSMpLKlx6BDzTrEtbMrvmPgCoIYUjYhPmW2YS1jprDUM3GLahjvUlUFIBRczCTFOBa3uO6aCHAUBBmMt4Ej1rRwHUIIaEQAp1AjVoUY4A0tSSTYVFBYb0P3BiSy1ulsgDAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/053.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/053.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 53
     },
     {
       "content": "Du coup, j'ai regardé dans l'historique.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwVy9tu0mAAAOCamFLa/ufSE01b1wG2yBBj5jxtEHQsk2ptgY0xyA62FQeRuSVq4oVm0QtfwNc1++4/jsqoBLFBcKtW/Zjmi8Xn1eo6fheHm83VMLxZZDfL7OmD+mESTUbxQfSGQxKgAGoYNdbceT6/vPp6df0tz+btZpD2dxfD6HI2vhi9T8ej44NkHIecLEoUIg1j3y4fJYP0PDs7zT6cnnVb9dHOsx/ns1/L/M/qU34ynR4OJnHIQQkwgFSEnRJ7stFot/cevwx3O939ln+0s/V3dfHv5/d0EMVhPz85ng4jjkHMAFYgum8Zvq5ZqukZVtN2Nmyz469/Sd7+XqZJt11zq90X20l/j9MIMxkrM9qwyw9dWyNs8sh5VbO4O3zV0Ga9Tm9rM3Arju5QQBWscBpR1jS1pinPPds3dQUpFcMERVAoyKAo+5ZhYGLrzj3TxTJBMuFUzCq6+rru7Qce5QWMFASYWJAFXhIFoBEFFCUCqXsbKAH0NhiEbQfrvcADd3kEGRQRAUzgRYYIgVgSRCBCs1TGMkUS/g/OJFBmFbGmJwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/054.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 54
     },
     {
       "content": "Il avait réservé une chambre d'hôtel\npour deux en plein après-midi.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwVzVtv0lAAAOA+uEFbeqG25/Rwels3mOvYUoiVDhnX0tEBlZUBU+YcwWmCxphoYuJMZiCZicaExARjsh9r9va9fcT89tdk2LvseSPfnUS1bq3QOXRfdv2B/3QY1IdhMAiP9VTKwFp+d9fOmMTP5Wp61h+3K2Ht4OJZvZzbiYrO6vv11SCImuVxFI56nU1V0xHOZ/eqxQNi+ffu47vZuHs0GYTPw1ZYevI6qM4/zCKvHNZLr0bRabd1P6QUFeFHaYtYru5+//m3WNxenJ9bO5YGYb/knDQaedu5PBtOX5z2260NjLEIoAgQxMR88ePmZj578xYBmaFoKEIMUQoiBanbZtrayqR1U5GRhvCWvmEgRPQDf9D2nf09nuWQhKAo0yRFxUgqTt5jLSYkGAUABYBNVTOwQoRHfserpw2TS/BiUhC4JBUjBU4QOAE8BOQ6aWezzUrVMnSWonXVJDrNRrXoyhJEElJknGR4mqR4lmPpBEszdDzh5uz3V9NvX68f27nYgzXCOyyV3QKWEc9yWFaUlCkJMMlySYYDggREnMnsVwrOl0+fA68ZX4//B/bVV5/jFGWqAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/055.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/055.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 55
     },
     {
       "content": "Ça m'a énervé.\nJe l'ai attendu.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAvQnQ3SXw4Sn48UXtFWIVBVopCV4k2SoAyR34xRn0wRXwxRn0vRHoyRnsxRXkvQnUAb3ubcX6fc4CidIGWe4imfIqsdYOlcX+jcoCke4mte4que4mqdX+dcXyab3mWcXyaAM/R0NXX1tjb2sTExd3f3drd2dDRydfWztXUzNjYz97e1tnY0LaplbSlj7SjicbBtgDBxsvJz9TAxstYW19KTlSwq6KdiW2qn4fBuaC+tpzFvKDIw7WrmIGjknqZjn23s64AxsrOz9PXwcbJTEhLQ0BFrKafj3toqp6MysWzwryrz8m1z83EvqyUmp+ggZqwuru6AMXJzcrP083S1re6vcHCxdTY3M7S1tTX29ba3trg49vg48fQ2JWktqSnoqScg7m7tQDCxcnIzNDFys+DgYOLhYHHycu+wcW/wcW9wMS/w8i/vb65vMJ/lKisqJOkoIu3ubYAvL/Cw8fMu7u+cVdQemNer6uurK+0qquura6yrrC0rKyvt7q/prC5qKunkJaapqqtALS4vLvAw7S1t2VJQmZKQ62qrbi/ycHGzMLHzcPIzsXL0bzBxoGCh1peZVRXXYOGihpDEBFQzzx1AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/057.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 57
     },
     {
       "content": "Il est arrivé, je suis allé le voir.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXhJREFUeJwdy01v0zAYAGBLCLSxNmm+E387r+3YSdOk3bJuoVLVonGY4MrET5h2AMEFuCDxy5F47g/q26kFnwbxahGlYaoqClTWRHppNAfgMBp3vpm8BFkxTRgaml7TusbCK0hXWZmUgLmomGG1V6aDZtDudD3ddr2mQlYMSaJYTmUlDtNxMC5ahDSvnFAac8fVzjonoFPNaB1gRnKMkiCNgoxE8enuPM8fj+OOZrihYqw1/D/XjdsZy0tKM2wpR3GQhJfLe2vebSazPs/7D4fhBseFKKjjqlcAmBsKQATPCUlK1HD18vT0/cvnh/sjg1smt0M7WSJoTkhaakxlJeO0TSIehXxxVaGvzz/+/Pr7+9vPx/efuNoRvgG55kkhsBx1w/KySEi8EuGiCJc0WBLEmM0zTrC2Zqthq2EE4XsJcz/O6/XcbxyhJIqXF1eXb96+fnWBylxUhRTcGdg4u7VmENTeOb/3ft92p7576P3BwsipwSRfpf8A/As9hjAcQbUAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/059.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 59
     },
     {
       "content": "J'ai dit:\n— C'est ça ton truc important ?",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXlJREFUeJwFwdtu2jAAANBIuwABx3bie2I7zo0E0iaBASmwAq00bdKqSuNhb/uU/cX+d+d4fbGsTBGCKGG6tA3FHPgLDGBXZNfhYeNME4uckRjhaA4oQF4YkLHtRcid1I/r0SaVP/HbNH2/XH4chnPt9i7uFKtoKAOI58ALQXTqtobJwhab7lTofPppclqv7rfbsUrPlT24eEj4ipMYQseYpzD599z9GXcIsMv2aIUGM3hYd9fxeVPkr21+ruwuVQ+SKgibWHl/78e3OjOQEhBVOkdzFExAKk1ddonIxrb9Ui+HIteELT7OWIC8a2kXPhKYJoSrkDtd44BHc8ypk8xum3Vflm1eMUjnH2bYB54iQmJimUiFylVcFQOnDvlIssyo7LFcti5rrGMBBp8ncOp7tVYMhYaKlCvDpJGlP0VxyNGCUSRylXRluVs1Js6NbmKmPQ4Qg1FCmMQRR4QFxAr96/Xl/v3n1/1xaey4Xv3+dnvqd0/9vrHZf9KPNig5KVZrAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/060.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 60
     },
     {
       "content": "— Qu'est-ce que tu fous là, toi ?\nOn s'est engueulé.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYtJREFUeJwFwU1vmzAAAFBOixYgYBuMbcCGGAgYwke6thMNU6FNiro10jRVXbVdN2m/YLdedtlhl2l/eO9pG55Q5AMDUpdHfuLYrqnrwiPjrumLTSN4E4mYCs9CjrFiyNW6rCqilAAiefH08JxECbas09VwGvqpzq+yaO6qMs6zqISvDQodrU1VJYvAIXN//fvny9SP3sr6ejdPdTnk8aTkl2n/7eOny7q3FzoFjvZdyT/3U4D9H4+f/738ut3fEtv9cH3c5dVYyknJQ9e8VW0c5MhE1ALa34c381oCHey7vu8u9VcmsXGnznyatZnaN3Xqc7g0MWAiaj0Laoc0NJfAsxzPxhHfWiZeLQzmCBcJtc4vyu0mEAwiQUTdHoWfap7tMog5JpKF3dk9D7fWwnBhGNJExdluU6QspACFmLXdMRKVxiDyHSwwiZlou9ljCi7NwAlWOl6zMPU5R5gC5COvbg65bDRiQwqxj3DoUFWOZfVuPL94fn+6GW7aLJcsCKBLbMBxUNaHoTv/D7nwQFQ8tABdAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/062.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 62
     },
     {
       "content": "À un moment, j'ai dit:\n— T'as quitté\nmaman pour des petites jeunes\nqui en veulent qu'à ton argent.\nIl a dit:\n— Mais, ça n'a rien à voir avec le fric.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZBJREFUeJwVzMlu00AYAGBLSGm8zsw/Ho93j9fYiR0lpN6K21JEG6EIQRdAcAAJBOLMid7gxokX4MKjIr4H+KQyiJu01mWEFMTB9ViIdQwGrkW8364XXhxykQB4CFFFI4omMWRNmx5rwAnPxerD7XvXclZhtO/Gu7F91g27etwETm2bESForkmgkkM7ZG4Yce/15eH3/c9Hu2Ebpy9PH9/0D+8/fX5zeLX0vBWnAgDLmjSk8d+n3aFuIjf98eXrr2/fT7ZjGaSnx2ebpNh34zpfc+pllh0DYFWX/rxtP64TUEkSNdf72zyItZnuEjsVSyA+M8AhYCEoi97nqX4kS1cLISi1wW7KIYpbZaZpRwaaY8uMHUtEzA5MywWzzHfl4gTNVSn3PI5p5qd1NRXLJ5oMSEZUZ9yMAi4y7njAbATCSatyRLIuVb5tE1qEZVWdJcWkKtYDaVb5wqIBUs2I/e+5gX0rqOvzyEklpmMHaB6W+WIK4q4Is6u+vbm4ePf8xflxH5rMwZQZmBNWFsNUN/8A/Yw9Dxcf9p4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/064.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/064.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 64
     },
     {
       "content": "Le récépioniste a dit:\n— Votre chambre habituelle, monsieur ?",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwdy2lv0mAAAODGyKQnPd629LJrhR6MsXaUUlqG6zJXHHML7PBAh+ucxgU3cbMyEjXhi1mC/9nE5/sD8YLFi7ai2JZmxo0oPTicnF48j7ZKyyveWmjrRttr6pKae/CQRpBu0IY4wdTNVjPsOWblNv30Z5LNv85+pJ/9Vd+y6mtmJfYDx6rAuTzxCBk8jf8HK0q2+onXmI+v7z6Os/Ty6s2ZXwsMo14tmS2nHroeTwEVsKc7CcSLlqzV+73hrzRd3GSL7Of9t+mX16Oa7Tm1cFlQVstW6KwbiixR1NudLsQJhqjWouaz21fHf79P72/uJsPz0W6/pFc3/JglOZmVXMPSOJZCkP3OJgT4Elssd/zN2bvh9P3Z/DqbpZdJo82xWtVcpzCaxGiRZgkYkfO5vScyxPEaoBXXcn5/uLg6Ohl1e4M4UUWNoWRDs0mYwOECRXIFotAqILsCgFha5BhZKurnB0fjw5f7QQRwGkMBTbAqJxB5vIjAi72VF74LSA7HGYgieIYSASV13GC43R2EG+bjMoYBDC4wGIEuwUUUbTAIvITDMIki5D8VbVR1G7nHyQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/069.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/069.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 69
     },
     {
       "content": "J'ai dit:\n— Tu sais que maman t'aime toujours ?",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYBJREFUeJwFwduSkzAAANBoqZQtFAKEEJKUJNwCFNp1u6WXoXbU1Z3VqVbHGV999i/8cs8BXa6XOFGELTElAW5l1qrq0K77rGpUdV82++4tixjxo4pLzZcgo2KJGQtpiin2MfXRp/Hp7/W6K6sur9d59fPD57HWwZ1d8VQvBQicwHd8FsSHui0SHrjhZbh8H4aCsH3d7OrV7/P53+3jS6dLLhJEgGlYABgcwutu+/X9N8E0gZjCENqwFWrQze14+PPu0FKuCK95CozX5nQyo673tNLj/plhGUOUBqE7h2uVP5RlJ2RdbtN0nSKcEQYAmBqvJgp6Z1099CcMCfGxQsie2RLTXkhJs0JftGhWaerZAbDNeV+2P8bxuNmX1TH2YwKjDKGF5fAwlhHJZZ+JjaKyV7nnYODZ3uP96fbl1+X0XOSPsZ9gL8wQmhlWK9Sx2xTZlmGpaK65MCd3YGpYb4z5wkE8yTO5iUMWOBDOF6Zhndr2ZTdI3oRuxHGqcOJazn9r3Th4r2mqowAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/072.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/072.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 72
     },
     {
       "content": "— Mais moi aussi, p'tit con.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwe1P2kAcAOD7gNJe7+7H9fpCW6ENBUVhsGm2DjBazICNKUJgwYAwmawmKDNubGwm7svi/73nQV5qN79TrVXOXuwFZDMOmICEPdNsB8HtaWvROf3W74XFQhA0r5f/GDWRZ2eL2weHbz/k/TKTZCYpZEP2bSd8+epr82T6rn7XO4/O2pNmc3a9ArDRtpvv1tvvw54tkhwTVQFBqG87/ePj9bD3dzp6jr78vOg/XF6N548cLLTnl28ni+nwhhMQFDSasIDtptP98CRq1L/3Os/R7NfoYtQdNzpzTnWUTReWs4fV8kmjCUEYx0wopOC5rdrR5Ki6HnR/DAeTZuNNvpj191NbebTjFaPB5fruj60aKqaqwjRCy76fSWVc3ehUgrBUep3LbQk7mTA07qBGrbWazu+nN5ZqqAoVBOwEFFzX5CZCyFG1brVykM2ZCUMHXdmk6FOr+3u+uOr0DcaFQjmmJkAmaYEE8RiWYpLDDZDB4qZOhUYE+vzx/H48Oyztc5nohKkytQA8XadxhjcwyESKxTkGE3SNCp1q/wHG/00FdbcDxAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/076.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/076.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 76
     },
     {
       "content": "— Quand j'ai rencontré ta mère,\non a couru sous la pluie.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ5JREFUeJw9y1tv0lAAAOAmmtByLr2etrQ9vUwos4UOdYqCTJZsq9u4qxvjMljtZMkAZZqoyRL1nxtfTL7Xj6FOectyd4rli7i9Oh9vptdpb1j28i/CKHS80NkyCbU0l0imiFUug5iT7sIz7GpYuZterUfz63fj5XBeC6On/nYtKF2ddEqeT3hVlalGHEnQmfg0qYdRt974maSby0/L4Xw5nD0rhoH7aLC3//nDpPWq4WqWplAimwJWmYO3837z6Ptkep8u/txuft2s1+ezSiGgROu+3vs2SS7iju9s01yeyDZGhGnun1WDaDXo3ac3v5dfv4yS0VHby1HIwmZUGcWtold2rNA2A1P3NdVj6i+Pa6Unq0F/0e3dXaY/Pt6O47YE+WwGFA362PYtvWDqBZ24RLYk0WCoUcjT/Or9WXLa6dcbh7tVn3ogk1UEoggajxQMZQQkmBU5FrMZzGAoS0LuYLc2i1vHz6sECw8fsDDLIyBCICIg/Qc44V+AWQECKScbb0o7tqIDDiMgQCAgIGEoYyjziGCoIiBDIHIs/xduxk4+9b8iywAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/077.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/077.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 77
     },
     {
       "content": "— Je lui ai offert des trucs de merde\nqui avaient plus de valeur que ce que\nj'ai pu lui offrir avec de l'argent.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAapJREFUeJwFwW1zknAAAHBedd31ols7zZgbpIQ8KFMcrSZwkBN5+CtPgsoUn2Gpnc3Na26edbYP0Efu94M4unxBlVmKK2BMHiXyGZpGcQrNfWVY4hS7LLBAlsUy9zDv7e6jw3YJkWmMgLM0StIIUWHYfIb6BCNYCikgKJFGDYHvNQ1TFu5jf7ee/n1aQPRZDoezdDoLPnOBpuEn2UziA3oMkyenLJZbD272y9gShXGnsX+YHh4jqPCRUHjJbdhRp1274JBjGHsPZ96lqsWiXDxfdZxtNB6C+si63q0nL9sYshV1GgRxOFjE81KOSb5+ix4ljQr/s98VCXwk5Q/L0fNtGCvMJu68PC+gQcsNW27oOn3b6TZtPIUkXr1p8Hy7rtaw1FjAFx4IFTEUyNit/Xm8hQLT7Nl2YJqeYfQdr85LZ0eJ2pcrnS36heRMplZddxNY0+vzSVP+vZlDbQDaAHi67umGD8ye47X0pnIlGAwRlOChRO6/j/7tt3eBFTnVX6sZ5NQ1V1WB9E0VJVvRfGAO/cDXDKdyeSOUZo6+v1s+zeOZpU/M6o9p5z/1hnfW4OdttAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/080.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/080.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 80
     },
     {
       "content": "— On allait nulle part\nen chantant à tue-tête\ndans ma vieille voiture cabossée.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwVy01vmmAAAGAuyw7NtqQyM5wuaJ2VMlQQQT5EPn35GAIvoKBIS2Wma2d6WLJlx1122K9e9twfZCFZIq9PR5KheftDHYYZDNIk2rogkHht3KfowUiVrbUfJ3H22V4j4tzimCVDiQKnu16cxlkRJWUYXrcHeLOLNzpdtMOPZr4HY7jNtsX/IMy0McFxzFKRga3bgarXUSASFPrideui0Xz5hiOZQ156TgDDDSLyJjuWyD49m0iKDFzLW6umwwl3QZQCh+8Ph+g78YZOgGfI5kp3EQCgvvTmrKpIK0UGz4/n5y/1bPDJN5wqy6kmNm13NWrCdXCdFZ2VjygLVxIBN9XYyWI6lr6fv/7983vrBbZiOLqj0nNzwop4n2l9EEi6qh6QBO4O+6MLQtvyYZQfb++rNH8oqyKIyziLTZfHP96gLaKB6Zx0rJ+Qp8dvP37+2qT7dFPeHc8QFmsHLhlBuCIWQ4p8+7736vIaxYgGlsHMdyLkVJ92+a1tR/uiLg4nQ/NMK7TsROJU6orsXWLDZpvu9BSaL3ZVFmf/ACMzb02v7C7OAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/084.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 84
     },
     {
       "content": "— Une fois, j'ai écrit \"Je t'aime\"\npar terre tous les trois mètres.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwFwVtvmlAAAGCeljRZW62YKZG2Y1pRuQhHBITDBD0eLspFKwh1tXFb3Tq7LEvTh73sbb9730cs812drFdOywjPkRclYayIQODkGfIMDTbpZudDt9vi+B5wgxjIOhH4UeWULJ2cu35yuy5q5frbN+fVcv3irNpp8ybPM9T1+yu23RJGhjNQIKENDPKMLJ2U8ATLbXbIdsYCL3OSqo8nKMhcbEuAbwtsW+yLqtTXCL4nN6oU/e5ywPW79NXC0B88NLUczZxiN3R0M7YsrGqAB8OBASSNqF3UG2RNbLFKTxCYZgxHh3gxlmRLUV+/H3IP+7oeWtA3TF/XVy4mqArVZW4SL9hvixbNcE0WDVVLVpZj+Jwn+yhYu/hTNM8cuJ3Z93FA9Fsssmwgj7abzBwMaYphLm9kQVnZcO/CL3P7mK+et2mB4Mvj7t+f3wTgxLU9gRzYLMLVYn7daH4cjb/e3f249Z/S8JgvM8+N0Cxw0OO2+Pvykyiy9D5NgaAug3maRFxH2m3y4373rUhfnw6/Pj+keJpPYWRqjgzCmfsfCM9nXqM87IYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/087.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/087.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 87
     },
     {
       "content": "— De chez elle à son arrêt de bus,\ncomme ça, pour qu'elle sourie un matin.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAU5JREFUeJwdj9tu2zAYg/12HZollmTJOvw6S5YdK4mdNikwrGgH7HIvPdi3BPmRbJgMHJI0xYRZ+wnc6GK14WL8DHYSunCdqfCEWUINwtBwFYXO2k02Xpf68efxVednKvdc7iHffLqBPXMYmAyE2RbJpldR6mL8Rn1/fD+e36msl+XX+vZ5u/8e56cNVUDpVep6h7BqepUEFGUm42ssayxryEsc1mF6y+Pdhot2s9QjV4lQiwk0TEYBRbtZ+9n4GtIS8uLTNsbF636mSii9SJTtDZR7rrLUI5gJ7Fn7GvLi4tX4anwFc97xQy8SoWb7gAl0vWM89iJxmdUe20xQBBQJhfNEmSfd5j6eeHM88RYrTAzpHGWe8Shk1mbSelRq6HaRdLZF6njih5+seT3QFkmEARPdUYc7N/r6b/74Oz0MDITZjlqEoUXy9UBffqD/fwufgt+3s7MAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/089.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/089.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 89
     },
     {
       "content": "— J'ai des centaines de souvenirs avec elle.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwVy+tP2kAAAPAu0uvdtb3rY31R+rgOylrUWjsFsgUEJ1NeOjNkKm6MNOIXly1Zsuy/X/x9/3FUqR4ej5M4O6jH2y9f11c3m+vb6ft+6DVDl2VxkietNHwT2jWdmoZic4rq7h4Mzzr9xcnJr9W39eXN0+J+WHSCWtN3/IYXplG9t5997o8Moqmy9hKS3d5sMP69XPwrt3++l8/Lhw97RYOlkRtYih57waTdfvg0S4NIJxpHFSdOOt2sU07P/5bbn6vNeny1z2LmNVjVx4LoqPqoePd4vRx1+67hcjIxG82j3vHgcT79MZluF3d353NbNR3DM1UdQwQqII/ql71h5L21DcYp1DJ0t2b5m9m8nM0n7S6zXCRIVd02ZAp3gEnkPAoiJ7RNZpuMUySVYkXCWtFsrT6OLooji75GgkSgqCERcJWzJDzN9xTZUKlBZI2TEZGgTETN0uzTLL/ID1s+Q0BEQMC8gHmEeHHnlSAABAGGQOIQEDEQXxqiSbU2SNPcD0QBIR4iHqMKRgBjKGFIEKRIIP8BoZlAr9g69BgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/093.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/093.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 93
     },
     {
       "content": "— Alors arrête de me juger.",
       "index": 42,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwVy1tP2lAAAOCTrJye3u89tKU3oMxa2rnKpeDGmgaRFXQIIwZFDeiIybKH8bSfv5h8rx/4dD5px8MT13+cL97Wm8P6cZlfeqZfr/mfwyiN4oZlWzLGsoEVSxIw6F3cds8uOs3m77v7h9lyf7tZ5JPADR3DiRpB3DoZRnE5zHVB0USsyBaI08m8uHmdl8ft0/H519/t/vpLEQaJa9i2Vj31G7Ms282XLcuReVmVTBCfFYNOvpte/ns5HJ9eX25+jjuDKEh80xVo3sPGrJ8dFuvpcGTrliYboB2Peunovvj2tlr92e4Py00ahKbuGIpOIVqgmK/tZPdj1U8yq+pj3QOuEwZeuCu/P19drfJi3B2ogmqqpsaLNEQkpCLXSeofdcUzcB3rPuBpgaPEIu3ty1nZ7em8BCu0zPIqw0JATE696yzFilXVHFU2JbEKWMSxlGDrtel5Z5wkdVxDkKEqiCEgQyBLkATEUuQ7RDIkZAAiaBZxIiP2m60iaie2S0EaVUhEIERQxAcKVmgEGfQeOERy/wG9x0Q5oGVVcAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/095.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/095.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 95
     },
     {
       "content": "— La fille qui m'attend là-haut,\nc'est ça mon truc important.",
       "index": 43,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwdlP2nAAAODfZIWev160FWihSA+ooBwC2gqta8NwMIQhiCAgziNZ4uIWEndkiw++LNvrHvbf7vtARlF1ddvUKod2dzu7RyBhFset9JZfrV+1jtaT0x9Xy9Omk88fNIIxjkeBnkwrUkpVco7TK1h1/CUCI2hB0/y6PXGd+353FgR3vU7Hbthlh4QxkEmoWlIP6u6gc5FKZCCK8QRV0PS3nr8MvC/no0/j4dfFdH0xf+V1SUoCaixZMEvXw8Xz9996OsdgxCbDFA2j77fue28ez4bPN5c/V4u76fvKfpsiBZDaVHZzpcW75d9f//arLh5CRAgrpnnsBaPm4Yd28G1+/nE0dHbKqpqXFQuwJGOouenx4M/jUzsYYBshkYZVy6rt7MXY6OzIHXvNqmHKQjzOJ0RRBVuyflC0H2aXTze3rxstAonIHFvJZs2UDsALnmL8YrFmmCIjirSIhUlgZEon/sl6dftwNikZFhnGEhybVZIszmIIgWxEZE5icSgxogCjPMkBd7d83et/nq+Cmi1AFmJEnKXNuECjNB4mIEpioQiNUhIj8iQXJfn/78FRTP1iytYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/097.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/097.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 97
     },
     {
       "content": "— Mon truc important, c'est de retrouver ça.",
       "index": 44,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAapJREFUeJwFwYlummAAAGDeY7FsioKrDBzWY/oLcuhYdUjFUFpoPUHkUrzISnrtSLbs6GLWZdvL7vugmeV8/fLNtpwCWWTrLEMLOF7EEs86dSAxNFepyrIqtbuSeHzSfit3ZGhuez++P7hzH5RrUvuk01HyVI1MpRsEwVGULDSnk7kiiiJNV0pAlSQo8MKfD3vPXbCgoXR7Sk/LF8ARhgEEbmAplWez6UMUTlGHBIKSgtCGVuHm8ddv31u2WEHra/2eVq7yJPpcJHJnHKNy9cYrgOSKiTSRzFL6+RCKtu/+/vm38MMW29RU3TCm69lFBTkoI0mVLjVJbH5MRcE0gRYOMuRkNIM262i/f3RtjwfM4GIURdfh1CjBT94cYcMWzueS3Qr+Id7QjJinqsbZALIt9+P7T4G3FBrC6HISx7e2rtIZ2D1lFuf0azIjg9J2tbJMdzyaee4Ssi3n/vYuXG50bTAemnF8o3e7YjH/2W8FpzWAJtkcGnr+bndlmY45nUPb9Tba7HwnCJzAd/z46nrQ7zFZmH+R4l7iDPpUYat3N/eBH1qmc2mM/wPzoYvg1cBT9QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/100.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/100.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 100
     },
     {
       "content": "J'ai rien dit, je l'ai\nregardé, il m'a regardé.",
       "index": 45,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwFwWlzmkAAAFBS5VhAFmFZFAVBomISlIIRpTZ4xRyNo1GH5qKTjDbT9Eo7nemX/vm+RyDFfHt8bhv1fjt4XiUvycPnzf0o6BladV83w7bv1hwVygrEqlySRZVAuDo+f2yY9Vk3/JU+3l4sd6vbSXdgGY5ZLHvOgVtrDL3OoVWXeFkWMaHganSyXsTTl+Xi79Pud7r9+TEdBpFjtzQZ75crbtXexOPr+BTxgiQgAilmN1pOeievyfrf87c/n3bb+TpyOy3HU0WEoNQ0Kkk8TC8WQeOwIKmEJJWPww+RF24vZz9u7l4fdk9Xq4NKzSha+RzkAK9C8arX/5Kk7zuDEjYIMV9sNkPf8b5eL++mp5vRdNDyZYh0XM4xDEuDvQwT1OrvXL+ATKxYhCgokMtLgrKKR9vL+cwPOIpjaR5DCBlWyJLfx0f3A68gaRq2MNIJgRVyAHIgb2vWPOxPXLckqwzF8TTDZigVgDO7oEsox4o8CwGdI1iaByTLM4LIS/2GM2u1m5pOk4DJUiBLcSR4s8dmMwxFAooENAX+A/hWRc6++JavAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/104.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/104.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 104
     },
     {
       "content": "J'ai baissé les yeux, il est parti.",
       "index": 46,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwFwf1T0mAAAOAXkDG2d7zj3ca+2JyMMUAEofwIFQjEJR82ZgpH49DMwKwzkjs6y+uuH7r+7J4H6KKcUjVLS++U6oe7Tv90spnZTslys/Li5qTxeOk9T/2jXL7rza7vf0fCLOARNpSkIWn2RqFg77Ua5+Xioa1pzu7e/LT9/Z07P+sNqvtu52Jw+SlKYkARUOElQ0nKcTGVzDYbF6Zm59eN7sGRXz94GPRnZ73l8Hw5vXE6Y4riAREiGTImsoLCqf2WNxrcaoJUMM3hcXvhdn75o3+zDz/Go9Xj39rJEFIYrAUjFAExHc+s5xaz1be7Jw7Cip3xjp2r17XPb9rP0/EXz23Ve5vFOoc1sBaIMFGkcvJWeutu8vXn4g/PsC+z9na+WLXt+67zvtXcz+ZUTlEFXZQsQARJGGFEJOQ28rfe+Gm+1BNSKW1ixAMQ2LGsdrlsq5rIJlgKRQkIqDCNKKQn9Fel6up6ftV3kxxnCCJDxEJBQkS4YlocjIsowdGYgxiwEEmsUCnW/Lf+w+RjVjMwTatxniEYKkxHw1QAhBgyJiGBh1hg+P/7SU9YrOsgHwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/105.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/105.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 105
     },
     {
       "content": "Les deux Allemands ont dit:\n— Was ist denn los ?",
       "index": 47,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY1JREFUeJwlyutP2kAAAPBmQO/Ru/auvV5fw75ItYoFwZSxyWOWFSdMhaHBGWNcsn3bPu7vX5Ylv48/JXDCxA04MRgVFnMZFQRRg4owPI2CpH903O1kqAUoxEiFGGIl8qPHqpoUA9d0LUMyamoAMyKiqAj9KI87eZxyTAykUYgpJsqBF/28+fJr//z1cjkflKH0fC4kl0nSy6JDz5RFJ/v87iJ1PJcLh0vF5O52Ov1+u7uv1y83u7vZYtY7t3SRxqfdNDewYRvmZv7pebUpT/rDvK/oxNrNZz82D6+3Dy/r7b66OmwnBLG21wlsn2IdtnCZ5b+/vVbjjwderGDEZkXxVF/v6/VjvVqNPti60KDuibe+KQnEEOCzLNtOJm0nkiJUdGScxclTVV2NZ8vRxbJ8L5mNAGXEtIj+RmkuEvvPahRK3zYDwX2FaaZjiPFRvuj1pifdxaCUXEJACOaghUGjlVIiAIYqQUADKlYYMQ1Nj6V3Nyqvh8N6cO5wW20hqGqggWATgQZWm//qf38B4dY5h7oev6EAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/107.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/107.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 107
     },
     {
       "content": "— Was ist nicht ?",
       "index": 48,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXdJREFUeJwFwclu2kAAAFCf0oK32RfPYo9tGBuIwVacuESUiDZkkVpVraLkD4rU/7/3vWB+FQokwlkazxKOs0qVK+vaovLWSSILoby23rqldYZrxbLAcD3/FEchwoAp7e98c3k5319vFRWNKX7e3b4d9rUqbn2zctXGVcHx9F6pAiWIY3nqb37vp8vr00O3xQleuP7f2/tNs/7WDx9f75c6n9o26A8fh+Of/fWgpTvvT39fny7Pj0NZSWq06sbuy8K2o28fh2FdVE6aYNU/b8Yfu+3RyLLN61/TeN7tMkQV04wYI2tNi7XzY7vRVFumgqb77qoRxBTGWGHeGgdCwCFHMYpmCQbCMjs1m6lZZUh4Y4N6/WBkJQAVUOCEZBBnkGRYwggmIUAJAhG2VOVMCSj60gX1chJI8pTQlJKELDjThGuqYASieQojqKjJeJkRrZEQkAR5scMpQTFiKZNYLDk1mEgs2txRQD5fzXNV1lXn84VIUTjD/wE6UThO14Vl7AAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/108.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/108.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 108
     },
     {
       "content": "Bref, mon père veut être jeune.",
       "index": 49,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXZJREFUeJwVzktv0zAAAOCcJro8bCeOX7UdO67jJNRt15B17WCrBpqYJoS4bIjTxJn/f0a7fOcvWVxcZos0X2Qgg53bNFRbJrc+9E2rmQ7KfOqCVzYY14pGEpFoImCGUA6V7PTSo7QwRByGqKgc2/D29P3n8Tj5/jSOQds5hOTL3a/YdpaJsNpWSIxSPmzisR+XtXLt9b/ff67Xu+d5fpr2fWOPw5hsb18+3/44T4fexfNu+vv49e3bw6EPkrklH2LYGxHmMJzW0UujqEz63eN6eh76G4r4Xdy8nu+vnFeYcSxorRRzjrdX/uM+DAoLy2Xihnu+HPK0rEGNAaYQl3kJMwRSmC4KDCkr+WmM+1WniYiNSVp/U0NKIeUlYyVlAHFEWEmKFBQZqkCFAWWIM0RVLbbGJM7PFBKBGAEEF5WqcEP42NgyhzBHIINGrowevGwVplVRJVqva4DfP8W7Da4pQIcuRGNRhj5cXFrt+263krYuUJaS/5raNwEXyRveAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E59_brefMonPereVeutEtreJeune/111.mp4",
+        "thumbnailPath": "thumbnails/S01E59_brefMonPereVeutEtreJeune/111.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 111
     }

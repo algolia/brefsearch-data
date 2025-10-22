@@ -12,222 +12,481 @@
     {
       "content": "Bref, lui, c'est demain.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBGOzKRgny/s7CakIpRKRhvPiV1RClfRjplY102PjZfgHpAQz0WDgoVDgsQCwcRCwcARDgtdGhiwbaymY+KTigVczocdkgtb1NGSzwzQEM8Ynp1Q0A6HxcREw4KCQcECggFACsjHVJIQr+0sKSblkUiEmIuE3hCI5JpWFREOVdZU2x1cV1QRy0fFxoWEQ4LCQoHBQBANCuOgHnCtrOspaI6HhJPJhJPMB9iSDxGNS0/Pz1MVlB1X1FXNCgbFRAUEQ0LCAYANSsiiHlyvrKvtK+tPyIWOB8UHhwdGxYTHBUSGxYWNjApWkM2d1BBSzQpFxENDAkGACEaFHtuZrquqr22tD4lGyITDRsYFxQQDhAOCxcSETIqJDUwKFU8LodfSkcxJTEgFwAZFBFiV1G2qqW+t7VDLSQhEg0WFBMRDQsRDQsUDw0kJB8tJx9LOTGgf2yHXURKMSQACwgGQTgzqp2YvLWxRS0qHAoJEhEQDwsJDgwJDwwKIyEdHhgQY1NMnpGKQCwhGhQRABoGBiYdGpeJhLiwrEozMh4ICBEQDg0KBwsKCA8LCC4nIkQ/OEM1LSopKAMEBgcICV/aa03GeN3cAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/006.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/006.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 6
     },
     {
       "content": "Tous les trucs que j'ai\nà faire, je les remets à demain.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCai4Svopx4Z19KIQ9xPydpPCRjT0RfX1c4RT1qjYl1fXkpIRsXEA4TDQkRDAgRCwgAgHNss6WfdmZeSiENcjocbkYud1lMTUE3QElBcYuId3t4MScfHhcSDwsICQcFCwgGAGhdVrWooX5vaUAaCWAsEnhDJo1nVk0/NFtgWm55dWZnYFQ7LykeGBUSDgwKBwkGBACYiYG0p6CHe3YzFQdOJhNPMiNiST1BMy1ERUJQWlNXS0B+VUVFKyAZFRAQDAkIBgQAjn94tKegkISAOBkLMx8WHBwcGhYTGRQRGxgXQzgvTDcqVTkrfFdFPi0jFQ8KEgwIAIZ4cbCinZiNiTQbECAUDxwYFhMQDREPDBgTETgxKj43LDQZC25PPoReSEwzJTYjFwB3amKsnpidko42IBYeEw4WExEQDQoRDgwTEA4nKCI7MigzFAZBIRKJYktROSokGBIAU0dCpZeRoJaRMxsYGw0MERAODgsJDwwKEAwKJCIcLCQcNxsPLhcMHxkVDQwMBgYHADYtKZWHgp+UkDcdHR8MCxAQDQ0KBwsJBg8KBzUwKVZQSDgmHBcUEgsMDQoJCwgGBhldZUrsIEYaAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/007.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 7
     },
     {
       "content": "Depuis deux ans, je dois résilier\nl'abonnement internet de mon ancien\nappartement, je le remets à demain.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBTTEd8cml9dXIeKEsHEzoSJVsRHDM/Q1minaKWi4M0KycsJCFZUUtdVlFMR0MzMDAAVk9Kk4mCkIeDKzBFDxEkFiJNExouOj1RqaWqYFdRPyghakg+Tj85WFNPTkhELSopAGRbU6icl6ebljw/VRMTJBobLhMYKDk8S6Wjp3NmX2BANodbT2lUTFNOSktFQSclIgBxZ1+onZi5rKZMSE4JCxQYGBwWFho7PEaenJ9rY1xfQjl+U0dnUUlOSkZFQDwdGxkAe3BooJWQw7WwWVJSBwUKGRcYFBISPDxDj42QJiYmKyMgYUE2Ykg/NDIwOTYzEhASAH1xapyRjMK0r2hgXggGCBcUFRIQEzs7QImFhikoKBsbG1tSUDUxMCEiIigoJw8OEACAdG6RhYC8r6p2bGgNCwsUEhMQDxI7O0GDfX8kIyEyMjNgVlQ/NTIgISIgICAWFBYAgHZwgndwsqage3JsCwoKEQ8QDw0QNDQ5hX5/Ix8dRURGdFJJb0o/JyQkFxkaJiQlAHdtaHhuaKaZkoB1axkWFRYQEhYSFVNRVJqPjDctJiEyJT0wIUQvI002LzcqJjgzMP5YfHsDcmN0AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/009.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/009.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 9
     },
     {
       "content": "Pareil pour le Tupperware rempli\nde moisi sur ma table de nuit.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBvYFV8cmmBeHKAeXCOioublpaVkJGemZWspJuxq6W5tLSTi3SNhGigmJmblJGPh4MAgndthnxzn5aRlIyFaWRhmJWVsKupqqOelY2Ds66owLq3nJR8hHRjbkY7Z11ampeVAIN5b5SLhamkoa6aj1ZEPF1ZWMnDv7u0rbmwo7u1sZmSj0I/PlE7NFU0J2hdWphbXgCKgHudlZGxrKbBrJ6RdmmEfHi3tLKamZiZmJZqX1oYFRYMCgsSCggRDg1nVVWJGSAAg2txclpqb2BxemdjmXxqXmJpP1FXIjU9IisxSTAnCAkLEhIVQD9ER0E+ioF6hGFhAMGqk4RxfS8dZT4ta1lIZSsdRSIiOTU/PVtVRmZFN080LUYxKmxdWnNfU3FiWnJsaACCf4B3aWo+LXs/M4IqH2EcD0QqIEGinJe1q56fkoimj4d+Z1o9Hwg6HwozGwknFw0ARGOGeG93NChjMTFwKSFaQTNPRDxSkJWdp6SmqKOip6OgbWFaViUaUigbPCETMiAZADhhiUlYdSQaQCAeSCMcSIBpY3d6foWMlZSRkJaPjIeCfmxJSJ4pOYksNmk0MVkzLvsBsP2WrXeDAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/013.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/013.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 13
     },
     {
       "content": "Ça fait deux mois que je\nle remets à demain.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3Z1x2aV2FfXeMhHyBfHiZlZaZkpKQioqrpJyooJi2r6qxq6eHgFl9al5vX1qNh4QAh3txkomAn5aPq6OeqqOcf3x7n5uaraimnpeNoJiRxr+6jYeBX1U+d04+Qygfc3FuAI+Fe5mQiKSdl7Ouq6aYklREO15ZV83Gwb60p7y2q3t1dBgVGCYcHU0vJF9STHpeXQCXj4eclI+fmJevrKq3pp2YeGhdVFGAhopsdHhmX14VEBIPDg8VEQ8pGRM0MC5vJCcAi3B4iXF5jHl6npCPiXp1j21aVlBMEyYyCx8pMyYiPyoiBgkKIB8gPjk3LSwrXURBALGSf8Stmcm5p1lFcycYT088VEQyTiIbOjI3NzYwJVo6LyQTDkAzLl1ORUc9N1ZQSwCYgHNseImGhINTRGY4KHsnH1clGE4TCC9xaGylmoyAdG9sWFA+KBcuGAYqFAgkFAoARkdUHUd9W3WTYVRsJB5ZJSNRMSZMQjNEYmJxmJeXoZqYhIF8SykhTSEaOyEXLRkRACZAZSVFcTFaiTxDZxsUOBMUOUc3SYJwZmdweX16eYJ9eWdbV4oiMJUlNXIrLlUqJtJvpLlFLGEZAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/015.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 15
     },
     {
       "content": "Je suis comme ça, je remets tout à demain.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0ZlpnXFJ4cGmDe3KIgn6XkJCmn5+RjY6fmJOlnJS5sq2mn5uHf1uTiH6UjImUjYsAgnVqjYJ4nZWQo5qTopyWm5iZnJeXmpSSqaGYp5+Zwru3rKabhnpTgFZJTDkxioSDAI6Ee5mQiaWdmLWwrK+qpGtiXY2FgL+5tqSbjrGqn7ixrUdDQj8xKls5LV9SSoyDgQCZkoeknpesp6K6trOOhoJ7XU+WgHW8t7S7tq+3sqxVT08JBwsbFRY4Jx5VS0mFNDkAkICCiHl/jX+CpZ+fraKboXxofG9pU2BlP0xTZFNMKx8aBQcLERARFBERKSEjch0hAKeLiq+ZlKaUjpiAfnplbmdMT0Q7Q0JIV3FpbnNiYxMODhUODhYSFAkICS0tL29jYQC6uK62ubSRfWxoTkN4WmE2KFgrHEhCOU51a21/dG9kU0hkRjw+Jhk3IBM3JBo/MyoAUnGNMFmFZmpzTD9gOStVNy5TIhhFFQsdS0pUlJGUmY+If3VrOCMSMxoKKhQHHQwFAChIcyJGdUhmjExDXhYYQxIWPkI0SWtYVU9WZ3t5fn11b1xSR2ofJWcgJFApI0grIxdUrsPLmzUEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/016.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 16
     },
     {
       "content": "J'ai 284 emails non lus.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB/cmaFeXCSiYCYj4iVjYaSkI+UkI6VkpKooZmkm5O2sKmwqKWFfFiGeWtyZWGCe3kAhn1yj4Z9mZCJqKGcta6ou7WwrqypQUtQZWZgqaGUwLm1vLWukYl5e1tNOh8VW1ZWAJKJf5yVjKehm66pprWxrsC+u2pqaks4L1VDOXd6eLKsqH97eUM/P0EpIjksJWM/QACNf3+LfYCJe4Cqo56el51NQmVZTU+zjHVZSEATIytlUEc5JyATERMVEhQVFhlbQkMAqYyJr5aSrJuTwrKcYlNhV0ZWtpyIqolzgm9gWUo/XT0tbEs8W1NPY15eKicoV1VVAKeuqau3uNrWzM3Hv1hJbi4gU0Y5RlZFREQ0OXJeUGVXTFtIQUYwI0cxIjgmGz4tJgBCZogoVYeZqbjGv7lGN2wpHFoUFzsZFDsYDyZeWF6YkId/d3BENCc0GgguGAojDwQAKUlyIkNwO2aUgYWXMx5TJBlFDhAvQzdLcFtSV1ZZdGtiV1JHYCophCgwXyknSywlACRBZyI/ZSlPfjJbkSUjUBwROiQaNG1USl1bWmpubm1nX15UTpJPVaE/TootOnUtMRnfq4zNkoN4AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/018.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/018.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 18
     },
     {
       "content": "Un jour, j'ai décidé de les trier,\nj'ai répondu à quatre emails et j'en\nai mis 280 dans un dossier à répondre.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCAcmeFem+RiICbkoyYkIiSkI+bmJaUkI+lnpijmpKzraa0rayKgWODeGNzZGF3cW8AiH5zkIZ+mJCKqqOfqqCZY1lSa2hnVmFmVFxbopqMvrizv7izmJGCf2VYQyMYR0E/AJSLgZyVjKeim6+tqrCknJ6DdDYsKBEcIgkWG19lY7OuqYV/fEZDRTooIzknH1REQgCShIOQg4eHeX+jm5mroZmvj3taSkFqbWlOUU8HGSJWSkY5JSASEBEdGhsPDxJLQkQAmXl2o4OBtp+TgG6EQTNfWURLaldaS0ZVQkhJIi0uGhUVTS4nTTw3YFlWUUxMU09PALqehYyOiqumnF9SYCodaC8lXy8hUhYJNkM7SKKVfHRpW2NVTFU+MjslFkEtITwrIgCRiog4ZJFIa5J0bHg2KWssJ18pH1EaEDVHP1SioJ+tpqGqo51eUkkzGQgxGg4lEgcAU2V+JUt9LFaGU1+BKh9OHR9GHhlDb1paX11jfoCEkYqHhoOAYT48giAqbSstVS4qADNQdidIcypRgC5Whx8bQBcQNTYqPX5lV2hxd3d4eH12cWpmYHxRUqRNWo45RHwwNv9PpYHb33eGAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/019.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 19
     },
     {
       "content": "Ça fait trois mois que je pisse dans le\nnoir parce que j'ai pas changé d'ampoule.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCcbE6KfXSljGeBc2Ogl5CqoJmonpmon5qhmZSelZCckYyRh4CKgHmJenCEd3BcS0UAmX5omH5lZlRBYE1EkoV+kIiDp5+cm4uDp5SKpp2bmIyDgndlkH9yfV1Ch3huRzo+ALulgaqWeGlVTJhyZKCRiI2KiYqGgntkWZh7a5mRioh+dGtjTWtdVWVKNX1vaG1fWgBqYFZgXVxfU1GFZ1mel5Ovr7GHhIpWR0hiTk2CdnuMhHtPSD0ZICceIicjJiorKisAQzg5NjIwUkY8ZFhOPTk0enqAJx8/JxpENSVWNSJVg3V7WFNPEBgfGSAlFBgcDA4SAE40JDMuKkE4MmZZTUpCOkxITDotPSEaQScfSz0uT5GCgEpDOg4UGxcbIBEUGQ8QFAB1RChqVEg7My05NC9iU0h0XlNbQTwZDCQpEkFdPFKTgHZDQkULERYUFxsPEBQMDRAAXTIabE4+KCYkFRcWZVZMfnVyTEs+R01BLEBCS1dNVmFQICYpERYbEhYaDg8TDA0QAB0VEHtwaSopJw8PDltXU7y4sTxwUC1VODVNODlGOCcrJBIVGBgdIhgdIRMWGg8QE5uWjXI3wk72AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/023.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/023.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 23
     },
     {
       "content": "Quand je veux me désabonner\nd'un truc, s'il y a plus\nde deux étapes...\n— Appuyez sur trois.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBqYlyEeXBuanEPFzgOGD4RIlAWHjJTVWizrKppX1gfFxQoIB1ZUk5XU05LSEUnJSYAeG9pnZGKhn+AFRowGBktFB9EFRoqUlRlrqioQTcxakg8elNHUkhCVVFMS0hEIB4gAHpwarKln52Tkh8kPBgXJBcYJhcZJVJTYK+qqWlYUG9KPX9XSmNWT05LR0VCPx4dHAB4bWe5rKaqnpkuLDESEBQZFxgWFRlUVF6fmZhKQz5mRjx3UURfT0hHRUE+PDkSEBIAeW9ouKqls6ehOzc2DQsLGBYTEhETWFZegX19EhQUNSolakk9UD44LC4sMjEvDgwQAH5za6qembqtp0pFQwgHCBgVEhIQElRTWHx3dxgYFysqKmFbWiQjIycmJh8fHyIeHwB9cWqckYu9r6pWUE4HBgcUExIQDxJUUldzbW0ZGRlOSklvVk8/Mi8gIiIaGhoxLSwAd21lkYaBs6WcXVVSBgUJFhMTEA4OUlFTeG1qGhoYT0lGcks8XkI4JSIgFhcYPTk2AHVtZn91cKaZj2xiXBcSFBgTFBgUE3p2c498dyspHyI2JC8lGDsqI1I6MT8uKEI+Ofh+e3D9Z6CJAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/026.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 26
     },
     {
       "content": "Je reste abonné.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCQh4eTiomdk5OclZSRjY2qo6OspaRnYV1eSkGai4W5s7K4rq22rKuxqKaupKOuoqEAkomImo+Pk4uLQTk1Qy8ljYF+m5aUNSkigFlKjmVWs6upvLOxtq2rs6mor6WksKSjAJSJiaGYmHVwbj8sIoBXRYNwaXhtaHNQQp5zYpFvYbWtq7uysLivraadnJ2RkXBrawCWjIydlZWUjo1/YVSba1d3ZV6Te3KWcWBmRTeRd223sK+5r620qqiOhIR/eHx9cnMAlY2NmpOSn5ubmntufFlKLS8rRDs0nXlpHhcRWVNQqaKgtq2qnZORYl1aUTkzaVFMAJeQj52Wla+mprSel1VKQyAmJDszLX1dTh0cFzAtKY+IhrGoppGHhVpVU1VCOm5NQwBuaWixp6e4rayvpqZsZ2UiKCZQQDeOaltQSkdLSEKCfHqckpJ4b2xtYl6Cd3anm5kAOTYyua+wvLGxmYKEb2FiSD01k2pZknBhMy8iOjEeXlhXWVJPWVJNbmVilIuKraSiADMvK6CMhZmCeYVrZo5nW0U3LpduXXVbShwqFDAoIg4LCQgFAz03M2hgXZWMi62joZFKx1bz4VNtAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/033.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/033.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 33
     },
     {
       "content": "Je dois jeter les piles que j'ai pas\njetées à la poubelle parce qu'on m'a dit\nde pas les jeter à la poubelle.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCRiIiUioqaj5Cim5p+eHZ4bGewp6ZWUk5DLiSCXlCtoqC5sK+1rKmyqaewpaOvpKMAk4qKloyMpJybfXh3OioiaEY2V09LZVJJf15PkmdWoJCLvbW0tqyqsKelrKCfoZaVAJWLi5ePj6agn3lzcWxQQmRIOlhGPp53Z4NdTZNsXK6jn7qysLatq6qioJGJioN9fwCWjY2alJKhmpqhlpSfemhUPzNGPDWog3NOOS5iUUmfl5WyqqiupKOKgX9pX12DcnUAmJKSmpOSpqGhtJyRnHhnJiQhISMgfV9QNCkiHx8bdG1pjYSCkoiGamNgTEA5WDEjAIeCgZqVlKSYlbKKeHBVSCAiICkqJoNhUU9DPDU0MmJcV3FqZXZuamxkYGRaVohvaAAtKyaOi4uUh4KHa15NQDopKSVcRz2cdGJZS0VFQDFiXFRsZmFpYl1rZF+GfXuroqMAHBgSc3BumJCOuK2rn5eWREE9i2NSqH9sMjUgKCQQMCklKickPDYyZF1YjISCrqKgACMfF2VhXoiEgr2zscK4tldYVkA4MGtQRB8kGExKRSAXFAAAAB0ZFllTToJ7eauhn1awu7rOin7AAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/034.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 34
     },
     {
       "content": "Je dois résilier ma carte de cinéma\nparce que j'y vais plus depuis des mois\net quand je vais au cinéma,\nje retrouve plus ma carte.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwFwUuL00AAAOD8AGEL6yadmcxk8pg8Z/JqtmmaTuyaNKFod9lS3T0IPlhE92APLsIiiKgXQfHi2YNn0b/o9ylRfQ68agRtE5PcZzLjBGqHhyMIAIIYaOhIBZrp4ECMGT/QkGLwGrBCs5KDMdGO1E/76+/v9oWIwFhHgECAxyoAhmmJlKYz1REK9Y9ptsb8xM67OyP15uWLP1/f74YVJA41bKxToCGAiZcX/lSicKoM9ZKWl/Z0F9bbuwa/unz06/b1/smFF2YmdQg2dUggJH5exHNJeKH0ZYXijbd45k8fAJMvKvn3x+ffX26z5FhHhkFMy2S27dmhcCcFizKF2DkUG09epe1z3QmBwT6+uf737UMnawCxRe3AjydRVrjhzEv6IFOQxUm6tvJTzEuB56Ehu2X78+bV02YrieyiZCXKUzEMQTE48T0zVhI0F37lBnFmVWds17PN0m42cbblzQnseidfB1HP5r3fNA6rsVAWqE3BRNKHj423Z+bFfZa3tK9w1HpBrddSL1duNKNu68iZxWeG9R+ClVYiYiEKXwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/038.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/038.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 38
     },
     {
       "content": "Je range chez moi que quand\nquelqu'un doit venir.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCrn5q1q6ePg32QiIGikX6ynIK6qJOVe2OchnVLRkMyJR1PQjynoaCelpacko94bmoAsqeivLOxk4F0oYhqk3xmpoxxk3hji2pYpop4Uj81JBwYMCciiIKDjoeGnpeXfXVyALiuq7yzsYp9c31dTWtBLIhpUGtOPW9PPKiRgIZ4cls+L3lhVGl7m4CNo5iRkYN+fQCkmZbEvrt7c203O0ptTz+IZlNZNShUNCeAZFeVfHdxXl1Wap1ij8h2nMempa6vpqcAhGpjooR9d15WOjQyj3hpclRHUhIMRw4LTRgSeBgKXEx1R3rEZY3BcZfFlJ2up5ycAGk6L49iTJBlUIBpYFtEN0U7NikJB1cgGksmG1EeIDRLmUVut1iCvWePwJObq6OamwBFOzibhm2BblhmYWJWTEpBOjQsFRBLIx1XOCYsJkcuU64zUp1CZ6xchLiPk6Cdk5QARDo2knpilIBsamdoWVFOJiIgKB0ZNA0LRioePjdFRFWNITZxMk+XU3ivhYmVk4mKAIdsUpp6WWRSQCstLDw4NxAVHR0YGDAJBzgaE1w9Kkg3NBcqXS9JkUhqonl9iYZ+fZRPr0CR/E+NAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/042.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 42
     },
     {
       "content": "En vérité, je déplace le bordel.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCUgnmAaViNalKWgnWYiH+OgHmom5WpnpmonpmmnJuXin+DeWqXhniZhHChmJV1ZV8Ai3ZsiHBdpIJgoI19hHdve3FshXx2Zl5YdGpllYuJiX5wfnRmiXFbjnNUmY6PTT9IAGlDNHNbTqB/X6GShJ+WkJaOipaNiIF3c35zbYt/eXVqYHRsZI5+b5uJeZuSkIFycwBoQzJbPjF0W0idkIGgm5ePiIeblJSakpGLhoNuU01mLyuDeHOPhYGckY+eko2kl5AAbk04gV9GR0JBkYV5lZGPg4B/hYGBg3hudWdZdl5OcUE2gXJqjH51kYJ3moyDlYeAAEowJTo3OSszP0ZCQE9MTkZAREQ8PKqWermkhrakiaiflZ+TjpGAc4ZyXl9OQ15RSwAyJSIVGiUeKTQjJisvKS4hFyMdFh1xYE7Qw6zVzb7i4tvJx8SclpduY14vHxhOOzQALBgSLyAcFiIvJicqRD9APTxAKyYpOS4rsKecraafpZiNgW9oSjs2OCsmOi8qQC4nAC0TDUYhEiAaHxYdJjczNURDSHlkXH1VRYhhUZJnVZdxWZFlUYFYSGlGOVE8MzEkH3WFs3o+a2acAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/044.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/044.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 44
     },
     {
       "content": "Je dois faire quelque\nchose de mes centimes.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCUgnmDa1uPbFSWgXWYiH+QgXmom5WpnpqnnZulm5qXi4CCeGqUg3eXgm+flZV0Y14AjHhujHNfqYVin4x+gnZve3Frh4F9ZmNfcmlllIqHh3xvfXRmhm5ai3BTlouOSzxGAGtENnVcTqWDY6GThJ2SjZqUkYxwa3IwKnhoYpWLh4R5bnFpYYx7bpiFdpiNjH5vcABrRTRdQDN3XUqXiXyZko9/dnR7JyKAPTeCc2+EeXWFenSDd3GLgX2Xi4qajYigko0AcU85g2FHSUVEgXRpgn15Y1xZPzExX1hPRzQuRyg1SjI5fGVRh3BZjn1wlYZ+kYF7AEsxJjo4Oiw0QEE9OkA8PT46Ox4lKV1NPmZURF46SE4kPmxSSJuBYpJ1WWBNQF1QSwAzJSIVGyUfKTYjJiwoJSklIygPEhlKQDjCsp7NxLaNbn2ag4iimI1sXlcvHxlOOzUALBgSMCEdFyMxJSktQj9APT1CKycqPjQwr6Wcsamem4uAe2hjTkE9OCwoOy8rQS4nAC8WEUQfESEcIBYdKDQxM0BARHllXIBWR45lVZZqWZ12X5RoVYJZSGxHOlI9NTIlICWTpfG3KSIKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/045.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/045.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 45
     },
     {
       "content": "J'ai acheté un disque dur\npour sauvegarder mes données au cas où.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA6JB1PMCZILSQxHxsaEhMbExQaExQWERQRDA9ILSVxSDl7UUCIW0mOYlKKXEuBVUQASC0kXTovbUc6ck1BY0M4bUo9ZUI2MSIfLCotTTEndUw7h1lGi11LkGRUj19OgVVEAEIqIz0pIl1ANoBYSYtgUJVpWnJMPVtQT6mut083L3hOO4VZRo5fTJNlVX1VSHpSRABZPDI3KiczJB9oRzh5VEVXQTk1JyGdoKrBx9s5MDBQNiyCWUiBVkZaPzZBMCxjRTsAYj0wUTQrWTwybUs+TTUtMCYkNigihX6GnaG6VEpOHxQQTDIqe1NHTTYuV0E8i2NXAIx4dJB8d4lxaYhsY39rZn9qZHNiXXBaUZGEgmFUVFM9NFY/N5FqXo1lWIJZSo1hUQCWi4qRe3R2XVVYRkBzXVaRd2uNcmV2XVFyVUdtUUVsWE+QeW+xnZS8rKW8q6Sjh38ApZqYq5uXqZyYm5COl4iEkoB6l4J7mIV9k4N8iXZvgG9qiW9klnxviHVvq5uTvbOwAM3Jyc/Nz9HR09XW2dPV2dHT19HS1dLS1NTV1tHS1dDQ1MbFyLu2uLCnp7Kmor20snxLsfnw5mj3AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/047.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 47
     },
     {
       "content": "J'ai jamais fait de sauvegarde dessus.\nJ'ai perdu mes données.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAxJB8oHBciGBMgGRMtIBpAOTVGS0+vpaJIPz1aVV5vZ2l1aWN8b2uVh4SCc22HeXUANCchJRwXKB4YRiwkQS4nLSgmMjMzbWhnMS8yTkpVVEZFW0tDZlpVhHl2f3JuiHl1AGxJPEYwKFE1LW1COEg1LS8wLyouMB8hIyUjJlxXX3ZrZllKQzMrJyklIkg8NmtfXABfPi1hPjBeOzFLMioyKCMUFhQVFhQfHx2JgIOemp+utMOPkZ0+PDswKyd3bWlnXFgAUjgiWz4pOCQbKR0aJiQjJiYlGRgYPURBp7Gvg4iSkZepf3+KdXFxd29sqqCda15ZAHlWNnBQM19FL0Q3LSovLDs5OS4uLzFJOneEeYB7fVlYWZWUmMjEx72ysHNraT42MwByUTNbPyhaPyhmTzVeVDwrRDIjQjJAW0iriH/KvcDW2eDT09jJyc22rq0/OjoXFRcAVzsmSTEfSTMgSTMgWj4nXFpCOG5YZX5zmXduqJydyM7WwsLGw8DCsaurJyMkGRcYAEoxHkArHEYwHkEsHD4rHEoyIFdXSp2dm4xtYqWXlM3O1MTAw9LLzJGKiRgWGBwaG9Dlld8fUpxjAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/049.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 49
     },
     {
       "content": "Je me suis dit que j'étais trop con.\n— Qu'est-ce que je suis con, merde !",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBaSkQuIBsnGxZEOjdgWVuik421q6iBg4dhYmVUUVA0MTRcVFp0ZmOMfXmShIGHdGoALyIcJBsWLSAaOSYfLycicmpohX+BYmJlmJacx76+RUJHYFddRTk3PzYzbWFdkYJ/AEg2MDclH1c3LmZDOCMhHystLzQ1OBIXHVRWWpOPk1BOWk1FTko2MGNUTmVaV4Z4dgBrTDZkQTBdOS5TOjJnU0xMODEdHBouKiYrLi4lJy1cWWOQi5F3a2hdTkgrJyNBNjIAck8vc1M1eFs+dFlEj2pYOighNi0poXhpMyciLS4wvre6wsTOsrjKXlxhJSAcZ1xZAHVQMXVRMnVVNnNXOW9WOldKNzw1MYhiVSohIjxQTJuxr3RzfWdodH53eX90cKiamABpRytjQihVOiNONiBHMR5KNSJNRTOHYlU9PDYtV0umuby8uL2TjY/IwsTIu7mGeHMAUzghTTQdTDQfQS4dRTAdOCcXTz4rhF1PTVtNcpeO19PW3+Xt09HWwLe5xbm3WFBNAEIrGTsnFzooGDMkFi8gEy4gEzstHlY8MWFZU7G1u8S+r8C6sMG2t72tqLuvrTItLv4YnDU5IAy+AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/051.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 51
     },
     {
       "content": "C'était il y a un an.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDArqu/rarMvLp4bGghFhArHxozIxxPQDozMjM9KSFHMy1hXWdkVld3ZFuhko98cG4AwK+qv62ltJ2PZE4+LB8YTjMrXTktemlkgoaOa250WFZWNzM5ZltfbmFeiXt3jH15AKKBX5FsRX5XNHNOLXVSNW1JN1o9M15UVU9SWrOwtq2mqEhETl5TVzsvK0Y9OXpsaQCFWzR/VzOIYDuKYzx6VzZwUzZtWEE6ODoYHyJpbHFnZGpUUmFVS09ZRD1lWFJqX1wAeVQ0f1k2eVUza0suWD0mUjojXEQqYlA8ISAeFxgYJycsh3RzjWZYgmJYT0M+JCEeAGtJLWZHK1k9JVE6I044Ik04I002IEo1ITkwJgoNDVpPTI1sYZWDhJWPmkdDQyQfGwBjQihTOCFJNB8/LRw8KxszJBY/Khk+LBpTQC1PQz98YFZ8a2diaHBgXmaNg4J9cGsAXT0lTTQeQi0cNycYLh8TJygbLjoqMCUVTzYmd1BBbU1AqaKlpZ2dnpSSyL++sKCbAEwzHkUuGkArGTYmFyccDzkxKEpKQVBRR1BKQlY3LnhgUZuWjbi0vL+4uL2xsLSnpYl6kqHEBGkLAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/052.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 52
     },
     {
       "content": "J'ai toujours pas fait de sauvegarde.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCjl5p3bmpPTUqLhocdHx0rKicyMjAhIyJ7cW2gko6Cd3SPg36Yi4aYi4eekY50alcAZ15nbGZpLS0rJiYiSEVCr6amwbi5l5KSg3t5hHp2OjEsZ1tWVkxEfWxki3xyeWtcAFZNVWFYX3p4iGBeYD07Obu0ttzV2ayprXBeV4lwZ15QS3pwbU5EQV9VT4FybY58dgBOSE1MRkxgXXBrbH8jKylkaXCLjJV8fodpUEZyWEtYUU1dVU9YT0IPEQ1XTkeOfHQAUklLSkROU05bXmF9XE9MSjgsBwwMQUVKvre9gnZuYV5jWlheUUk6Hx4bX1NNiXdvAEA6QDo2Pz87QVBQZH91hm9dWRAUFUxMUK6ssVZXXU5MV3Nzg2pobTw2MIqCf4BxagAnKCgjKCsqKjE7OEBcX3tscZIqNDkqRTWKmZmHenZoVkaLiY64sLGll5KroJ1KQj4ALDEsP0s8MDEyJCUqOThDWFZrNFpScYqBwbq4w7mtw7e1wLq9q5+coZGMmIyHSkE8AC4qLC4pIzczLiIjIh8gIzw7PXN+eL+7wrixrKiij7Oqp7itq7CkobWpp4t+eFJHP4+Pq5Lw5AQ9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/054.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 54
     },
     {
       "content": "J'ai commencé 12 livres,\nj'en ai fini aucun.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC8q6XDsqzCsaq2p6K+sa/DtbHFt7HBtK+5raqnm5ixo561pqGvoJuun5qxop+2qKUAv66ooI6HXktDRTYvXFBMuK2qzMG+ysC+nZGNRzsyRjw3mo2ItKWhq5yXr6CdtqmmALKhmkAzLSEZEyYeGRsUD3dvbdbR0czIzaidlqeRekAqIGFbWrutq6qcmK2emrKkoACik4wkGhQfGRMkHxswJB50aGTSycm/sbGvm5aOYE+PaFqnl5S8sbGqnZuqm5inmZUAppiWXFJQS0NHMCgiYT4ykH55cWhnX05LSEI/PzEqYEk+Wk1Hi4WGua2srqCdrZ6bAH92hYyDkXx2j2pfbXFQRIh5dGJmbLG3xl9kby40NzA3OwsUF1lVVZuPjFtRTnFkXwCLgI2IgJOKhJqDgJ6FgJh7eI2Eg47KxcrLx82SjI5lXFtjZGdrZmWUhYBFOTRsXloAkIWOiH+Of3eJc22Cc26IbWiDgn2Ss6+3vrq/nZmdf29pubKzZ1dQhmhdYlNNZllVAHVrdm1kcWZebWphb2ZebF5WaGhfbXp4k2NncVFWXFxYXGRkaVE+N29NPUY9OTkzMJSL0MMdnwjXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/055.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/055.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 55
     },
     {
       "content": "J'ai le droit aux allocations.\nJ'ai mis mon nom, mon prénom.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAIBgVCQEGLiYpRSUCdm5bV19ze5+rExcrFxclCQkILCAkRDw15cW+uoJ+olpaNf30ACggHNjU4cWdlb0c2loV+sbS5rrW2vLu/uLe6Nzg5CQgICQgGeXBymJuRc4NpS1FIAAcGBzg1NpiUlIVjVKCJgpibpn1/ipGPmoKAiEdDRCIeHykkH4F4fIKUgCRXIio9LwBLQTuZjYjDury9ra2vp6eooKFiYXI1NUNBOT1sUUY4MC5dUEllXV1XU1EqSCUmOC0Ainhvj313xsLDs7awmoaAmYZ1PTc4IiEjWlxoSkZLYGRyQkJJJiEdKyEfIiobJDAlAIBxa2JQSY17cmFbP15AMGdHOh4VETw+SYuHk3RkZWtbXmRcYjQwMScgGiIgGyUsIgB5aF5VPytVOyhINCpQSTdiV1JgXWB8cG1pYWNISE0vLzFDRkxWYmxRU1RpXVZJPzYAemFNYkUnKy0yMDdELSYkJyw4R05fjIWCXHKEP1JhHSQpGyQrIiozNDs9U0hBTzwxAEk4Lkg4LyQiIxcdJg0PERMYIRcbIyYkJlFdZTU/RRYWGBYUFA8PEBwgIislITYoHunSkWdkFcDaAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/057.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 57
     },
     {
       "content": "Après, il mettre ses\nrevenus de l'année dernière.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4b2t9cWuCcWd3ZVt4aV5fT0VwXVOFd2yHeW6KenCGd22AdGp7b2V6bWWFeXOHe3YAxbStmYuFfG9phnZsg3RpjGhZmXprhXhtg3dtgHRqfHBme3BlgXZtj4SAk4mGkIaDAM7AuqR/bZN6bmddVzY1Nk9CPI9/d6OUjJmNhZWHf46Beod8dJOJg5eNi5iOipGFfwCjk4yLX0aDbV4gISEaIyV4hog/QUCgkoyklo+klpF3aWRxYFqRhX+ZioKZjopaTk0AhnBlq4ZilnleTD04ISUoWmNqLzQ2m5SSy8bJq52Zc1RLdVdQg3Fng2NEloiCVU1VAIdxZ2xYSFpOQ1pVVScqLRQbHUtFQ7OrsM3S5IqCiVo/OX9ybouAeohtVZWIg4+FggBWR0EmIycfJSsvNTkfJCYYHyNfSUCEcW92g4dld2pYZl6RjZGLgX2AfX+GfnyKfngAMxcJOCEVIycpLC0tHCMoJicpVkQ9X09NYVVPgXNra2pjfGReeWZdp6+4bW9xNDU1AFo9LXhkWjEzNQ8REBgaHB4gIiElKCMqMyIoMy40PzY5Qi8yOCkqK56lr2lsch4lK/MVrQyNRAcPAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/059.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 59
     },
     {
       "content": "J'ai pas d'allocation.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB5bWiFc2t+bWNuYFZXRj5yYViGd26DdGqGd26KeXGGd2+Ac2t5bmZ4bWaEeneGfHkAoJKOfHFth3Zsg3Nofl1PlXhsgHRsgHJogHJpf3Jqe3BmeG5lfXNsjYOAkoiHj4WFAL6pn5d7boBxa1dQTE8/N4h1bZyLg5OFfYp9dYN1bIF3cIF2b46EgZWLi5eNjJGFgwCkhHWKX0kzMzUQFxlrdHc/Q0R8cm+wop2EbWaUcmeViISTiYeRh4SYi4eXjYxaTk4Ad1lEpIFjLCckFBkdaHaCMzs9VFFRtKekfmRceVtSk4aAhXtxjH51gmVMlYiFTkdRAHpZRW9fT2JbWRgbHR4iIyYrLZGQls3K01lJRIF2c7Ktr2xiT4d5cH9jSpGFgYuBfwBENi8fISEpMDMXGxwQFxs7Oju4rrK6vcmfn6mbn66hlphyZ1lwaWZ7dniDfHuJf3sAQS4mJiYjKSsrERYZCxEWRjcwalJIXWRiX3WZVmOPW1FSe2hge3FtqLC9eXuANDMxAFIwGxoeHR0eHBgdIRkcHywnJCwwNSEyMhstMzQ9SDc6PiwqKjMvLqSrtmxydx0hI2O1rEBMogF5AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/062.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 62
     },
     {
       "content": "J'ai acheté un cadre pour mettre\nune photo de mes parents dedans.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4b2yEdG6GdGt5aF9nWFBPQDl8b2eGd26DdWyIeXGJeXCCdGx6b2d0amF7cWuDeHUAuqmjjYJ+gHNsi3xye2NXg2BSgnNrgXNpgHNogXRqfHBneG5leW5mhXt2j4WEjIKBAMy9uKuPhJB8c2BZVH91d8G2upiIf5WGf4t7c4N1bYV6cn90bYh+eZKIh5SJiZKHhgC7q6abalNiUksKEBN6aGni4fKFg4ahkIqObmVRQz2Sh4OYjYqQh4OUiIOakI18b24AgGtjontcaFVHMiYiUElKf4SQQ0dLk4WAXUU+ZlROnJGOh3txi4F7g2pXj3trd25zAJF3a3leSGphWkM+PhIXGjArKGRYVri0vFVHRo+Af9LN1HxzZHtxZYJqV4hzY4yEhABvYFkoIyAmLC8hJykPFBdQPjici4yrtb2KmpWXnqO6vs6jn5piW1OFfHtwa2uHfnoAPCohNywlIyYmIyUmBQsQKyQhdV5cP1dHJmgwQGlSb2xzp5ONf3BphoGCoqu4XlxdAEwlETstIxYZGR4hIRkeIx4eHjEtLyw8PiFAMS9BQEFCSCopKjMvLVFOT6qyv0BFSBDFsxmcScarAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/063.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/063.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 63
     },
     {
       "content": "Je l'ai jamais fait.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYTklXTUqDdGiGeHGflZWupqqclYyFfzq/uLS8t7uelJWCamGHbkaxnoSpnZOro6QAiXx4lIiHi394e3Jttq+xwbvDnZeHkos6jYSAlZaim4+QhV9RnY6RxcLOtbG3sqywAJeMi6Sbnamgma+poMG8wcvFypqRiZaJa3tbUGRcY11dZGRJP3FjX5WTmLqzt7KssACmnJy0qqrAtrbKwcLFv8Wbm61eY4RlZHp4XVNAOjgLDg4hHhoXGBgbHyOWkpe4sbYAlZGbjZGjiJOrfIimY2iDSVF4TVd7bHGOeHV/KyoqEBQUHBwaGhsbAwgMcXB1u7S4ACtAZyZAbCRAchU0aCk5YGZbX3NpcaCTmWBodyQrMwgKCTkrJoVsZWdXUH5tZrCnpQAWKEoaJkQpOF82QWlMW3phWV90XVRxYFovOD8lOEsdLTsvQ1ZdYW5kVVKGbl+ikIMAKR0vNhw6SSZIZD1SmXp+qJSDuaiWoI5/j356Rl9yZYWbTWd8RFFdamZjk4FzmH5pAEcpLFgwP140PVQtOUUeP0oqPXlUZVo/RJyDfIiEgZqSkKSQh7ajlsizo7Cbiq2ZiVc2wH5IVk1kAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/064.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/064.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 64
     },
     {
       "content": "Ça fait six mois que j'ai\nla photo d'une petite fille\nque je connais pas sur ma table de nuit.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBlWVNSSkh7bGGMfXSYjo2wp6mnoKN/fD20rZTCvMSmn5+RfHhsUzSnk3mrnpepoaIAinx5lYmHlImFenBpq6Snw73DpaChkos9kYhwjIqWpaKph2JWf2VhvLnDubS6saqvAJeMi6SbnaujobGpnb64vc7IzaObmZmPdIRmWWZVVVtfalU/OGpWT4OAhLSvs7OtsQCmm5u1q6q/trXIv8HIwsanprZna4piZYB4YVtTRkIMDxEZGBYdHRwKDhFycHW7tLkAl5OciY+hh5Oqe4qpaG6JS1J2Ulp+l5evoZmmPTo7DxITGRgXHx4cAgcLSktQta+zACxBaSM9aiRBcho4bBcvX2RcZFZOW4p3fltfbDA5QwkMCyIbGHtgWHRjXmxZUaienAAVKU0ZJUUoNFs0P2pPXXxjYWtzX1dsW1U6OzwkOUsgMD8nPlFPWGhjWFp1XVClkYEAKRwvNx42SSRIXDRKj2t1ppCDuaaVqZiIl4F5V2Z0WHqQXHSIP09eZmVliHptnYVvAEYpLVUwPWA2QVkzOUYeP0QiOm9JX10+R4hwa5yRi42JiauWja2ckMq2pbOeja2ZiEucvt1GC5UEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/065.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/065.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 65
     },
     {
       "content": "Je l'ai appelée Alice et lui, c'est Rouky.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB1ZmF9bWeCc26Ke3aUhYGfkY6pnpxrZWVGRENUU1RaWFliYGFybnGnoaa+tru0q7AAfW5piHh0kIJ9m42KoZSSpJmXtq2wQkA/S0JJUEBCTkNISkFJFRMSj4mOv7e7qJ6iAIt9eZaIhJ+RjqqenaSamJeNi6ykqERDRJF7iJZsaqeGkb6pwzEsLpCKjKyipKKZmwCYioegko+nm5qwpaWglpWRh4SgmJs9PD5uU1WIYl6fgYafipspJyeGfn2to6WqoaUAnY+MopaUqp+erqSll42Mj4WFopqfMTM4LzthcE9Nh2lobk1KIyEfnJSXta2yopmeAJuPjaKYlauhoqifoouBgIZ8fZuVmycoKR8xWlhIV2lMTX5pdSAeG5SLi5GIiWRYUgCakY6hl5aqoKKbkpRzaGVWRzxQQjkaGhhCOkBCNDxoSUh2Z3ghHBdkSzZZQzFWPioAmY+NoJaWo5mbfnVzWE9HQS8fQzEiIBoUHhkUHxkTGhcTFhUUJB4Ya083X0cyTTkpAJaMipqQkHxycVlRSklBOjcoHUk1JEszHUo0H0o0IUItGzsnFEo0IWBHMVQ9KTgmGG6Zt6uaFau1AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/068.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 68
     },
     {
       "content": "Bref, je remets tout à demain.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAPDAmAbnuUdn1aOzqIaW54VleTbm9xSkiBYmnjzePex9vbw9c+MjcUEA0xKCOAbmMADwsKeWZxiWhpY0A9mHR6qIOJont9qoaLr5Od3sbX48zh2MHUNCksFA4LMiojemlfAA8MCmVRWH5XVWlCP2dDQp1zdJBkZZ+AhtC0wKCCh7eao82zxCwiJRMNCTUsJHNjWQANCQZKSmaIdomKY15FKSdHLi6UcHR9Yma9mp97XF2NamqTa2ofFhcWEQw2LSVhVEkADgcFKzpeP1yXOz9dKyAqQR8cqIaNuJmhiGRjroyRrYWGXC4jFQ0NGRQPLCMcQDIpAA0HBR8pRi1RkRg2aSogLnBANpd1eJR5gScZHIRqcZNmYnhTThkUExkUDyseEjMgEAANBwUZIjonSIEdNmU7KS+FVkywj5eMcXk1IiOFaW7IqLaUfokUDg4aFREzIxNBKhIADggHFBouJ0eBGzNjMyw+eGRwgnGAYzs7ckRDdl5v2L/SjXqFDQcGHhgTOicVRSwVAA4LCxQRGBsmRxswXR02ZRozYyAsUntOTm9KTGJQYdW5yXpocQsGBB8ZEz4pGEkwGbV/kADeiKJ4AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/070.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 70
     },
     {
       "content": "— Moi, c'est demain.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLQjhPQjJ0Vj5cQi9ONyWBcmmIfnuOhH+EfHqAdXGAdXCNhIOSiIeKgH57b21xY18ATz8xTTspdFU8TjgoSDMigXNpg3p3gXVxZ1NJRTo0cmhmbGVmgnl6cmhnVUxJVEtIAEk2KkQlGGpLNUQyJT4tH4BzbH94eIJ1cLiXg4ZxZnVwdX93e2ZfXkhCQzQrJzswLQA1KiMtIRtoTjlHNShENCaPiYWQj5F+d3mqiXSkkYmMiZWOiJB7cW5sZGJEPDk/NDEAMCMbRTYtX0w7NiccMiomn5+cfoKTTVJuq5yWcG+DZWuMh4OPiH+Dgnh4eW9ucWdlAC8gHUY1MDkwLSQZE0E2LKGgn05UckZLbKKgpGBjfVFahHVzhXpwcnVsbG1kYWVcWQAWFBgXFx8bGyIjGhZMQjtyb3BJUW0wLzxMRUKPkZpze5poaX90bnBvZ2diWFVaUk8AFBMYExQcFxUbFw8LNzEwXVhZNzI0b1dNh21jgnNpa2djU1JhSD9FSD9CUUhESkJAABMSFxERGBIQFRQNCw4JCjY0OB8aH1JAO5d0YG1WUkZJWSgcIhYHDBcJDz4tI0k3KpQZj6a3BaXAAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/073.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/073.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 73
     },
     {
       "content": "— Quand ce type me donne un truc,\nmoi, je le donne à jamais.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCOjBWRDBxUjpJMyJYQi+EeXOEenaTiIR5b2tWTEd9cm6DenyRh4eDeXhyZ2VrX1oASDEiUTYkbU84OSgcUz8ugnhzg3l1iIB+alRLhmxdX1ZTcWpseXBxWlJQSD87UEdFADMiHT8kF2lOODMkGlVDM4R+fIN9fI2Hh4pxZb6fjY+Hi4N7fmBYV0dAQC0lITInIwApHhhANCtsUz01Jx1WST6cnJ6UlJh0doR8aWOiiX2BgZKPiZKKgX9yaWhYT0xPRUIANiMdUUE4YUw6KR0VSUM9sbSzfYGRPUVsnpqlj4yaSVJ/fHyQhnx/gHZ1e3FwcmdlACweHjApKzsyLicbFFhNQ62vsGFogjM4V1pXX4OAh1ZdhGxvi3pydHVra2leW2FXVQAREhcPFCAhHSAjGxZUS0aBgIJIS1lQTFRLPzuDfn6IiZFoaoFvanBqY2NeVVNWTkwAExIXExUeGhYZEgsHMSwsT01PIh0eVj4yoHtnknBfZFlST0tPLiIqOC0vTkI6Rz03ABAQFQ8QFxMPExELCQwJCywqLCEgKjMwPX9yc3BfXUJEYSUbJhMECR0PE0g2KEs3KGpQjeH2+WqEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/075.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/075.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 75
     },
     {
       "content": "— Mais carrément, on se\nvoit demain soir, Sophie.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAALJJREFUeJyFkdGKhTAMRLtNtQlqxcaE2ILg///kggWvvQ+785TCHGaSup9e3vsQAgC0wXv/ZXDdw7lhGMZxTCmt64qIIYS/gJYwTRMz55zneY4x/pMQQjCz4zhU9bouEXGu9zzWGGNKads2vbXvu6rmnAHgzXwAImJmETEzEVHVUoqqEtF79Q8KAMuyyC1mLqWc51lr/Vqj64eIRJRvmVmttaUh4tOqA57zt68AgDa/K/0C3tYLzkQbffYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/086.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/086.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 86
     },
     {
       "content": "— Ouais, bha, je l'ai noté, t'inquiète pas.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCLe3ecjYikl5K9pIrErZTHspzGuKvMxsSqn5aSjImdmpykmZW2rqzKw8G/tbG5q6YAZEg8eF1SmYuJvaWMwquQxq+Xt6mco56em5CMiH99W0I6SzMrNiwon5eUx726r6KeAGpBLWE/MJGEg7iehrufg6yQeVlDOGhNQ4J5d3liW5toV5NuYTQnIYB0cK+looh6cwBxRTBiPS6JfHyrjHinhGmbe2Z3UUGQZVSjlZCKc2uNXk2ke21vVEtaT1J9eYB/bWUAcUIvZUAxiHt7k3xxmn1rknpsNCclaEk8qJaKe3d+bUxDkmhckGlciHJrRT9OZV9oAGw/K2pFNoZ4d6uenltXWis1QSw4R0tLUmxiZycpPWZMSGVBNnVZUcOll29mdjY7YwBsPitdOSmBdHGjl5VtU0tTNjM3OE0sMVAsL08lJTojICoqIB54X1apjIZCRGU+QmcAaz0pYz4ucF1WXktAbD8yeDcrLic4HiA8IiM7LS9JIiRCOzxIf25olnp0JidILjFRAGE1JGU6KE8xI1U5KmoyJnZIRE9PVS0yQjI5TSgqRzk8X3V4jVtVVZFuYFNLXSAkSPKtsCd/c4iHAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/088.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/088.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 88
     },
     {
       "content": "— Regarde, demain soir, voir Sophie.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCunpWShH+ilIzApYjDrpbHtJ/DuK3Hwb+soZiKh4azsrSzrKm8tLLLxcK+tLC3qqQAcl5YkoB7pJaQwKaLw62UyLOcybyxvbe1nI+JmpaXcVxWSTMrQDItj4eFycC9uKunAGhALWlMQpyOib2ihr+liLObhGpaUm5fW4eAf5V+dptkU11FPS8lIEg9OKWbl5iKhgBuQi1mSDyUh4axkXesjHCTdGBqRjiQaVmVjo2Md3GFWUt4WU9HNjJYSUiTiop5aGAAckMuY0I2j4KCmHdjp4VumXtpTzMpiGJQqZ6anZGQelJGj2RXX0pCXE1SR0VXdWllAG8/KmpLPo+CgpaGgm9hXkhJTiIpNGlaU4B1c0VBUVk7M3JSR66Rhq+MeU5EU0hLawBsPShiQzaLfn6wo6NiSkFDOj40PFM2PFQ8PlkgITcXFBluVU7DoJRzZG1JTXI5PWUAazwnX0A0fW9rdGdgcEAzcjgvKChCJSdHIyVCLi5HFRYpXktJtpSIREVmIyZLOTxbAGg6J2ZAMFQ7MFQ5K281KW0+OTM0QSQmPSwwRS0wUSgpQ1RMTp99bUc9UCkuVicpSFC/tEwO/+igAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/090.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 90
     },
     {
       "content": "— C'est cool.\nJe t'embrasse.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCikIiJfHi4nIS+pInGsZvGtqfEvbq/trCVjoegn6PCvbyrpKLIwb/LxMG+tK+4qqQAk4F8lIiJtJyFwaiNxa+Zy7qpzsnGq6Cbm5SRl46QjmpdRzIrUEZCtq+sx7+7u6+qAGVENY19ebOZgb2ihMKoj5WDdW9lYoV7eJiRkJ13bal2aF5LRC4hG2thXrGno5CFggBgPS2Gd3Wrjnivj3Kmh29sTkB2Tj6NenObmJqBYlmSaFtqUktGMzB2a2iUh4F4amcAXzkogXFvmXpqnnddrYx2b1BCdE09o4uArKqth2hgkWRWfl9VZFNOUk5ec2tteWphAGU/L39vbZSAeXhjXGxjYi8yOUU6OZuEdl9icEk+RFo8MZp9c8WllGpUU0JFZYB6iABjPS15aGWrm5tyYFs2LjI2QFM2PlNNTWEtLkscGypBMzC2lIefhIFVUW1ITnktMV8AWjUmd2ZignNubk9EeD0vPTBCJSlJKCtMLC5KISI5LCUus5GDdmp6IilTOj1eNDdeAGM7K2BHPk84LGI2Knk6MD0xOiEkPSUmPSsuSCwuUDQzPo91aHVdXiYqUSwuUDs/ZOuXuqE4D909AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/092.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/092.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 92
     },
     {
       "content": "— Compte sur moi, tu me connais.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBkUktxXFSSfXSrn5zBrJfHsprItZ/LvrHIwsCflpGclpetq62up6K/urjAtbG5q6YAWTcmZj8rZEAukIWHwa6Zw62Tzrqik4d7Vk5LdmFYj4qMsa2vn5uXn5+fu66prJ+aAGdCL3FINGpEM4p/gb6olcOqjc63oVNHPj0jGqZ8Z5eOjqKipY+Rj7Gsp42IhIF4dgBnQC10RzJqQi+Fen20npC3nYG4nIZ0WUmAV0S5jneooJuop6vOzc+spKCMhYWDfYQAZj4scEMuckw6iX5/pZubnoV2sY95e2piZlVOqI57bHWBqKmwysfHwL2+xLy2sqilAGM9K25BLWlCMYN4d7eusYNzbFFMTC0+TjtKXFZYXz1VcZGcqsnGx8G/wb+6vLqwrwBlPSpuQCxkPi6Ac3CBdW9zTkJ4Oi8zLzYyRVk9UWhFXnp5hpbKx8m9ub27tri0qqoAYzcmajsob0MwYkY4XUIwcT0uiko/R0JEKDdLQlZuRl13T2F3tri+u7i8tbCzrqWnAFIdFlcsH2U+K2I+KmlKNmouIY1aUnR3eSo4SjhLYklhfVBid52hqbSzu6qmr6Scob7F0vygCR2QAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E02_brefJeRemetsToutADemain/095.mp4",
+        "thumbnailPath": "thumbnails/S01E02_brefJeRemetsToutADemain/095.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 95
     }

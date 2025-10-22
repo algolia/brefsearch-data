@@ -12,186 +12,403 @@
     {
       "content": "Bref, ce jour-là, je n'avais plus de déo.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBTTVdqaHx0cod3dYiBgJJsa3xIP0ZvYGeEgZReWExeWlp1coRvW1JwYmV1dItcUGYAWlRhZWBvbGl4bmt3YFxnUkhQQi8vq4yLm5aicGRfjn5+gn2KZE47cV5TgICVUUJeAF9caWxremVjb2JgbDc0OWpSVo1oa6SFh4J9iG9gYZ2DiJF9gm5RM3xoW4eHnV5RZwByc4R3dol/gpJ6d4SAbnV8X2JzUVGegoSbmqZVT0pNNTSfjZKHenaCeHyEg5SAfY4Ad3iJcnOGg4GToISJpIKGn4aLrKGkwbG0uKCmtJ+miW1vooyRl5akfHuKgX6LgH2PAH2AkmxugYF5ibmnrr+xttLP1tPK0KmXm2FKS4Bna49zeIFqa4J7hHl1f316hnt3iAB6fZBhYXJvaHetl52wnKKypaqSe4B7YGFuYVdgWE5fT0FoWVJsZGdsX2NmUVluaXkAbW+DQDxIQz1Ke1xdhWRleVtdfl5gd1xdiXJzi36AYVNKZFVLbFxRXUtDQzE3QjtGADEvPBoWHxYPGkIqMWhHR3VVVmpLTIx2eqWeqJ6eqouMmX98iXhwfFJGSh8SEyEQEZYVv8CRhxvsAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/001.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Je déteste les gens\nqui ne mettent pas de déo.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0coZbVWBsaHl6d4p8eouGhZZtbHtRRUp6bHR/fIlaUUFsaXVxa3ZvX1xxantuaoIAZWNyXFhhbGd0c3F/cm97aWVvXlNZYkVDuZubi4mRXFI9dXJ8dWlpZkw0eG10c3CGAGdkbWtqdm1rd2locmNgajk2OW9WWJpvcaOJjHp3f1NKM3JxeXZoZG9QMoF5gHl2iACMkaOChZV1dIKBg5N5doJ9bHR4WVt/XFuhlJtxcHlENCxeUVd7dXiBb2aGgo+Afo8AjpaniI2dcHB+gIKSn4aOrIqOsJuhwb3B6vD2pKSrWlFVaF9heXaAgoKThIGQgHyNAJCZq4ySom5wfnt3h7emrci9wtXV3M7J0Orv9quoq1xUVGxlZnZxeXx5hIB+inx2hgCLlKaFjJ1nZnRsaHamkJWxm567qa29rbG9qa6MeXpfUUZjUUBuYl5wamxoVFpmWmYAbXGDa26APTtENC44dVZat5WSpn97p5CShGNmh3R1fHBtX1FJa1xSaFdKSzc0PDA4AC4sOSckLxoXHRQOFkMrMHFPTWlKSoJjZbSwt5+Liq2lrYiKmHt3hG1lbjAlJh8QEM5mxpf6SyHgAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/002.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/002.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 2
     },
     {
       "content": "Je n'avais pas envie de me détester.\nJe suis allé en acheter au supermarché.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB2dIlgW2dhXWl7eYx6d4h/fY2GhJRwbXpsYWh+eotjXFJgWlhyboBrV05tYGVta4IAaGVzXVplZ2Fra2l2c3B9XVdfXVliKSEjVD86nY2UZV9SaWNdeXWDY0s4blxUdXSMAHNxfXNzgW9teXFve2ppdERARWJPUnhdXnlYVqyZnldRQWVfW3p0fG9OLXpoX3x7kgCNlaiKj591dIGBg5SDfIiKdXqVcHSdgoapj46qnqNNQ0FPPUB1cXp/dHSDfISAfo8AkJirjZSkdXaDf3+QoIWNp4SIj3J3jHFyk3Z5vK2zopygY1hZcWxyf36Lg4CQf3uMAJGarI+Xp3J1g355h6aMkqyTmMe9w5l/g3dZW3JcXbyrsY6Hh2hhZHl1fnx5hXp0hACOlqmMk6VoaXd0Zm+Uc3WEZ2qRe35pTlCllJZsXlNlT0VyXk9nV05rYmFoVlpfTFYAW15uYmR0NzZASDc6bkhIdFRYiGdqq5WY4+brkIuRc2tsal9cb2Fda1pRUz85OCkuACsnNSUiLBYUGiwhJVg6Ol5BQWtLTaiQk9DK0cHH06yywJeaqIKBkHVvfD4zNx4PD1CTwVj9nFr/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/003.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 3
     },
     {
       "content": "En arrivant, j'ai vu qu'ils faisaient\ndes promotions sur les pains à hamburger.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBgXGpbVmN2dYl8e42Afo+CgJCFg5OFhJOFhZdrZF5iXFZ3dodzZmhzanN0dItbTmAAVVFdY19qaGVzUkxTXFdfamZxc3F+eHaCioqbbmheaGJaf32Ma1I8dGFWf36UTT1ZAGhodmtodWhodS4fHTwvLTkyNFtUWm1obn18jGFaTmZjXIB9im5RNHxqX4aGmk9BWQCEiJpycoB+fo6ZhYOslpCDdXVuaG5wbG+BgZFZUU9SQUN8eYeBcGWHfH2Hhph+eooAh4yecXSDhnd+xLGr08vJs5mVdW91d3V9e3mGb2x4cmt1enaCgoOThoaVhoORgoCRAIuTpHBzg4F1fKyRi8i4s6CFgGZaWmlmbG9sdGxocXd0fXh0fXx5hYKAjYJ/jn14iQCHjqFoantvX2Sig3u+raeXe3V7Z1V3ZlNwYVdqXFVrWk5uYVhybW5uYGRpVmBwa3oAbG6BQD9LW0xNe290jZCdhoOOnpSMlI6Li4aOf3l+cWVjb2JccF9UWkY/PS0yPzhBAComMhQSGk5BRF1SXW1tf4N+i66wvLrD07nBz7C3xp2gsYeHl3x2hEY6Ph4REB8REJLDwevtrssEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/005.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/005.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 5
     },
     {
       "content": "Je me suis dit que ça faisait longtemps\nque je ne m'étais pas fait\nun vrai hamburger.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCalqekoLGjn6qEfIqFdoCVio+Vi4+Lf3SJfXO3s7S9u8C/vcLFwseelZmEe5ClmaUAp6OzpKCrnpiRnpeWinmCdmBaWEtkYlNScVtcg3RtjIJypJqJs62hura7qJ+op5mZAK6suaWipKylmbCkkrCknYRyfX1hXolwdXlkVWROO3xcQHVUQJJ9aresorWwn6WdnwC4tsCvrbO2rqGvoo6sn5eXjqagiHl7ZXNxYlmOd1p5YWiIbmyvkniumYbFwbi1srQAwMDJqKOyqpeMuauhoISAeWJ6n5mnoZSSk3pzpox4kXtQlIBws56MvLSq19TYo5yTAMbF0KijtK6bn6iSjaCAK4VoLJiKhJuJnJd9e3VkeZGEaq2gkc7M09TT3ba40ZqjvwDEw9C/vsrW1Nm4tMiQh4GOg1qbmUOblzKyrG21tc+9vtbBwM+tpq6cjYiqnJOsq7gAvbzLm5eZrquqxMPQt7LPvcE9oa4EuMQAs7lFiYCGkYZvfm5dcVNNhmZHpYNOpJWAALSxv5CLkpSOkZyWnqKdpZ2aXp2fL4qKI0hDElM/JoJ2U31kV3lYXG9NMoBpSpONj9ct9zZjvGeqAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/008.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 8
     },
     {
       "content": "Je n'en voulais qu'un, mais\nils en vendaient que par 10.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCsrL+enKannp20sbfU09XPzcvCubW+tbanlJBjSUUwJytsZGa0r6y8t6utpZu1rKMAu7vJmJy3nqbEy8vR3N3f2djXz83PuqGcq4Bnl3BgJh8kCQQOhX980s3Cr6WXu7OuAMC9zrC1yr26vsrGwtrb3NHLx724s7KVh7GJdYxpWzUpLScbH3Brb9zV1Maxm8W8gQDBwcvNy8zUz87Mycjb3NzY09C3sK6qkYqEYlmkfWpqT0eCVEyZjo3V1NO2pozDupAAv7y63dG7zMG6xMG/xMTJube519jVuKCXqn9vr4dzg11RkWpgt7Kr2tjPt7KkxLu8AKylpcK7usrHxcXCvr66tMG+uc/PyK+hm5NoW5hwYFo/O49sXnppZpiUkr+5rLKsqgCMhYWXkI2XjoebkYujmZCqpZmWe3dyW2VTQUVFMzFKNzKIY1YvIjUuJTugl5eKhIQAqp+Xs6ehuph3xbWey8i/y8C4UzRCEg8vFhMyFhIsOSw5KiA1DQwqGhAmTkVNd2BfAJWLf6SThrqafcCul8O4kaqNfy8cNicnQyQaPB0VORMPMRcRNBcSLxARLSkcL0saHeGR7OoxuwZ4AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/010.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 10
     },
     {
       "content": "Du coup, j'ai pris des steak\npar 10, du fromage par 10, des oignons\npar 10, des tomates par 10.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0Zm10Zmt4bHCAdHiPg4CakIelm5K1rKO3srm6uNeynZ+edGc+LzUNDBYuKTWWj54Ai36Si36Lfmxza1dTgnNwt7Cxw76/z8vJ09HRwr3Dm4F/lG5iSjg7NSYsJB0lhX2EAIR0f3VfaWxWXlBAUoBwb4p9hpKBeLCnmcG6r87JyKSFf6Z8bH1cVYBWUGJTWKymqwBkTEaAb2FvYGtwVl6RfYqYipGEZltvUUqPdmy5rqeXe3KKYFVpTUqMY1ipmpW5tLUAW0BHalphmIN/iG9zmXtxq5CMl3Nsjmthn31zrpiOtKmjUD5ATjw8hmdfe2prkoqOAHlfd19RgWtWZYNqX5Z+crqWj6yHfYtrYqyThLespdvY1WRdZUIqPVYxQG1ib3t0fgCWaT9iRkZFIy59XE6QenShhoFuYnKCd3auoZbCvLyuq784MVBMIzaDQUR0LzV+VFsAdGNQbFk9alsbloxCqaCBkImYWjtTWCwzcl5YoIl/VEleISFDbkRQcBggVwcQTwsSAI2BlI6KLn+ADIyOBYGAOmdHWnQRF2AMEkcoK0Q1NCogN0YYJ2wTG1cMFFURGkcOFHmOvcQbh8A9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/011.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/011.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 11
     },
     {
       "content": "J'ai aussi pris de la\nsalade et des frites.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCZjZWWh4Gek5SekpWSiXKdfmiumYe5qaK8ppi1o4qqk4iXhYKIeHh+cG59emtoYlsAqZ6lmoyHm496loyCopmJqpeQxLitupmJr5J8wrqqt6WYoJGNmIuOgXhliZJBkoxcAKebmYJ3ZIl9fKqalbusk7mnn7ignlVBWk43UK6cm8W4oKaRioiBgmpiZ3hthnNocACtnI+/tZuspZispZS/sqXMvaebYmJsTll2YnmNXGHFu6WnlISulYqkj4iOhat3aGoAwbS/kol8rqiIta+Vv7Kbxrqxqm9is4FYoHhpmFpWzbajppCGsZmVxqF/rH9dsZudAJuLis3CwsiwsLOloLekjNzQxpaIjhgNJBsJH5yJjNC8sKGMiquQi4t4erKck7mYiQCzoqi+tcHGuL28q7S7qZjazcCJg4oTECUZFyyXkpbVycKjkI2yl5ONfX1JQ0ygmKcAnpSks6m4oI2Yt6qtw7qy3dLNmI+QQDxHQjxHjIKE39PMwLa4o4qIonl2hHmAd2RfAIh2aJiGkJyNm6WUi7mtrM/DwI2DhHx0eIqBgn10ds7AuruurZuRlZR1c4lkZ56Kg1bX9fIo8HIaAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/014.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 14
     },
     {
       "content": "Je me suis retrouvé les bras pleins.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCZjJOUhoCdkZGckJGQh3Cdf2qumYa4p6G8pZi1oomrk4iWhIOIeHd+cG18emlpY1sAqp6nmoyHmY14l42Co5qJqZaPxLmtuJeHq456wbqqtqSXn5GNmIuPgHljipNCk4xeAKWZl4F2YYp/f6ycmLusk7upoLadnFtHXWBMX7CgnsW3n6eRi4aAgGpiZ3dshnRqcgCvnpK/tZ2rpJarpJG+sqTMvqieY2CedGa/n5yfamrCuaSmk4OvlYqlkImMhKp7bW4AwbO9k4l7r6mKtK6Vv7Kbx7yzrHRnp3VUjl9Rm1xWzrekpY+FsZmVxaF9q35cs56gAJuLis7Dw8iwsbOlobekjdzQx5GFjBEJIRoLIZ6Okc66rqKMiqmNiIl3ebObk7iXiQC0o6m+tcHFuL28q7S8q5nazsGHgIcVESQcGS2blZjUx8CjkY2xlpKLfH1KRE2gmacAnJKisqe2n42Xt6ytw7qx3dPOlYyNQj5IRD9Jj4aH3tPLv7W3o4mHoXl4hHqBd2RdAIl3ZZmHkZ2Om6WUirmtrM/DwIqAgX93eYuCgoB3eM3BurqtrJqRlZRzcYpnap6JgWfC9vlIQQZAAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/015.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 15
     },
     {
       "content": "J'ai voulu prendre un panier,\nil n'y en avait plus.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCckJuWh4GekpShlJmYkHuae2SwmIa4q6e6qKC4po2pkYSbh4SFdneCcnB+e2xpZFsAp5yjnI6InZF7lIp9pJuMqZaOwbaqxaB8xZRewbKauKidoZKMmIuOgXdniZFAjYlYAKmdoYl+a4N4daaWkrurkramnbygmc+dbM+PT8OvocO3oqmSiIyFh2hhZHhvhXRpcwCah33AtZispZuspZO+sKPJwKuxdGq+eF2zgW+xjIHAsqGrmoiulIqijIORia50ZmwAxrjBlouDpaB/trCXu66WysC1pHNrb0xLX0VPgz8+zbSiqpSJrpWTxqKBroFeq5OTAIx7esq/vMixsLeoo7Ohi9rLwKCXnhgQKRMGJIh9hNbCtp6Jha6Tj4x3d66ak7iVhQCpkZG+tcLIub67q7W5p5jXyrqYkZYfGSwZEymKg4nZzsehj4uymJWVgoJHQUqYkJ4Al42atKm1oY6Ysqeqw7qx2s/KpZycPjpFQDtGf3d739TMwrm6pI2MoXd1h3qAdmZlAHVgTJeEiJmKmaSUi7app8zAvZ6UkXBobI+FhXZtcczAub2wrp6SlpR4eYhfYJ2Li6n59u2GVgYvAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/016.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 16
     },
     {
       "content": "J'ai pris un caddie.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUUVBOSUWAeXeQhXmsoJrEvb/j5Ozo7fPRtK62mYiRjJFxd495bnhoQjp7anB1coUAMisdYVtcmJKZppqRq5eMxruz4+Pp6u/40MzMt6ycq6OriH2FmHh1nYuVkIybgHqHAFdQS3dmTox9Z4d/eZqRjLKmnNfT0ujp8tDKyLyfi7yShZ+Jhpt8d2hRTYN/h5CJlABYSi9oYVeMfnR/bmCqnI+vpJnCuLTSx8zEt7molI+ik5WfhIWphYOlmqmkorOQiZEAkHxbaWNjeXN9hnN2o5SHpZqWwbe4vbO0j4iLiISKlpGXj4uUdnFtZWJlj4qQlI2WAGFSLm1hRm5venF1iKGZlbuzstnQzuLZ17atqYWBgYuHiqadnqabm5aWs5+crZCIkAB/ckqNgWyZl6WYlqLIv7fa0cbe1M7i2tja0MmzrKyHh5SjnKSRg3xbXGuXkp6BeYIAUElIZ2NvnpifvrWtzsW20si82tDJ3tTQ2tDK2tDEtrK+coC3hIirfoGegn6Mcmt4AFVSW3p2hKSUjbKjmbmtosK4rcvBu9DGwszCvMa8tMK3rZybtkBMel5TY4V7imFecCxX/ddoH0pAAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/018.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/018.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 18
     },
     {
       "content": "J'ai voulu surfer sur mon caddie,\nmais il partait sur la droite.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUUVBOSUWAeXeQhXmsoJrEvb/j5Ozo7fPRtK62mYiRjJFxd495bnhoQjp7anB1coUAMisdYVtcmJKZppqRq5eMxruz4+Pp6u/40MzMt6ycq6OriH2FmHh1nYuVkIybgHqHAFdQS3dmTox9Z4d/eZqRjLKmnNfT0ujp8tDKyLyfi7yShZ+Jhpt8d2hRTYN/h5CJlABYSi9oYVeMfnR/bmCqnI+vpJnCuLTSx8zEt7molI+ik5WfhIWphYOlmqmkorOQiZEAkHxbaWNjeXN9hnN2o5SHpZqWwbe4vbO0j4iLiISKlpGXj4uUdnFtZWJlj4qQlI2WAGFSLm1hRm5venF1iKGZlbuzstnQzuLZ17atqYWBgYuHiqadnqabm5aWs5+crZCIkAB/ckqNgWyZl6WYlqLIv7fa0cbe1M7i2tja0MmzrKyHh5SjnKSRg3xbXGuXkp6BeYIAUElIZ2NvnpifvrWtzsW20si82tDJ3tTQ2tDK2tDEtrK+coC3hIirfoGegn6Mcmt4AFVSW3p2hKSUjbKjmbmtosK4rcvBu9DGwszCvMa8tMK3rZybtkBMel5TY4V7imFecCxX/ddoH0pAAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/018.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/018.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 18
     },
     {
       "content": "Je n'ai pas pu surfer.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzcoGCfYJqaI5kYoCFfoOZk5aik3Oxo2KrmoSyrbSpqcKalIiinJCln5KMd0mMgW8Ab1A6hXJokomAfHNueHVygG9oh3RypKGBrJ6DurGkw7qluLCOwbSJrZpLo5ZZlIh1AKWCa6eThKuekJuNhoBwa4dgTnFQQ4Z8c6ySeb2uks69qszApca5n7utgaedf5uRfAB/aWyMdnOloqaNfH1MLDA5LzNFNz4nJD6IXlO9rpi3pZa1opyto5uwop6dlIqRhHAAkEMll2pcpqOcaUM2JRAZFyI5Gx48ISI4cko6wLWjn5iSl5OAlYx5k4FrhHlfiYF3AKyUk6aTk6uknHZLSSASGhQfMw8ZMygfKJRySr63rsO8t762r8C4ssW7p6WadV9XUwCTZUqof16EfHpVPj8wLDQGDB0eHCltVEyxinK6sKXFvrjGv7rHwLrEvr29tbipn5kAnHtwloaPaF5fWkRBaltZU0NFRTg9gXFuvrOnw7uzxL23w7y4wLm2u7SysqmqppydAH1wdWhQSU1DRUBDUGVdWZuRjGBjaF5haqqjnbeup7mwrbWurbKqrK2kqKedoqCWm8SA2/sL+ZM/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/020.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 20
     },
     {
       "content": "Et puis je me suis dit que si\nle caddie partait à droite, c'est à cause\ndes mecs comme moi qui surfent dessus.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzcoGCfYJqaI5kYoCFfoOZk5aik3Oxo2KrmoSyrbSpqcKalIiinJCln5KMd0mMgW8Ab1A6hXJokomAfHNueHVygG9oh3RypKGBrJ6DurGkw7qluLCOwbSJrZpLo5ZZlIh1AKWCa6eThKuekJuNhoBwa4dgTnFQQ4Z8c6ySeb2uks69qszApca5n7utgaedf5uRfAB/aWyMdnOloqaNfH1MLDA5LzNFNz4nJD6IXlO9rpi3pZa1opyto5uwop6dlIqRhHAAkEMll2pcpqOcaUM2JRAZFyI5Gx48ISI4cko6wLWjn5iSl5OAlYx5k4FrhHlfiYF3AKyUk6aTk6uknHZLSSASGhQfMw8ZMygfKJRySr63rsO8t762r8C4ssW7p6WadV9XUwCTZUqof16EfHpVPj8wLDQGDB0eHCltVEyxinK6sKXFvrjGv7rHwLrEvr29tbipn5kAnHtwloaPaF5fWkRBaltZU0NFRTg9gXFuvrOnw7uzxL23w7y4wLm2u7SysqmqppydAH1wdWhQSU1DRUBDUGVdWZuRjGBjaF5haqqjnbeup7mwrbWurbKqrK2kqKedoqCWm8SA2/sL+ZM/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/020.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 20
     },
     {
       "content": "Perdu pour perdu,\nj'ai aussi pris des pattes.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBiXmR2cHybjo2PgXaJgHt/eYmRi4eMgmObl5yppaeln4ivqZeYh1CckoyLgX1hWFMAX1lRZlhDqJJ5nIpznI13nZGHloyDTDs1TkhDvbeWysGdvKpesqZoppqFnZOPjoaDAKSYkKaahbWtqKijnqaShpCAeZCGeH1kU31fVLitqsS6rMG1obOpkqufh6edkoN7cwCDhV1hZX2mn6Kdmp6plYukk4eroo2UjH4qKz5iQ1CgXlmZinuTinirn4uonoKflYsAkpA/lJy0ubW2p5yBsZZ8s513u6hri4BrHyQ/Mio2cxsdtZJ8lI9vfnhys66ZraSKAJyZnY+HoKigg7SqfrOkl5mEcK+ehXtuZBMcLxAeLz4FCKZxcc/QzLCmm7StlbOykQBiYoWOfpu5sbKmorOqn5qaiXm0pJhmYWcWHCpHMjlWHB+unZnQzMrEvbqhmZOdlI0Ai4uvmZGekoqXnJWlo6Cbp4ZsqpGGZ1VYV0NBV0BAZmJo0MzKwru8v7i9nJOQfHRzAI56dotjQI+Ci5eGiJOKjp6XkaaemFJWXDQ7RUtOWKeipLy0t7Gqrq+nsKaeo3x0b7EY5HXRLVH/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/023.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/023.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 23
     },
     {
       "content": "J'ai aussi pris du Energy\n3000 pour aucune raison.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAqIkUZEjkQCy4cFTQeIDxzUVOnhnqwpJ6pmI96TEOjjpm2tsu2sr6yrrqQhYWSh4QAIyJEKB1GIBpBIBlBHiBAUExfwbaxvby4y8TKlVtQg1FKs6y7xcTWwL3JqKGko5udACEjQDcvTyYdRhsYPiYkRjAaNFsnMZKwhcHGxrySgrBkR6eCccHDxc3J1cXD0b67yQAkITs1MUwpHEcdGj8jHUQiGzZkDiONUE2rjoe4oJy8kXCvmnKwrpHS0ODNzeCtrs0AKhQrJSdDIxhBHBg8Fxw9ExQxUAQXgQYcfR8yXlhniWZhnoZ5vLi1sKuwtLG6xMPfADcOIx4mPyIcRBIXPQoRNAwPL2A3PmwmMGAfLWNZaX5vcJB5Sbqvp6ipm3N7NrCtuABBCRs3Izc6GTk6Gzc9PVuLcHLGnoyeeHOflZGaloyqpqOtn2jBuLCwuZhhZSBxam0AYgwbfBUmgREiexgqWldqhWlnjGdflnx2r6aegX5hr6uqvbSbuq+dmZSFe21Mhn+PAGENIGQPIloJGksJGBMJHwAAICknMqKekrCrrKabi6eUkKimra+ppZCIjI5+VUk8eMYYtfo4wrx7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/025.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/025.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 25
     },
     {
       "content": "Je me suis demandé pourquoi\nj'ai acheté tous ces trucs.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCjo7OpqKajnZC/xsKWanFMCRgkJj0gHD8eGz4dGzwfGj8fHzwpIjFQCRWQb2ySj4AAoJ+fqaKFu7arxc3JrY2BWwoXLSY3HB0+Fxk4Fho3HRo9GBo1JB8tSwcSmnl3p6abAJ6ZY7OymLSytqyxscOtgnMgKzohMxUZORcWNRcZNh4bPRcaNSkaJnUQG62LhrK1qgCfll/Aw6i9s6bK0L7G0cujk5NhVlUFCCYUFTQVFjUQDy8NESguKDSBQUuuioW6vrIAsKSTxcrC1c6/0NjewsbKq5yccGJuFQ4hGxIqGAojPj1QVE5ZgmlmpZOOt6+lvLyxALKws8fIv9zh3NbTvMexj2Rad1FCbF0VGVwVHXMuMW1ZX5N/fsSai7qWh8O7srq6sgCysKvLybvJyMHFsIrBroqPipJbYII6O0s4OUVXWmRQVV6DbnC6n5W4r6e6uLO1s60AsKiXrqiewMfKwsfJuLWpmJqcUluLT1lpU1tkYWZvX2RsZGFonZmYsrOwsLCtq6ilAJR0a52cnrm/ybvCzrCxuZiZm4eKjTM4Qzk+SZKTlTc7Ri0zP3h7fqiop6KipKOenULXyiHzm9q2AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/027.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/027.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 27
     },
     {
       "content": "J'ai pensé à mon psy qui m'a dit:\n— Vous cherchez à combler un vide affectif.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCajY+snp21qaHGuLDNw7+YjpCmjoWUiImSi4OnpJuim5yHfoOFfYOYjo2Mf3h4Y1oAp5+ot7G9w77HwLvBzMvVrqKitIpzn4Z7rqaWs6eXjHd0iHFvkYR4jXpfi31qgW1gAJeWr6Kkvr++zby7yNHL0MO0spluX6OPk8LB08zJ287Iz9bP1sjAuqKQd5mNfZ2LhwCyrrjPxrri2sve0M9zYHQ6NFJkSk49Nkp2XnTTvs7TxMTGvMDEvsXRysrOx8K1pqMAqp6cpJWPrKeeoXV8QS9KJyZNJiFGJSdLMR84o3F43NbbzLy/saSjn6OyzNPkzMvZAIZ8fYR7e46HgoI9Rj4mPC4rUigjSSkpTjkfNpNKVNTKytvV2L25wbSwscO+wLGtuACupKS2sK7EubeDMj4xHzAiJEUfIUEfJEYqFyyMRVLSwb27pJrLxMvQzNGzqq+lnagAtautwLq5zcLAmjxKOx4uHyJDHh1AFhw/LRcwizNEz8nUwbKthXRtpKCqzMrZvbrKAKqhpLGpq7qwsZBsd0A0RREVNBcaOSEjQFlPYJ6JlrWqtLivtYR9emtXW6ebpLOxwVQa76pZazJWAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/028.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 28
     },
     {
       "content": "J'ai pensé à ma vie affective\net j'ai racheté d'autres trucs.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCgkZyUgoCgkIyhiH6um5imm5qIdHKmk5fNy93Pzd7LxtfGv8/Btsa4q7mpm6diUFgAq5+toZKQrJ6WqpGCwbaxloyMhWFdonNrvK+52d7z1NTn0dDjz8zfwrzNrqW0ZFRcALewv6uipLOppK2elJ6WkXZcWItiXpVpYrirt+Hn/9DS5tPW7MC/y7Sxt7OuvGVXXwC/vc69vMp7dXJZUUZSSkBDNC5XPDpiRUJ8eHqsrLfT1+zJzN+Oi4mWkpKtrLlkW2MAzM3ipaazTEU8TUY8T0g+UTszHBQWHRsbPTctTEU7s7XE0NPol5WVY1dVY01GVTwyAKqquVJNSUhDPUhDPUE/NlY/NFY4MDg1LkpGQEpFPVpXU52dpH13dSsTDEcjDk0mDgBcWFhGQjtGQz5PR0F8Y113VExVOi9dSD5tT1IwME89OT1DPjNDNDEtFA9NKxpPKRMAOTIzQTw6OjMvXEE9j2VhbEtHVkdEVEI5ZklZGR9/RE92TE9OIwoGLhUPSCgYTSkVAE04PkcuMkEnKVAxMlw2Nl5CQXlnaFRCQVE/STg3c1RQaE9ITDcnKTcpKj0rKT0pJaznvTgh5BHUAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/031.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/031.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 31
     },
     {
       "content": "En y réfléchissant, j'ai compris\npourquoi j'ai acheté de l'Energy 3000.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gChk5Kpm5W9sKu4q6e8savGv7p8cXWShYW3tLu4s7minaShnKSspquimpmPgX6Cb2kAuK+2wbm8xL3BurW/saiom4yGRDlBkG9klYR3hHBncl1ZhHdumIhzm4pwlYVxcltIAJuasq6uwq6sutPR1rivr491anpZU6lzYb+pq7erscGvtLepoZJ/YZF9YZeOg5F8dQDOxLzZ0MzUz9G5lJqnWGaWS1R3T0aRc3Tb2unX1Nbb2uHMxcW9sKCql3ynnpKolIwAq56Uu7Sx0cfMjE5gsVBduz5PjzdFhENQzJWfz6Slw6etwbm+0s3V2tbWzsjAtaKeAH1ycYN5d46AfU5AV3cuQ6ItObM5SJwlNHwQHn8XJn0qOZSEirmts8zI1Nfb58zG0gCXjo+gmJi0rKdrbIAZFzc8HzJaHS5xN0aTanKTZWmpk5ukl5m4rKXEvLiwrre+u8kAtq2uv7e31MzIa2p+Dxc4FyQ/CxcyUVdq4+Tn18vEu6mfsaiqraOYoJaVm5Wio5qlAKyjpbKqq7uys0VGXxYcOSQoQw8WM1BTadbR2sfF0K2YlH1tapuUmqumtaupuaihsbdx9b1GMlb3AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/034.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 34
     },
     {
       "content": "Energy 3000, la boisson\ndes vrais bonhommes.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAWOlskTk47YVBSe4lOgZ5Kfp9Jc49bYWhdgZlcka+Qo6WBmKJhfop5f2xyeWJyclYAHkoyOWVNMlBFQkVCX4KGYaCyRlFVpF8/iH95cqS4g6u3bI+eSDgwSkArkY5qo5RpACtdTTZqVScpKJFONYZ2Y1GcpGV/fqVjR4+OgpjMxrTAt4GOjUMkHCcfIZqVd5WQbgAoZD0UTjQdHBeXVDp2WEFoeWyhloeVYkq9mH+8t6HAl3iUd2Q4HRQLDhN3h4Bsj5YASHRSQkkqJR8USSUZMyEaiV9JxINkt35jzJBw0pNywIdoa0M0NR4XMCMjeIN4bKKlANDIs9SWdJlSNTUkHTsiG4dUQL2JbbaDaLB8YY5cRaRyWZ1nTmw+LXBTSbiqmMTOwQDQyLbGmnikX0BBLCRAIBhhLR2eblbKlXamc1l0Szqff2lyPCk8GhF/V0TRxLLTybkAv7CZs4Rjk1I2MhoTTyofZTAeilpEu4drv4hqsI53yLupgUs0RCIWjmhU0Mi2wbmpAL+2pa+ZiIFMN08nGm47KIFJM41eSKZ0W8GLbbmQdsm+ro9aQnM+KoxvXsbAsLarmfNqusWZI+0/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/038.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/038.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 38
     },
     {
       "content": "Du coup, j'ai pris conscience que la\nsociété de consommation m'avait rattrapé.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBRfJNWgpZ4sI2Kxo+FxY+g06mHvLqHvrt4r72FtqzD2KuYxo1in4RIcZ5Qc4M6YFYAX4iZbZuqhbeyst2zu+W6t+G0otXEl9HNkL3Dp9O7t+m3gdGXXpmkWoizSHZ/XIphAFWChoe2rKPRybLOtsLQrdXzyr7fxrWqmb6bhcmmj8mrjruzlauelKafnZeaf461gAB1mnWNs5SkwrF2XU+0g27DqJOfel2eVi2cXTGofWetg2aqdF2xcFa/hGrJkHm0g28AqsNus8WTZF9RaT8xtHZaqWxVl1QvkV07pYh11tSq0OG/n6urnZuEk29TpnBctIFsALrRi7DJiTEoHkcuJKpyWr6GbLN4X6qFc67Wx8Tor6HIvZ3LvMzLpbWFaaNuWZ9wXQDV07S7vJA6Jx2NXEijbFWjblelalGzj3zb5MzV4r3Av7K7oIG4g2q/jHSmd2N0SToAvbGhxbygOi0iNR4WnWhRr3VbuHld1rqh8fLZ2b2kz5N5sXdgnG5bmGlXfFNEVy8iAKyVgsW6r3tvZQYCAHJIN7+HbsCOdseXf9S4o69+aL6Lc6BxXGs/MXNRRox8cDQgGHno8Yr+8K8oAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/042.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 42
     },
     {
       "content": "J'ai voulu jeter mon caddie en criant.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCYjpKrnp+toZ2+squ+tK/BubSFdG5tW1iblpyvqKu6s6+kmJOjnJmclZWOiZB9e4sAmpGYv7rHpJqatq2uycfQx8LFoIBumG1anJCQrqOWq5Z6kYhRioVmfnlxn5udm5WiAJiUpqmpvbenncC3ucK7v6Sbn6R9aoxjV7qzvNXNzMm/v9LQrM6/qcG4wr++y7SwwACpoqbKv7bBuLHBtrmBa3kpKUhSQEo4LTUfIjiIc33EwMvV1+nGytrY1NrPyc+7tsAAlIiFi4B9jH5zlV5bRStCLTJQHBtAFxk6Eho5Ri4/0cHH1trmycnT08bC2NHQ0s7VAJ6UkpuVlZyTjoQ+Qj8eMTQ3VCciRiQjRSEmRUUXJ5l1fczM0tTLyszEtLeytr+lnAC/trXPyMTZ0Mx4Nj8pEyQuM00eHkAZHjwbIj87EyOWbXSTm6u5s7jKxsOzop+wg2wAsKamu7W0xry7gSw3NRsqJy1FFxs6Fhw6FSE9PQocp3J70NXbxbassqWir6Omq5WRAKSam62kpruytYhJVD8kMxohORMVNhMWNg8XMkgwQpB2h7q5yLmwtaebmJWKgpKMjCNZ5sLViWE7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/046.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 46
     },
     {
       "content": "J'ai repris du surimi.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCjlKGYhoahko6ghXmtm5apoaSOcXGYcGy9tcPT0uXLx9jGwNDBt8e3q7qqnKllU1wArqKxpJaYrZ+ZsJuPvbSvmIaGk21ul21ntqy43OH31NXp09Pm0c7hw7zNsKa1Z1dfALqzxLKrs62lpZiNhYR+d05HRGRFQ3JUUr/B09vf9tPW6tTX7Lm3wbCssbSwvmZZYQDBv9LMzeGGg4dHPzNJQzg0LSctICCVcW+NeHWdnabX2/HJzN6QjIqUj4+npbFiWWAAyMneu73OWFNPSEE5Qj82UD40SC8pSDYydVVOcWZgxsreys3il5aXWkxJVDkuUjUnALu7z2llZEZBOkVDPDg3LlFANF1BNy0tJDErKEdAO29tb7S1v3hzcSoSC0kmEk8oEACEg49KRkBST0lHQjttWFOacGxYPzo5NzEtKysmKFsrKz13dW9VRUMmDgdMKxlNKBMAcWhzPjAvOzAvRjAsf1RRgl1bc2BeVUtFRDtDHyKFSFGBWFpaKxINMBgSSikaTSoYAGRXY1FARlI+QlVARF5ERWBJSWlZWVA/P0w8QD05WUtEU0Y/QjAmKTEnKTUmJTYkIbZnwCMr2SACAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/054.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 54
     },
     {
       "content": "J'ai dit bonjour à la caissière:\n— Bonjour.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCjlKGYhoahko6ghXmtm5apoaSOcXGYcGy9tcPT0uXLx9jGwNDBt8e3q7qqnKllU1wArqKxpJaYrZ+ZsJuPvbSvmIaGk21ul21ntqy43OH31NXp09Pm0c7hw7zNsKa1Z1dfALqzxLKrs62lpZiNhYR+d05HRGRFQ3JUUr/B09vf9tPW6tTX7Lm3wbCssbSwvmZZYQDBv9LMzeGGg4dHPzNJQzg0LSctICCVcW+NeHWdnabX2/HJzN6QjIqUj4+npbFiWWAAyMneu73OWFNPSEE5Qj82UD40SC8pSDYydVVOcWZgxsreys3il5aXWkxJVDkuUjUnALu7z2llZEZBOkVDPDg3LlFANF1BNy0tJDErKEdAO29tb7S1v3hzcSoSC0kmEk8oEACEg49KRkBST0lHQjttWFOacGxYPzo5NzEtKysmKFsrKz13dW9VRUMmDgdMKxlNKBMAcWhzPjAvOzAvRjAsf1RRgl1bc2BeVUtFRDtDHyKFSFGBWFpaKxINMBgSSikaTSoYAGRXY1FARlI+QlVARF5ERWBJSWlZWVA/P0w8QD05WUtEU0Y/QjAmKTEnKTUmJTYkIbZnwCMr2SACAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/054.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 54
     },
     {
       "content": "C'était pas mon tour.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCsoKO4sLu1oJ6khnKwoZPSz86unoe2qp2Xko+kgG+vjYNyWVi/srjQzuGoobqIeXoAr6GiqZuSiXh0kWdUn41/saCXiHJlwaWUtKScoXttt45/xa2j5OHg3t3ru7bMjH54ALGppaWaki4uMk5AQU1KUrKEapx7daeZjLehlYVhW4NjVpeCh76+yuvx+7OvyGtbVADGvrbSz88uLjFkUFBLRltrXG5gXHuqn5aOgYU5KjxlSkw3KEOLa3vbxMrNytt6a2UAx7+52dXTTURGe1dGalJMR0tmdmZxrJN9YVxlKBs4NCRCNi9MZDhBtF9fzbm5jH5uAHBiYqhXTm8nI2McGE44OlNARlVFTpV/dlRLWiYZNzkoSDg0TFErNaIyMb6TlZyJeQAgGyKUT0fPlpa/now9OTlbRE6IXF/Dh39VO0QpJTwzJD8hIjlPGB+aIB54P0SAdnIAe2htzL7E1LWo3sKZmY1ka2pzrHZ0m2VicF9hu7a0sqqrR0hZQA8WhhoZoHN6gHVvAKFxTauATax/UrGPZrioeqegkpmCkHFeY1lRVHVpbKmfm7GurWo7P3YXGKeGjo+Bfx3N0MfGgnh8AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/059.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 59
     },
     {
       "content": "J'ai attendu, j'ai redit bonjour.\n— Bonjour.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCllI2tpqy7qJ2tnYu8t7K/s6eTf1ypmXmIgnOxnJOKcm2GeXzZ1+Kwq8emnLCsnqsAu7G4v7a6up6Pq5d9x76y19HGuaiIubmyn5SKzqiSooyFgXFv7e7xxcPepZynfmZcALmooaebkpV3a557ZrWonol9eJV/c8SupKCPhqqAbbKPgMm3q+/z89TU7bGprIh2YQCxqKGBenUwKyxXSUpvZF6ebVWReHCxn42tkYaQaVyig3Wzpqzh5+vU1vKdlZ1/bl4A19HQioqKIR4iX1ReWlFje2NucG1+tKyhfGpwSjU9d1tVRTZSsp2o29XpqqOnZlRLAN7b2pyamj40NIlkUD08UEJLboNvbaaZhUE9Ty8hOzsrRTEoRnY8Qr98fqyjmHZkVAC5lI+GQj5IDQxnMixiT0xcTFN5Y2GNgns5MEcuIT87K0w1MkpcMTmqPj2wlIuKdGAAmGtmkz48wYaEZEI6Kyc3SzM+hFtepm1mKx8xHxYyMCE/JSU7VhcckiMieVFSgXFnALSmrrynrc2wpq+ieE5NR3JbX6FXUJNVUHxxc4F7hUE3TRobMkkTGYMfH4NeYW1gVuW+04gHaietAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/060.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 60
     },
     {
       "content": "— Bonjour.\nC'était mon tour.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCUg3CVmLJ7iadcY3hUUF2XiH3Mv7S7sqy4sKu/tayyooxhWU86ND8uMkVXRUyieWkAmodpeHJ+MzA5FREWdFtQu6WWtKeO2NPO3NfS1dPO09TJi4WAcVhUbFROO0NkWldzAHRpZ1NKSwoMFCIhKaaHdbSXhbObf9PKwtvb19PDu8iOf5xoYlI4N3pcSFRLVVFKXABVS0wwLTEKDhdaR0W9ln7Co4/CjG3WwbLg4ujd0M7CeVS4QB9jKCArMkA5OUhVTVcAtqeiIiElGRcenXNkt4t2wZiCvqOW08O+1sW73LqS1MOKjVo7ZVBSKTRGSkhUj4qRAI+EghcTGAQLFFhDQYllV2tYWKqKYdChTc2mV8eqdNG9iLewh4qJizY2QHxuamteYABJPj8UEhkmHTUmHypXPEM2JDSJc1jUr17EmlHOt2rXxVnRv3Tc0MOIfH6VhIB+b28AMigoGxYjZUB2Xj9uPy9ISS5OclFctplvnXhUvaNa3a1Lx6SD0MXMmYqHh3FvZ1ZbADEqKiYZM3RKhpBgpHtUkU41Y29Jc5VsWppxZKSFXMCXY7qXkLaamWdVVWVSXEY5R/iZxq5ij1u0AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/062.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 62
     },
     {
       "content": "J'ai payé, j'ai pris mes courses,\nje suis sorti, j'avais pas pris de déo.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKdWd3aFiHfXmkjIp+ZmW+trjj4/SyorDCqZ6Ab2+fk462rIGXjWydkoe2rqKxqJ8AnI19npWNqqWjurKdpJWIwLe26uvyzKaS7M27fGVgalpev7mYp6NutqyeycG1t66jAK2XjpKGh5qTj9PMuc/Dtd7V0ebp7bGGdrmUhLGUhrSPiMe9mbu4hKumgYyKZY+BbgBiTEl7VUuwmJDq5OPJwrzJxb/o7fW3mZe8kH3Ws6DIsafg2caglnmTiGrCvpiikX8AFhowh19Vz62jvLzHqZ6anJWX7vL6wLS7n3JjimhduaWasZ6slIKKraqRwrufn5SGAE0/SllPZmNcenVvhZOEfoR8hOvr8c68wVdDSl5FQMSjlE48XWpZety8usqrosG5rgB4T0ROSl9RUnGcfXitnZGYkpHCuL5dSVgkGzd0WFhwVmAuH0I6MU+HQUerWVq4k5IASTI1SDtETEJPgGZjl3hyaVRVSkFGPDdILiI+KR07LyBEQC1QOTRLQSs+mkxQnUhKABQWKSElP2loea2mqK9/f6dJP5lbUkI/US8fPyUcNjMkRTwqTDgyRSEbMWchJXwbH4q/3zQwde6bAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/063.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/063.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 63
     },
     {
       "content": "Bref, je suis allé au supermarché.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCMfmOklZGspKuQfHeRhnenkHG7ooitmYumknvEs563q6a2paC7r7GooJuZlZOspbEAYlhPm4dvqp2ZvbWrq56Qi3JhmId6kpKUkJac2M65xrq2e19Yp56kt6mOf3FLk36JAGJaV5yLeZWHfJuWmJaQj3qJkIiFfaKEeZBoXb+nlF0/QwsTK2BHSq2WiIhwbnRpcACCYFuPeWt8WlOhnJ+TqLN6v96JnaF8TkWPWlW0nZRSQkw1OUtWMDGRY116Ly9qTE4AkHdwWS8qVTo6hnp7g5+ucLTOQ1BTh4CEjYR71tHEzsnGtqiqNTQ4lHFpkE9Kg2lsANbNyZ+VkHtua9XHyb+/xIOVmzk9P6CYoJ6Me9OoYtClcHlyfDE4SYxdWH9iXGViaADKwcGRj5BrbGyuqarVy8+aiH5xZFp1bHCMgnzRw7ijj3lPTlVycGuRXFZqEhQpIywAsKetk4iItamjuLCpzMG8s6Wavq6dc2lkhoB2wMjDiYmIR0hMsJ+Gk31rYktDVE5UALCmrrass7yzucjAxczFydTNz9TNzMvCvLuysJeYo5WOkHJpYaGRhYZQTl4uK0E9RZq85QtCqAz9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/065.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/065.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 65
     },
     {
       "content": "— Energy 3000, la boisson des vrais bonhommes.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAwIik2JzApIishGh5nTk5oVlVLQUFOPERzWWFcRkw+Oj8xJzBbUE9qXlxCNzZIRU0APiwuIBkgCw4ZExMeQS0rXklETD5AUjNAXEJOQTg+NygxLxkiT0ZEXVJPNi0tQz9FAGdJQkk2NB0cIRgaJzAkJk44MD8fJ0YbJ087QllMTVlGSFVGRlZMSFRJRTgwLz04OgBPODNoSD9uTkRgR0J0V1J/X1dVQkMuOUcnLDg2NDleVlJaUUxSR0RDOjY2Ly45NDMAEBYgHRsgKCEkTTIsclFKa0pBcFpfMj9PEBooDA4aPzY5QDc2MyoqLCYjY19mkZGeABMbKAAIEwMMFzsqLVg+QB4jM0VRcCMyQysvOj4oHmFHLWZhX3h1dZqaocLJ3rS3zgAWHisEBg4GChMlGx8jGR0fNVE2WpxsbXJuZGBeT0ZYW02SkpTS0c7S0dCzs7qQjp0AEBonBwwWBggQBwYLcnBxraurpKayuLOxrKijrquqt7O1uLWzuLWzure4sq6vpJ+iAAgNFwcPGQIFDQ4QGJuXlcXBv8TCwMTCwMPBvru2s7KsqKmko6Gbm5mSlZaPk5WOkZ1pjPR2sbwXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E21_brefJeSuisAlleAuSupermarche/070.mp4",
+        "thumbnailPath": "thumbnails/S01E21_brefJeSuisAlleAuSupermarche/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 70
     }

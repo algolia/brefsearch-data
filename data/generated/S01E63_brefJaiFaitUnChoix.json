@@ -12,270 +12,585 @@
     {
       "content": "Bref.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwU1v0mAAAOD+BeNBhxQCjvJRQDLQzTSswKC2hQJpoa282fhooVAG3bsilMpGB4Jmy0aMiTEx8aI3T578e3sehKZ5ta3qTWD1FXvcW8Lh7stGoPISQ7VkUeAqQJTPe92h0mrKYimfRw4i0SrLQq0zU4E9UD6ZxvZqTmB+haGAIABRap82J8Z41O0I1AlDHCF7T54G3B6731oqjZVlPdx+Nod6HOfKNSdLDmShfvYeWKbZk/lsxF9IhBHMjYZQ1DrXd2vHmc+2znJqGPkMAPAPz30QS2ytXJlcwKkitWmidpxCkkHs9b5vs9r8/ff/+49f93d3V9NLNs2+TTs8awh0tkS9g6OxrYh6NdfIHSJJLBBHXX219+3n7+3tV+f6Zr2wOzxguLl6OuFIonBMQl2/kGiZTNaJBLL//Nkrr5vLZowRXJgQDrTtenNtfxybc03tpYKBw1hMU5QuRTC4r5QKI6EXrsIBLpBHs7YEz8RGXX643y0WNwMdVtgKjrqiXlR7k9ACHj6OFVM4EkHdmUQsHQ1WkyHAFSURdBsyEAS+WC6QubDXw770rHx70O+S4xiXxB8B74aQQUCGDzgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/001.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Elle, c'était mon plan cul que je voyais\nplus depuis que j'étais avec elle.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwU1v0mAAAOD+BeNBhxQCjvJRQDLQzTSswKC2hQJpoa282fhooVAG3bsilMpGB4Jmy0aMiTEx8aI3T578e3sehKZ5ta3qTWD1FXvcW8Lh7stGoPISQ7VkUeAqQJTPe92h0mrKYimfRw4i0SrLQq0zU4E9UD6ZxvZqTmB+haGAIABRap82J8Z41O0I1AlDHCF7T54G3B6731oqjZVlPdx+Nod6HOfKNSdLDmShfvYeWKbZk/lsxF9IhBHMjYZQ1DrXd2vHmc+2znJqGPkMAPAPz30QS2ytXJlcwKkitWmidpxCkkHs9b5vs9r8/ff/+49f93d3V9NLNs2+TTs8awh0tkS9g6OxrYh6NdfIHSJJLBBHXX219+3n7+3tV+f6Zr2wOzxguLl6OuFIonBMQl2/kGiZTNaJBLL//Nkrr5vLZowRXJgQDrTtenNtfxybc03tpYKBw1hMU5QuRTC4r5QKI6EXrsIBLpBHs7YEz8RGXX643y0WNwMdVtgKjrqiXlR7k9ACHj6OFVM4EkHdmUQsHQ1WkyHAFSURdBsyEAS+WC6QubDXw770rHx70O+S4xiXxB8B74aQQUCGDzgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/001.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Le problème, c'est\nqu'elle ne savait pas que j'avais été\navec elle et elle ne savait pas\nque maintenant, j'étais avec elle.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwVtvk1AAAGD+xNT44pNZlsVL3JIuS5eoWy/Wdk1LbxAoUDzc4XA4lDFu5brSrcs0ZvrqT/X7iHGvx1E04AVNkqFhZtjT6QWYktxlh/vSWpvQc7BjQkNWMfImY4qYD4eSsLJUHUNnF/p/NwUYtPj2hb2kZqfnCXLzTRr7wY2DoyBdMiLBTCeGrDoWysJo7+k2TT6Hdg6oFKpC83MMcV1ty02WBGFV1BIwCH4xtw1zjfB9Wf2MkL8cPWDVZSYRYH2G23i3dXlXpXkWJ7vt3rY8QqApx4RQN2VB/BXa63n3X+rUKhew4+enx7uirIuqLsoyzXbbx8BPCW6xsHVDAcro++B3aKDJZcgOjeuW8PX0z36X5tsyK/MkT27DbfXguRFBj0npB7BWYszO7hGPZ51p47h99CYRySdLQhxA0EOGg02YxrnrBATZH6wYNum1tLP3xqjjUv3Z2THT/IBGV9PXB3KjAWXZUlRT1jx8o6uI6Hd7yrfu+uNR59UL5tM7ZXhFX5yI7XOmecK+PACHb5Gw1HhRZDlN0jTF/g+PBa4KzDGcCAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/003.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 3
     },
     {
       "content": "Et surtout, elle et elle étaient\navec moi dans la même pièce.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwly01v0mAAAOD+AL2ZeDd6WHQhMdncwnSkYwgitIBYKLR9W+gHbXn7Rdt1spZ+UYoMZ9VMj179lSb63B+E6OAMSfKAlXnBnOuBbnE9XCQG7EVd7g8923V004Q6nCme65dPz5HRR0LkppqsWFArojA3TKZWFlqXchdnK7V1lIQ3ge99ulo4cZjXqk0EjMdzSbagsQluYpUNJOZ34tpk+3rKyA0si5JNnKareLUMdtui1ewiPGAMFbqW82O3TVQmh+zWkCT8rT+lFiT9P2RRkq6i4u4n1vqACCxrQX3CcJ4Oszm91+g/+dLuNXLIFbe36b+wiZJ1lNx9uecnCsJR9ELTa9X6EMe+uoLVr35WKOr8GOLor29FHK+zdJ2GcRyE+913SYAIPSBmokRiHYfq70wgNl+Pzkr1F0+2kLr3r23VWhieYziOYebZHtACQnR7kzHlN1AdfXXFdPh3bwYnz1n05Qp0uIOnQqUii6KhavpM8ZfxaAiQdhuDlyg8fIY+fjS9KA8qRwA9mr0/G5+Uug8f8KVDjQMymPIMa2g2xwh/AW6nrz/j38CjAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/007.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 7
     },
     {
       "content": "Il y avait lui aussi.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwdtu0mAAAOC+gIkXTmUVV04T2LRgZSJpt1kClJaxAl1bfsqgnHvgTANrGc0cjc5opmJiluzKC6+88gn9PihDsRVwPug0Z61za6jYY+2rc9WRyrkjoi2VWSYncnxXlvV2QwZCPpOGCCyWxAm1UTcaZbMnX0/0j7bFJGJniYMGzwvFYg1Uh4oy0RTAnlCJt5Df5Xr04KF0Sjt647Kvbr7dLmejOMZQjJEkR6UTviqII02bqt10JHS8F4D2EMT7xFXMpL5fr5az6ef1B9OYUkcc6N8XuDXPsMUcoyvaQu+0GKKEY1AsFEIRtywIf/7+u7v/vfnx07bMUiqbwGd0dikyGZoke+2eqTW1AlmnCCjq90c9O/Th4ZfN3c3tL8e5sS1TA1WKGkjgUsxmjuPxjtw0mmLlPcbhEcj7eGvfvY2/2u+1uhfT6WKoW4uL9coejOfjyRyPoK93AxWx3BfZ/Esvhe5CQXg7/sKXT2Aqn7c6ksRxq9XV2vnUHxoA1FDPTgB+yr07UMM+PoTQ0SAUfgZjAX/6DZoMe2o0KQhSqwLqAn92WmBSWdTnjTyHJz547t6SggiLhf8DmvSOsDAKzAcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/009.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/009.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 9
     },
     {
       "content": "Lui, c'est le mec qui additionne\nmes mensonges pour me dire\ncombien je vais payer.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLSE5bXWRDOj8/Ly8sIiWWnJ7n8vLZ5ebU5OTZ6uqnr7CUmJnJ2NjBzs7Gy827w8QAUk9WZGVtSkJHQDExQzMyKyMmwMnM8v//4vLw6fv6s72+o6mp3O7u0+Pj1Nrbv8rLAEpHTm1tdUA2OG1YU4tvZTchHn6Bhf3//+Py7+n9+7K9vaiurtr09tru8ODp6sTS0wBLSE9sanBLOjh/Zl5sVU4xHBplaGv5///r9/fh8/OutreqsrPr///t+fvn8fLL2dkAUU9WYFpdRTEvim5mak1GIRAQjJOX7v//wdPXyePmrbW2qrO00ufr3e/x6Pb3w8/QAE9KTko2MzEdG3dcVEgyLggAAoeKi+z//8LU1tbs7aewsLC4udju79Hp69vv8I2SlQBHPD5QREZALi5mS0M9KygQCApVR0XU3Nvn/f/X7e2fpaass7PX6enS5ebO4+R+goUAWUM8XWFpUUhKWD83NycmFxATKhkXY0tCoKCdvdLUj5CPjY2Mw9TVu83OuM7QgYyRAFI9NV5jbFdSVmFHPjoqKBcOECIVFkgyLWRIPoaAfHt4eI+bnsDa26GztZ2ytWpwd4Q29TmCNjvQAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/010.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 10
     },
     {
       "content": "— Ouais, bha, là, il faut courir.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB1eXx/gYO+zM7J0dPb3d7Lz9FuTVVKOjsRChA8NjliX2BYV1hSUVFLSEdGQ0NIR0gAfYKEhYaIxtnb0+Tl6/Dx4ebodFVgJSIrCgYNNCsvaGZnXlxeVlRUUUxLTElJTU1OAIqRkYyNjdno6ePx8/L3+ejw8ndUYWdBPnQ/LVA8OVxcX19dXlhUVFNNTE9LS1FQUQCUmpqPkJHe7/Dm9ffw9vjq9fZzVmN8S0h+RzQyIyNjXl9jYGFZVFNUT05PSkpQTk8AmKCfjo6O2Onp3PHz7fb44+3ura2zfn+PIhgebVZLuZ+OZGJmWFNSU01MT0lIT0xNAJSYmIiIicrf4eDz9O33+Oz+/tDW1VtMTy8dIXRYSs2pjXVucFNOT09IRkpCQUlERQCKlJeDg4O/0dTU6Ovg5uXDsKivnJF6XE4wHBwtGxm3lHyAd3ZPSktKQ0FEPT1DPT4Ag42Qenh5o7CztsvPwcvNcEQ6V0lKT0xSJSIoEggLk3dobGNiQj0+RDw7PjY1PTY3AIGJjWxqbZWipZ2ssMDT1qKpqyshJzIuNUhKUUtJTmZkaFBOUz02N0tDPkE2LjUrJ2/PzCarRnI9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/013.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/013.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 13
     },
     {
       "content": "Je pouvais pas courir.\nJ'étais pris au piège.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBnZmims7XBzc/P0NLe5eaAaXNJKDMqKSwVERZUUlNfXl9XVldQTk1JRkVJSEhJSEgAa2prsb7AzN7g3uPk8vz9kHmDVjVAUERCMyEhTEdJaGhoXFpbVVJSTUtJT05OTk5OAHJwcb3Jy9vt7ujv8fr//5aFj1wvN35WSFEwK1pUVGdoaFxaWVdSUVJNTFRTU1RUVQB4dnfDz9Dk9PXq8vT5//+ZjZVCEiRcPz1SOTI+PD9dXF5dWlpXU1FTTUxUUlRWVVYAeXd4ws/Q4fT35/L19P7/p6SocV9rfG9uYko+V0hEhHx5WVhYV1NRU05MU1FSVFNUAHZ0dLK+v9Tq7ebz9ev2+MzW1n1zdzgnKSsaHK2MdaeShVtaXlROTU9JSE9LSk9NTAByb3CquLvU5+nm8fLn9fjFzMyTdWddPTMxGxyDZFK8nopiYGROR0ZKQ0JIQkFIQ0QAbGpqkZqdqbvAxdbZ3+/wl5mZhW5kY1FJFQwQPi0ltZaCX1xfR0A/Qzw7Qz09OjM1AGRiY4+WmaKxtbDAxMjZ3H2Agj07RWVxejg9Qy0iIYd0bEVCQ0E6OUE2MzoyLjErLdHRylpKAOHfAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/015.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 15
     },
     {
       "content": "Marla a dit:\n— Bon, tu t'expliques,\nça fait deux épisodes qu'on veut\nsavoir ce qui se passe.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYUFBeWFddUFJeTE5nXmBwa3BKSFAtKC8NCxEjFBxgJTWcdoSyu8GztrzL0td3XWgAXFRUYltcZ15halNQaVxcenZ9SERMSz09JB0dMhwhYSs7b05SVlBSvcDH1t7lfGFtAFtSUkZAQn5VU4JKRHRhYXx3fEtJV1BKY1RKXj4sO14xOko0MzAiI7i6wd/p8oNjcABlWVo5MTRqLiuCLChjSUhnZIBISYMzNW8uM2clJE5CMUhXTVQzJyqno6fj7/mDYnAAaF1dXVdZaz88dyQfYUxRR0l/NzlzMjJkKyxbKShTHBxAXF11aF9lqqeq5fP9gWBuAGhdXmthYXpEQXkoIWhabi4yaDEyZScoUyMkTSQjSRsaOzAvTm9rdJuKjuHo84VndQBBOT0/NDZ4NDBrIB5vX2ZEPlkrLF4iI0oiIkofHkEdGjUzL0RlZGxoP0KmlJyBcHsAIh4iOCkrcCcjUhkaaFNQUEJJJihWJCRLIiFGGxxALyY0V0RCZF1hRx4edWx1dHF7ACchJSskJy8bHTEeHk85N0A0PSIjTCIjSR0cPBkZOC8pNk42NmBVXFI4PWZdZVtZYFmejz55ELxIAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/017.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 17
     },
     {
       "content": "Je pouvais pas dire.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwVy1t3kgAAAGD+QA/VOZ3OWas5SZnEZQpyM26K0BQHTLZ5GUwzh0xEBTRzzj00z/bWqYf+bqfv/QNO62b3stNUq0T6Q7dmNZWaVSkHt9NbP5wEc/eqryn6EYSBIFwgBbIoApZhj1wnaFv9hqLRnIjnh+f2/Xo7myar5Z0qVV++eHXw9h2ShRlGLhZFwOm4i5te3G/v5p7KkA2uWGOoZbSMo1UcRhR6TH3CJlaDPoKIAsuVqkCv6975veGZ/pz4hvjZ5KgGRczG0yRee46bO0gN6lp8bsoEwXGV/0HhxVnLMHh6aGq2xLUl1rPMOPq+SFa2pu69fsNC2UDXeBylyJIg64ChaTtVWpfolsjpJPY8vn7abEb+cjKanQq8IQonFFnGMQFDVY4/qyjAjW0+FLCHXHZN4CHPPratX5vtddf/etHaDp2/if+z3w6t+kCTT3BEyGUAryr/KSBPCDRPvY/SqUvwcDXywvH0yjLuv3UGX+QLodRkaZshKiRFwXlgwRZ/4/CPzOEOzjzmPiZZ0DtGPYZJytK2Vg3yaIjAcxgKMmAvnXb29/8BhxaDkBp2yfcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/024.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 24
     },
     {
       "content": "— Je t'ai pas dit que j'étais avec elle\nparce que si elle me quittait comme ça,\nje pouvais retourner baiser avec toi.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB+e3yFhIWFhIeHio54aG9aHS1LFCJ1XmHHys3LztPT19xhPUk3ChlGMDZbUU9WTEwAeHV2fHVxjYBxkIVyhnJuYB0ubThAgmhfubO05uzw3N/hb0ZSOgoZSTU7Y1hURDQxACgdHh0TEzooIIBnPY9uVl0kMm9AUXZfXIuHkNnd4q+fm2g0PUIPH0k3PGpbVUw2MAAmGxsdExQoHBqWfE+LbltFMDhGPmRNSG4mH0VXUm+Pg4NNJi46CxtOO0B/bGFnU0kAJRgXIxoaNh4ajEw1e19aalBOQz5XbYChPDhbUEpifm5wVEM/RiIqUDpBhHFkb1pRACAVFCQXFzwrKpOAgYZ5e3BRUkI+YUVMayceP6ensMLBwW5TW3E1L386L3tmWmpXTgAcERImGBY4Kyl9eXuMenNkRUZnYpZMTXMfFjOQkJq6v8J2T18/ChVpNDB0W1BXNi4AKBgXHhISRDU0YklCb05BNCUpY16TQDpnIRo2LCMvKiImOh8oKQ0YOigvcDcuaSIaADYmJB0TE0Y0MVdAOFQ0MVc8RHZyhU9JXUU/SSkhJxYOExoTFiQbHjYdIGYjHXgrIeXrjES1gdiGAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/025.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/025.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 25
     },
     {
       "content": "J'avais besoin d'un miracle.\n— Ouais, c'est qui cette pétasse ?",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwVy+tT0gAAAPB970EL70LEmjQTbWqKCsECDwiONnEbMEEG0t4PYSqMOWAPwe6qy+quT3o9PnT2L/Tvdf2+/4BIKOS7c99/z0dldz+57jK8tP0U+jl1FPKggKarWymVVzS1K7Bii2k3mTaQRCL+u74A6CfTyY+WldqJYZvIBdcYtdrtDM7m9/unhtE3O5oucBLbFgBi9yX0KBAOzlbSiT0UXZp/0kjF+FzSPqpN3Klje67jjSzb6P0/sqgCDJbZWISfP543WWaoKGthGFuNWHh2XMHfTy4999JzJvbYHZ6PTvQzVekC1WwiE11HkeVBszpRhFcIshIM0FFEyiYuemeDwVQ/sTtdS9YG7FtJ4SUgufKsuPMCi0fPm+VjmoKDc6sQhG+vE/GN8bEm1mW5paqC2peVdxo3FesANDMTWwyX4psOV2sU8yU09llnfw3VG0O8NpVvPenaEG4M/ot04NSKp+RrIASCsw/AOAz1aaxDE98t7e9X94+n/x5rt07nhyleyYcmjXOlN+VcjioUgAXw4QIIRvx+amvNFZgrnf0gH9rM/pSrDRskj+ePqlWapMtUnShVKKL8D7dckMm3bNmKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/030.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/030.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 30
     },
     {
       "content": "— C'est qui que tu traites\nde pétasse, sale conne ?",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFweFT0lAAAPD9A13IxgbjbXvvscfegKCCXZ55pHLRHQEBAqJpAuJii3GhHnWYCtaBeYp1XOiHPtgH/89+P2Yzl4UcK7gWCqlUtVTdyBftUtYsvLVrlShCwOPFokQUrGGC/fJK3GCKa6tBD/dcAbVS2TZtp1oYm+//DY/u+p+cYkaVlBBSY4RSqGIRRDBhqBr2sH4v6yvm188G38bW1sTenfU7E6sx7bYqqbUAQBTioAQ1GUUCQQZDKvAKx4KlxeSPk9Pr3t7DsPcw6n//uHvd3b/ptbfSqQjEuiwn9BCRERPSYj5BEXkl9iQ+Gp5fOPXTnXd3h+35gXV7ZF929i6teuZFQgOSQSkSZYaQKMsrnEgCiI42KldmrZI0zj4UZ93WnwNr2mn21jNPMYKCN6woGpCYuEoXJZQn5FjHf+N01iw33iS/lF7/dhq/nOa5uV1eNrAgSBwPOA/x+ZhxGF2F4JxKt7p0vxSb1HLt7Ktpe3N+uN+vZPorxs5yQgd+weXmXW6/280MifQVertBOIjSm2faIJdu51YvrO2fn83jVv3kpZGmqiLw3KPHgOWAe+E/Lc9zugMQZBsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/032.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 32
     },
     {
       "content": "J'ai eu un miracle.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwW1T0gAAAOD9h8hQGyo0YpvQNt7GRgJjwmAzxIkCckMIOOWIDXR4wUDqEk+OAg6twDvD8wt3fehLP9DnAd6urhh0L9zoZoD0bm8FArSfD+8U92NSyCdQ7izPlo+SoiAkQuEUx8X4XQBbNyAGkIQtYpBh3ZTfQZIwOjw7XVxdXB4fDFr1P6PrjLhfU9RWs5NKpACfFaVRxINY0lF+h+X9uJvFiEGtNG5UuoWjW63+9+HuSvvc0b6MR5O8lAdcZhMJWzbB1STLiNG430mzBH6vKY9d9anbmGm1+bj37/F3Q65cttuFXAFAVpZdkAkFQQa3pblo0Pk+HhHmHfmhqczbykjO3fea/59+TUf9yeSulC8C0KslCjYTJqPXAmU/CNI2J4mHX4sH/dNs/ySjxgPTjnzb/PRDLS8WizO5Dhhf6rww5IHNnB2LeckUE6wKkXElE7GZExQ+KidvqtL3dGwYpn+qVVk5B94ZQIdpg7WhPOkUHFjbCk0pbKbkiiFPbouYXZS+He+2CERD3txQhBLhAGJjDVrW243rYQfus6IVu7VHE4MEX2BJLckN6x/PGZe2pt9b0p281l87bc/DWY79TWzAvQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/034.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 34
     },
     {
       "content": "— C'est qui que tu traites\nde sale conne, pétasse ?",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBwbm13dXOCgICIhoeDg4V+enxYIi9ZJC1pT1DHyczFx8vZ4ON4Y2ozCRU1HSNQRkQAc3FvfHp6end4amRljoJzjH10Wx0sdEFEaFZN19XWzc3Py8rKjHZ8Ph4eNCQjSDs5AHBtbEpAPygdGxYMDj0sHoprXGMrOWQ7TT00Np6epMrHyZWDfpeGhVhCNkMyKjknIgBwcHNSRUEeERAhFxclFxR5aW9YSFtYT2xKOT4mGyhOSFyUioiNfHd0XlNhUEZQPTQAU05SRzUtJxkXHhMTKBkUVERMWEVKSERaTEtTVkZFSkdWb19dfWhkdVxQaFdMTz81AGRZVEIvJygaGBsPDTcqKXxqYVc5O0VFaU9YcFYsJ5x1b7/FyIx/fmRIOmZQQ1YuJwBjWlhGNC4oGBUXCwoyIyFdQzZhP0p3dKpLTW01EhtdFhFuPTt0REBlQjVjOzBsIBgAT0I+T0NBMyMgGg4NKhkWRSsgRzlFZ2SbNi9SGxYqOycrQA8MQg4NVzgxYCggWxcTAD4qIkg/P0M9QRkODTAhHT0mH1NCR2xqgzYwSysjKyMeIBgVGSATFVQ0Ml8cF1MXE/bUhVlk+UdYAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/035.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 35
     },
     {
       "content": "Elles se sont mises à se disputer\npour savoir laquelle était\nla meilleure pour moi alors\nque j'en méritais aucune des deux.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYVVdiYWJbVFUwJikXEhZPPzyHaFxbQjs9MzNKRkw4NTxJR02Of3N+Z1N0YlNlUUYAXVtcamlqXVRUJRsdJR4gmXxwoHtudldNZldUVlVcQkFIOjY9oI9+k3pkgGxabVlLAGJgYm5rbFxOTBwTFjwtK5Z3anVaU3tdU3doZFJPVS0pLzMwNamWgqGKcYp1YXNfTgBnZWdpYWBSQD0fFBU4KCajfXCge2+YdGiMcmdfVlc1LC9hVVGtmYSkj3eKdWByXk0AbGlqZ1lVTTgzLh4eIxYXdFRLpHtsjGNbgGJWe2xmfmlku6ORrJZ+nolzg21aaFNFAGNjZlVFQzYhHi4jJS4kJS4bGm1MQmVKREYwKnloYWVWWYRyZ6eQd5WBbH9pVWJNQABQTVNGNzY0JCJiTEZKODQsHBs+JB4dEhQ+JSB+YFJlXV1xX1WcgWqLdmJ6ZVJTPTQAT0pLPS8ua1JHr4p0elhIOiYjMiAeHhMVPCYif19Pbl9ZcF5Uim9Zf2pYaVJEPCYiAE5KSDsrKGtQRKGDb4loVlQ5MUQ2Ni4dHCYYFoFiUYx+eXdkW29QQGxANlU2LjAcGagIkNmzgkp9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/037.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/037.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 37
     },
     {
       "content": "— Sympa ta barrette, j'avais la même en CM2.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBhWVhXS0haSUdsPTaETUF9XV9VIS5aFyZzU1zBx8q6u8DCyMxrTldRKzF8c3Zya28Ab2hmX1VTdG1soJ6gpKSklIWKXCEtbj0/fGRn1Nndz9LW09vehGBsazY7fHN1cWpuAF9jcUtHTVdPUV9aW15bXFVLTkgsOFhBQ0g6PV5aXV9YXFhWWV03QH44OHFoa3NrbwA3NEApISUkGRxOLzdILDA6JzNHRGxZXX82MU4XDRQhGBoaFRk/IiR9Qj94cnd1bHAAHRodJyUqKCUpeUxSgUs8glxZZWJwUEtZcXF7iIiPTUZKLDU8WTk7WCgnamNnbGFjACQeIiolKSgkK1tJRnthU39vbXlzcFJIRHxZV5uGhmdmajIuNEQ1NjEeHUM1MlU+OgAlHR8gFxpLPjuSg3h8dHNhWltvYFuQgXmIZl6fh3+Nh4VnW1tfU1JbTENPPjhLMy4AEgwPEw0PTj42Tj00Tz0xRTYubF9ZWElCW09Gal5XUkM8RjcxPColPywmRjMuSjUwAEY/QUxFRks/O1xOSnRoZGpob3Vze0hDSVZRVmdgY1VPUVhTVjguLi0fHEg3M1I9OHCOj4npGI0kAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/040.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/040.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 40
     },
     {
       "content": "— Ah ouais, parce que tu as été jusqu'en CM2 ?",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAvIyQTDhFGNTOHZ1x3VUxNOjZvYl+Dfn+HhYuJiZM3NDs2MjmNfnaFbVpvV0luWk8AHxYXFxETgWJbpX1yelRLdF1YfGpmiYOEkY+WlJSfPTlBPztEoZKHnYNsgGdVd2RWABsUFBoTFYBgV3VYUXdWTnBTTZN9dYiBgZeWnaCgrDczOy8rMq2dj66TfI51YYJsXAAkGhsLCAp2WFCeeG6ogneffXOHcWmaiYF2cXdXUVosKTArJi6unI+zmYGWfmmIc2AAKx0cGxESPywpn3VqrIN5pYN7gnBsl3xvhXt7KCAmLCUrT0lOtKKUr5V+ln9rh3FeAC4eHSkaGSYYF081MJdzaKOBeGFTVXVeVsW2rp+RkcKpncOxqMWzo6GIcpF5ZoBqWAAyIiAoHR4wISAuGhlfPjdkT05dW2VeUVO5mojDp52omJTbx7q5oo6Ve2eEbVxyXE0AclVJPCckLh4eMR4dQyYiZVNUWVplUE9Yal1dpo6FdW5ynYqCpYt2hW1Yc11OaVNGAIlsXnleU2VPR0w5NW5UTKSIfmxdXkdETUZCSot2b4+Fhn11dopwXXlhT2hRQ2ZRQz7+qW62r6OxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/042.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 42
     },
     {
       "content": "— On dirait pas.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwW1T0nAAAPB9AbOdQEa98SpEFjKQzcHmNmoO2WCbG4yNh7b/Fok8RoJ1yx5Oqjs9qewuz/S6U67yjW/8hv1+UCYWJSJIPBRm4wk9L7lmpfCU2ypv1oWNoSHtA7WtiR93BmaWf3B7Fgn4IIlm2ARGI1E6FJaptZZlDxvu2PM6Sv5rq/bb63x6UZ0eH6CRZXjGF4D9UIlOCAzHRmPJ4H3x0WIfgG1J7OeZfdf487Z9Pmr+2t2+Pp2QWGpuNuCH5yFLpApEmkSTmyyrpskeAAPX3VLVvapyuQP+eb2TvnVzeliSlVsz/ru+IOQYhi1mNWxVL0gt22ra4HX/1bSs/CSXR8qTz3W5x+PTL6PJoBW5t3DHF4SKuQ01yxcZupBKlyiya4NjgTtfCBzFQh8ktpcj3qnMide86DjuYwSG5yGB4aqlSt2oreGkgBFnBf4v+rAb9DeWwgdZ6o2WmQD5x27jog3GqRU2iUN1verUHadmryxFMwnsuqJcEbGify7DSUbR6srct+dqT1v/ruUu16mhZUJUPMFjeEMU9qyySaaeodGXyOKIXj0cNMejYadiema+rcvvTf0IR7t57j+eFop7MNwbLQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/044.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/044.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 44
     },
     {
       "content": "— C'est pas parce que tu l'as redoublée\ntrois fois que tu peux la ramener.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwX1T0nAAAOB9BSvyhINrCG4JeAYKQzZGo5uwIXPsx4C9aGODMSHvEIho0tCLOt3VRd55Rd1l/lPXp+x5oGgwlIvHifhObjcJmIOWrNB4tk6lrQr7UuCbbMFiqHaZ1spMKZ1CHqxAqN+/6Q/gW9uZDeSQyJrqkako09djvcLr1dp7254btUVPHdQ41x7FAgEoBsNhrzcb2STWw/vwuiXJXXDotOXTcsmS1ZsLezkwbgfmVOF/XDl4EoNgz2P8KVrE0kQkSiOoKYB+Uzee4xqzb0iK22/9mVj3k+7iRP754e0xECDUu5bfivLYHmBYS9dbstrvWJ8+XjvTmSOCzw12rnC3J8rZAbmc9ce9DrQThBksJZFEIZmWKMoSq5Ph+fLu331b+4X4bsi4SWNTIS8mkKue/GXUhXZDIZ4uSoJoAHGBZ0aycnn99bth/Eb972Dv6V5qwJLnIP+GIx2Nc00VSm6EGzwwmyZfqmDbKZUpf6uDZSw48z3UPSs0xUr1pq3wl43CsMG61RKUgJ9wZO6YB5k4tvrIJ+L4X5ZaJKKdNY/xLDJ/pV8Mz8aKMKq80Io5t0D9B2vvjYwSZsF3AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/045.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/045.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 45
     },
     {
       "content": "— Et toi, trois fois, c'est le nombre\nde fois où t'as mangé dans ta vie, non ?",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBSSUsvJSkcFhkiGhsrICBzamp8d3qDfoOIhpAyLjc+O0NSTlZyX1ZRPDJGMy0uICAAS0JEJBweLiQjiWZcVTcxalZOk4mIiYWKlZOeMC00KSYweG9upI58dFtNZ1JIRzUvADwuLhALDlZAPJdwZWBAO1I4MY5/eoyJj5uZpEpHTxUSG46CfKiSf3xkVmdRRk87MwAtHx8LCApXPjiUbWOIZFtNLymSeGyTjpGXlaBZVl8oJCyMfnWqkXyGbV1oUkddRzwAMiIgHRQVLR0chFxSl2tgTzEscVFEk4WCmJahV1RdKycvjXpuq5F7iG5cb1dKYEo+AEQrJyweHiwZGD4hHE43Mz0mI3BPQZKDf5OSnVpXYToyOJh/baCGcX1hUFdANlI9MwBtSkA8JyRMNzY8Ih8XEBJMMip9VkaLfXqPjpiCgIp8dXuVfWyHbl1WPjREJiFUNy4AjmtdVzs0UkNFWTs2KhwdY0Q6jmZVgXJwiYeQj4yWjouUfWddXTwxWiYgZCYhTiwlAI1tYHtbTVRDQ1I9PCocHlhAOH5aTXZmY3Zxc3dvcHRoZVo7M2gpI2MjH1MeHE0fHOVzj5osQrRYAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/049.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 49
     },
     {
       "content": "— Ouais, et toi, trois fois, c'est le nombre\nde fois où t'as pris 20 kilos ?",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBcV1lgWFtIMTY9MjQjHB8yJiZBLiw+MTCDe32Oi5RNSlMsKTFKR05GQkg5Nz9cUU4AZWBia2VoXkNHQzIxJh0elnZrkWdaQComhHd2nZukUk9XHhsiSEVNR0RLOzhBaFxXAFJNUFdTVm1hYTcmJkk2MZx5bXhYTzslIXRiXp6cpmhlbxQRGD47QlFOVUZDS2ZbWABZTk1SSElRPzw1IyE9KSajeW2acmY9JB9/aWKfnKV0cnwoJCssKTBZVVxMSVBdUlEAYVdVYVRRPiooNSMhKhkYeFNKfFRNMR0al3hqnZeca2p0MS42FhQcQT5FVFJbXlRTAEI5O1E8OFw+Nk83MjAdGy8ZFyMaGi0aGItqXWRbXhsZIigkKkc8PDczOEdDSk5AQAAkGx5WOjOxiHaNZVY1HxsqGBcXDxBRMyyIbmWFg4piXWRtUkycg3ecdWmYOjKEPjYAIxocTTIrkWtct417c1JHPyooGw4OcE5Ch3VvhoOKlJKcempvQz1CiWVgnC4jhS8nAEIyMT8pJm1MQaB6a6qBcYFnXykdHlw+NH5uanVwc3VvcnRwdG5pbGlkZmRDQmI5Nry/h5OB7XntAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/052.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 52
     },
     {
       "content": "J'ai dit:\n— Hé oh, calmez-vous.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBZVFdhXV9jXF4tJCYyJSVfR0IyIyB5bmx9eXuCfYKAfogqKC89OkJFQkk+OkFCPEAAXFlbaWVpX1VWLB4fi29mm3RnRSwoaVpWjIaIi4aLjYuWJCMpMS83RUJKPjxERT9DAEtERllRUlZEQTgmJH1dVY1qYDolImFMR4+HiIyJjpWTnjk2Ph4bIkpIUEpHT0ZARQA0LS9aSERCLSkzIiBcOzSXb2Q6IyBlTkiNhYaJhouSkJxKSFEhHiVAPkVYVVxEP0UAUkdJQCwoKxsbNiMgVTcwdFJKJRUUf19TkoN/gn+FkpCaSUdQGxgeIR0jUE1VTUhOAFI+PGxNQ2NGPTchHiUWFRwVFioZGHBPRYx7doR/g5COlktJUiIgJyIcIURBSEA6PwBJMCujfW2thXNILCYaERIRCww/JSB6X1h1cHV8eX6NjZhoZW4xMj0zMjxIRk5aVVoAOiMgfVtOtI17kGtcTTs5IhYVaUo/h29ogXR0lIJ8qJSOqoyAeV1XOTA1ICIsLisyAEw6OGlLQ45qXKV/bZ97a559bqeGdqKCcqeEc6J8aqWCcZx5a3ZUSkY2Nl5SUV5VVU3WjqbjG3+NAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/056.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/056.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 56
     },
     {
       "content": "— Quoi ?",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBycG54dnWCgH+Kh4SOiIGQjIN3YWOOYGBVMS2IanTf5OfP0dXT1dhlO0hWLjFoVkoAfXt4aWVlTkdMhXdhe2I8g2s7iW9jYUBTOSclOy84tbi96+3x4ePlbTxKYDM3c2BSAIB+fXd1dmxpbIyEeSogGy0hFF5UYFpNWEhBQRITJUxNWfX9/+/09nBCUGM5NlxFNwBpXl9hW2CGd3KGc2hZQDNhRDZ0V0uDZ1h2TUdsKy9wLyy0j423kZB1PTppPjJMKyAAZ0k+Y0Y5X0AxYEU3e2ddiXNqdlpSXFBtXzE5bRYOeiAXdRULeyAWax8ZXCEcSjEoAFxMR25jYGFYV3Jra52eoaKfn4pzclBCcE9PfRUKI3xyfcW4t8XGyX1JVFgvMWphXgBJS1NbY3ZKTl1VT1JWT1BaSkhTR0laVXI3MVArJDdTUFVvbnFjYmZZKTNeNjhlZGUAIyQrKyo3Jh8lGQ8RGg8RHhMWLBwek5CUV1RXSEFCNy0vEggKCgQGIAwNTignXVhaACkiJhwTFA4JCxQOEEwsM2tCRXM/RIp8gkI/Q0pDRkhCRBkRFBwdIigYGlg3NnRvcNUolrwiZozcAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/057.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 57
     },
     {
       "content": "— Franchement, ça se fait pas ce qu'elle a\ndit.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBxbGp2cW98eXeBfn6EgIKDgYBkOEJbHyxbNjrAv8LExsrd4eWXiI5HGCQ1Fh9PREIAcGpoenRzhYGAkIZ5kIR0j4Z4aTpFdDZAfmRZtbCv2dzh7fP3qZmfUhkoPiMnUEVAACAXFi4kI2heW4NtTGFJK5B7UGs6RXU8Sm5WUK2prOTn6vr//66ZoFcpLUs6MUYyKwAeExMkGRiLhIBUTEdMOyVwXUZnUWtbUn5MRF80LUmNipbGysyol55mSEFiT0JWQTcAHxMTIxcXdW5sXT87ajMhf2BTZWCGWVeEYnKNLipJUUpZgndzimRiclFKalZIW0c9ACUZFyITEU5APHpmYXVPQ4Z1bXRgaGBbg1dhfSQaM3tvb8/R1JBVTXRKPGBQQ1E1LAAbDw4sHRtRQ0B1YFR8aF+PjIlmR0hlXYdWV3oeEyplV1fR19qdiZFoOjdhNyxcHxgAFgsJQDQ0V0Q/ZkU3SDg0SkFBZE9PSUFsPzpeHRUrPi40Rj4+QC81ViAiayIZaSUcACIUEzMmJU03L0YwKh4WGCYaHHRaWGFbczApPiojMDopKxwTFRcND00cGGkiGW8lHJ+xl2+cQMyxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/060.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 60
     },
     {
       "content": "Elles ont continué à se battre pour moi.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA6MDA/ODo9NjlLRUdeWFlAODpaRTxgTkhhVlRhRkBhVFN9dnZeS0clEREqGhpNQ0MAOi0sPC8wNiQlTD09ZF1dZV1deXR0YVBQdlxTdlpPcl9YiX99KyInHBEVHhUXSkVGAEAxMFA8O0AlJUUhImlZWWtWU3phVnBTTaF2Y8GLdaF/cJKHgxwYIBYTGhcSGUQ+PwBMMSxdQDxNODVVMi9rVVV0aGZjRkN1X1fDjHLkoH+7i3WWi4QaGSAbFh0YFBpAOj0AaEQ6hEtBgF9WinhudWVgeW9ukpOXiWxlsXZd4pd5uYpyppGHPCYnIBwiFxIZNjE0AH1OPq51Ya1/cqp3ap53bIyLjqRua5Y2KYRSQH1NPXdVR7uZiHg5NB8aIRMOFTYvMgCWXku4jn3PrJzkmInFn5TEkIK4OieVJxx9OC1gPTF1WEq2nIycUUhIKCdKREZpYWAAom1YuJKAupmK0Kye2pJ/62dKqDcohSMbkSsiiVRHb08/lYB1mVNObEA4gH17j4yOAHFKPK15Z7yPgdSMd99wVcZSPpM7M3AgGoogFotPSW9aUH1uaIleXXM/M25jXH54eQolntNvFHnoAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/066.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/066.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 66
     },
     {
       "content": "J'ai eu le temps de me faire\nun thé, de jouer à la play, de manger\ndes Knacki, jusqu'au moment\noù elles ont dit la pire phrase possible.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0dHd5eXx2eHtkOzZyPzNgREg+ERpMEx2Qd3vTzsnf29jfy8XNW0bNaz3KhlTIvaEAdHR2dXR3enp8gXp6kImFaEpQa0RBZj43mIKF6efk9vbz8tvV1llA4F8w15Bs0beSAH5/goWFiJCQk4N+gGVgXlNCUFtFVVI7O0lAU5ePkK2hnbSUi+JXNOVrReGwk9uvkwBsaWl0cXGAfn59eXk+MTFLOkRFOU1DOE80JjxELCkiExJ+MCPUSCnHinLTp468inUAVlFOYVxZc29ufn18dFlSjWxid2ZkWURGXEZCU0ZBQyckpzUim0w8tJiKso5/j25gAFFMSlpVU21oZoGAgGdSS3hhX1tXV0Q8OmVfXmRWVYMxJWsgFntdTqB+bHxkWm1dVwBDOzpKQ0JlX11wbGt9cmyJe3ReVVJdTUZ5a2N6VEyEWFBbRkCCYU+DYU0+KSEoHR0AHhcXFQ4PUUtJZmJgbmRfYlFAYVFCYVFDb15RZlRFWEtAY0w/flpHUTgsOikiKBoXACkhICsiIzw0NE9KSV5XVE5BPl1XV1tWVlBIR0pAPkxFREw6NE8yKCcZGDQoIjssJyBdqJK2hC1iAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/068.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 68
     },
     {
       "content": "— On n'a qu'à lui demander.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwFwVtvmlAAAGCWKuccihdIuziroxSUq1Q8gOClarCKdlYoxhHTy5o+6IM+uGTrXLLtaXtesj+87yNcsRyY1YWrPXTUkc7bXCFsVH7F/aWjniKYBZABJAtRW5cGdbWjVYlhQ1n18NKRN74Z2fJY53/E/e3YjSwljxCdBnkIqRTw1ErgXPYMhZg6xjrw1r75Pe5+9DRfLv1Jhr+T0SEalPM5dESeHFNZEnpqddZq+A2NmHnmfn71eep8DdtJSw3U0s95+9/Th921U8jQ6IhkEcoB0JTFqOuMLJ3oa+Jh0d9PrOee8ditRXX+9ab593E60QUqlaZTgIGIpaCrVKKuEzgGMdIvvs293bhxh8WVK917coLFrY9DLGcAAm/SDIIsQm1Nintu0DSIT6780lE3vhljcYEvtkNzrJ5bJTapv4+Fd+fZTA6CLEkq5bPbjn1t1YiNUnyyK6uWusDi0hL2gf3SM0IsrC65NX86KTJneToDwAlN+9gY1DXiWXh7p3EjnQ80LnGVQ3j1Zdae1PhbqfgqFXYcy9EUDSkGHXcN2ce1/3tKVTcWIuCcAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/071.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/071.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 71
     },
     {
       "content": "— De quoi ?",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwU9v0lAAAPBedD7ooy2v/3il7WsLs4WWttCWlQrIWCeCW8aWORNkZiYmxrBojH84GI8ejIcdvOhOu3HxQ+jF7+En8fejXCwZAgK3tkqgEIroenX0++bL5uvbV9N0GvvzfpLWiVyCHR2PG9svjydUQxZESIPbd7hioS3y16v5n83Vv7+/bj6/WOTZPOsMHFOEMFDlxSBePZ5RCalilmEA4GGxI6Gfb5afnuRX68sPzxcHiX+84x+4ViQiVyhf7EYfz+fUST8OiIYZiIoFR+IfuWbu255FnIo8C9xIM/YVsSuUeyKa2sbpcIfalnhPVy1J4ACwxXJLRhAUpBKXOXbHTbt6vcUy7TI3w8LIUKocS1Vo2lYqdhUTHsWG+nTYPeuFJ7v9s737edwdVHEN0gHH7st8rlcwW6IsAbWI5hIttMxJFP54f7FZP/v2enk6Hk6SoItlky66LJOV2QemHgch5WvKKGw1dTW0jJHXWC8Pv79bXs7Hs9gde3WThmYJEkj3EBcJqKZUqHbNvOc1HVXxiJbetQ5H+fnDceYYabOeEIwB0CAtAeAwjMPAvkP+A9RJUuUMwlh+AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/073.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/073.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 73
     },
     {
       "content": "— Tu préfères qui ?\nJ'ai dit:",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwdlv0nAAAOAmDicLtKUX9LDXWqD8oPSC2hZkKcdgHQiILHNLWBwmUzM1M84QE6NxzMVoQkyMPvoysyf/Rr8P8jS5oWc7VqFj5lslxVM5W2YCTew6hV4FbNtaiadpFGZTME+kBAKDAJfm0GTTyE7r1qC8eRQUa3mhAeS+Wxz65Z4DDD7jKxyNwJtpQiBSkMmn7yY2dJ6et6pzT3vigwaQwpIyvKePfaNrawZLvG47uQyhMWSWJiGZwuOxOyqGngO2lkHrKvuoZjZ1deSXR77x0NNDTeoDAaQRS6Q1loJkEoutrdskujSFqCA8DZ3LF7MdB4z88uS+M3aLx2H17+ViYBcAg2fgJCRTxO21dRFBXmUzBzlmOWlfnRwOvPI4MKYNZ7cCXk6jmx9fl6fzusqJJAYJeCp2K4bH4+9U6qOC/3y882na3XVLk7q1t1Xpu6WTce/6+8Wfqw/HnYBKJiAeSXBI0heZc5VcKMSv2eBiHEZWbi90D1re0DdmUXiz+vLv9+rt/gMe3oA4OFFgqEMnfyphz0RsEdXOtv02kCZb1f2mNwzMWdRcvX/zbXH2+flRkJf+A6qXXt0wr2UtAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/074.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/074.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 74
     },
     {
       "content": "— Nan, mais parce qu'en fait, je digère\npas bien les saucisses et...",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwUtv0gAAAOAmjj7oa+VNS8ssU2hpYR2lWIRBSQTWljoIg6UD4thDMyIEwYvbsjgXozt40uhRd1JPHvQH+M/2fUB9I/VEEfJrjIjAJkN1JP4RS4sYlkSxwZY6Nsu7Fa1dUlPhUNAD+SEYcFShkk608nJbEYaafFhWrvuN/ZyUQpBl23gztI9tY9SsSNFwFISDEAzUc2lTy4zNyqRTf+XaO1qmpyRP62WFFRdd8/qkfTZyZrvNHMtwEEIjXiDNxSWWURPxTZ7Tk/zmuhhAVwX6fu5BoZrVjUyyKj8siuvpUHAN9jKwFwihXnxlxQ8jHE7ESWJPV7Vs0XGGWV7u6sUoTgQQNIRiMZxIUBRPkoAPxcMEQUDQaCN1buqzRqFnGJbtiqwwtapyjGYpHx+JMH4/TZIMSQBcOMozsSCxOnFq3y4Xg1J+YRtHO63lsD/vWqd73VbN4CJ0gKBwCCYhEMBA0IcgbqN09bz3af7ssln40Kn+vDj63av9Oj++OHEH29bTkr6VlUgIxEAPAN8DDyz99v3i4+vZ8nBwNu7/uXn59+vbH1P3/5f5v8/zm+n+uxfu96vJgf0Y9XjuANx+YHC7m+bDAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/077.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/077.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 77
     },
     {
       "content": "— Ah ouais...",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwc1uk3AAAHCSJZp14DpoS6UD/lBgQPmUz1KgQEto6Zq2UtNOZ2ZTd1hM1MNMvHie0Rfw5MGDb2DiG3g18T2Mj+DvB+ksYNv4aaMRiFzAEHwbx0/q7MNmbilTV001PpbBUAbBadPAsaF+Bs19PZHYiKMihnjpiWuvV7jaMrQuxsEytDwBCC10YnDPXG4sdiZ2DwoAPpLB3BRzjrw0uhehvgjNTeZfL0aryE71M4+nS1vaREqmgFQToFCgZo4ayLyAHU9lNlGFUBG24/7uPFsMHs1cdRloz/P+5diPRcajCMgSmFb9+GaZx73um1UWK3y9Vru7rt5ty3nfnDpaFTv7ebqbRrkhuqADrSL73sFBrAq7Ilz4usmS6GHty+3T398+XBWDiSVXA2M/i18UXmnLM1OC9uUQQ+AGAsskQWEohzdZDH29Hv379fXTzTrhiEIEV4m6i9gRT6VMB3qSOCh81ETgFoI0kQcaSYh4azPQ/v758f3j7UQBDktlIvHYoF2GjrokZPMAvn/YQJCT2pHSad9V0dvSr/zez8+v3m+LhSNNfX2iiT7VSCTa6tL/AXM+XJjUt8yQAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/081.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/081.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 81
     },
     {
       "content": "Alors j'ai dit:\n— Euh...",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwUtv0gAAAOAeJjgTp8JmyuyTPoC+19LStUALjEIpb0g2GIx2060xajYPhBiNxhBINHExMTMxHjyaeNjB+P/8PoDevDezxNVFS8CftFXh54ujhWeEReFj0LiZH6/DzvzQHtsCvhPTKFSlUCAZifoG++2q31BSR+be12eDs7ww0zNL3/n1ZvwpbL4/qYSeim0/ktDdskQD6EbkVEv//jC69t0vQe/zrH1uZ69q+tqvfH/duewbz1u5xcg6d7N1mWzvMwAWiQYSebuc/nl7fHMx/BEO33XtRcN86SqBxTscPjT5bo5RSdiR04OCBODRuz6L/VtP/6785cSbd6ypmmnQ0EDPnJbEqpC00qiCJDgMdjXB1QQgsXFnRCRWZ/1X/cPrp0NXpFye0HEEioE2n5qUlcCRBwZTEogcjSgkApBxsMab1WyroniXvd44L6sYhMVA8P7Ow+iD+Ga8yDKTitw1OIuGRAwCalqznPUOlLqjegZbMhlDwiUeEzmUS+1S6DaExRFHZps5ViVhEYeBslw32EJROrD3qgXe3meKeiavpQyFUqWkRCcIcOuxgKJONq0QsITD/wHp32qCOEyiHQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/084.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 84
     },
     {
       "content": "Pendant tout ce \"euh\"\nJ'ai fait la liste\ndes avantages de chacune.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwctv0nAAAOAeHMM9EjRjsrXrg9Lnr/7aUtqt7Up5FRgotDwGiwssIotkyEwPJs4FM2M4aMyMifGwo4/Ey6JH/zu/DxFX10497Wp08GHSaDvwou19edo8L6aPNPakuvdp2go7zqEDuO24yVMGSyJc9O44p1y/aHx96b/q5ubdalg1R5bUgqkwcD7PgvlxYVhUH6yvKQTqQgahl5YnLvx+2ftx2buZtW+mT951vbENjw1xMSyFHXvmm6/77klJLSu0b0kIdSdyZop/FoPb94OfF/1f4eDbqHVeSE/z6mleqUC6n4WBKVo8UUnzLVtGqEh0onN/F8N/H4e/3x7Ne+VZQQ8AGaS5psq4AlEQSBVLiAR6YMDarozgkegzQN5e9a/PuuO6/6ZX8zXO4/Ecl2ISaEUVOpbUMLgsoHZZIsOQSGJpucmy49rjklbPKdXn9cahpVRA6iGGb65ubKzcI+5vZSUusKR9GlWTOLKzHitlaq5cLaYrZb1mCq4DbIWCPAYAxifjBBrbouJ4XuZ1GlWSOCJhnJd5ZAMnC4s5xdsH7p7g6JyZYQyV1mRKZhM0FtsGO6RGYyqN/wekMWuCoc+suwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/087.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/087.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 87
     },
     {
       "content": "Ma copine:\nJ'habite chez elle et j'ai pas envie de déménager.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwW1TmnAAAHDeOB9B7g8mD+IDmaegCJlioJjLdIXDVMrwAU1rmtsLvFXrdtntdttte7EX+wp90v1+0MrqbubDhw/2aTlvKJLVUCvZVD0d/2O1/k70+3Y1BlDkjSvDkPvJeJomoc1i9Lyef/94PXxXs8/qd6Z+VpZklv58evikV+yKmKVCFALjPm+GofgoDX1ZTn84y9ffW2d25Uyvvq6uO+oBR+BTNf/cOXrQq2qCpJAA5nHHMFRIRKDHxXC7nv3crHpasV3KTpoVUytmCOxWk36Zx//GuiEkMY8HuN2RIJyL0ZBjXzzdjl7WU/NINhRx3n7bKOTYEMYT4EbmX/Rqk2dZgCZAcC8EJDYK3Q3eO5P+48Lq10q6LBhqYY8KRwFKBHyZMDYs8SKF4x43R4AUjnJ0GJp1WktT/2Sd97SiURaMAgf83hLLyDGSCHjPxZSRSyIuVyQIR1GYQRFo0KqN28fzTlNX9k0lP1IENAB/G3e3vZMo4hPpHT27u+P3hgO+OEDSBAZ164f9hjpoaidFwTjgbSXfkvjX+5tLOVfjdpkgrMSpLImTiD8BkHKC+g99imB8JJaEDwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/090.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 90
     },
     {
       "content": "Marla, elle est mignonne et marrante.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwVzw1zkmAAAGDucqK8IONj5hCaAsqGouhoCMN3ckwmYNp0nbqj8rasdN2uWq27sq31A/rN3Z5/8CCOWjpUS5G9v4jg2FDCavEC1m8H7S+hFWhFKHM0msplCJBIpp8kCTSNhC09MOszH97OwouOHptKvyZfwvrUqoY12drJ+oYg5TmOeYonU1gCRYJW46VjvA476/nwOjA/Qu3PyP3RP7wfuzeR3d0r/Pt2Hh0fd2EnR7MggSJ+Qz1zW3Hv6GFxtp5484PyjW98OtK/n5hLr9lvqoNgVi6IMi8UOR7fSCFjW/cq0tAx1m8Gd7PuSJde1Qq/+va7dj3SxNN9JZPYoAHIEjiZQolkGnFrSlAvrxxtCasrU5ke7DayZPy8DKV8p5Q/t9Q8AWiA50iCwrDH9MQ1f3vNB1N+25RigVnY6qgpX7m6X+ZDVVi0tReFrEASDMAYADJoGvk7630tZd8X2bi0PREYS+Rju3J3CueWerLHf7DUpbhVocltapPC8MfDfc/8LLJXInspUNMdVqAoT+F/Dp1r32jLXG/32UraqpBgE8+QKQxLJP8DEjZXGI9oIKEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/092.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/092.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 92
     },
     {
       "content": "Ma copine, elle est mignonne et marrante\net j'ai pas envie de déménager.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwVzw1zkmAAAGDucqK8IONj5hCaAsqGouhoCMN3ckwmYNp0nbqj8rasdN2uWq27sq31A/rN3Z5/8CCOWjpUS5G9v4jg2FDCavEC1m8H7S+hFWhFKHM0msplCJBIpp8kCTSNhC09MOszH97OwouOHptKvyZfwvrUqoY12drJ+oYg5TmOeYonU1gCRYJW46VjvA476/nwOjA/Qu3PyP3RP7wfuzeR3d0r/Pt2Hh0fd2EnR7MggSJ+Qz1zW3Hv6GFxtp5484PyjW98OtK/n5hLr9lvqoNgVi6IMi8UOR7fSCFjW/cq0tAx1m8Gd7PuSJde1Qq/+va7dj3SxNN9JZPYoAHIEjiZQolkGnFrSlAvrxxtCasrU5ke7DayZPy8DKV8p5Q/t9Q8AWiA50iCwrDH9MQ1f3vNB1N+25RigVnY6qgpX7m6X+ZDVVi0tReFrEASDMAYADJoGvk7630tZd8X2bi0PREYS+Rju3J3CueWerLHf7DUpbhVocltapPC8MfDfc/8LLJXInspUNMdVqAoT+F/Dp1r32jLXG/32UraqpBgE8+QKQxLJP8DEjZXGI9oIKEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/092.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/092.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 92
     },
     {
       "content": "Marla, c'est un bon coup.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwV0HtTmgAAAHA2lYfyhnCAaBgDBHko70zIGGtpqUfZaq3zVrdXu71utt262z/75Lv9PsIPKCPj2FX29U7p66ehceSq+VNJx9EWhjKNBlKpPAIAgaImg35q9575DnC9715G2ma2u5kmD4vsYZmVjqJjDQap8yR9URin+UCXlelelA+tw9gDvpfZVaTdpfaXA+9HEX4u/MvYMCicACGepP98vPn9/jYa+It8Mk+TaeIB9+cHV7vmTBU3z8NvRXhodF6P+u4WhdVAgWItM7EMr93kI6u/ysezUQBcD5Xb1PYEeml2Fs7OsMWux1YkchSINHGKhmskWG1UagQEF769zCJgKdDvht3zQH2b2q9CLety69Ra27LHEiyKNXGiiWMkjCAVyGhL870AOBHoifykDLT7WfJzGh/3xJdx75ezPecJiaF5kmTROglB8OOqQJJF4AArkdrZohKJvZs4f1f52aCbaa1PVvuNRHMYyhM4U4fRWnWb4zLH/N9athkSgsayeDMyv76ILwJ1rLbmffmDwnUxlMEwpg4TMJjaxlHoZq7xDwFpTaGANCFkAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/094.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/094.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 94
     },
     {
       "content": "Ma copine, c'est un bon coup et\nfranchement, j'ai pas envie de déménager.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwd1zkgAAAHAeKkQQkRA2ENxwMj+mCHpMkebnlCVsOmZ+IGZbxnluV3rpeauXXde6bl1vPXRdd12P/ZX9fsBseL58PVpNx7oinhXlfk1NcbQhCl/7zQe7NaspWz7Y7wELSSETCQv0FrC4sj+447v5Zbeq2s0j91yXIuF6bPfWfLZ5XhzmUwL1lPBCTMAv8lycpYH11Lm/ufr342E+6q6m483UkXeYHEu9KWVvT0vvmqrEkBTixT1gjKbSuyywcKxvn+5+//w1MerTC/OtbZlqNs0xa73w2ap/H55UohwGPsFBMBLEMzwL3PQ7H9ful/vVxGxcdk5mvXa7UZWEaJYJzrXMRlfzPBMOoCzmS9CkvLcDuF3jetBeOJaRFw0lpcsJAoZYDKVgSApRIyXJB3wE5IkS2B6BHbA08PK04V60rgdtQ5VfaJKjZfywt3OYGeRFEgJ7uZjG08ijxyEUoX0wg6FAr1kataoT87ihpAea5JZzSS70Z+W+N8qcH05vB48iIRwCGRSJBgM0igCdSsGqFbt1rSIlWtm4fXiwNMp/l69KAncsxsIYqvFMnMS3fXCMxPeJwH9wUmLe8YOLDgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/095.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/095.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 95
     },
     {
       "content": "Alors j'ai dit:",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwdtumgAAAFAeZtSKWKEiCKigIvUyLyirWG3FCqjVeulq0SpdnZqwdXN1I83SLku2ZE0vT43JPmAPS/aTOwcwRr3VbGzOdVVItcWMViumaaqRjDwM1YdhY6mIpMsJWSw5ls6Gg6wPA66mo6+LyY/Lt5pSHtf3jeNGnqVLYf9K2VkpO6dCIupFUNCBQWCSpuJ+AjBnk1+X03/rx/dnJ5/Oh18uhiLHZCnMkIRvXen6sJwnvZ4NO2yzRnE0xVDAUu+vb27/Pj0P5N1+WThv7NXSHIejy4NXP3vSk1avRgOwzQrbrCEPkmb8wLtB6+777e/1etpRF4POh/FrtcAn6EAS35oKcVMuCEFfwA0F3VDch/JhGpj3mlfG8OZ6rh/Kmrr/sV+vCHyMDmAOO4fCpzzHIi7YZg0jLgZxbRMYoB/Js27DOG61xEw7FzPrIrXpFCK02ZZ8oF3LxyoRCrS8ICCQdDpwCAQGyt5Zs/rmSG4WMq184nOzxAfJ+8XoftKJIC7O4y6HyK0NOwGBHAqTEAh0K4V+tXhSKx3wSeklqxdTs3Luz+qimYqq2UQI2dxliJgXxp0ODoW3Ufg/iE1k0iHxZYwAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/096.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/096.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 96
     },
     {
       "content": "— Elle.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwFwVtrm1AAAGBpuzbdCGts4nTqOSZecqrRGBPvYrWamMRomlUobGNtF1jXDgqDFZoxWKEv2x4H+7/7PsxkCHx7J2o1NlV6fpJ5SnJTlBexeYKgAVl8/wCv1ZvPGxLF+ErbFGgslZjW1pbbljOrjPV5Zi1ifZLbsSVqItUVSR4cMkzjNX1AW0iMZIAtVMjuv5i7y7m7mjll7q0SY+qhyO76NvIdObCQi+gjgDOGIHkyhxV92CNAZi3T4awIqqlZpHZ5ll8mbhkokd8LDWHIv+qIpKBBMdYlbKoCj9cCNQnUaOGeVfnV0+PvP9cX3z68z9yFhYIekGETKEARKV5tt7FU5RPt2JGPPSWcmcsvX5/+3t991sEnT7mOXR8NOIJjD1lTHJgdkay/xPpNPEC2yhkW8rNR8eb04/3D43zQP9WkS6f3bnTUp5lhp/2jSq88Ba/VMGpnd0S27vJIh0KojS3JW99+X99upslKIbmkCytDWg3Et7Y8QaD+bA9rbu+aDPXzfGIJyFXi0Bhvfv1b3zzYWohoGeLEkCHGCKZd1oEkvlf7D+qxWc+1OpYXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/099.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/099.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 99
     },
     {
       "content": "— Faut qu'on parle.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAyHxpJNy9HNy9DMCpGMyxOOzJNODBPOjJOOjEuHRgyIx5DMiwtHhskFxQaDw0oGRUAGg0MRjYuTz01VkI6aFRLgWxje2VbUz41SzUtilxKSC0kJRkWOCgjJRkVGxAOJhgVAAUDBEExLFZCOnBbUox3bqONhJN8c1M9NE00K5lnU1EzKRQKCTsqJCwdGC0eGTIhHQAIAwVBMSxbRz5wWlCEbmSRe3GCa2JMNSsxHBZtRDZGKiEZDAs4JyIuHhonGRYwIBsABgEEPS0pX0pBaVRLe2VbgWthemNYWzwwNB0Wdk09PiQcNx8YOyYgKBoYKBoXMCEcAAIAAjstKWVQRmZQR3NdU3VgV3ddUY9jUF9BNqdxW0stIlg2KmM/Mh4SESQYFSYZFQATCQpGNzFlUEdiTkRrVUxuWU9xVkqKX0yWfHLCn5JYPjVbNylkQDIiFRMjFRInGBQARTQtWUc/XElBWEQ7XEY8ZExCaUs+i19MloF7l4eDdGBYf1pLWTgrMCQhRTUvQDEsAEk1LFNCOlNCOkUwJ0MqH0suIlw4KZJoV5qGgG9dWaCQjJFyZ1IxJTUoJUw8Nko7NVQ9brj4yM8LAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/115.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/115.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 115
     },
     {
       "content": "Bref, j'ai fait un choix.",
       "index": 42,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwW2PknAAAHDe1c0y9Q6FA3xI1AqQ+CMSnCcPmgiinYh0pHjTadL1nLVWp7dcq6160dXW1tYX6HWfsN8P0tlSW2QbgFKYUgtQVrVsCvRAEXoSx+dwLotXyCxFoEQ8lo5Hy2kUEgoZ+4DvyvxQk0K3swkn047mKVWLp75Pe55IpxOxCpnJJGKZ3dgtHIEIePfoUPBbh+/m44uzl39/fnk1coZ1wa7Qfx65YVOEdy6D6wSNIyBHcFkcwuKJfl2cWNomnHx98+T39u1Tr+vUQCW3v1SAL1LY1QiNozexFEOgtzP70N6V6ECVTixtFQw2y+DT80XotAOF5zB4JDEmlQN40mSLRSRJ4ahApqHopZ2hLk/txjP/6PXEfT9/cGIqq179WGYvAnPIl7pMfus186m9AgIXEBiKRyJ+S5na+rLfPnWtVTAY363NVe7jwv/37cyT2NYN4txRKSyVS1yjsSSkA8Y3lJGhjo36zNZP+8axWn2ocueL4MeH9cxuejWwsqQGoDXA6ICGugcVR5cdTW6yRYMl73Fkh82v3ebnF+Gs3/u1XT++7wRy2bwDOjXRkoX/54NtOt4KvjIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/116.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/116.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 116
     },
     {
       "content": "— Pourquoi tu m'as choisie ?",
       "index": 43,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwVxElzmmAAANDvkLokEcWIFUVAAVmEiAKGRbGIaNyaEhOXVB211rTTduzBbtNk2smp1/7jTt/hAT4Ok5FILBhAwuGLDKKgidTpKRmFnLK03yz9WrWQPKvkCb+meSJ7DkVAIRpBQuFoICgi8K7K3p3nZBTRGdLmKTOXXrjGxK3dj3pfN9P3w1YDhgAdg+BgCA6GhETM5/EulfaYbF8RX0r0XOGmCre2KxNVuNWKW1d/lcuA9Mnx8VHgCDzLx6ART94KhJfPWDi6NaTvg/q+VX1Tl8eqYGMJh0A8BgPRQJCCY+LzRCmF9Ap4m0BlBJ6UmM+u+uA7D77zydVea8KVxLTpjIklQRGJf2ldPA7sqcK/sytbs9Qg0LXKvzXEQ8969Jvfho0PTXWli32OlJJxMCxSf6b9v+vRoWP9HNg/utaNRHcYfKXyK13a1cv7tnEY1D421bnCORQGbmTuadT+Pb68t5VfV81FmdtVizqesvHUZYHw6GyHJZamvLHkmSIMhBy4c4yZJi51aaGXnsbdrSVfi5SVx2a6PDfLwxLbKpAvqKzH/t8k0/8AOytbEHDMwK0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/122.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/122.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 122
     },
     {
       "content": "— Parce que t'as un petit truc en plus.",
       "index": 44,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwe1zknAAAGCu7owxbOhQQXlRVH6gyBBwvBzoENl0ekyZS2xibTvtuutlLe9a6+pjV5/6l3seSMplQQYjkL2DF6kiitp0XiZxBnspU+Q2nifjwAEcT+RDS51Yql0qQGIWq6TRDAzjCGLT+W2nPqrTOlvyZWCUi1O9mQTu9WnvYRV9XE5fNWqQhGcpdB+D90gUVQl8JjL9MjFRhIkirnTxtSYklrw0WiOenh9LsQKgOnZwCMPw8xT8LKWTuetWNRJYhyFihf8+dnZDe+u2V5Yc1OkuhftVEiL3ETqdNihSzB1aDHkBWI/KjwH73jl6nLi/Zv3d0L4xWwtVPANMly1ABQRJNPFv5H/xjaXW+OR1Iqk6a1Te6sIHT/8R9p7Ck4dT652rXMl1my5AIp75NnL+vZn9WYy+DsyfYzdpCyOeiZrVZRusDWnTVXfnzufAvLNaYZODTvjKvXf8+2q4cbX7gbkbWHOhEsu8nM/6XKlbLnkcFSnC2jxaaOKkyUGbMIh0aW3It476dOE/jnuxAs5AZapJt73Opd48l2p9nvVB2asxdrn4H7mwWo9PKg3DAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E63_brefJaiFaitUnChoix/126.mp4",
+        "thumbnailPath": "thumbnails/S01E63_brefJaiFaitUnChoix/126.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 126
     }

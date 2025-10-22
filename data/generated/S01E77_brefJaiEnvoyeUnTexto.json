@@ -12,294 +12,637 @@
     {
       "content": "Bref, maintenant que j'étais\nseul, je voulais revoir la serveuse\navec qui j'avais couché récemment.\nJ'ai donc dû envoyer un texto.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCCenONhHqRiYKVjoiblI6clZCakYykm5eEd3J7Ylp5bWealZCSi4ePiIOJiId7dnQAgnt1kIh/mZOMnZiToZyZop2apZ+ds62qkXtzt41/gm1ln52blZGPhXt2RjUzRDArAIJ7doV+d3t3d4qHh6uoqLCtrrq3uIB8f4JpYaeCdVxKRXV0d6Wjo0Q/QzcqKjYpKQCHf3trZ2UbHyxBRE6loqG+u71nZWkKChFUREGCZlwpHh8LDBN3dXouLjkfHSQdGyMAWlRTXFhYNzpDMzY/enZ2j4yOKicuDhIZRSEhZywlIBEVGhshQj9FJCMuHRojHBcgADs2NGZfWlBKSgAACmBcX314eT45Pw0PFl1JS6NQSjocHjAyOVJMUTY2QCEdJUhAOAAmISNjXFl4c2p5dGaCfXdeWV5LRkoyLjRXU1l+UlRSJSU4OjtMRkxdV1BzZ02Ed1AAhX9tu7WX4t219O7AsKqQSkVMS0hNaV9gl3RrlmReakpKSEVJQj1EXFNEloVUinxQANDKpsrEnsO9l7Gqh3NvYC4xPBscJjEpK45rY5NuZVlLSR4dIh8gKjU1OIR3U5iLX6YEqBlDVojYAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/001.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Au début, j'ai écrit:\n— Hey ! Tu voudrais pas qu'on se voie ?",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBDLCFDLCJFLSNJMihMNStNNClSOS5XQDROOTBdRjpnUUVwWEp4YlOBbWCDbl+Ba1wASzMoTTUrSjQpSzUrSzMpUjsvW0Q4WUU7XV9qUFBbW0xFdVxKfWVWh3Nkh3NjiHRjAFI6LlI6LVM6LVpDN3lfU4xwZnlYT3JcWcfR4brE1n5rY3pgTn9nV4x4aIt3aIx4aQBbRz5cSkRURUNoV1SJamJtS0U9FA9xY2rN2u2ioquWenKYgXR8ZleOemuTf2+LeGoAVk1SOTA2LiYtMiUpVTMtUy8oSSIcVU5Ug46hf3mApZCGm4Z8g29ii3lslYJzkX5vAD0zOiogJh0TGR8UG1Q2MVw5MWNBOUosJzQfHkc3N2ZZW31wbol2aot5bY98cJSCdAAxKjQyKzMrHyExIyNeRzx4XUx5Y1V6YFRfRT80KS1GPkRoYmmDdW2Mem6Mem6PfnIAKCMsKiUwRzk4dVxLfWNPgWdUfGZXhXJkYFJNOzI3UklOZmBmgHRvjHxxkoJ3i3txACIeKC0nMSkkLkg7OXxiUIFnVIJrW4ZyZWpbVVJKTmJbYWhiaH10cop6b5B/c4l6b8AwmLPbPo+9AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/005.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/005.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 5
     },
     {
       "content": "J'allais appuyer sur Envoyer,\nmais je me suis rendu compte\nque j'avais pas précisé quand.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYlJREFUeJwlwltvmlAAAGD+/9vcXmyoKQ/Lsm4mrW4wJRxAQFFuGxUQGXhuXOal9lSHa7JkS7YvHzcCpuOF8SrPNxTiGtMG04b8i2mNSA1xnW9okhZusBwDi/P8sCgQJhWEBCEKEUWYElohTDGpCKEIEQhJXsA4yVz/gStptUqSNE3btmWMnU4nxlhd14yx3W5LfxzZ87ltf57P58fHJwgpF8dxFEU8z2uaJghCr9frdq86nU63e/Xm9avbofHy+8/Lr8vlckmS+HA4cPv9/ng8lmXZNA2lJSYEI1xVNSGEYFxVDWNsu909Mcbz12m65gYiGEqqJBufR7okG+LYkGRTko3/xZE+ENWBqCSrbPhJ9PxvnKzOHH+ZpLms2d8LZNrB3A2jJBurs3xDjKnnfY2zHE1niyAITcvmDMvp9+/ksez6D8LNjT33giAECgiXa6Aorh8CoOvaRFYm84X3oT/g3r6/v/14B8BEBqbjeBNrEcVZHK9n8yBNs9kiAJqp6Zb4RZ3azrXw7i9Bw2BnU62o5wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/007.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 7
     },
     {
       "content": "J'ai écrit: \",ce soir?\".\nMais ça faisait trop mort de faim.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZFJREFUeJwtxkuPk0AAAGB+oJ428eTBg1lNL/VxMRrjj6mHrk3rbqBQFqFAeRVwYAszwzDQgm21bsrL82qNWZPv8DHPe68Uw/NCFCIakQ2kBaQFykpIy/tHZBMi6oZobvoTTmb6L9/FSY7pBtOC5N/S9TbJynsk/58kK1G6jnDmgpjpv/5QlLvjsWqa7vuPw263r6q6bbu27aqqruqmadq6brvu1+3tkWYbptd/H0Xw8vKzKIr7/X46nQZBsFjomqaxLCvwPMdxlmWNx2OEUFHumKe9txAlojgbDoeOs7RtR5ZlVdMGg4HA8x9HLMQpIQQhdDgc8mzLPDl/gzExFjqM4yAAq1XoeW6SJMpcwQgW2593v0+n059/7k7LlGUePX5h2AAneYwoJjnEGSbrGNGUFhBnEKUgiEEIfbDyAbySJ8yDs2eq4Uuqs7C+zmTTdIJrxTIdcK1YuuFJc9uwgTS3LfeGE/UvypJ5eHZ+cTHheEnXDVU3BWHm+eHo0ygIItte+uBG1XTDcjmOnwoyP5P+AspLVLSERDryAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/009.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/009.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 9
     },
     {
       "content": "J'ai mis \"Demain soir\",\nmais je voulais la voir ce soir\nparce que j'étais mort de faim.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYpJREFUeJw9yrFu2lAUgGE/H4O7NK67caVECogNFBcH5ESw+AVoGFhsFiR3SUsxAwMIRUSQDEhmcFWsUlG7GWy4vr4HgfCpBFK/8dcvvL/4IIrvbm8rqqpKkpQkST6fr9fr2WxWlmVCiKJ8urlRZPmj+8N7msyEb93ebPbiOE6/33ccBxELhYJhGKvVajqdDofDxWJh27bneYwlf/w3Yb8/AECapoh4OBy2220YhgCAiOPx2Pf94/GIiL1eL5fLWdYX4fHx63Xu2jTNNE11Xa9Wq4PBQFXVRqPRarU0TSuVSkEQjEajcrlcLBYFSZIIIZVKBQA0Tbu6usxkMoZhKIpCCBFF0TRNRGSM1Wq19XotdLvfFUWx7X6app1OR1XVdrt9d3//+eHBsixd1+fzOSL6vt9sNimlAudAKd2dcM7jOEbEOI53u93+BAD4CQCEYST8XP6Kog2L2f/KGAOA5OQcOedJkkRh5Hm/hcnzi+suff9vFG0opSxm5/WMMUYpjaJNELy57nLy/PoPhD1JqPcM+4MAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/011.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/011.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 11
     },
     {
       "content": "J'ai remis: \",ce soir\", mais je me suis dit\nqu'il fallait faire genre j'étais occupé.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJxNi09IU3EAx3+HOghdPHYQLx2CLsGoczt58s9BFyMRbTo1naiYEcQIqqnPPX3O/XFv6MLlY7P156SXQjA0CDy5SUnBsI09tz1M5f3+7/2iFBE+fPnwhQ+QJL+7p3dkeGRxMW6329+l309NSK2tbS5X9/jYk/6+R+WS4fNNxJdeO50P5uaC4OWLV2o0pkZjM/JsOLSwm8kqwbCsBLRk6u2Hj9K0fGT88XqfyzNKakULKgGQyewJITivUsKEEJWCnugfVxruBxrbQ053fv+XEGJ+PhyLRHb104NjBvzTcnRBfZPQhBC5vf3HN+92gGuj9bfHbtzpulI7WHcrl/mxufV1yNXVNLm89hsDm83maHN4BjyHxlFSkhsBSHunop2emGt4XVEdoCb+9NkJZuqsP7BTTGbLQNOSieWV1VQ6GIrkvv9U+0Z99hb31esPQe3kvWalpSO7sV3QS18+f/qmo538MbCqlrAEIVQvlji3GK8aeqWUL1YKh0axTAjl3CKYMcoZYZQwAE0ETYwgYbSKIEEmYcxiXPxfC0OKTIwRhSaGiCJEAUb0DATJuUPyr4QEXzyX+AuhmjTq0jq49QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/014.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 14
     },
     {
       "content": "Alors j'ai ajouté: \"J'ai\nun truc qui s'est annulé ce soir.\"\nAprès, je me suis demandé si\nc'était annulé avec deux N, annulé avec",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUhJREFUeJw9kEtrFEEUhfunyegwBB+oXfdxblVlsnBlInS66zWOoKC4ENw4IogLs9EoCIL5g1IjuLlw4Tz4ztCiPt8iKWfjDMrGl/Joooez0gIpJjXw/sxncFbKRkML2qLO4hK4Bi1eXz45u3p6/iVuX0UrQarn3aklpUVc8TxUr90NKiYzjy8uzn9/v776/PXg8IbGFLQFLiZJKYMTeKgB/Qdl0MxuErcP+Ph4/HTvQfF67JQasHRDLxl2p9YiFnXJuIAmHd9D/9w5+XF78zpgBrWA/dYfDVyODGgBxUuLlnWcQO+Yf60231brvekkVIPuoh17NIOG6ru6GFePrG6OelC9ubX+uVrvPBZQ9fJfU0yHFpE6MRcvSV2OeAs9bE4+3L1fTLJJ9dJh+u30Qw26CP1jSnB9AC8X7J7R2Ncz6UGQDF7UZdBfbP2oqU7mDvEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/016.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 16
     },
     {
       "content": "un seul N, annulé avec deux N et deux L,\nou annulé avec un seul N et un seul L.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABcUlEQVR4nD1RTUsCURSdn6X+gr42WssIaVFaSMuC/kDQUqhAaJdSQV8oaItoNHASLFASxfGN6Lz7Pmbe5NdoCUU8B4OzuXDPOffco6jZTKmgflQqSG93O8CpmH7/cuYYrS4lNmBudoiht2uVymtBzWfTSlkrtpoIgDMqLLtfb6Cjo2OfLxCJ7IzcKRCbMYdRAcBbTVTWigrSDUoFZQ4Qu9cf5x6fYrG9fKG4vr5xf5cejr4xWIQKuUMF0g0FTEaZ4wGI/dlzS6X3/YPDhcUl9fml13OB2pQ5HgdjrhAiZwnpaw0Gk9OzxNLySjC4ur0Vsaz+v5ykgaVgzD07MoMtBrVaMxzeTCTOo9HdVOpaJgHLOxubbJ7BI8yVGvVWMnnp9wfi8ZOvyQ8G7snJDGWtiJoIg/RhM9ORO71IXoVCa7c3D0IMKHUYE3j2pTdNU/K59KvsoWrobbNDCHBCbELF2J2Ohl8YM7NLkOyhWiqo+VzmD8/fYyH1ibPtAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/020.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 20
     },
     {
       "content": "Alors j'ai mis: \"J'ai un truc\nqui est tombé à l'eau ce soir.\"\nKheiron m'a envoyé un texto.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwt0ctqE1EAgOF5EjeC4MI3cOM2oqCrgA2axLpzoW1TE+PG4g0v4A2qZiNSzK6rFJsScRTNpZ0ZTW2Sse2cM5mZnPs5M8m0wSpUin2E//+0hl6zmnW703WhNxhQhBmjEaEKU0GoRIgFAwKB96vbs5r1hl7T1g0DOC7GnDJJmZRiJyCIMClETKhQYcx4yEXk+Rg67rplaBD0KVeR2mtsLr2oJ8tmce7jycdfzvyEq3//7L96XTLM9rd6q1L5MIp/A8fVCJWuFzy4+3Tm0cTU8pHF9n0LfMotHyubtxbeLk6kUvPzb3K5G/l8EWFOiNBUGDdX16avFfNPLuWWjjsDO1b7Dz8n3n+fvZK9enlyMpE4nc5kU6mLuv41Gu5qUbRTXamdO5u8+SxbWDlh+z84Gz1vnS+8S1xIZq5PTd+eu5NOZ/OFInQDSuVhA9giFaM0Uz3a8ywlxvf0Uy/1DPIjz0dSDXv29uYW5HIIQV9rG2vAgaEab6NOtVPyscf5SLfLJqyFasxFxLhSYcx5eHDJNLT/Dr2NDc9FgowJkYSIUOxJvosxR5gHAXFB3+50rdaBwz8Z5k0MbPPihAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/023.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/023.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 23
     },
     {
       "content": "J'ai un plan, on va draguer\ndes meufs aux alcooliques anonymes.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJxNkc9r01AAgN9f40UQtRdRnOhBD04Y4o+LDI+i1x0FYYgyme6g6HCiLa3baLpWmkUpnc1WSdO4JW2z/nCKTdImec17L81LW2OrjooIInz374MPFPisXBQ+1eqG1jJNCC0HWghhiokPTQfayLI6etPYqzcUSRT5LKiWSw5EhFBMqEcHNBgF47HCsXvydjAe+8HI8/q9wRChrq4ZqrIDigUpwbxR1XqlUsvm8hvhFXn+ycyZ07NTUx/nHm9G44K0k06xn79obrenNw0gituLz5Yi4dgak2Iz7++eu3ALgDuHT9w+cPQGALNnz8fXM+s50WxD7PoQYrC1KayuJhgmFY0sJ9Lcw0vTc6FTzy9eezp59d7BY/cnr8SY1FcTUa+PsNdxXCDLFZZ9x3GZaGQ5Fk8uXJ5eOHLywaHj86GJR6GJpes3pZJqtmxMfEzoH4MoSG+5DM9/SCbT5d1GeSOfW3zFv4huhVf4l6+r+WI/+IGwhwlF2DO0NtgtKVbbJsSn/je32/MG33ujfX+07w9/+sNf3X7gOO7fGENrqYoMCrmsLAqNak1vGpbZsW1k2wj+h205ht769+E33I5Jtx14yo0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/026.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 26
     },
     {
       "content": "J'ai pas répondu.\nJe suis retourné à mon texto.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDEvLnRy8nZ1tfi4eTk5urr9vrXxLtqUEqyra7x/P/m7e/n6e3Z2NvSz9DHwsCspaMA0czLzszO39/j3dfc4crQ3b7LyZFzNy0enW1dx3qGtF5srmt2paSosK+zgHx+cm9xAL69wKakqJOYmpBrcpEYKIUHGYsaI1gzOHomMHsCDW0ABHQaIrq3u8TDx77P29TW2gDBwMTEwsbIzM6mjZJkAAdtBRGHNECVPkuLNUJ5HChwBhR1FSKPio2Yl5m30eDf5esAf36Bs7K1rK+ytKKodBIfkT9KlEdSnVljmlFckkNPjTtHehsosqartLa5ysjL6+vvALu7vsfGyqGjpqieoog1QKNiapZJVJVGUpE/SphIU5xOWY0vO6WQlZibncrJzerq7gCWlJalpKefoKOemJuEIi+WOEScR1KFGyd9Eh2SN0OPMj2AGCbIqrL2/P/t7fHe3N8AmZeYmJebwMDEtrO4nFNfjz5Km1dhnlxnpm53s4aOupSbwaGp4dvg6evv4N7h0c3MAImDg4uGhsG+v9TS1eLg5OHh5ebo7Ovx9O72+u72+e309+rv8uHg49fT1M7IxsS8uc71BbovzDLrAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/027.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/027.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 27
     },
     {
       "content": "En y réfléchissant, je me Je me suis dit\nque \"Hey,\" c'était un peu pourri.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBTT09qZ2ivq61pZ2mqp6ppEx9xAA53EBx9HCiCIy+HKzmAIS16GiZuDhpkBRBhBQ8AqKWlvby/2dndtbW33tzgfiQxfBIfk0JOk0NOkz9Kn1VekTxHlURPkT9LehsnZwcSAKmnqcXEyaKipYyMj7i1uXwgLIcqN55ZZJhLVplMV5VET5hKVJVFUZVFUpFBTWoBDwCBf4OIh4qHhYiHhoqjoaSCLzmaOUWfTFagS1WhTViRMz+WPkmYQk2XP0uYQkyIKDMAz87S0M/U5eXquLi8s7G1mztHnDRArVhhplJckig0ewMQjCQwpVZgnENOnUhShhonAGtqbGloa6uqrsXFybSzt7FyfJRDT5VFUJRGUZJDTpFAS48+SpFFUZFEUJBDT4o8RwDCwcPFxcnY2d3l5enp6u7w8/js7PHr6+/r6vDs7PLt7vLs7fLq6/Dq6/Dq6/Df3uEA1tLS6efq7e3y7u/07u/07e7z7u3z7e3z7e3z7e3z7u3z7e3x7O3x6urv4+Hj0czLAMS8uM3HxdjV1uDf4uXk5+bl6eXl6ubm6+bl6+Xl6uXl6ePi5t/d4NjU1c3HxcS8uW7n/JDVIpAlAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/028.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 28
     },
     {
       "content": "J'ai cherché autre chose.\nCoucou, pourri.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX9JREFUeJxFkMtKAmEUxw9+o/gU9gQS0hOIXQZBrGW1l16gaCFEi1ZSQZiNOtaYjtOoXQzMtPGKl6AJaqF0oVwo9KmjI+UDxDiRZ/3/nf/5HdCMByEEAA7H2heWcKff7cm405ekYbuNl1dWAYAgCDUJGo2GILQAYLPZ+4PvLyzJw59WG3d78mez1ZOG8nBkmZ37Z0DdrdfrBSF/dhbf3t7x+U9y+ZL4+EzTjNtNpTM5p3MLQEkqAEEQAGAyzbRaOF8o36YFmmYEoZDO5EqlaiKRjMWvorFLg2FKZUCn0wHA/AKJsXTo8Xk83lCY29078Bz5r69TiUSyWKpQlH8CaLWKgNE4PZBHDBMOhbjavcgE2ZvU3fHxKcvykUg0EAhOAFUFIVStPdQbrzx/XixWQmEuzPLBIEtRNB+92FjfnDgghNQSkrRyXJzjYkK24PUGXK79fKGczRb7A5kkrQDKLX+A0jBWN5st1drDy+uHKD7V7sV64+3tvWlfXFJ/qjb8Ajoxt9UR9LJOAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/030.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/030.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 30
     },
     {
       "content": "Salut, pourri.\nJ'ai essayé d'autres trucs.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZJJREFUeJwlkcFPE0EYxfcvNE0EPeHJAteKSmvYGntwt92dIiEQIB6MJw/Gi7GJB6IG6Xa37XRmd3ZLosYEOADdmW++ziJXs5D88k7vd3nPyvuVPFhQ4SMYrSJ9gqyOsY28iXETua1ZQ9MajFZkuJQH92fH9yw5eKjGK5rVMWnNhVtknkmJyUiZJR4KR8ctoOtyuJwHi5aKqprZmLoYe5j4wEmRkuspuT4hJtvUojsXHoqOTlxgG2r42FL0GQonH22d/uz9/fb+z+Cj5B+AvzX04GKydfR152bqo/C06EDiqPGapegLkznnR3u/wuB3r3cZ/biKD6/YJxl9Pgv3D7/s3Zz4KPxboa1o3VL0KQoXqH9+/O4i2IUJ0byLfLNIujP+hn3f/pd5KNqlEDtyvGbJqArMRuGa1DFZu5j6RUbuMKlvMoLCw8TViaMmGzKsWjJ4oKJloOvAWzp2UHTmwrvjttrWyWvNXyn6XEXVcqVZvyIHiyoqfwBaA9bQ3Nb8peZN4DawBtCaGq7KcEkGC7N+5T/kF0M9ClMmggAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/032.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 32
     },
     {
       "content": "Yo. Salutations. Hi. Biiitch. Trop de swag.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAKCwq5t7jq3uGpqalNTUyBe24sKykAAAAEBAQAAABTUlLOzs77/PzopYzihmLjjWwANDQ0DAwMPT8/DQ0OLy8t+OnIXFpWAAABQkJCAwMDAAAAMjEx9vr87MCv4H5Z4oNfABoaGgAAAAEBAQUFBQMDAw4PEJ6fn7m5udjY2FtbWy8vL6ioqP////37+u/Iuey1oAB0dHRCQkIAAAAEBAQCAgJSUlHU1NSgm5uNiYj39/c0NDSLiouamZmXl5f+///4/P4A////rKysAAAABAQEAAAAgICA1dPTIBkXIBkX1dTUgYKCAwMDAAAALS0t////lpaVAImJiQAAAAMDAwICAgAAADw8PPb29paTkq2qqdXV1UhISAAAAAQEBBQUFGJiYjAwMACxsbEVFRU3NzdPTVB2dHYgICBMTEzX19esrKyDg4IaGhplZGUHBgcHBwcCAgIBAQEAzMzMJiYl0tDS5PHh2+LaqaeqKCkoKioqFxcXKSkpWlla////en17xMTESkpKAAAAAA8QD66rr9DkzEioM269Xd3g3R0cHQAAAEBAQPPz8+3t7fLM5P/l9/z+/TU0NQAAAH/4szZ96A1FAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/034.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 34
     },
     {
       "content": "Bref, je trouvais rien.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwl0X1P2kAAgPF+gVGk12uvr9ceXK+ltJUWrZiIC7C5bGa6gNIYiIgBV9RtBCNC2P5Y9r0Xt+T5BL+Hg4BHcEdFAOtyGWuM4GrF8inxqe0S7NgGMRVDhYpUkgAPhQInwx1NES0duQT7lIQujTxn12OR54QurbGyV7Yo1rEuK3IJgiKnygK1tLrvhF6lEVbTeu34IDlOk1YaN5MoDrzIowEjjBjYQEgqcRIoZv3OZj3+dn+5+H41v+s/zrPlj+HTYvSQX+azXnbxfjjotk+6bL+rwTecoYjT27Of29vtZrJeXT/OB1nvQz69mN586Rylf35/fVqOBr32p9OOd3RuKoCzMVourn5tJ+vVePV8nc/6w+zjzejz5mXy8jzO7/r5rHd6cviunVZb56apcoos7MXu/q6bBKzZCNI4OIiDvch/e5i0mvUkdBuRF3mkxjDGJpIFDgJeAkUdiWVDpVh3X1ltnxKXYGZjRsyKqdm6rCOgwCIUeE4UCpLII+kfroGIqTqWzuzXKNZsA5mapCHw/4MoFP4C2rVW8xXi7CEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/035.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 35
     },
     {
       "content": "Alors, je me suis dit que comme c'était\nune serveuse, je pouvais\nfaire une blague là-dessus.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXNJREFUeJwlkclqFUEUhvsFTOzb1V3VNXTVqXno27kdYkBQsrg4LMxCAqIxCkEkYAIKbl3oO7jIS0ieRHwl6Rs4y3/4+E+F0UPS1axHUhCreDAqOyheF6+zBQ+DlnTgmOIGo/222atIW3PaGsmSUetg5zEeTfnRQTmaylzilFxxEECA6ClpOrRfMYqMpMmqdbSHY9qkMIUwp7yJ8bCkOfspurx4GHDc41WlOA7Ai4NN9gfRn50++3bz8cvndzdX569ebI+PH2+SG72JmtuBCIoqLXAAlh3MY/BK/vxx/e/v3d2f29vfvy7ev92enq+dHIPdGXrJ2mpgrVc0Wbmr1m9ev/z+9fL66uLTh7Pn25MnT09GB/dIZsCCNhWnLQgSgGcLU7TZ6gAyGyjOrIMdl8UWHieXeNLVFe8RJQ0I4hSPRo7BTMnd3+hNtiqAsIu66/FqN2tX716x4rRVgpiBBeBB86CFl0wv3B3rEenqttlDqwf/ASRxRYpRDAz3AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/036.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 36
     },
     {
       "content": "J'ai mis: \"Bonjour,\nun demi, s'il vous plaît.\"\nMa blague passait pas bien.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwlz8+LzGEcwPHvnyA7z+f5fJ7n8/k8z/P9zpJptxVykAurZayUkgtKjdwmBwwpF2qkLe2BJD+ydm82a4rJuKzag9TUGFE7rYOoVbg47Hk3/AXv1zsDAELjHHgHyjScx6jsEA7s33fpYmOyeqi0eZMyERoiA1DKrDVoh4K4PEg5BXE4si0/Xz87OzP9cuHUzeblxoWaQ6PihBFMKSOEIK6IWiRlsseOTvS6z36uLn3utxZf1zrtR51XD4cLyZOmwABDGXuM6vMgeZCo9OB+c339z7cvrU+9+Y8flnrd9ovnc+WkeZSkLA6z/5ikXEQdrRQ3rtfnnt6eedy8d/fa1Svnuu9n70w3PGIRJapXTxmTDeJSYGU3Wd0zdav+dvHJj9V3v39119aWv399c3B8F1lbJA3slCkDKImzSTmPUtkaa2eODAbtlZXOYLnd77cW5qe2j26JynkQ9eQIMgCDtvQ3opyCEJixkfKJ4+OnTx7evbNSndi7Y6wijgKTQ2NMKTPGIFr21jv4d8/qyaP1aNW7KF48srOEBhGMMRvTxXP49YxvtQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/039.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/039.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 39
     },
     {
       "content": "J'ai ajouté un smiley,\nclin d'œil, ça marchait pas.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX1JREFUeJwl0MmSmkAAgGGeQErZeqVpGmgWEVAQOTh5gVQuOU6mMjoqYHBLJuaQl5+ypuo//4dPsXQVmGMMdYdC3yGRYLHPp4GYBiL2uOS2YIhhC1mapauGNlKAMabIEAxJbieBmEVBnoR5LPNYZlEwlV4kHMkppxABzdRVBQPds1Hi8zKbVnlaF7NmUazral2XTVnU82w+S1LpSQdzAqA1UTixfIbmafT3dv59uXRtu/3xfPl1PHXt9uX5sPnZ7TZPTeUz5DNkI10R1AoYKqbh//v7MAzb/eH9PJz67rB5vRz763Dsd9vEdwOH+DZk2FAcbHo2zOJgaPf//lzvt/Opb++3a79/Ox+7fv+2e335/u3rIo1cYtrIUBDQXApCly6LtKnm61X1panXq+qpWTZlsVrkyzwtszh0CcMGNCeKqasIaA4BgkLpkNBlkeCxxyOPf/r4DHP8eCNr8mA1tJGpq9B84HIKPUYkp6H7KHCIoNDBFoE6MMeGNjK00QdcZlCowV2+kAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/041.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/041.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 41
     },
     {
       "content": "Un smiley qui tire la langue,\nça marchait pas.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYdJREFUeJwV0dtumzAAAFC+gCzFxmB8wRgMuGSQUEKXqNtep02Tur1MWlqaNJemhEYpqzT166t+wXk4hg0GLhwSFwjqRj5NJddRkCmZqUCHIhZMco95CCMLgQG0TMOBHyiGknuxYJmSearG50mh40LHeaoyJVPpK0EFdbFj2WBgEAdIhs8jcZFnVT6aleNZmV/V1ee6+lQWl2U+GWkdiohjQZGLzgxBUMRxoeP+qXvu2vVd09w2p3Z/fNxv75rVzd/Nsrn+8U2HLGQOw8AIKFI+zlP1cjr23aFZLJb3m75rVzeL06F93Ny3u82f39eFDiVF3IMG9+yIu6NEPqyXry/9//503O/+HZ8Ou233sGu369Xt4tfP7+XHRBD7XcCOFVAUC1IV2Xw6mU/LL7P6qq6+zi9n1aSe5NNiNB1naUg5Bq49NBAYeI7lU0cyrDhJJE9DoSORhn4q/ThgEce+BxkGGJ3ZlmlAy3yvsIcUQ8Gc0PdiQZOAxgFRgkiGOUHEBQ4cQsuElvkGrZNRFAVSKdEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/042.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 42
     },
     {
       "content": "Il était hors de questions que je mette \"lol\".",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxj4Obk1NHWNDc3lRQTERUS8HRzcXNxFBHkU1GQkxIXERMRVFNR1NPVNjLUl5ORZmVhZRAW4LOxtnSwtxEV5DPS02qsrSovylOVl7IxM4wM9g8P8ldVkA0NCnB2tJeRkuBkZ2dQVpTz8XIP8PEw0FS1MNQJ8HQJ9vUI9nEP8HRxtDJ1tbMM9fcqyskM8vMWEeTj4+ZksLGyyM/OtDY1CPR22755Q156srmehr2pQU1pYU5akoaidF1F6bpVK3w9nAW4OQR4uRlkpSWMdDXV5KUCvFy3b9k0Z/rU3NTEmrKSppoqPVV5P3en5YsX9na26qkrS4oIgDTYWltqqiiqK8okRIb6ujtZGmoHeLvV5GfMm9wXFuCTGB12/MjB+KgwGTFBCREBfh4uBmMjA3kZKTFB3vBAvyn9vRHeLsoOHtIJVXpuvknRYbnpKT3tzf5ebgI8HEL8PDxcHAyqKkqcbKzamuoWpoYujrZmhroZacm6rr7C9n7KCrI6aopyUmISokL8PFy83JycHOwMUpKSnOzs+no6bm4uwoJ8IkICgX7etia6knzsetoaNlbmEmLCPJzsPFycHOzs7OysAB7SYt2cYC+/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/044.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/044.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 44
     },
     {
       "content": "Après, je me suis rendu compte que c'était\nparce que ma blague était pas marrante.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gApKCVNTU1FRURNTEtUUE5WVFJqZ2VxbWtiX1xNS0cwLiolIyBaWVdMTExMTU0hHx0ADAoIQkFANjQxIRwZMCwpKSAaQjgzODIuKSIeUUxIPTg0GhURLikmIR4bFxYSEhANADs5NzUxLhsWEWplYj8xKiZDTChOWjoqInp1c355dlFKRioiHSIcF0RAPRkWEg4MCABlY2J3c3EeFhGgnZxVQjkkXXImcIw8JBqxsbCFgHxtZ2OalZKNiIZ5dHIgGxc8OzcAXVtXaWViHBUPeXVzTzwyIFpwRpGwhXBourm5S0M/bGZir6yqwL69q6elIRsWWlZTADc1MmFdWicgG3dycEw9NiNEUDtneLKmoJuZlzIpJGtlYpyYlYWAfHBqZx4YFDEvKwAKBwQaFxMfGRUgGhUqIx5ANjAzKSItJiA9NjEzKyYoIBsuJyInIRwdFxMSDwoKCAYAGRgWQ0JARUE/HhkWLSgkbGhlKSQfIhwXbGdjVE9LFRALUEtIamdkODYzFxYTHx0cAEdHR0xMS0tLSU5NTFdVU2xqZz87OB4YFVtXVHd0cR4cFzs5N0RDQSopJ0tMS1BQUKOzdMRVSyGuAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/045.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/045.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 45
     },
     {
       "content": "Je l'ai enlevée.\nJ'ai remis: \"Hey,\". Kheiron m'a envoyé:",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJxFkU9LwnAYx/cuomtvITr4Brp2695dgiDxpqc0otTlJkqbui2XCmVoln9AzWlzJP6Zm24/2+Z+amCCnbyHCgnP6eHh+fL5fJEAaqUJWyrhKGbdtZLnk7tt81hH8IsNHKYz3TeCK18Xs5fPSSdN2AKoFWEj9nzGJVRRqRkCIqnJYV2mtX5cV5I/Stns3IMeITVDQhXNZ1xs1I7k0hctHgMiORpQpkKZIDbVg3PjdG6cjfWgObw3FcoYRIFItng8l3YhHxUvEImRQkGVhoCBUvi3c7iU95a9vUXnaNynIaChSo8UCogkX/EizZpfk8Kra4UyNdbkribo/gS3TDDLFDsYt3A4jMH1O02ONOt+5KPi2yaoFASx7/fj2ePO7Gl3Wj+BXw/r/X+Cb8tgbBi+aKjHoYyvBrBQZUx1xTDskW0ez6cvEDa6taT27r6F1KLLGYAxBozRj2hSGIjkxlJhY2nVw915KuEsvri50k27EFJema4Q6AqBdgP/rN3WSp5i1p1KODY9/AG+7TVz2xivvgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/047.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 47
     },
     {
       "content": "Pourquoi tu réponds pas ?\nJe n'ai pas répondu.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCloKKyra6/ubvOyMnZ0tPf1tfj29zm29np3+Dj2tvf1tfYz9HOx8nAuruyra6moKIAt7Gzz8fJ59/g7eTl8urq+Pf2/v/+zKmQ0Ly1////+vj4+PLy7+bn6eHi0crLt7GyAMvExa6oqbWsrczO0Lu/x7R6gb+Dh1k8Ln1PSMWGjrSFi7y2t8nExbCqq763uNLLzQDZ0dK4srOgmpqlpaebjpNjBBBtER59QUp7MzxkAA1mFyKSjI6xrK7GwMHe1tff19gA5Nzdq6WmtrGytrO0pZGTfTM9fzZAhDtEgzxFfDA7fTtEqaGjsa2u7efn+vP04NnaAOPb3b+4ub65urm3uKGNkH8wOotDTHUgK4M3QI5FTXgzO7uztLy4uN3X1/Ps7dvU1QDOx8mtpqi6s7S1sLGelJalgYa0kJWyi5Czj5S0kJW4mJzy6+v68/Tz6+vk3N3MxscAuLKzyMHC29PU5Nzd7OXm+PX1+/n4/fv7/Pr6+/n5+vf38enq6eHi3tfYzcbIuLKzAKagorSusMK8vdHKy9rT1N/W1+Pa2+Xc3eXd3ePa29/W19nS08/JysK8vbOtrqahoqR4M0/mzlqbAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/049.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 49
     },
     {
       "content": "Je suis revenu à mon texto.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZBJREFUeJwVxOlSogAAAGDe/xnahvBIQ+5TjhCQQElKzIAAJcUBd6FEzKP+7DTzzQe0QIhEMKUvOuYocGdLz1+HURrFm3ixegsXnu89Tx3TGggiiaDtmwbAEaRjjrJlUm42u3x73O3OdX35Op739c/xeK72x131meX5++p5bLMEBYyHBtrp0j3Eth159KRLkjU0hgPV1HRVlNzHiSbLlq4TcO+e5117AvhTlyepm6sr6BrEcVqkWbQLd5tt/V5hcYIjKejPNdq5e1C1+NVbej6QRjHcavMkxWA4AfcEhhVoBuvCfZoxBqoqyQxOYHdwmeWX+pAEb8A6jBS+rwgiT9K3UKMFQp1GUxFEoocIDMvguNIXJJaLPb8uyvBlDjjmCLntCDRDIWi30bQNsyqKS12fqur78HWqqlO1P+/r/b8ijeJHwwQ4krJUPZzN0yj+u17XRXkoP359/F4X5We+3b6vFq/e5MHkSApogRCF4pokT8d2+DJP/CCN4myZZEmyiReJHwTu7Mkaa5JMIlgLhP4DUglVwbuo2mUAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/051.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 51
     },
     {
       "content": "Je me suis dit que \"un truc\",\nça faisait trop faux.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY1JREFUeJwtxNlymlAAAFD+/xM6qdGAVpDlwgUimwsuoCamKsgiV4kpE6gYQNI8d6bTmTMHw5sES3NaX7Nni+3Lznf9KIhQiI6H48E/eI63WW/sma0pOtvj8CaBCQAu5osYxck5yZK0uJZ1WX/Vf/79dSuq8lq+/3p/Pb6u7JUAIDabzMgOyVGMtVwr1nqk6lNzOjZGk5Gpq/rz8slQjcloQpN0X+o/LZ+x7csWAvj9212j0aI5URYkqku18fZQHwocDwG8v2tQP0hzON7v9r7rYyhEHbwDAQQsYKmeDGUZSj2SkgRxPBgbqs6zfK9LpUlaF3XohVgURIqsqH1V5CHewlv3LeKB0BSNoRgJSoAFWl99lB4918uz3N26mD1fdNtdURDZHtN+IOaTeZ5d6rKuPqrP6rP6qG5FdStul/SCQjSfWhjkRXNoOhsHhegtfsuz6/X3f3mW51meJun5dPYcz5raEIgY3iQAwxvaYGWvnI0T7AMUohjFp+iEQhTsg93P3dJaGtqAowHeJP4CwZRRiYZpCFAAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/052.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 52
     },
     {
       "content": "J'ai mis: Un ciné.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUpJREFUeJw9UNuOgjAQ5bt88LZZrHJvO63Q0hZEiSIU0d3EbPbfN6DZZDI5ycycyzjeYkbRCtA6j5DBO5N45yw5QnhiUadIgb0KfBUjtl3jz8V2PnPoZiUCt+bhJY2vAltFe0Wtgl5Dr6DLoZXknMY1D0Xgks3SkeGmxL5V9CpIK8fVV3+BXrNWjqNO0RL7ebRxKgiuAg8F6zXrNQwFtwruBR8KfjPsptmkxm6GNRk+gu8cIRwK1kp41tnjsP+9yk7S7yp9HPZfVfqsxaPc/5yFHe3RAw3eCr1mTUYGw+8lH/k0v5kRPMr9qGPYULAmSyoInDx6Z2glaSV5mf7PYBVrBWkEsYoeyJQB0EqG7mn6Uitxl1Ob0346mGokuqTJiYcycClaOd5iBmjJ0FrFyCQ7E3uNSE4srHlkNSmwX4Gv4y3ffmB3sZvP/gAhd5liqLWBogAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/054.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 54
     },
     {
       "content": "Mais elle risquait de vouloir\naller au cinéma avec moi\net j'avais pas les moyens.\nJ'ai mis: Une expo.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUpJREFUeJw9UNuOgjAQ5bt88LZZrHJvO63Q0hZEiSIU0d3EbPbfN6DZZDI5ycycyzjeYkbRCtA6j5DBO5N45yw5QnhiUadIgb0KfBUjtl3jz8V2PnPoZiUCt+bhJY2vAltFe0Wtgl5Dr6DLoZXknMY1D0Xgks3SkeGmxL5V9CpIK8fVV3+BXrNWjqNO0RL7ebRxKgiuAg8F6zXrNQwFtwruBR8KfjPsptmkxm6GNRk+gu8cIRwK1kp41tnjsP+9yk7S7yp9HPZfVfqsxaPc/5yFHe3RAw3eCr1mTUYGw+8lH/k0v5kRPMr9qGPYULAmSyoInDx6Z2glaSV5mf7PYBVrBWkEsYoeyJQB0EqG7mn6Uitxl1Ob0346mGokuqTJiYcycClaOd5iBmjJ0FrFyCQ7E3uNSE4srHlkNSmwX4Gv4y3ffmB3sZvP/gAhd5liqLWBogAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/054.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 54
     },
     {
       "content": "Mais elle risquait de me demander quelle\nexpo et j'en connaissais aucune.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4IUmBJVGLKFaUKVubLGCfLWKiLmSjLmWjLWSiLWSfLWKaK1+UKVuLJ1eAJFB4IkoAhCVSkCRXnCZdpC5lpy5mqTFpqTNqqDJpqTNqqTNqqTJpqy9mpC5mnithkipbgiJQAI8iVatGdbRQf6gyaq5Edqk2baYvaKk2bKcyaakxaKI2bZdAd6swaKg0a58nX5c2ZACcK2DMianCdJnQl7PMi6m5XorJg6XPlLDOkq/Zm7SdVodlV5DHZIzQnLfDdprBjqgArEt4xn2gr0R2y4iow3WatVSC0JSxwnOYxXqeyn+hoEV5gEV+wFuG1KO8y4mpwYOhAJ8zZa09crBIerpgi6k3bbRRgKk1bLNNfao4br1nkLJKe605bqo6cLFIeao2bJolWwC4jqTJl7DYqsDaq8HarcLcsca0UoHcs8fEeZzFeJzPk6/YqsDZq8HVo7vDgqKaPGgAkEVqmj5pqkx4uGCKt1eDvWONrj5zvmeQs0x9rDpvskl7u2GLuF+Jsl+GpVp+kEVpAH0uVIYzW59ef6ZZfqhPeq1TfrdljKo/cao/crNahatLeadLd51AbYomVY5FaIE4W3GF1haHBcw5AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/058.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/058.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 58
     },
     {
       "content": "J'ai mis resto.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4IkqBJFCLKVeVKlubLF+fL2KiMGSjMGWjMGWiMGSfLmObLV+VLFyMKVeCJVF5IksAgiFPkCVXmyJcpippqStrqixrqSxrqi1tqi1sqSxrqSxrqStroiZimyNbkCJWgBtLAJk+aatDdrlrh6NXXaVbYaVaZKVaYqheY6VbY6ZbZaZbYqRaYLNlfblnia1TeqVafgDTu8nizdXL3aXAzZnCzaK5y4K9zYy6xJu+zJO1yHvG06PK1qnJ3aK5ionVo73XydEA3cPW4/DTydKf6+jy1dLb6u7V6OjgioWV2djV7PDUysbOyMTP5OzKmjVQ2aXDwoijAM+zw+LF1Mziqr3Pi9Dgra3Eb7XKfc3dqbvPh6nCaMXXnsLSma/OcqKLXNSlu9XAzACZO2erQnXBfJakYmCkY2GoZmimZWSkZGGlZGSnZmimZmSlZWKoaGeiWl3OrrjAobMAgyFQkSVXmiBapidoqSlqqSpqqitrqitsqStrqSpqqSlrqSlqpilomxxdrGqLl1R0AHgiSoElUIwqV5QrXJwuYKAvYqIwZKQwZaQwZaIwZJ8vYpstYJUrW4spVn8gTXceR9VX4v7ReXvQAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/060.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 60
     },
     {
       "content": "J'ai ajouté avec des potes\npour lui montrer que j'avais une vie.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB1IUiBJFGNJ1mRKluYLF6dLWCiLmajL2egLmOfLmKdLGGcK2GVKl+JJ1Z+JE12IUgAgCJOlSpdoDBloi9lpDBnpjJoqzRsqzZtqDJppS5mpjBnqTRrqS9nnSxhjyhZgSRQAJg2Zak2bKw0bKs2bqg0bagzbLE9c7A6cKs2bq9Feao7crE3bptBeKM0bKQvZpMoXAC6epu7YIvLg6TTnLbAb5a/apPYpb3UmbTRlrLUnrnPmLTMbJJoWZObT4LNgaLCkKoAt2yQtFGAz5GvxXqduVyIt1iFw3acxXqfxnyfxXqdyISlxGePgUaAn0J2yn+gyZqyAJswYrNOfqk2brJNfKw8cLxkjrJLfak3bqw7cao3bKk2baYvaa47ca0+cqs9caE4aQC4kabPpry1UYDarsTEep3Cc5jQlLHarMPYqb/ZrMHPk6+vRXnDd53OlLDQqL2cRW4AkERqqVd/pzttuWOMskx8rDpwtEt8vmSOvWONvmaQwGyTtlaDrkZ2r1qDolR6hixXAIQ/YZFCaJ9Xepo5aKE7bK9Ygq5OfLBRfq5LeqIuZK9XgaZJdp5DbppRdYk7YYQ+YPQA1aEafA3lAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/061.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/061.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 61
     },
     {
       "content": "Mais je me suis rendu compte\nqu'elle pouvait comprendre\nque je l'invitais au resto.\nAlors j'ai ajouté: J'ai déjà mangé.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB1IEiCJFKNKFqRKVqYLF6cLmGiL2ekMGmgL2SeLmGcLWGcLGOVKmCIJlV9I051IUgAgCRRlShdnSpioC1koy1lpC1lqjJrqzNtpi5mpC1mpi5mqDBopjJqmy5hjylZgSRRAJMoXK5AdLlTgrFEeLBFe7RKfrhLfLhNfrZQgrJLf7FFerlRgLI/dKozbKIvaJQqXgCbKWC2UoLOiKm9ZJC/Z5PCdp26bpfGbpbHe6DDdJzDcprLgKPBY46qMmunMmudLWQAmypfs0t+xXedwW+Wwm2Uu2qSr2GQxXCYvmiRwW+WvGONxHSby4eptlSCqDJonS1hAJcpXLFHe75mksN1mr5pj7xjjMFqlcJym7ldiMBskb5nj7tij71hkLxkjqY1aJgsXgCMJVeuRni/aZK2VoO7Y423WIW8YIy7XIq7YYy5W4etPXGoLmipMGujKWKfLGKPKVkAhSVUnixipi1lpS5opi1pqC9qrTVsrzhuqTBrpy5qqjJtrjtxrTlvojFokypehiZVAHojTIsoV5kuYJgsYJwtZKIwZ6k2bKs3bqUyaqMwaaEvZ6UxZ6IuZI8oWoEkUXojTPmZxSSnTiNSAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/062.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/062.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 62
     },
     {
       "content": "Ça commençait à me saouler.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYdJREFUeJw1kVtvmzAARvn/f2B97aYonaxAMhhmBEpZlyBlqlTCzZmWC4EQbFOTLGAamrKplfbpvJ238wkAiN90Y/bzIQwXcZzmOaWUPbEDY0dCn/Kcrjdbzw8dZwY1HQBRMG/vZrMHP4iyPc4xwYSwsmRlSQgpywOhxeHwpyyP2+3OdX3DtIQgRI+ud/3x02QytW1bluXx2IAQ3tx8Nk2z3+/btt11f2ve5Ji6biCk6X613gAARFGUZRlCKCuKqqqKohiGMRyOer1e4PtVVdW82cSJgEmxTZLpdDoYiN/v761bU9Ogruu2bUOojUZfJEkyTZMQcm7bLMPCLsvR4teHq6uvqjqUpIEC/RChKHIcJ0mS5XKJEOq6rm3bqq7jOBXmXrhax5Z1FwTBAqHHaPFyeX29XLque/k/zvmp4hgXrusLhmF5XkgLdqr4+dy+64Y3bzTNc13z06li5TFJM3cevFUCQISaPvnhzL3w93KTJHuMC1owWjBMit0uX61i34/efxgDIP4D2j9o5t+/zOMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/066.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/066.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 66
     },
     {
       "content": "Je me suis dit que je m'étais promis\nde ne plus mentir à une fille.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxNztFLGnEAwPEfyqV4e9N8F/8AuRMUYWH5qL35puej+KCiIYgvahjdRrc97BdW+xfKZDObtrPVWddsrKvTmi5sXjPWHEFSpNGMX1AvfZ6+j1+QWf6w9nl9m6/8PD7ZEw7KW3x5i8/l8plMdnOzXK8f/2qdVms/dr5+KxTZxaUsWP20Vtn93ulcCILIvHlrtVpnGGZ0bMzpdKamphiGWVnJd7tXv9t/xOoRW9oAr17PxONJhFA6nfb5fEajMRAI+P1+r9ebSqWi0WgsFms0Gv8Hg/O//w7EQ5DPF9jS+uB+YLFYzGZzMBiMRCI2m81ut4+MvAyFQgRBmEymXr930+tLUht0OhcIIY7jNMPDLrc7kUgYDAadTqfX6wmCSCaTHo9HrVZzXBkhdHZ2DprNFkJomqZx/IVSqcQwTKVSgUc4jg89kslkNE0jhJonEtgTxP7tHYSzCoVCq9VSFAUhJEkjSZIQQoryaDQaDMPeQdi/vRP2RcCWvlRrR63T9vzCe5ebcjgcvmcc4+Mul3tubkGS2rXDeqHIgsWlbKHIbvOVy+51ODwBAJDL5U9LTxEOT1x2r/md3Y+51Xhi8gG7qOPC7X9RRQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/067.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 67
     },
     {
       "content": "Je n'avais qu'à dire la vérité.\nJ'ai pas dit la vérité.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWJJREFUeJxtkMlKw0AAhufBqiCNS5roLJnatEmzzGQm2qxKFRes9eJJUHFHqYcq7nE9+waefR2RgqAI3/H74OcHQ+NTwxU8ok9rNb+MbepFmiWqIqEi1Z2wJrOxaRc2hYIbQxWjNAFBaQKPGnaj3XbXV921VWd5xW4vQS/CPCFBCv0YsVh3QrXOFGKXVAIUbCE2u/ne3/0oDj/fOsVptr9FZWaIb6jMSJCSIEU81pti1LCBavp0Jgs2un6nM3+yzbrrZr44sP+AeaLWOVAbHHoR8iLkx1PNFvITxFP8XwBZVGkEgGVLcqEDWURlTsN8MIb8VqnMoR+J9hqfWwY7R72D3oVS86nMjSA1RDoIfhoSpFTmisn2zvq7x+fg8qa4eXhRqg70WojFg3N+wDxBLIZeS6m6V/fP13dP4Pa+KJ5eNdMrE0s1uWYJ3QknnZlJJ9SasmILtc7KxNJqbvH4cvvw+AXVxK3RCJzoggAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/068.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 68
     },
     {
       "content": "En retapant mon texto, je me suis\nrendu compte que j'avais utilisé\nune phrase interro négative\nau conditionnel avec \"tu voudrais pas\".",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAQVJREFUeJxdkVFrwyAUhf1ZHbSFwoRVTTO9DppGszZezQImdnvdnx/WsIXB9yByLueec8nmWWyPcKjPVNtjc+Mtii5U3YfoBmE8b/HlfKPaHupmy9SGVmTHNQXDWne6jrKPyk0K5wLgrNz02sfT+8hapGD2XBMKRtgg+wg4g0+ACXzSD2CF7GNlBwqGsKbPap9k+FQrhfJJlnd4gHmGXRwRxis3gU88fqvhq0h/yW7hrsM9/7tJGE/YZXH4RxYVVltlhyWDi2X7P/V6HpN0sbIhZ9gvLWFpSboppy8VZSbZx/o68haptnv+RjZUbBkc6ibf4XxjBqtuKAgbeIvHZrnDjsETFT83T5rGVgT2bwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/072.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/072.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 72
     },
     {
       "content": "Au télémarketing, j'ai appris qu'utiliser\nune phrase interrogative au présent\naugmentait mes chances de 125%.\nJ'ai mis: \"Tu veux ?\"",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZJJREFUeJwl0WtvmlAAxnE+lktslmXHTi5Oy0FuPXRF4AhlrAjLslpdpKWKqMilItrWZss+6OL65nn//H/EO8DUSfZ9iwfseVO4JCWNQphRMK1g6tygZO2TcAkg+tAW6yRbAwxxQnMNiFj1CuoO1L+Jlsf3B7zpiZYvWj6Hr7vYPevZpKQBiE5ojgAsaik4zKpp8eSMHx7y3TjOb2ZpkJTr/Z/bKIs2z5Ok7GKXRrgBEUFKvY5qh1kVZrv7rJpvnkfzfFY8BUkZJOU4zsO0Wm4PVzf3zIVJyRpByRpvesPZOkyrabH/ES5HcX633gZJyZuDbn8gWD5vehx2zzSHRgZBiipnXI/ifBilcfmyqF7j8hBmuzDf/Vo+TlabYZQO55l/t2irNiX3CACPH35OV9Ni7wXz8aKYrDb5y99V9XobpfH2kO5/Dxbbtu62FAyg8r8Sp7Qv+lB3Or2vHHa7fVewfMn+zhmuYHqy7bOa05S0xlul2pvDZ+EjRE1RpWSdRkeE4yKDlLVT/svRoSPWSVgDzD9j0bV32TWmvwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/076.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/076.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 76
     },
     {
       "content": "Pour donner un côté: J'en pense\nplus que je n'en dis.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXFJREFUeJw9UV1LwlAY3s9SUC+EI7qd6dzOzM2zzX2cc7bp3PxKyhCRiLIbKwiDooug8CKMIOqm/xZOCd6Ll/fl4fniMgDmKnJR0krIKDftqsUaNIYmEy1fNKiACa85JdUsSs1cRckAyBUEBBAWWl6tHUh2pxkMyXgmuRGiiez1ZK9Xd6NqOxBaHlBwQUAcULBo0robKSSWvZ7eGdPxTCFxwx+orI9Igkgsk7juRqLJAMIcr7s1u6OQWEmvKuvj6Fi0wrobSU5XpYlKE0QPX153ubLmsMl8ef+0ftk4g6k/mU+vbkaLZXiyOL1cza7vGizFpPzQIFxFc1SWOMOzt+3Xxe3D+Wq9/f7dfP48bz4eX9/1cJQy7AAHBoAMAZOa3UE0aQZDRGJE4iN/oIejBuvvpe71iCbdeSgIqIQMoeVV24HkdPfJpOH8L5FkhxATgIxdSlkA8/seVLOiOdAgouVX0xEtH2LK62kPNS3Py1kA/wDerKWJGSX1CQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/081.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/081.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 81
     },
     {
       "content": "J'ai voulu mettre trois petits points après \"manger\".",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwdxdtS2kAAANB8fKW2/kFREU2LVqlhhECyuyHZXFxwRmglifoAFQPpTG7uEgPDJXbgvBzu65eD0zKPUNu23en0XxwljKXv71mWzRlL4/htOvFt220rWvnkrFDY5w6LR4ZuTjw/jpMoitIdxliSxFmWpWlKKZuxdDj82yHdi/NL7rR8VjoudTrdXq8PAFBVVVEUURR5nldVVZKkarWq6/rVVRVC1LvvcxAgQRBEUTRN8/rXNUKKJEkY41arJQi1m5s6IcTQjXq9fte9i8KYU5S2aZqyDDRNwxhbloUQwhjfWpbYaAAADcOAEOi6XqlUNBVzCLVFsdlsNovfioQQWZZrQu3Hd74hge7jMA4D3/fH43EQBJ7nue4TB6Fi285oNCKEPO84jntrWc7j02yV55vNer3Ot28Wi+XgweEuf1adgUvfWJ5/bHbyrY88z9erreVyNZ8vwiDq3ffPKxfc3qfPR4clWYJ/fg/GL14QRElCKWWUziidhWH8+joZPNgQoNLxSWFv/z9/zF1d+cdG1QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/082.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/082.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 82
     },
     {
       "content": "Mais je trouvais que ça\nfaisait: J'ai déjà mangé.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWlJREFUeJxNkdtOwkAURfv//4EENcEmtE1qI8xAm3IpRgQSQLzEhjjTKVp6mRk6FwP44Ml+OdlPey2j2WxBMFitNglO87ykFWOUMco544zyqqT5ocCIrFcvEAyazZYxHkUp+VZSiVoIIaSUUkillJJKSqm1VuevPtYIJeNxZCCUTKPpMBzGcRxNoufZ83K5DIJgMpnM5/N+v7+YLwI/+Hj/0Eqjr8SoKur7fqPRCMPQ6li27di27Xleu902TdN17wGAtze32+2r1rosKoNS5g/8brfr2A6EMAxD13UhhL1uz+pYEEIAgOd5VseaPc3KojSOvB4NR5ZlX7euHccBAJh3Zuvq6mH4iNL9npAkIVmW7Xa7LMsoZQbGJD/k+zTFGMefMSEEIfz+9vZzKJTWUsq/9UpJITEiJ0ok2YtaKKVPbOQZyqkW9b9jlGNExqPIuHjYrLcXDxcDnB+P53DGy6JKcLpZbyE8efgF12N3xkh9mPoAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/084.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 84
     },
     {
       "content": "Donc, un peu pervers.\nAlors, j'ai mis un point.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBQNTiAU1rxlaLtkp/2mqj2nqz+oq/Uh5GWYmnajZlVPECLXGP1maXMfYZ6TVLCbngAXDxAkV9n/6689q24+KCu9aGu/6q5n2lyPi8y45unVz9DjGBn/KKw3IiTjldc44KLAGdESJRiav/BzfXX3fWxvP+nt6pyfB8bGyYfIGhKT1Y/Q41hafyntduPm5ZhaP2VnwBrSU2TYmr/xtL12t/31Nr/vspkRUsBCQcTFBMOEBBPOj6PY2v+q7jclaCVZGz/oawAbEhNj19p+J6x+Ky596q4/628XkNICAwLGBcYGhgZUDs/jWBo65KlzYCRlGRs/pyrAG1KTo1eaO+RqO6crPOhsf+0w5RpcQkMDAoLCycgIVdBRIleZ9uAmMl8jpFhau+JnABiP0SOWmT7lqnWdo3ghJj/pbeSX2kJDw5qbGxNOz5YOz+JWWLqip3Rfo2OWmPogpEAUTE1hE1W8oaX6IKU6oKV+Iqdtml2FhQUUk5PXERIVzQ6hU5Y74WWzHOCgEpSyWl2AEktL3NFS9d6idd5iOF+jumCk9h3hjknKl43PjkpLFc3PH5KUtx7irdoc24+RK1XXwpZ2XRNVCMKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/087.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/087.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 87
     },
     {
       "content": "Ça faisait: J'ai déjà mangé.\nDonc, un peu autoritaire.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX5JREFUeJw9kG1LwlAYhs9PFKK/YKXl52YyiFqtSCqiF6iMrH3RZMnEQPBzYZplQTJCJC2y7ZwsbW3POduJrZfr8/XcN8+NFhfkbOZkY2MzkRDn5uYPD9Onp3lJWjwrFpvNZjK5KkkL+by2t7u/JC9HJqIoEonq+sPa2rogCKIoyrIcj8cFQchmM/V6XUzMjI+NiaJYrdbS6aPJ6BQyTcI5dwMgwLIszvmrYYBtXzTuz2v14WAAAMPhsNt9RsfHiqIo5XJZUZRcLqeqqqYVSqXS8krytnJeIPyaAOceUBokUrS9tS1J0vS0EAqFZgPC4XAsFhsZHU3vbG5dv1xhhzMAoJRSxwGE8RvGuNVq6bpuGAYhJJU6UFX1pdd76jy2euYndZkv+9i2g/r9D9f1PM/jnDPGXNe1bRsA/h5j/zZjDOM+urm5M823ry/npxUAWOD8DACBxxgDh2LcbzTuUEErXlaq7XaHkHfL8rN/Rf+IOv5oNiHv7XbnslIraMVvHI1b8OzS5vYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/089.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/089.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 89
     },
     {
       "content": "Dans le doute,\nj'ai mis deux petits points.",
       "index": 42,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJxVkc9r03AYxsOE3iaFsvbW/6PXFQe9iJBM1FIK2u3gQdlldBTKkFZym6lVIovs4kXqSsa0By+VXjLnhK7ZnOK61WllhCa2c/n1/cY8ks6Ln/vD53mfl9mQN7ff75yc9Lvd41xurvGmAcB1KQDNonznbOvnuTUcHR1//7D98fVmgznq9jRtAKBery8t5T3PA7C3vy9WVt5++nZp/az6xQT+mA7R9WGns8cIQgWAoigcx2Wz2WazCeD2nVx6llUH9pQ8kr5aALVcQqmn60NmZuZKu92Ox+OlUonn+VgspqrqjZu3FhfunwKTNX310AK8cYA6jstkMplisRgOh/kxoVCoUCisPBIWF+71gcuvjNVDG/BslwS4hEmn0/l8PhqNiuIzSZIEQZBlufrk6Yu1530gvG5IgYFeBAIDy7KtVisSiVQeV2q1WiKRUBSF5bjr164e/PYnXv6qfjb/u2F6OmmatixvpFKpZDIpiqLv++Xyw/KD5R/n9O6O+e7UDSo5xLhYaX5ufretatrADqzB/IQQfwwlFB5xbccwRr3evz/8BVN1OcfH+FU/AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/090.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 90
     },
     {
       "content": "Kheiron m'a envoyé: T'es encore\nen train de te branler ?",
       "index": 43,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJxVz89P2mAcBvD3/5pnwtldNRFOzUpJjO7OgczRdRGikE1idURiSCH1dzq3CFvYYRQPEBGiWWSrBzKl1ujevr/a7+L0ss/pyZPn8qDDj59mZmKTk8+np6bn519KkpRfzmva22cTE5fOpWluLS0tz87OvZATiYTyRtXQ+dkPw6jVajXDMHRdr1arqqqu/dPpdEajkaqqSkIuvn+3sPC6fvQFUcrgf2EYPgbHcTD2A86/2sc/7wgAjF0Pra9/6PV6lUqlXq9vbJQty2o0GqVSqd1up1Kp/mAAAN+vmXb6B4DfY4qKK0VJkpLJZCQSyWQyiqLIsqxpWjQajcViq7oOzD84//3qFANwnzDU7w8Ws4u5XC6bzTabTcuy0ul0PB4vFAr5fGF7Z8fYLJc/fzu8AggY9im6cW8BgHMehiHnHABs2zZNkxAihAieiCDgQojx2EPdzsn1lUsp40/Y42nGHhrGmOCcC0Epd8det3uC9nb3W6328OKX63oY+5QyQighhLGHNaUMY//G9YZDx24d7+3u/wWo7E6rVnLRHQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/092.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/092.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 92
     },
     {
       "content": "J'ai pas répondu.\nMon texto était parfait.",
       "index": 44,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCwr7LJyMvf3uHw9Pb3/P3///+llY5pTEKeiXv8+vfv6Ovl09bh1Nje3uHJyMqxsLIA0M/S7e3w9/X25srN3LS62aSqvohpJSspgEEzuldepUdVli48r3F6////7+3wz87QAO/t7/////bw8ZQ3RIkfLYofLo40QG9GS30+SYUnNHkdKncZJoRCS6enp8rJy7i3uQDGxcfFxca9u7yMQ011Gyd6JC+ZVl+jXGekZGyTTVaEMTyFMDt+Mz25uLnJysrX1tcAtrW2yMjHurq6m1dhhC86l09Yl1NcnV5nnV1lnVtkk01Wgi46eiYyr6usxcbGn5+gANTU1cHBwcHDxJZcZH0jL4w+SZxZYptWX59bZKFdZpdLVZ5SW5VFT7uusO7x8NvZ2wDGxceRj5Cxtraxf4aZQkyqY2yuanGVPUiDIy+jWWKiXGWcVl+DLjq1oKS8v79/fX4AnJud393fqrGxlWxyiDA8lFFakFFak1Vep3F4mm50qISKwKGlybW44N3f2dnbvr7AAHRzdLy6vcbGyLizttvS1uHb3uPh4dfZ2c7Q0OHv8tDw/P////P4+ePj5c3Mz7W0trPVBxGa5hBYAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/093.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/093.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 93
     },
     {
       "content": "Je l'ai envoyé.\nBref, j'ai envoyé un texto.",
       "index": 45,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAThJREFUeJw9kVuPgjAUhPn/v2V9AWpUIHWNulHjC3GzjxKNcQF7EVvp5RQ31ZXJ5GQe53wTxNFws97u9wdKuBR3pbTR5mWtjVJaijulvCiOm/U2joZBnu8o4Q6cA9e5zrln6HzoL4DT2hDC8/w7oPSqWnU6nRhjZVnWdc0oq8rqUl/quiaEns9nKSVYCxYI4YHRVggx+BikabqYLxBCGE+jtzDGYRiW5e/j8TDGNwzAwq25JUmKEJpOPzHGSZLOZrM4RlmWLZdfk/EEY1yVlXNOKxNoZe5SzueLLMuiMFqt1uPRKELDn/3xyjmljHNeVZUUEgBUqwNCuDUgpZRCMMbETTRNwxgz1noAT/nvAZ4/sH9K1kCPxQfXgbXW2F5vSrvgtUNRHCjlUrZKefx+B2O9feGW0Wu/wx9S0YSG0DGMOAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/095.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/095.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 95
     },
     {
       "content": "— T'as un message ?\n— C'est quoi ?",
       "index": 46,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwdtu0mAAAOA+ifdE45WJcc04ODenuFJKDxR6oIXSguX/Ww4VCm3ZCAWUhS1u4HAXDEysm8mcJho1JsZld976Pn4f0u2O3JanUhjkmKamQIE16fiHff8mWF0ejpR4jNtCgSSk0nkqUwRAQ6wXXafpQjEz6LhOtaozO+NK/jp49/fq47/vX2ctIxq6ZbAJVS5QjNiyLcSsdRqgauayI9dVmFQpFa8kN8/67sr3zicvrxdvUvdC3Mb9qQMBR+gQIqpmVHXYUBWvXtcytCFyjip/nr2+uQh+zo++Hfjs2p0mjx13KjWBoNMJhCQYUIZ1TfW9Xt+2NZqwNHU13Pu9PP1zNj+1AYeGdvPJAZSexdbj+GNk+9GToqxY5dLQcTtA11ia3lynHtxd9pzLw+G8DQEW1vFoTWQ4gpCfPkToJCWwwnO14tiexvMiRbdVObsV3jeLF5Phsud4hSy9vUFjO5ogtMIokhMkgZfKJVAzLN9qvH/VPz8YX51Mv0wnwXhwZMFimiEwnMTJNMOX+BxioGtmLFqPRgq3QydW7cfi7afZ8a8gWA72FrvtZkGKoBEiQZI4RSUpMSv+B38Zut0vkz5eAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/102.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/102.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 102
     },
     {
       "content": "— C'est le mec de l'autre soir,\nil veut te revoir.",
       "index": 47,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLRkl4cHR9cHBzVk5rUEhtW1V8bWmKbmPCpqLRtrPKral1WlFROzBxY19WW2dWW2UAPUJMdnaBfnV3bVtVb1xWaFdTc11TgmNYsJSPr5KLw6ejrI2ERysfaFBFcWlpVVVaADc5Qm5scnpraHJhXWVTTm9eW2hLPm9QQ6ySjrGWkK+SjMKclGJBM2dOQJd9bmpZUAAuLzVpXl58bmuEeHhqWldwYFxsWFB7XVCxlpHFqaTHpJ2rh3xcPCuBZlaUeWhqWE8AJSUpXlJRemtnioCBb2NhbV1Yc2NeblpRfVxStZSQupyUn35xZUIvfmBMf2dZQzw8AB8eIlBNUXpvcIR4d3NjYGxeXGdbWVM+NUYqHZd6c6uMhKODeoVmWW1TRWZVTmBUVABQS05dWV1gV1l9c3VxaGlRQ0N1ZGWJcmxnVE6IbWKskYyfgXuLb2hZTUpMRkdjW10AX1pdYVpdZF9jenJ2a15hmYJ+s5iTwaimsp6crJKOq46JmHlyaFlYTUlNVFBVV1RZAHE7O3EuLHEyMW8tK2ciIKeFgbWcl8WurY1/golzcaSEfntlYkQ9QlBMUVBNUVBMT3GWtVso8imIAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/106.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/106.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 106
     },
     {
       "content": "— Dis-lui OK.\n— Ok.",
       "index": 48,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDDydnBxta/xNW+w9OjpbOHe3iBfIBqYGFtZWZ7eoCBgYicmqKcmaGUkpiYlp6Wk5oAxcrawcbWwMbXvsPTpai1gW5qXkZAgGZfZk1GXTs3e2tsnp2mnJuilJKamJael5WcAMDD0cPJ2b/F1r/E1qGirXNfWWlRSqaLhmNMRVMrI3ZeXZ+hqp2aopWTm5mXoJiWnQCws8G/xdXAxte+xNaTkpxxYFqCaWJ9ZF1AKCFVNSxwW1aal5+enaWWk5uZmKCYl58AWldhn6Oyxs3fusDRkY6XiXd1joCCaFBJUzkxZ0hAYUQ6jIGEn6CqlpOampifmJeeALe8yr3D1cHH2LW7zKOdpJ57boFycnhpaFtBOlk5MXZkYpucpp2bpJaUnJqYoZmYoADGzt7Fzd+5vs6utMWxoqaifnGBcnOEfIJrWlpQJyJ7bG2cnaebmqOWlZ2amaKZmKEAxMzbxczesrbFrrPDsZ6elnlugHh+gnuBd250XzMseGppnp+pnJukl5WempmkmZihAMbN3sTK3a+ywK60xLCbmpV2bIR3eXhwdHVpaoRwbXpqZ5SQl6CfqJaWn5qapJeXoD6G9bNL7BNxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E77_brefJaiEnvoyeUnTexto/110.mp4",
+        "thumbnailPath": "thumbnails/S01E77_brefJaiEnvoyeUnTexto/110.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 110
     }

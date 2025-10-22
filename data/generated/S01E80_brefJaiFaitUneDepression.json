@@ -12,318 +12,689 @@
     {
       "content": "— Capitaine, capitaine !\nVous n'êtes pas le capitaine.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVlJREFUeJwlytmOmzAUAFDUDMbrvV4wiwnEBAIhDCTptJlWfer//1Q1qnQeT0LSlKSMpJxlQkmLpm36Vzv80rYDLBFyJa3gwBmwTLBMJGlK3g4kfaOcSlBOqRyhNCYgFKgcKgfSSo6CKcYUzUSiCfVg2qLpfKjADsfhfbidy3aJ89xdBh/G8hhdeY3zxfkIOvEZj1W3To99fkZbb9P31/1zOc5Tv34+fz8u+9Q/xri9nn/mqm0FJJwwENphsQx7G4ai2ptmr3V+ysPH+vyxfsTjOo0/76+/1WkO4JI8Y57JUeEV7dXki61WV52Nn115L8LD13dXbCbfbH7yTadMUggInJ+lmsDctFu+2Ii2V2ZFt2r3tdFsqBuJNROJoMIQWlPeCtlLGBSOCoPARuICZkF7Q3sFPUkoGc8pTb4dDjQlhjCf8YrxwHnLhWPScYhC/XfismXCU6Yz+g8gXiYlTTngewAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/000.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/000.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 0
     },
     {
       "content": "Bref, j'étais au cinéma\navec des potes, on a bien rigolé.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVxJREFUeJwFwdtyqyAUAFBnEkVgwwbEe9QQrReaplrNNO1LZ87/f9RZKwjDcxTGUcgo4cC1xKq4rPX1UKaVmEtpgWvOJKMiJpwSHoRhFJ7D6Ew4kxKMEBZlbnSlMUdhERIEIxgCk5xCTHhgorjAxJXtrWwracamX+fPoeje3fJ+81PRvhWXPi29m+e0cAIDS2hXtMu4Ppajz5ql377X36UZ+27+3n4O/zVc1/76eO1/U+1qJgIgDBgmaJerb+s+y3xzWStlna0Ov70ez6G9j27bX/9q5ytMgzSmOYVJao/Gq2TRqddpr7Mpyb+y6sjKp813k+7GuqTs0AQZqJLyG8hR6gnNhGZG46TppP7UdlNmN3bX9qnMVWDFIGAxwyguKas5tBwcyJuQJRcVqLtKPpR5KPOB+o6q4WAJDU6nEwkjFcWWsCxmBWU1EwmFhMlB4CDwDXDgwjEoKceI/AfIKycjLJzfMQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/002.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/002.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 2
     },
     {
       "content": "Je suis rentré chez moi, j'ai mis\nla mauvaise clé dans la porte.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVBJREFUeJwd0FtunDAUAFCkgu1rX18/AQM2zIsZGNJMFClV2/0vrEoXcH5OVdd1wxhrgDOJyho7pvJK0xuZgajV6FAZCVowCVwBV1VT101ds5pLgVo5jd5QZ3RrqSX0pJyWBoFIGS2JM6gsEx35KaYch+L7uZ1O4+mx3Ndy287bJaZbKlcbHsuaXbdoqqgRQxzW5bFfjhxS6tfX2+9j/chd+fX+tZ/2JW9LOn++/l7me4euAsaVUB7tPN76NjszjmlvtVtC+liPn9ejxHKe7s/3P325J9tXXoAXcpRqkiqjLegK+mLixYbdxcPFpw1P8rvxg4lZYuUBA1cdqCT1oCgpk9GM39Js5HbyTxN28rt2rYAEUHHGseGmAcdllNj+Zw5wkHpF89B20+6G5qp0EBAFVD++TxtRM6iZboTlEITSXAWgWdEscZFYpMogPReGiX8v7SEDafIyfwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/004.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/004.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 4
     },
     {
       "content": "J'ai pleuré.\n— C'est pas la bonne clé.\nJe me suis dit que j'étais fatigué.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXpJREFUeJwdzltvmmAAxnFuOn3PB17OIApSKocgaJXO0Wktpl0W09ZmWbbuYt//Syzsuf89+Wsvh/rtoX493l5OXx63BSc4NHSDsaurUTVzf59W16acSvpQTr7Ozf21rb33m/3uPiu7KK48y859+7KcF77FEG5n9q9jPQCd9qW/8uXdzNCKRWFZgWlNTTv2LW+f+F3spbYqXaNLg4++iXQ20dlj7i5d0YZK8wylM0oQBAAqrjLXSExZ+2ZqiO+7/M+pCTkNdXYqvaUjNhOlOUpKxgVlFGEIiKA8EDTS+Sbx/p63Pw5VwIjDyP7GKSyxDnRNZ5wTSjGmmECAwBhPLdWv0/Mu/3haXbrCIchieDc3M5PXntQYoQRhjBBGCEE0+oTWN7PXrvzWZj/75vw5kwAalDShiiTNbaExTMgQA8EYQAjhGLV59Nwu+tv0/VAdmwSOAMU4tUXASazYAIbj/xsMgNvF9FAn91X83C7u8hCMxhwjh5OJoD4n/wA7RTVd4s4FkwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/008.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 8
     },
     {
       "content": "Je me suis couché, j'ai repleuré.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYFJREFUeJwdjd1SqmAAALkUvj9ARVQQgTBEBJEPUynF8ChqNGfqONREYRe9/yucsZ3Zu51Z5vtl81Ns3zJa7GdVvpi7ptqsN3gCAZAIOi6cIg3O6eRtO53225qAmDJffL+mu/V9MJmvwtGjP/iKvaEqywJZ6Z2Nq5cZLQ+03NOgJ1t1xJTPq/huaTlrxaCmov6kYbWaRGZ36+gnW9v7RnkML3lUHaKw17oexpYhEAFjQnhJkWRPaSUj/WPpHj1zrskvD+7nIbzksyqjQbehi5hpi4JICIYQcgBBXsDY6TY3thYbnYzeFtugSP1LfldldCgJKo+YpsAThDFEBGG2BiDAEkZjTT5F9jnxX9feORl/naLPP4HfFiUEGJEQBBGEVwEHuBps8EI2c57v3afFMF86f+PR+27678F1JF4lkLl2AHC/AADYGsCQzOxe4hmJbz4GN2lwky+d3dTURdyCHAMBYFm29gvHcSzLEYhsVQrMDrW60UChlhKP+n5fbiFYh+A/ynVDXv7EnCAAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/010.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 10
     },
     {
       "content": "Je me suis dit que ça\npasserait avec la nuit.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATxJREFUeJw1kMtOwzAQRbOCJp5HPB7HSdrEdZq0IB4CicICARskJBaw5f+/BLmI5SzuvedMoQAK0BJGoVEwCq4ZA8GaMDI5Ax3DpDQpbQV7hsIDBITB4k5p5zk6bBFSTcfW/hzaC8dQmmhpVpo9jZaKBiEQjIKL58XzKOgREuOV46+5eVpLtaqSo8XzTW9v+roIBC1BlFyw5A5UgGTp2NmXwX1MXoyZlC4C32/s26J5oSOI7oSkNJwcJktPnXxOzfc+BITkaN/wwygvsxYKGWmwmFw2GwU7Ag+wCL9v9XWrgWD22eFuY49RCi6NVLCxmJTSKdAgOAOz8PMg16FWyIbrOj/wsq2L1VmFpTndFIUaBCqNWRmuTHI01Cj5sznwR1GIMR5NS9nEVqY8z/nM/T+4UzoEvu3ru4193MovIJ4kvw3tegcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/013.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/013.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 13
     },
     {
       "content": "Je me suis réveillé, j'ai re-repleuré.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUlJREFUeJwlkFtr20AUhPVQ25o5e9Fqd3VZRTaxsWllGxPqGNoQaihNyFMLJe3//ydlXfjezpxhZoooDEIv9IQDasKCsgDmUAv0hmOVBRXpSEsUyZSdRqvRKASBLjGbZSzYCB2wi3rttWc2dUQxWN5Vmd4wKnKBD7NsP2g5tGYfzWXlzisXVb5G4f8HGZ30WrywJmVBztEKp8a8bdvntZ8644mgGBSL3pSDRTLstThmD88cZrAyVnJK1cvU/JjicagGK0FJ0WkkUyaNqGgBTyQro1OrWi1rmTrzdmj+XtLPh+48ul3QRavpb9IgTCaXGZ0snVrW6t6rY29fPsX3x/Tnkl6n5roLhSpRzmGBzkgyuA2QK9052QR9XrpvW//7c//+mL5/jK/7pijncMybNoq9Zo6XyTk3QZ+G6st9fd2GXw/d13X9tK7/AbYjIwMon37OAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/014.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 14
     },
     {
       "content": "Les gens m'ont dit:\n— Tu.\n— Fais\n— Une.\n— Dépression.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwVtvmmAAAFBe+yKMIfChIFitF8BvghYURQTFa9Vu2EatlRqzrNrFJd2aLWbL4rJbfViaLNmyZVma/dGdgxiPmGE7Mxmoo17Wa8mjXtYtp6u5RD2XLEH2yIr53uHlzNpcD96/PqkcQkSX6WYpOnASrZJgqWEe4BSKVw+i63ZzMx62dOHisXqzbNxuJ3e7RbdqIAakaxrXMni3EClIIQLFxTBTlxNzx/py4XcL0rgtvlm5d1/9+98vns36SCkL6jrXKPCOxmlpRuFCVmp/UaucaOpVp+Wo8fOjzMun9vfd/N+f9btXZ0gR0o7GOhpn59l8AmTCoCYl+gpsiqlPs+m4npkfZ9e++ePb4v7X892HOaLLpKkwphKylFA+CfYpIhflXSnll8s3Xve8I19NjWkPftw8+ftzdbsdIWoyqEuUJtIwRgqAOABUMIAJJOkqysDMdc3YclKc9qHv5Xfb8ee3QyQdIeIsyQEaCzwMokRO4HgiKPGCLopYgAAUo2bSHRueduByVrm+bCB4AMcfADLIohgtUKAYF2wptfaObUXd28MwlMTxMB9JNi248q2+k/wPWLhoxUv0AcYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/017.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 17
     },
     {
       "content": "Je me suis dit que non,\nje devais être fatigué parce que c'était\nl'hiver et que ça faisait trois semaines\nque j'étais resté enfermé chez moi à rien",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwdtO2gAAANC+L9nj4oMP02jGEoPKgDEpVTJWKlVL6b2l9M69LS1QCm2lCsGxMRdN3CVLlmU/sF/cOYDa6It01TH9Ot+q1jiZ03MHr5N7O8m9Hac3frj7ZrasYX866Phj987zvgCuPW/wwsfFD023ZckoptM49O5tYn/r+TMYzP/+9c8e+FN/bfeCTjtst1zAs6ees1B1Z/P5z2r+BB0efPdGC4Ujwczx7vZ9vP75+HdxvY7n6yhYuvYEIDADLjFMjf0abWaKgWaPelfIhLq0qucieh5YrVFTGjldyzZ8bxLOQkCRnZET3scPt64XO26oqwutvlSElcZRcJljcEZE+qZptwZTVRWpCnBRxrpNz7Xm/U4YBY8S11ThU6tyxp/ltl9sKXz75nZ5E0SurnkCSaIloABlsunD5KuXhUzKkIcC24VSb5CjRD6xm8+CWsOKo6fr2aeoVtqo7Go0BCRZJmgOw7ArFBPoTu2yjqHcBwjGEZzGGywhC7Qui7aOkcNq2SQJQBINRWkzpJxNge+hClqmTjIFKFeEcsXSKVIpYUUQTh+fSIQw5imLZf4DksKeiolopIkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/019.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 19
     },
     {
       "content": "faire parce que la vie,\nc'était de la merde,\nparce que dans la vie, au début, on naît,\nà la fin, on meurt et entre les deux,",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYZJREFUeJwdy71u00AAAGAvse//z/bd+WzHMXYcO3HqujRtlEJKIxCqUIdKiG5UsCK6MCIGBl6BvSuPwNOhsn+f1zs15OFRHp2XeshVnykKwcqKu/P6/aZ63aX7xu0qc1JEfaY6K70ukeM03lV2VydDHtdaBBN/rsj9i+7h+vSycS/nyavWLTR7FtIyZN46i4qINUaeTOOFVRHFESX3h9PHH1///v716ao/tMm+ca1mhcQJQ15jFYHQ9/2YoKmgM8VShu4ujv/8/PL4/fPHfXWcss0s7p0qQ+o49tokDAnCwSTlaGXFttCHOrkZs4d36283Zx/OqotKbUvZWR4RZDnxDMMKwRjDQpLByava3I7Z7fP07cpcr92bpb6cmyGTIYYSAgKBJ2BgKDIYOgrXTmzLcMzFppBjxpeG9AkdUzmTlAKIAIBB4HHghwgYDKccFZIstDhyqrO81XRpWWvYQnOBnjQIAhAEHnsK0GCgMeQgCBFojVglso15E7E6oqViAqOJ7+P/4R+j/TRIPfwLEwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/023.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/023.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 23
     },
     {
       "content": "il se passe rien.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYpJREFUeJwVzc1u0zAAAOBcGv/FdmwnthOnSbM0SVOvjbauW5m6oYEmhiaBhCbtMsRhR37EHXHgwiNwhCOPwOuhSd/9C+Y69i5ZuuSssa0RB0kcYzxk8n7Xv9u2L5fTi949a+xRlXoneyOChVWHRXpc6+2BTSI8FVQStHby/YX/9Hp72Rf7Nn/eu1azWtGZYsFMi1ywdanH0mScWs6mkj++2v35/uXfr58frlZXg9t3rte8FJFlOJiqGACAIRQEVYqPpa0kv9sf//3x+fe3x4fLdnT8ZKa9U3XCMo6DRZaqiMBwoikuBTWMdEbdHlUfb8evb3Z3Z+15o05r2RnepHEhWZAywhCgMLSMdGm8cvKFz99uymtvb1bF9dLu52ZTqiZhSYQIhAGFQBKUEGQpPszF+TzdVPK0VttKLCz1GRsLeVKlpWQIAApBwFAoMdQEFzwqZdRrvsqkz+O1i30Wd4YNNl4YHkFIIGToaZgojDR5wiCQGPRG+EwNRg5GzBPWKEYhnExCGAIQhv8Bu/cz+hUJHXsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/026.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 26
     },
     {
       "content": "J'étais en dépression.\nLa vie, c'est comme un ascenseur.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX5JREFUeJwdj8uO0zAARbOZ2I4dv+08nFczaeo+KTCkmmhaISEeqy46CGlGI1Ys+AIkkGDBhj/hO1HYXenqXJ0brHO1K+22tEObPavsyhmGkE/Vx8GfX8xfL6u7hTtc/69y1Scy8JnaV+bQZePcbQs7M0JEaOfU/WH59f0wdvnY5SdfdIbXktaKBY2VTtKbNt/XaZcqHZOMx/fj899fHv7++fHt04fL4I+LcqZoyUlCcOAkiwAQOBIYFYKWijlO3+7998fzr8+Xn0/nx9P+ri/WTjeaZZQEGY8ZQhSBjJFpRrJGi96yk6+Py9nQpsc+HTvrE9EaUUgaUAR5BDWJKkFXibjtijfb+cbp1kgb40rErxp906hGUk0whjDgEbRxZDBKSLTO1Pmlvwyrw7XrE9UZvkzEJhc7N8EIQAJgEINQYlQK5iYldtu5d9t2nelaEG/5wvJNLn0qMAQYQopQQMCVwqiSLIuxwciQ6XqjWG/4JtdTSEQM0VUYwhCAEPwDrPUytEVy3jsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/028.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/028.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 28
     },
     {
       "content": "Quand ça va bien, il monte.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwVtv0lAAAOAmDA1Mx4PGunJZB7TQntIbvdBy2m6HYktbwHZUBNwmELfhwqJDY2IyY5YYX/zRfh/2NPskk9mjXr8aK2DUZlvlYiGfN+nju8i5i5wb37JBoy+CxYk+1sXYkLHsXhYvHCQaP+vKaq0CSgRfKW48+DiPfi+G98mbSBOTrrqbDLYjN5Q57CCXG8pg61mzrkQTeJ9vXPU6D9Pg3/X013m8S4OJpcdQ/5YGtyG66EFMqBDXqPPFd7aePW5zC9heO9rX2P2znGyG/c9v/XXkjrr6yj/9ezV/uEyxUAY3PXPTMz9CJeAbocTYzdoEqrtJsBqgd6fwwkeRqZ7Zncdl+vNDjA0k9tJS5oYYCs0+R/ktmi8T58i8T4NPUX+GYGIZjsgNDeXHfPz9/QhT62QgMqHIhBLjcpTN0Le+vXS7MdRmCMZQ9xThRACeIq0jNzQUrPTyhVw7stk64iiDIhGgV6gztTVPlTxNtnng8ABJLYNtGhz7LJfHCvvPSRxvlopsiRCqZBKNFKoGOUakao1K+QjHwTEp1qtV4nA/l89kMv8BbmllKLo5l10AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/031.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/031.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 31
     },
     {
       "content": "Quand ça va mal, il descend.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATJJREFUeJxljrFOw0AMhrNwts8+J5e7NE1CQttELQGhIgXBAFRdkBgYmHkF3n9HibrxyZKlX/70O0FEMLAtwlDGrsi/p7EJ2dfjYdo2XeHPt5tCHSOptYXTIJxYIgBMLT/trvt18fv5+nY3/JymJuZN8G30jJaJC3WlullgZgBAg3WeVT493jR9tYo+a4I/1GXlM2c5qJapBidMmBBZBCAiRIqpKjMhOeb7tn4f+9O4uymCFwkqkcVbm8ACLTgRYWuJqtzv6/X5Yf9xPNR5ljoXsqxS9XQREACXEjSL3Ffl2NYv+83Ud5ZInViiKwBEvDRcLEBcVreKx237PHTbMhoz50SkIt7Jf4EAQNju1qsm5MbM9+okdSoim7pM5mhhdswyQMYgLe/NmTFeJc80dW5o6z/wQR0X/2rbRQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/032.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 32
     },
     {
       "content": "Et la dépression, c'est quand\ntu restes coincé au sous-sol.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwFwVtvmlAAAGAehs6oKIgVukQ3F9s0TbZllAJS4Xi4ikflJopaTxEU58Ne9/f3fYQsTwb9R03V0u17FET6WOV6PNWgugztqYIPJEP8iUOEbMsAAMgioYzBYPAEdZhnl7llPY1GPPel2Wh2GQYKz+7rD4zMczRHmuyZpgMhoen28NuzbTrl+WaqyrDf53p8o97sMh3x4WtivN2SVajLpiTsNnt/GRBg6vb7I9eelcUVOY4kiDx3T9PMw/A7Ggsfc+MwgwtVRJqURiheeYSuW3zv3jaMssiz43HhIb7H12q1O5YtA+cSuP+y9G8aJMhOljBeWMTkDXJd1oTgWmSXU5aE4R3LVqpVpt1eA2U7HZ9XDvbAnzwr8hwfMaHIky7dhvrkWpxu53wbhz22Q1YqVLMZT5XCgwcX4MC74n2G8WG3J15epE6b0tRxgY9lfkpCv0O3SLLSqNdX2uuH767nVhSsdnG4Szfr9Zr4/UtgWpQiie/bzXGf+vMZ06I+kWTtczWG6iXxA+TayAuWiyQOoyj8D/ZSaBahbrhNAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/033.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/033.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 33
     },
     {
       "content": "Et quand t'essaies d'appeler\nle dépanneur, tu te rends compte\nque le dépanneur, c'est toi.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwdwdtummAAAGCujaWNG/xy+oEKilCBRlQQUeQgnqK1Ll3rmta66bTqgtPNdTe93RNsyZ52yb4PiTS+VZTaXmM2e+z3ut1O5PvN1efV399/nqePA6voKiJ2dkoBwEMochzSUrmmJrYatefVIo63P1++x7svs+nTfr2+6USVXOaSh2gySQOMZxiBhUikcbbMlw1js17u9/HxeDh8O9zfTbr1Wl1TJEiZkiAQuCrwLEWROEDCAusonF6yb27vtpvl1912s12/HH/8en0dVI1u8cJTJY2lVTHD0jSWeoN4CqyIlG5Uvc71ZHK7izfzxXy1WN6ProwM7Fd0W87KHEMDHGA4mSaQeo4qi3RBL7ntkR+0n6YPn+YfPbfZc6qOnK1dSBJDyRyk0mkcw0kAEFMgLvl0Ll9ohAPXi8qmcz0eX43GwygsSyJPAohjZpancZwAQDrnEZ0FKsQygmS5bct27Xrghf3Ruw/vh0OOIgWWMRVJZulEInGKogKkkTz5Nk+kIMOVrIYX9PygV3UC1ai1/NCrFK2CrJyz6Ama/C+Fnv0DNNhfxUNFFAIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/036.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 36
     },
     {
       "content": "Au sous-sol, il y a tous\nles trucs que t'as enfouis\net que t'as pas envie d'affronter.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAP5JREFUeJw9kMluxEAIRH1wN1QBvdizODOKNDnl//8wYpyEE0L1qIJl/atSChRQGDj72OfWo58TFZVaSynrui7/QK3VkGoqH7f76/kc0SmgQhW1pjoBVS2lSK0q4jSnEfw8ju+vV/d2AlDVKlKllHUxECKntYNOC/Otz4zkDaIjevOAKETTwWmGTKki9gaS8XDztw7XsWej6iDBdDBQJR3zYpqbh0eWx2VsH9t+6SPMerTZ50JF7gMIng9xWovWWydtRDvGbKCDQbrFIiJhPs1G+kJqxXtFi0bwNvfnfo137DCDYoGiR7uPMcx+L6GHhVsY/bjcHte70SCaHwd/AP8PEotDJt82AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/042.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 42
     },
     {
       "content": "Alors, j'ai fait ce\nque n'importe qui aurait fait.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAW5JREFUeJwlkL1uE0EUhacwnt2ZuffO/3pmdtbrxLGTWMgQKQ04DRQ8ALS08ARA+ClBFLwBEi1CIqKk5NmiDZ9OdaRPRzpsPr/3P0IIkAoloAIABQoIJ6SUnPOmaRZdRtSsL8vgO2u7qeUcJVgyTw6PHuzOlVAE2LYt51y0oqTBWc82693xapvTSKhF06KC4NzTw+PL/X0llEZq7uCcW+tCTKyk4Wi1sWS9cRqQFHhjaiopdkMq0TqrDZFWADF0WlvmTEAkUCpa64wnJG8dAXnjLtYnfQh9rt5FUOSsk1IyBAOghZAadfQxOj+bzc63p2cnm8N+X1Ot/WoRUxez1kYIwaREUKiUMtoty2CILh9e/P318/OH92OpYx3LouQulVwRpwOYEFJOEnWxr6WWlL9cv/v35/fNj++77ZkxYahHwScigwBN07BpSArRCkKzPV4/u7p68/rVt08fv16/ffn8RVoscxpzGkLImizn81u5Vy3cGgBV8wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/047.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/047.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 47
     },
     {
       "content": "J'ai joué à la console un jour,\ndeux semaines, trois mois.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZxJREFUeJwFwd1vk0AAAHDeVuPck20pwpWPuwOOK3fAtdCPQVs6bcOabT6sr/UjLoHYiktd3DQx2RJj4oN/sr+fNBN0NmB5drrdbsuyzOeLVktB2IuTdDzJGRPttnz8/Lj1smlZEEJbmkZeHrPlfHpz8+nddjtMhqYBza6uK4oJNAKh3Gw2Gs+Ojhpyq6V3dSkLvVnfX2SnVVne3X27v//++PS0LgobaBbQOIYMwZMXJ5aqmkADqiqlnGQRjYLo44f3t7df6/rLw4+H9fk5tQxBnDRkMSVI0yIHWwDIbVka+86Yu5yLN6ti97na7arD4bC5vh4H/kzw5SROfM+Hpo8spaMonY40IEi4kHPRj9PVclVV5X6/L4o1RXDE6NloIIjrGHrgYAItgpHEkRFis0e5GEwQIhcXl3VdZ9O5Y5oJdUPXxnoXd0HS8wJkpoNI8nRADWBjlwWx5/mOQzebTZZmURCczXJKPANozLWHPo0peZ2OJKQqtvYKmsj1uN9j2CYWtK+u3v789Xt3ePzz918iBLPxKOSLyTBN+v8BhtxdJLKbK18AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/049.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 49
     },
     {
       "content": "Et une nuit, les plombs ont sauté.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYBJREFUeJwdz9tymkAAAFBeGwFRUVYRkNsuu7CAKAjLVQgxOjVt2k6bztj//41O+wfncNmRxdERQf+Ull0zfvx8vH1+77th6EZKwpjuY7r3cWCZjm1Bn8RcVXZN3Rd5zYqGFc39/uPx8eiLsmbN2/399eXWtUN6ZARH2KMIUa5thqG/VOU5Co/YC6BLmrK9dL1lOv35crt+fR6ued7G+zygBwh9Ljucioy9DJehez63Y0AioGy2qi7w0/lMhi5xHQwdjFysa7ud4XAsK4ZuvI3Xb1++//71h+V1RGPbhEBRN0DzEMVe6NhY18zFXOZ5nvMxTeI0poeYJlnKhqorssKxXGUJwAoQTOvqzE+mgiBJ0kzdbDmM/ENy8hGhiJiGRSA2dXMxXyqr9VJWDM3EKHj6JAiCCJSNZULOsT3sUYJDGiQ7wwQrkKXMsdFMWqxk8J8hChNRFKeGbv87WJbnOgSiEHthVdShH7JTGdPEtqCm6pqqS9Js8jSRF8oabNdg+xdJ3knHd9GCOwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/052.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 52
     },
     {
       "content": "Je suis allé chercher des bougies.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAN9JREFUeJxNkNluwzAMBP0U8VgeclzDiZEW6P9/ZEEpDcwnCdohh1rSwxTMbLCeuW/bft/WTDcXEb4UEYnIsmZPDzfvkT3i2L/W7L+v1895qqgBUKjoZAoYuUwPABkRHsz82Pfv59Nh6/+rwQArQFUdFuYqWg4XDREJ8zCfgcqoLgaISI0GVIshImjJMLPWwcIdgJsJ83Iex7338FrxPYR5ogWIpIeItNZurY2le2aEm0FLc6owTaeaEB5E1EYR0UJEw7ZKVZlG16iun9+c6TdwvYx+PqTrW4ofzT6Z1tof4koUH9R9mFQAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/053.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/053.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 53
     },
     {
       "content": "Les seules que j'avais, c'était celle\nde la fille dont j'étais amoureux, Marla.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATNJREFUeJw90Flu5DAMRVH/lQZSskTNsjW5nGwhCNJA739VDeejF3Bw+bhJAMaYIxJS5pT72WYfa8xrLkQ8Su1nu6/3z/fXGkOh2gBAcG53g4All5IyWVtLWWMppUbro43P++Pvn5/3mlLIB2ilzG4AwOym5uLJeXI5puDDNefsY/ZxX+/3uqKPDyBrgw+McQR0RCXlHFP0Icd0lDpaX2OuMY9Sc0wPUL8FxhgCggRrzFkPR+SIgvMpxBLzGrPmEn3YhBCIqJXmnCtEBACQiGiNUYjBe7Pv1pgUYjvO4MPGGOOcI+JvARSilFKh6mcz+z77SDE9p9onKIR4AEhJlp71WmulAMCRu6/LEd3X1Y/2/yVa6e31eiFicN47n1Nu9TxKrbnMPsjaNWdNJYUopASAXet/DHAjICvTx5cAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/057.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 57
     },
     {
       "content": "Je suis tombé sur un mot qu'elle\nm'avait écrit un jour en disant:",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAOpJREFUeJxNkEtuwzAMRL2SaP70oWEJqIV0YS9TpCdoFr7/mQpbqZu3IkHOSJzBew8n4xuIWEopc/m83b7u921d27LUUlR18N5fewCAiDFGIvp+PPZ939at1mpmIkJEiDi8bzNzzjnGqKqttefPc/lYvPeIyCdE9C8QETMLIRw1S2ut1jqOIzOLSHcEgJcghJBSUlUi6pp5nntBRJcgxngIVLV/g5kRUVWv0+mkB8PMZjb0fJhZVXPOcjLZ1K8EAP9HSul4oTcAQEQxRhHpyp5JnzrnDpdpesV60f0s27auKSXn3Lt9SklEfgF9mBfFduVZeAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/061.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/061.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 61
     },
     {
       "content": "— Tiens.\n— C'est quoi ?",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUFJREFUeJwlkUvPqjAURZlK6Ys+0vZri7QhkKJRE4yGkUEdoLnx//+bG2CNzzrZOzszxkgphRDFCiEkhDDP87+V+/2utVZKaa2NMVrrTCklpSzLUinlvWeMee+nadqEaZqcc977uq6VUkKIjFLKOc/zPIQwDINzbhiG5/M5TdP7/R7H8W9l+7sIhBDGGADAOTeOY9d1n8/n8Xi0bXs4HPq+N8YIITjnWmtrbYYxppQihLTWKaW2bV+v1+/3m+f5+/2mlLbAQgi5kjHGEEJwxVrbNM31er3dbqfT6XK5xBi99/v9XmtNCDHGLKUhhACAoigwxpzzGOP5fO66DiFkrY0xGmPKsuScN02zCAihPM+LooAQopWqqkIIEEJjTIxxu5FS9n2/RKKU7nY7AMAmEEIwxtsmlNKUUl3XEMKqqo7H439M2TQMSQp8qgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/066.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/066.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 66
     },
     {
       "content": "— Tu le lis que si un jour,\nt'es vraiment pas bien, OK ?",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUVJREFUeJwl0duqwjAUBNA8SpNt7qZJs9VIpUqLeGuLCFLQPnkE//9rDtT1ATMMQ6y1UkpKKQBwzrXWXdf9TW63m/c+z/MQQlEUIQSlFDHGCCGyLAMApZQxZrfbjeP4+XyezycirtfrzWbjvXfOCSGI1ppSqpQ6Ho+IuFgsuq57PB7X6/V0OsUYETGE4Jyz1gIAUUpRSo0x9/u97/uyLN/v9zAMbduez+cQgrXWGFMURYyRMUaklABgrW3btmma/X4/juP3+329XsMwIKKU0hjjJkVREMYYTLbbLSJWVdX3fdu2ZVkul8uU0mq18t4LIWKMdV2TLMsopYwxKWWe5865lNLlckkphRB+c7XW1tp6QgAgyzI24ZyLSZ7nWmtELMvSOQcAv/iUEuGcz2az3w/z+ZxPfoVa68PhgIic86Zpqqry3v8DTU4yYoE+H38AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/067.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 67
     },
     {
       "content": "— Ok.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVZJREFUeJwlj9vOqjAUhLktpS22itlKORREGxCpQKIJYrQeokGNN77/o+z88F3NxZqZNQYAAEJomiYAACEEIcQ9juNsNhsIoRDC87zpdBqGYRzHhmVZg8HqIYRQSi3L4pxLKRljRVFIKZVSQojFYmEghDDGlFLUwxijlI5GI9/3Z7NZFEWv10sptd1ui6IQQvw1UEo9z8MYE0ImkwljzLbtQbiu+36/tdaip2kaY7gbPiGEjMfjQdi2jRAKguB8Pl8ul+VyeTgc0jQ1TNMcVkIICSGc8ziOhxTbtler1fF4rKqqaZooipRShud5juNgjMMw1Fr/fr/P53O/3znnAIA8z5/P536/V0r5vv83uizLIAhOp1PXdd/v93q9tm3bdV2e547jZFl2u90ej4fWuqqq+XxuSCld163rOkkSxliSJG3blmWZZdm/nvV6Xdf1brdL05Rz/h960Tm7Z3ByvwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/071.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/071.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 71
     },
     {
       "content": "— J'étais vraiment pas\nbien, alors je l'ai lu.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAR1JREFUeJwlkNuuwiAQRXlSWik3YRgKFQpiNMRE4///28kp622SmVk7m9gDYwwAhBByziEEANj3vZSCiDlnRNy2bT0gzjlEtNZ671trj8ejlOKcu91u9/u91rrve0qp995aq7USAHAH3vve+/f7fb/f6aD3HmPMOccYn89nrbWUQqSU1+vVWouIvfff7/d6vQAAEUc27/3lcpFSGmO2bSNCCCml1hoAUkqtNWPM6XRaDhhjl4P5gHNOOOdCCK21tdY5t64rAIwlpdSyLPM8j3FAlmWRUiqlhj3GGEJgjE3TpLUeBs75kEzTRBhjnPN5noUQo9lRbu99XVfnnFJKa805p5Sez+f/A8YYpXREHL9TSp/PZ3RtrR0GSqmU8g+yoSWouK0MMQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/075.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/075.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 75
     },
     {
       "content": "J'ai décidé de reprendre le contrôle\nde ma vie et nettoyer mon sous-sol.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVRJREFUeJwtjttyqyAYRr3oxMjhF0FBQRGQaG09NGnaTPL+D9Zxz75f61tfojm7aLkP9jZ6DoykKIriZfXTmcf78Jzj7+S/R3e9uD3YqW0Sw9nQVFtof+ah4ZwjEnixqPLH6u/RfwV7Hezuuy10+2BnqxMjmFNiauvNd06WHOG7UasqH71ZrF6ducV+9+1i9UfXHMJxyajb6L9ivw9WUBgrsdfVqtWn1feLe33Ex3t4TGFxZu6apOF51PK5Ta9tuo1eMobPKJZ8UlUr+Ora+6Vf+6Pz2f8TFMtDUz2XcXYdIFpSGkoRKyEhRynJEUhWDLW8xn62ejJ1UgIYwau8OJ9QdkL4jDkGhoFkFBClGUUpKQgszkxtHbVMBKWQ4fQtQylGKc5OWJC8wDnJDppmFDJKzsSpKjbSqyphhOCD+z+PUiwIFAQoogUBQAeNUlwCc7LspfgDuD4qzZsbUR4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/082.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/082.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 82
     },
     {
       "content": "Le premier stage, c'était\nle stage de mon enfance.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwU1P02AAAOCeOHgAs9GPt33b9Xsdfbtu1G7rWNm6sLKOBSYBmWFjmIyOfXU1BgnEiEeN0XDQAwcPysGTXPTixd/m82BtEwZe5eTkee/4sLPXLjhlQ5EMgK9zADFUnodsMrG09IjDV2VAQorC6mliq1IMzwaLaHRxMb95d71TLTsc2VgTbZ5xBDoHCXJ52WRIEZA0RWMVGTfN9XDYixfnL+Px5dWr0163JEBPTVkCW1NTdZkuQqJpGRJkkokk5qm4apT8YCeaDaNZGMfjN1evB7XSrgoCLbWflXyFqUqwkBYhQQCCwjbFZBrZuVKj1Qrms+F8MZ5OwsnR/rbGd3S+a6k1GRYkThd5FQIRQsyTErJm5pzGE9tpt/zzUf/FWXgQNMs87SlsC0k5SLoi3bF111yjcBpz+ceCqCHby1tOv9+fXN8Obh7iydTPCAFSEAQ6ILYyfLdsZNP5DaeBOewKz8sSKpyG8z9///nRw+Xt728/fu5WK1mO1lm6jpRnrtW2jVVCGR11MJtZgYDJ2u6Hz1/evr/Tn376+PX73f2vOIo3kebb+QNv47hedFEGx+XpYfM/fANpj4KF+AcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/086.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/086.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 86
     },
     {
       "content": "J'étais tout petit.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwFwQ1T0mAAAOD9on5AXmd5mroEcZMB+9B9OPbFtnewVwIGc2wrxpfePD2dVzIi4KKuu+qqO6urf9bzIJrmAODDti+0RAoei6ElRMCL217c0kY1pWdxZ7rsKqeOd9roWzBAaO4xvc0Tu2yZEoCo2mPKSrfGk/DLt48Pv6aTD+lFmg6TxBvctcNbN7hESOnRSaaMrZFNtt6VG8G13JplX99F8eTfzezn+eRhNJgaYgBkXxPa1XITMZX194POGEghLPsNM4mdjl9M5+fz6f3i3ZvV8j6JnNsz+8oWEheGQgFZ+KVlLEURrqlYwzZ/vO1+Drg/c/fyShpeC9+Xzb+zxu9E/SptrF6VVtouImE5QBFKBef5fKeufxo1XZEKrQo06YqFu7bQh2DR4m7M/bh6WGUohN/a01AcHDJskYCmdPHS6GiqZ1q9KhzW6pFt9+t23wa+pXUNDQosUnr6nN7cYXb2xEJRPzqyOMFRlV7NjGyzVzNCoHu64sgi5FmDJmUij6BPnqHrG/g2SmZyTPbg+AAX8wWdIk2GqpCkWixIRP4Ew9jcPpPNlNAX/wHSi8RKXAU95gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/089.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/089.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 89
     },
     {
       "content": "Je me suis battu contre les meufs\nqui voulaient pas être mon amoureuse.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwFwdlS2lAAAND8V1/aTkFRSqayBQIhiYFsXMgezIJJBgNEsA0qghsKFMUyTqV9aO0441P7Wz0H4qu2oncVy6NstuRxZV8qd+VmaDmDfb4vMx2RcAHjsJrtanuBqLYgbLOUiuAEzFQthD9/a4TgbL6YLO/WP5fPf6Y3q3k4nQVnI/fwYt8fOwfH0G6cgt9kKluM22GNRcIZKI+Pr1f3z8c3v0dfX/zPqz2xZ4t9kW1VSUsFLtTl8UtPG5rKRSB5XnZ4qq2/zWaT0Y/V7fX1yXw86NDYou+cSOVpW/cACzWUjaCdfbmV/i2N7we7d+36+Ri0QuJpof99aK4nZohFf33BX/3Uk5BZHpEQgkRxYrspUF2lbpCFqwZnSTgvJg251NNkX6lY9Y/3Lvpg4jaWkwkUKm99qiJFEScbNGuxnMNQviT3VL2nqUeGPvTMU0cfmI0WT0skyaNFKP3uA7GTZJAcKBZVinIB15FrgSYEqhAogi/WPMCZNCXiJSGfbmNRKPE+ktyIZWLx3HaiCO+wSBag+VoBrRXyAM1zSJbOpKlUEoNhLB6rwJH/WaLJ6BPRILIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/090.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 90
     },
     {
       "content": "Je me suis battu contre les mecs\nqui voulaient pas être mes copains\net tous les adultes qui avaient raison\nparce que j'avais tort.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwVlv0gAAAOD+Ex/VRGNc4psGNWpmlgpt2egBA3rQixZ6UYG1dOW+NgwLbojA3JAxVHAmxtm4qPFlj/sf+xF+HyDrtmbWtfw2Y/NkMcVUFaqm2p2c280LLZWtKqQrcwUu45Q1sy4KOSDsPI0n0QSSVGhhfLjXPzkeL+fHX+Y/f3w8vzh5N5u0B6PGQd9yduMPXsI3VoBIxRdLgkpQcRjrzd586V1eL39dLf4MF7+t1z1H321YPUdrS89w9p6Puv8EYOnnxa3Yolue1rKzyfBwMrjyPO/00+l0WBWoSbswLur9ctYwZAINoiEY2Jdfne0wR/tsqxOajQxvtHU2KXQp8HuH/NsMXWQ3/03Nr0OLZOmVW3dv37wDkP41NRpWeIKTg64R+VBQXZUtquDMjXwrc10lsZNVy3o6EoAkDM4zMBCD11kUNyimJCmNlNzS029L1kEpN6hs96xMO5epm4ZNBe0oUuOJpoIDUQgScUyPb+Y52pH4iiI1jXTLVJuZdFVLVVLce3XjSHh0bjz+nPT14g8B+MUqAYJxKEAjMLexLmKoROByGE+FCRHHxBCiYX4x6OcRMAGtJQKr/wEqEMlu+WJ16gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/091.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/091.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 91
     },
     {
       "content": "Le boss, c'était mes parents.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gByeYh1fI17f4aFeXSHeXyJdnhcUEFhQTJhQDdORjJPQzFNQjBXQy1bLzZYJDdPKTUAYkJRZENWcEpWeEpPd0dTgz5LejlBhExMg0ZKeD1EeD5GczpCcDc9bS8/UB84g1kaAFodMGEfNGggOWwrQYZNXZBUaJNUZ55sapdgZ49QZI1NW4xOXYZLXG4/TXleXLqPFgBrWltzYWN6Z2mHd3nIwLXKwKfLw620p5rFt57RyLW1pIzFuKnQzMq5rKeymIXHlw0AQElFLjEwKy4sdYiDzcWxd4lZVHdTta2Ry6d50cCdybqi1cmu0sq52c29sZNsnnlIAFRNTllJR11MSHt5d7eqok9wSy9hOZ9/bZRkRa+djKiWjbCgla6jnbSllruebaqNYQBvXl19ZmSLbGiIc2+OdHF6aVtwa1iMZFyHYkuNd3SIc3GDb259amlxX1+FcmqXgmcAo2tCnWRDh1lOdGRigGhnhWdoim9wgWRff2hdinVzhnFsgW1pemZkdGFfalhZYE9RAH9XQGlQRl5RUGVUU2hXVmtbWG1cWm5dXG1bW21bWmpZWGdWVWRUUmBQUF5PTVxNS+DEvIzLdgP7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/096.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/096.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 96
     },
     {
       "content": "Je les ai défoncés.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYKDZZKDhgLjduNzVxNDl1NzxZRDVlRTNbQCxVaT9VbEZVaUN2dDOOeD2DajxSQikAXSM1YiU5aSk5djI/fTVEfzRBejtBZjlGnHoxvqAPZV5RY11QlINLoIhJnYRLnIJJAItrcI1ucpp4f5lxcJlwbamGj5lxeJqBi9WxReW0BoZtV3tncI95a6GKX6SJTZyESAChnYfGto/Wy6TFu6XGuqHX08fV0cjFs6XQrk/Jnw9sWUVrXFxuXl9yYmW+kx2phzYAb3Bb0bmO0sGXxbeizLyjy7+r2dDGzLWHtZp0qIpofGtlcWFcX1NTc2JO16QEn3klAGZYUJB/fJWFgZSDgJeDf6aNiJqMibmliMevf7uPXaKCYoh0a3hrb4BsS9OfAJhyGgBrTE1xX159Z2WFcG6QdWyYeGqHc3CKd3WLcmyae2Z4Xlx+ami2oomVf2GTcENsVj4AaVZVb1xbdWJffGhmf2pmgWxpi3ZxjHVxgmtmgGxre2dkbFxcqpNzrY9bpIxweGVUAFtNS15OTWBQT2RTUmhXVmxaWW5bWW9dW3FeXW9cWmdXV1tPUmNVU4t5YqaOZIptQnXLxNaNxf+CAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/098.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/098.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 98
     },
     {
       "content": "Je suis devenu adulte.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBePkxZLD1gNT5vPjxyPEF2P0N2QERySUFlTD1NUDxkg2tmhG1reltqWzJxXDVJPCUAYSY3Zik8bi09eTQ/fzdFhDlIhjtIiUBIajFEjGkkkXkmXFdHZ11BoIdLoYdLmoFGAGw4SXM7THtAU4NDWIVEWIdGVopHWX5CVHtSV7qKOat5SXdiaH5qaaGJXaaMT5iBTgCsno6ypZq9rp3Huae6oHe6qZrJv7+4rai3npDBjlLElVeFaluVdmZyY2aLdl2yji8AanVPn5p+3ceS2cqa1cCJ1ciu08y729HEuphxyaBhqnxdgVxRfF1MXFBUdGBLyZgDADxSLYJ4a76rkrmpl66fmLalmbmtpMCvosWZYrjAWVVGU043TXtkWFRLVYtwMtShAABLSzxwVVR7amuDcG+GcXCZeG2UeHCGc3OqjXSlkldfSEV4V0yQd2qRgn2FbUSleBAAalRUbFNSdGFee2dkhG5qhm5miHFshHBsk2tXwIJclnBalWZKdVxVtZxyinBPiXFjAFpNS11PTmBRT2RTUmdWVWhYV2xaWW5cW3JeWnJeWGVVVWBSUllMTox3WqSIWp2EXmazwCEZLTKxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/100.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/100.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 100
     },
     {
       "content": "Le stage 2, j'étais adulte,\nj'étais tout seul, j'avais la pression.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBbN0ZWJDVdLjZrNTRuMzhyNTlzNzttQTZ2PDhrLDRyTT5zW0xtW0R3Y0GKbkCBZz4AWSAxXSQ2Zig5cS86eDJAfjZFfTNBfjhBbzRChFo9zp0OdVtBXk5MgmxImoBHjnVGAIxrb5BwdZRzeZx7g5x2eJRqZaWBiZl0eo92g8GkXOe4A5J3QWlbaXpnXo54Vpd+SgCTk2+ioYvIu5jXyqHHvqjBs5jRzMDU0cfEtavGp2PRowp5YzdgVVdqWVVhVF6deisAIUooWGhRzbaR0L6UwLKfy7ugx7un0svBybeStZpyu6CElYN0d2Rcbk9Ad0w2toYNACdJKlhWRpeAf56JgZ+EfJJ9d5+Mh6eNgL+Wc7eXaqBzWYpWVYFhX39jZG9VRbSFBgBmVVFvUE93YGCMb2WTd22JWT2PZ1SRenOOaFm9glalc06BUUGOXUWgiXaYg2eAZEIAZlRUa1dXcl5ddmJefWhmgGRbhGlhh3NyjXBloXVenXdjfGJbclJMknljqIpWl4BkAFlKSVtNTF5OTmJSUWVVVWlaWmtbW2xZWWxaW2dXW2RUV2JSU1RKTlZLS3loVZ2IYzgZvc7wrJ6lAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/102.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/102.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 102
     },
     {
       "content": "Je me suis battu pour avoir un travail.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwVFumgAAAFBOsAvsd8uyWrcqmrZYp9Q6GYooAgWUIkrBgoIioFAUpK3atV320dTEn2ZLtmRLdoAdYPfae0CpxJbRNp1BC8dJugu3qXwV/dCrwnw1V63v63p8MNxx9NfnhUzu7Zv0YQrIwXABYzo5SszXJmrjOSptQvynhvkUbjVIy5kOxpZqug55Shf3XqY/ARyp7lawsyPSQ5QJI4RF5J4QvrXtgFCWeOfP93+/t38fb5+uCAbOQi9ABmgoZygvuB+7F4Q0Wq2+Grf3vHPHLgJiFOH8yv/x6+H50Vbu6HKliENkE8C9LEXXQ5gXa13j+mbrfd4O52vqMiKtEGXW/S8bcfSkyRt1VOEqr6QiQNN0tl5rMW22JavzaOGGM3lq9y/H/ZmrWXZPN2XV1ANDsvkOd8KyAEcJJwTZEs456UIYO8H8OvLX5nwRXi2XywcvuBm4/swNB4YlyKomDYAaRh0hKEW1ZKkvKppluhPH7w2tse1MbU83bLHXl7tasykSDM+eCgBSwsoIjpWJ4zySeL+fTBykQCgNQikwAyYhMHGY3Dt4F0/txsB4DIztJP4DUIGiRyrUgHQAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/105.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/105.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 105
     },
     {
       "content": "Je me suis battu pour avoir une meuf.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwdtO2mAAAOC+w24XLpZsyeRki61QEQQCykHEUX5AoJSurL+U0hP/OLRQaZWCS8wulrmo2S52M5Nd7GYvsafa92G5QEJvHE/y2WaGLuaiZSbJdEhvRmznIcXwA4ai0r7DOvn6CLz0xXxvEtg5UUC15JOVvhtl7vt5uVJG9bxt26Zl6bbnwYt31b1XxRZ+KoYCSSJ2hrUPqhyV1Y4S2/P2D85wwPCnhv78+vf88Pfx8+PXFhtP5V4cI7ppplPNwyyH8XFglpWrCvKAtQUrty7foevb1e/n24cnU9wwlVLlIiObSc45yXXSJxzWoxmzJF9X0QZMt8B0GGVSG3rql28deK+Pvkt6ccTsTBvxzrxU4FMFAWOKoAt6sDtQoY6GM11aLLWlIcoISoa+XmqLSzSojWRhOP0gyB0WYo0W1+gJujqxTEexlrZ7467Wk6U7tt3NzaeFszbMq9XcHasfWQHyPMQA02aa3T4/GIhKD8qaMZ4iS9VnkoYMdQov1a4oiX35PQerDRYAFotFk4G3eNAfCYcofHefwOk9giYjNBk5IPAoHt7Hd6PhEBUOkkF/xL9D/Ad/U6F3lMf81gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/107.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/107.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 107
     },
     {
       "content": "Je me suis battu pour être heureux, pour\npas avoir peur de la mort, pour avoir un\ntravail, pour avoir une meuf, pour être\nheureux, pour pas avoir peur de la mort.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwc1umgAAAGDeYpctmVmaJYoo0KJgbNOqaWzBv4lQxYpCBeVfQMBWrQ5XrevaHpZuhx12WJMetvMeYg+17wNaiVwLLtJYTslhmhodOaDhxJQGcVKIwBzxjq68ySTe51KJUgeKpKDXCGCWMtsPJ93s8bhYHrmeHUzs65sHhWuyeISW0l0Lyx5lqTOk6VJgldqhAPWwsK52hnkmrAm/n/89P7583f74zouZo+NX5dnhxbZCKcW6nxbW35bo3ycU0PN9nzRdsr+qCQ/hrz+b8N7q3NXbZJnJm7P8YEvXtQoX7A+/3HqFl/UBYOR7E1ILSurylFtcuD+H4qPjPbVFUm9EA/ZAXLKMRZ1PieH9PniKv80BZzVOaMrD3tgbGK7sjWVbN24WljcYq4xtGn4Y+IuRe80rfovlG9UW0BeUlijrI2c6XXnThT2br1e383DjzT9+Xt19Wm7My6nrXY1NryMpPWEAcCxfY9rdnqjKuqRYsmbbZqBqtmQ4jj2xDJ+X1J6oiN1BjT1v0G0AjCLxGBIH9xIQBidTKIIjcBqF8T2U2EUIBMbhZCoJYRC4G48hsSj8Hx/Bn5upeUAZAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/108.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/108.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 108
     },
     {
       "content": "Mais ça tournait en rond.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwdws1umgAAAGBeotuhh13aii1aKUyLAnaVgv+KYEFRC4p/CCIoKrVuzv7OJttOW5dsyXZpsuPWZLelhz3CXmjJvnxAiDh4hsteEDvCoqlsRdwjD9EgjiNkGNshAsFYMFfKFfmj8qGUOeDSBA9skLyH0TJR0pSLL7qXWrRuEA2FktysVYvlGKqiT35PFeklu1+WFqzwAXhKyAjnJJha+ngUsT5//xj/c5/69YX+saJ+3tLNgsnlFw1Ot2udRG4UT64AUlQj5RnL9ljpNDb8dLcSHt7x9wv88av296HFxaiNzU3bLM3nF4JcYZg+sKXEQ6JdLJr56owY3lHwcSsu64LuiMa3peJdB2km9f7tynXOqs1WJm0BdKlUVS1r4DqTpTa56Gt2t+OqnYXdHuvNacD/fG3tSaOuqUo3L5SzeQnoqoapWU3Dck9f3SzfTJeX8+XV1fnN4vX59fVtr2ftYzjBJCRRpnkBSSYAUTw5qahCta629EF/3Dbs/mAyGc+d0dnQdp3RbOzMpXqbL5ST6UKYTgDQNuyDED+EBvxBOBBCYQxFwigS+T8M7wahHXgb3AU9Pq/HB25B/wAxBpi9cTn9KAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/112.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/112.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 112
     },
     {
       "content": "Je me suis rendu compte que la solution,\nc'était de buter le mec qui criait \"Fight\".",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwdws9u0nAAAOC+wy4mmuiCLlthLbSkW0llsBbG+FNaaNkYUErpry20ha0dW4FR2w0j8aCZiTEmRmOMJ3fxZvToC+gbmfjlgx5t7EUiJJZvVTK56maSR8h6PF0idikKY3iWE9lKrVjlcmW6wKcknKxBWJIWsym655WK/QuiN9g/uimDa8Esk0x7/Ns5/7KSo2c9RQSf2oc+td+Edqh6nmnhJ6uxb/y5I01591LJfn/bfwYksXGn6x891QHSNFe/VdkwU5ChDNOqFJU0eG3NnZ/v2FBOF/ZSv762frzpn7b1IDBfPQ/m03npSNO4a7oIoGy+w5ZB2rqlebeyxY1O7If31z8v6L8fiG/Tw9XCff8ivPGDevdM4/wcO4AkydC1sX7qD+zLkeEAc7m2di8BI5YKhupoYNhXw4mlO1yr22+CA0aAZEXvakPPnU3ngeuHq+XL5nGHojJd2Zh5ge5MzIGr9E1SqPFVkY89hYRGRziWVGWoAqtn2OfObDYN/auld7HwJgvNdiRJbQhthq0V0gfCExyKwYntKI5sJ1GESKA7GEbiif8xMo4SSAyPwnF4C41uohuP4fUHkX/RhZg4m7y/vwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/113.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/113.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 113
     },
     {
       "content": "Je l'ai buté.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAcHzkcKkgzTmRMLzVOKTdSLjhVMT9JNjRHRj5NWFVQVUlMUk5ITz9SQFdGPVslLUYASkVNV1dhQVxxajtOdUJga0JigEl0Yz1KT0xyaoDff2hVh2I7XGuJXlydUUhoLTZKAE1DSVBKTSI6WIp4QLSfZrKcTrmVPbiVOllLgmFos25jhXxmck5bhlxVmFhPcDdAWABERFpFUGs0WXpQTUSTdVWshEW1mEfWtlaQamRwaWSRi3WOgYhcbWtcU31cU3s+R10ASEddRFRyPm+TExIbXkVaYk1qa0xUyZo+voc0mXdhioN6nIWHYnF2Y1mAW1N5Q0tiAGBeZ2RmcWNteRQSEzI1RWNmemdgam1lZm5mbWlnbmxocoJreldkZWFeaFlUYUg8TgBYX2RoaG55c3pHUlQ7PT9nZWmBgYeDg4t/f4d3en9jbXJ2bXlKXV1CWVdZP0xOKToAT1RZW1tiZGFqYGdtcXJ5dnR8dXN7dnV7eHZ9dHV8YWhtX1xjT1NYQ05RUi88Uiw7ACsqMC0rMy4tNC8tNC8uNjIxOTQzOjQzOjMyOTAvNS4sMispLywpMCopLyIfJSYnMIukmKPQdHY6AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/115.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/115.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 115
     },
     {
       "content": "Je suis arrivé dans la\nsalle du boss final.",
       "index": 42,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwc1umgAAAGBeZJe2Tm2L1gKzonXCBFEotKBQAaX+UUCqBfmx/jDXLqlrskOTHbYd1kOTXXbYoYctOyzZGyx7on0fkMWrsaywuYFgRYqpikLq4CSFMugLAkb3EwiOkDwmyWVKwdUaxrF5CaDIMk1ShWyZPZaPO25QMsycar3qLI8mAoRxR7em+2/VLC0FUtDuG9wd8Iw0Uc4+2MsfMm3t5suPB/rXY+3PV+rnh9L3u0KDft8dPlltf6ToGPumXnsLFFqjl1JA4NIhztRHrz/Pqcdr4ts99fuh+veJbTKLYDR+t/bD4IZVFL7iA/EuXxCcU8mJJeEU0TJPnD7bK27UXbnxMeJDLfx0u75ezeZhJPYMseoCFaV1NnADP9raSmw+T+rDqK/P7IGta7YiWaFhLyxvMHD0rkk3ZJFXAatnG8aF4XhKUyvkivV2e75YrWfRYjKZuk7gR8HlUukb5x0T5bgixwHNU01WuqJ6Zlvu1I/Ox96lOw28uTeZee6V50yHF2NR7YiCTNBcsUIDO9sZcBdKg3AKhNNpBMrkYAhF4DwC52EIzexlwV14O5FOxMFkPBWP7fwHLQKYgeh6LmkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/117.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/117.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 117
     },
     {
       "content": "Il y avait tous mes potes autour.\nJ'étais face à mon double.",
       "index": 43,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwdy1tr01AAAOD8AGmanNzOSZqetLlsSXNr0ty07UxT64J0A81AhVnwZSyIvgwUZCDDNxVEB8JW5gUvCFJkCD77F3zy34h+7x8BGo0WaEK+0fEagg86WQvFfD9GYYKkRFBiQQkBtC9ACDCgGJIkOJJsM82OQOsK71g4S5w8tsYDY2vkbQ5d21LXDMXVOczTKg8QAASkqJ7IYij6avui7V4rtx/frN4sZq/2qntVVfrp1A/NdtcQGBPRCDAEoul1kVNb2C1gUYxu7defnyy+18Xx3WIwyHaS5Gq5nYah3ZZtiRX/BYr2sZCsG0mSjyezvYP66/HRjw9HTw/uSLp1+GARXprMp8WoH5gQSAxLiAzlybAwvK00un5jvlvf/3R6+vvPr5PlC7XnrlbLuirnUeBpRk9iMfwfLIkbus5mZB8+2n979vLbl9c/z8/OVyfvl88+vnv+cPf2jjPzNcUSOSywBAKUKbKOqkamkUX92eVslg+nG+Mr+UY5zSejNA3jwEndLtYhIzKA4JqkwtIYIU2SDVm2FdzXuoGuB7rmqaqtKGsYd2WlgySNpwWa+gtFNmChlmMqjwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/119.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/119.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 119
     },
     {
       "content": "J'ai essayé de le frapper, mais à\nchaque fois, il me tapait deux fois plus.",
       "index": 44,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwVy1tr01AAAOD8AW1zzmmSc06T9OTWNs2ladJ0TZvadr1Yxja07oIIsy8i6sS9KTqQoYgg4pgiInVQFNmD8zLwgn9O/N4/DmUyMuSxmNGq56UAaIlMGmIQEz+i8pLEGhKLAHbPYQxVyKNslhMyGRVldQlYTPQc1kr8XqOShtZ6WpukvuvoJavgWwITgSFCAiGHed6hOUWigaEuecHadPvJjdnbnfHRzc07GxsrYXNUb5RlvSQhm0ACEEcAqOSFCmP+kHQHnau7e2cfn//Zv/x61ouj1mazubxypR3VPFVx8zkKEYd5EKmkVSzXG/3O4OKtR3tf5k9/Hx88u7+TN+39e9fj9vLqcNCqBjaGFOW4PAJ+HqeWN4rr0+n63ccP3r08/Pvz2/Hi0Kh437/OZ5fGq+24V3VKGDEscBQCRxY7NW9Sdw4e7p58Ojo9efPrx4ez0/eL+YvPi1e3r61t1cYX7KBM4f9AIG9TVNFYbBeTuDbsJaN+Z9jrjvrdybDf7yRpPQy9xGZ6ESOKICdks0wABUJNWSkqiquxwNRDywots2oYrsZKakFXmEaoKQIJ8P8AIzxhbMqPvWMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/120.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/120.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 120
     },
     {
       "content": "J'ai arrêté de le taper.\nIl a arrêté de me taper.",
       "index": 45,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwVy8tr02AAAPD8BS79vi9pvi+P5tE8mjUvm6bttrRNY9LOrqseykBwoI6BsovgY+hBRHQIHgRFC3PuoLBbNy1zB0EvXtTz/h/xd/9R8MKCCAsSS7d1ZkkhqSEbPvabOGzwQpOLHDEv83UFihwqoQKiaYql6RKiyxzwJNw01MS184bTrVvD2M9WvHpFDxQt0ji1CMpFRCCiMABVnpEx7xpyu+qMw8b94eDdjeHB1vjp5iQLllccz5IUEzM2AQQyFIGgwrOGVDITcmuUP9m4sn8zne30v99OX29fnjSiq2vj5ShyS6IrMDxiKAKAL+NWxQyb6eZq+ubx3ZPp7snnZ8c764cPJ3uPtsLu6qg/iH1/kUABsZTAgEDCuRX0w9re7van6fT069Gf8x+/X9z7+/Hlz1+z62uX1uNGz3csjBTMUgICi0Ix9rxBWH31/MHZ/GB+/P5sfnj65cO32f7s6O2da6ON2qBTCSoE/g8EFmyecctaZJut0E/brSyJs6ST97pZr5PES+16rea2bEUzMeQRpFh6QWGBTHhdlKyS5KrqRV2vGUZo6IGuO6pqybImKSoR9CLgQOEfUqxmze7pTnsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/125.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/125.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 125
     },
     {
       "content": "J'ai avancé vers lui,\nil a avancé vers moi.",
       "index": 46,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwly81r01AAAPD8BWvy3mvSvHz1NR9N0iXNR7Okc0nXSEYrtqMT2WTg2MGDzOFBGChTHKKHHUWG3Q4FRU/rHM7Rox8HQfHoHyQ4+F1/FJybkyAjs3SmlxcJzuvVzJDTQPITLCVc7EiFJkQEShWkIAaVaIorlRREaxxoynxiqB3Hvhm6eWgOlprFUrNl6QFRF1S+xgGNgxhCimeYhoA0UfTqJG3Mj+J0b7V3tN0f795+uTm60YyvOZ6lVE0e2RhgiCgMgIVZTZHsXBrG0fOt9ff3+6c7xefHq+/u9e60glvD4XISJ6bhimUB/Q+eUoktPUryjX7+Zv/h6fjZ2cn+dHIwfbD2dC0NVkZ5upy4ns1DEZUpAQFf4VdMr9cKXj3Z/Xj89vuP819/Zj//fv19dPDtcO/uxnDQDjqOZWFEeJYSEWiIXOa6/Wj+8MWjy/OTL5/Gs4vJ7GJyeXY8/fB6Z3OwHvQyy7cwJBWWwoCxhbKrqQt2PWn51zvtopsW3c6VbraYRWHotm2i1nkoIEixNE1YUMWCLsmmLLs1EuhaaBihofu65tSIqVRVmdSwqHOAB+AfwptnI31UvyQAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/127.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/127.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 127
     },
     {
       "content": "J'ai avancé vers lui.\nIl a avancé vers moi.",
       "index": 47,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwdzU1P02AAAOD+Aunevl339rtr33a0a7t+bN2HrczRqpsFXOJHDCTgQS8aCTHGGAMxymknTkJ0IRwMB6aZM7KDB68Yb/4ig8lzfwi4cEWgCmKRTDDdVtjrhpzoYhLwfosVmkxkC6nG1RUolKAEC5AkCYZckCCplYArokhXlxwz951eYKzEteWrbriIfUWN1JLKAI2BLAUJBECVpyXEO1hasu21Ruflav/D1q3Dp/f2H94ZuFHs1gxRqSDaZAFL0QRLAZMrYkGyUn7Y8XaGg8nu+tmT3uz12snj/gPfy/Nhp1F3JMHhaQ5eDgVPRq1FI4x69/vLR/vPTg92p+M3X8Z7k0e399azIF3JsyzxahZLcZAmeAg8EWUVL/O90dvt8+np2cmnP39/XvyeX4xe/Tp6v3l3kLfD0DAsjpYRTXAQWDwT19ybYXX07sX5t/H3r4fz2fF8dvxj+nHy+eD5xupG40YdVy0OKqUiwVKkydGOpjZMoxl6vaSZduO0e+2/pJu04zAI7Fa1rBoI8hASTIFUikBGHBbEiig6ZcXHWqDrgY49rNllpSLLmqSUWR4zAAHwD9JhZy3hLRM2AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/128.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/128.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 128
     },
     {
       "content": "J'ai avancé vers moi.\nOn avait gagné.",
       "index": 48,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwVtr01AAAOD8ApOenOZ2ck9OlqQmTXPpfWmT2rjaVsQxHIMNhr7My4MMxOFLQRH0wRcLwryAAx1szE3nFHzpsw8i/iO/j4CXSImmZIZKcbmtCbmlppbSrUlBgqQmV/ekwkSJSkscVGAJkhTBkqQCKZMFgcw3LKPnu9PIH0T2qBMU3Wri4Jpu1A3OYIHJ0gJNEzwoVQRoIjGwtW7l8mqz83C8Mt8eH9yezrbWhmGnXanasmpz0OWBQENCAMDhGVOW3Fy80Up2+p2DvY3zvZund7LXO5O1RmN1Ou03ktDQPLGMaEggAKoKm9hW0spvrQzevNg9nj/+Mp992so/v3rw7NF2nI1HgystP3AFKMIygSAIVX7oBFej6PmT+3/+/Tr+uP/t5PDv7O7vxdFicbR5vZi0o57v2gLU+DIhQlARmZ4XXEu8l093f55/+H66f/H13cXZ2x9n708O5/c2JuvRqOeEDqI1niEEQLmo7GGz7i4141qeNofZcpH1i7w/zNJsuZUmceS3XU1f4mkEaYKhSI0BqoCwKNuy7OtaiM3YsmKMaxh7um4rqiGpuoAwCzhQ+g9RfmbBdKa15wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/130.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/130.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 130
     },
     {
       "content": "J'ai repris l'ascenseur,\nc'était celui de ma vie.",
       "index": 49,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwVy81r01AAAPD8Ay7Ne/l+ab6a95a1iflsG2dNXLKmHSibHUyLnhQFD14qiE4ngh6seFCwCvvwMPBQmGUTqh4UBC+K+D+Jv/uPYukFFTKyQJv+guhDrSXKLT5K5Kgt4cLCmWlEQHZPyRLUIcNVKhRP0zpbqYmAGILb0JuRfb7dSGNyqeMPrw3C4hzBukd4QwCWAGUIKQkwDuI0CflYyx13s3X28UZvcv3C5PbWs+0HWX9Q+IFdNW2RrcsAQZaSAVhCPK5qThcN0mi0lh7eLObjG/MnW+/GO6uDYf/iZqcZu6rqKhyC3P8Q6GKyROJ2fmWt2H85mu09mr7e/jh5eDx9Nbo/CtP+eq+bhmFdggrLUYgFgSqVtl9G4fOdO7/+fP799+uH3d3v345+/DyaTd/c2ijX25GPFx2F00WOUlimoQip5/Vj58XTu18+vZ+f7M2P9+cnB7Pp28OD8b2rw8teLyCmg3hD4ikZMnXEuVatVV9M4iBPk+5Kp8xXyjzrFdlqtnymmUTeslfTicQiFlJ8hTZ4qEsIV1VbVU+bRkismOCY4ABbrmnYmm6phikrWAASAP8APqFo3gEF36QAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/131.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/131.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 131
     },
     {
       "content": "Bref, j'ai fait une dépression.",
       "index": 50,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAARNJREFUeJxtT9FOwzAMrETjxJc4jZO03YY0CmzqpjFpL/wAX8H/fwnquhcQ1smyLd+d3cC5BFbAMxyxJQSHDt7zkosPt019z6oIp5K8RWOtZesiwzuQgbDfa7ftYpUQ4RPC93U6Fp1rHiW0LS+EJe7aZJC9HGs+9XXSVEIQ+I+xjhJfcyKCNWjIWufuNgRLGETOQ72M/ZQ1+0CEJ8MlBGexEAgNHOCY7dI4wibGvaa5r7suBvbrcC1WNAoR9nBwFsbwXvU81OfU7boY2ZNZllbtB+E6lkPRQ9HipTXcIbwVfdHUi6y2f9DcNvVz139N20HEGCZa/u4l/rNtQC03c0mXPs9VYUGGrWEyv26w5gEyTC3/AAU6FlFeqD/nAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/133.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/133.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 133
     },
     {
       "content": "— Il y a quoi d'écrit sur le mot, alors ?",
       "index": 51,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAALhJREFUeJx1kOEKhSAMRpdOs8hgpalLq/d/ygvGpbp0z68NvgP7Bs0TKSUiqi9CiJ8A/OyIqLW2FWOMUgrgkXkuAEIIIsoVZrbW/hUQses6a22MMYTgvc85O+cQ8UUAAEQkoqXinGPmnPO6rkR0b3IJSql5nmPFex9CYOaU0jRN9ybXSVrrvu9Px3ufUuLKOI5SyhcBAIwxy7KUUmKMpZTjOPZ937ZtGIa2bc8yL1+SN4QQWDnnpmk+hE0OBWNeGcoAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/137.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/137.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 137
     },
     {
       "content": "— C'est pas ce qui est\nécrit qui est important.",
       "index": 52,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwVtv0lAAAOBGZ1ycIcMxxoF2pYOeXoBeKAXargW6nrXj0jVbYZNOcN3wsuwSjESTGX0w8UGnz77swd9g/H9+H7YnMUFTOLKUkamIm1mYTllcsa9Wxm11aMihIdscpRJpjco0qKxMZDBHgFFLmXnGrGsGAj2t8xNkzLqtt/3OuWfG7rZXgW1I2hxlFol6HmBsFnw+Pfh9e/HlbPixb9642odo8P7Im4fuZYCuA3RhSkNdjnud551GoMnYIvL/3t/9+X5rC9zVQS/u7fp67WofnSH9paNNm+KJVPQYKmrVQ13uKSXs58303/3dj3evkFT+Nr/8eh6dtJqxY8SOdkjlRiy8jkahJDogfdgUu1Ue+xSiX/PYkgQK4EIRciTFblJ+lX1jwWMaf412FqeTxYtxn8j6ZXpPKWOoTE/shlViHi89efRweenBcj6T03jOgaS7kRo35TqkbUXxRV4ncjQAmEyA0KhOHH2gKW5NGmgKRxAFnNwpwUBg1lZWCzjFkoXcOlhPJMHqM6ywlrTYrV2R22+Io+3asVlrVziVYZDMd1WRxQkyDUBqI/k0kVxJVLfy/wHAQGXBYKHiFwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E80_brefJaiFaitUneDepression/140.mp4",
+        "thumbnailPath": "thumbnails/S01E80_brefJaiFaitUneDepression/140.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 140
     }

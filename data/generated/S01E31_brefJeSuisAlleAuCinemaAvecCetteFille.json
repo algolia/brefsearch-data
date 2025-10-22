@@ -12,252 +12,546 @@
     {
       "content": "Bref, après beaucoup d'efforts,\nj'avais enfin rendez-vous au cinéma\navec cette fille dont j'étais amoureux.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBeT0pjVE5oWFFsXFVvX1hzYltkVU5EMy5vUUdzWU9qWlFsXVRTRkIyLjUyLzUvLDIAbF1XdWVefGtkgnBpg3Fri3lyTz86RS4opHhqrIF0g2thd2ZcVUhDMi82NDE3MC40AHNjX3tsZod1bI17c5KBeJODentaVIFdUoJgV4JdU4RsY4V0a1VIRTEvNTQxNysnLABdU2JqXmuJe3t4aWlfUFNkVVhrTUWRaV2ieG6IY1mDc2uIeHBPRUUqJy1MTFheYnIATUJQTEJKZmaKNCg/GAkdHQ0gQyklY0Y9dlJJZEhEiXt1hnduQTk5JiMpXl5siJCpAHFoaF9YXFpnjikeNSYWKCQWKikYHycWEzgkIyoXJ29gY4d3bTMrKywpLkI5QV5fbwDKyc3q7PDJy9IlFykmFiouIDQfEiQTCBMPBRMaCx9MPEh+cGotKCssKC4oJislIiYAwL/D3t7iysfMIhMjJBYoNSY6MCM2IRYqFgsdFQgZQSw6aFZVKiYpKSYrKSYqJSEmALSyts3N0auorSASISQWKTAiNiQYKzAgL1g+QFU7OIZfU21TSyEfIyklKSYiJiIeI3cHiejT2lynAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/001.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/001.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 1
     },
     {
       "content": "Le choix du film était\nimportant, pas de 3D.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBrZ4E3L0ghHB8iGx4xJSQtISBAND6QfHleUERVSkJFPDleTT+WdleMb1VCNjADBw8AdWuDJB8yFBEUFhMYFRMaTTMqtHxcpod5YFJHaU4/PSolLCYmiF1Gj3JVTzwyLR0cAHBmfBQUHRAQFBEQFSEYG35RO7l6UrOEYm5ZTHFOPUwzKRsUF39ZRDwzLhMQFRwVGABdU2cHChIIChAMDBJRMiiVX0SHVz+je2FyYVNdUERbPC8nFxYbFhoQEBYCAwwBBxAAU0taAQMKCAoQHBUZaT0tqW5MsXZRrIBklX1me2RRRCwlCwgPDg8VTToxOyQgBAUMADguNgABBwsNEw4OFE8sJJ1eP6hnRqByW5V/aH5rVzYpJQsIDR8bHDEoJjUfHSEUFQAZFBcKCxEjGhwlGxwkGBlmOyuWWT6ifGWWf2dzYU86KSUXDhIODRMYFRoDAwsNCxEAGBQWGRMWKRwcJhgYJRgaNiIeck09oIV5lHxkWUxABwcOBgUMExAVIBodBQgRBAoTAA4MER8VFiIWFyoZGFAtJJpfQLJ4U7aFa5V1YD43MQAABwUIDzMpJiwiIQIGDwYMFVS9X+x3N+Q6AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/004.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/004.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 4
     },
     {
       "content": "Un film suffisamment intéressant\npour qu'elle soit contente de le voir,\nmais suffisamment moyen pour qu'elle\nme jette pas si j'essayais un truc.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAV5JREFUeJw9y+tq2zAAQGHbknWzJOtiKZZ8kxM7bpukaesMNsYoe5K9/1uMMhicXx+c7NS911VEsCohhQCXkJSQISh+/vqj1QByDMGX/y/DpaRIIcggYBAQUCBQ0BLwdfnGKwdy8g+LHIECfQ0IYlwQChgGtMyRFe55etbMFDnkWAosS4AlqQ23HIsS4MxT1VLdMOOI8kjEul3C6ehni9WgY3JTEC7UbfJjFF4jkSnIVMkP3FlSm7KadLzNty0skYhe+lHHUbeTG7f+bEntsMgMJAbSwI0X0ZuLlanVIZhjNE+xsgOThqpzd3qdL508tIhlqkC6QI3oDv7RNA/ndmOu1t5D+Oz15oiU1O7L/WO5vS6fW79nLaoCEUEOnV4ne976xxr32a69e2+bj1O4XNKPt/l2T+v1+PuavmeRioGpVKlEZSI8kWrG1YLJUU2+2a/jy5OOI2YT4QMRHa7+AnP8IU7CqKJUAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/010.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 10
     },
     {
       "content": "— Je crois que j'ai un cancer.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBgUU1lVlFqWlNuXlZxYFhzY1pRQz1eRT14WlBrWVFvX1VdT0k1Mjc2MzkyLjUwLDMAbl5YdWVffGxlgnFqiHdwdmZgMiIehWBUsYR1lXVpeWhfX1BLNTI4ODU7NTI4Mi42AG9gYIFwZol4cJGAd5KEe4hvaXRQSIhmW39cU4ZoXYh3bl1QTDIwNjg1Oi8rMC0oLwBkWWWFenx8bm5UREtLPkVfSUd6VUmlfXGNZVqBamGKfHRVSkkrJy5KSlRlanpIR1IARjk+YmSJRTpSGgoeFAccKxgfUTYsd1ZOaUdAg3BqjH51SkJBJiIoXFtnkZqzeH+SAHhxdGx4mCUcNyISJSYYKyIUIiMTEjAfGzUgJ1lKUo5/djw0NionLUI6QWZmdmNmdwDh4ufW1dhcRkwnFyknGS0mGCwYDBoNBA4RBRY4KDl7bGgyLS4sKi8sKS4pJSosKS4Ay8zQycTGr4RzZUlJJBcuMCE1KBwvHBAiEwcXMyEwYU5PLSkrKygtLCgtKiYrIh8jAMHBxbGqrIJcT081NSQXLCgaLSEVJyYZKj8uL3pVS3ZXTiUhJiomKyomKyckKCIfI85+hcUQujXpAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/014.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 14
     },
     {
       "content": "— Mon Dieu ! Mon Dieu !",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBfUUxlVlFqWlRuXlZwYFh0Y1tVR0FYQTl5WlBtWVBtXVRlVU44MzY1MzkyLjUvLDMAbl5YdGVffGxlgnBphnVufm5nMiMgd1VKr4J0m3hseWdfallSNzI3NzQ6NTI4MS41AGtdX4BwZoh2bpGAd5KDeY13cHJOR4pnXH1bUoZmW4d1bGtcVjUxNjc0OzEtMiwnLQBUTGKGenp9cHNYSE1KPUVaRkd3UkijfHCQZ1yCaF+KfHVkV1MtKS8+PURobn9PT1wAQDM4Xl18TEZlGwodFgkeIRAbUDUse1tScE1GfGdikYN7WU5LJiIoSUZPjpWteoGWAIF3dXeCmzAtTR8PICYYLCETJCISEzIhHTokKEo6RpGCeUxCQiclKjo0OV1aZ2BkcwDe3uPn6ex1YmcqGCknGSwpGy4YDBsOBA4QBRUrGy94aWhDPDspJiwtKi4nJSgqJysAycjN09LWs45/c1NPJhkuLyA0Kh0wHRIjFAgYKRgpZVBSNS8wKCYqLCkuKiYrJB8kAL6+wr+9wYhnW1g7NyUYKigaLSIVJyUYKjgpLG5NRIZiVSwmKSglKSklKicjJyIfIpI6hzMziLfyAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/016.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/016.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 16
     },
     {
       "content": "J'avais trouvé.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBeT0tjU09oWVFsXFVuXlZyYVlkVU5UQjtvVEtsV09sXFRrWlFCOjoyMTcyLzUvLDMAbF1XdWVffGxkgXBpg3FqhnVuPjEtWT01q35wn3pteWdecmBXQDk6NTM6NTI4MS41AHJiX31uZoZ0bI59dZKCeZF+d2hIQ4NgVX5cU45pXoVyaXtqYTs1ODYzOzEtMiwoLQBRSGGAcnKHeXlwYF9ZSk9oV1dyTkaedWmWbmOBYVeGd3B4aWM0LzM1MzpaXmxPUF0APzVDXldpZmOCJBQmGAofHA0cTjIrfFxSflhPemBakYJ7bmFcLSktNjM5gYabgYmhAGRZVlxecUlQdx0MHiYYKyETJSYVFzUjHkgwLkAuOo5+eGZZVCklKjMuMlxXY2pwgQDR0NXq7vKLgosiESImGCwpGy8ZDRwOBA0PBRIiEiZ0ZGVdU08lIScvLDAqJysrJywAyMbJ3N/lwaihiGFXKxwvLh80LB8yHhEjFQkZGQseV0NLSkE/JSIoLSgtKiYrJSElALu6vcnJz5+GgHBLQCkbLSocLyUYKiEUKCwfKVU7OJBoXEI1NCMhJyomKygkKCMfJOdxiY4LpeseAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/017.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 17
     },
     {
       "content": "Pendant qu'on faisait la queue,\ndes gens sortaient de la salle\net racontaient la fin du film.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWtJREFUeJwFwQlymzAAAEDMpRtJCHEGGQcwRriYYscJbpNMO51p/v+i7DospKELoQtoSGDIIOCMqKGZfi8ft9P6cronWJKAhB5EAUYBdkqmRICUjyQggmrFMxXl0/PPP7f/b9O2nR+lyCLAmE8k4oIIRwISBygJMPXAYOzL+Fbp/cf67z79asthrIci0sTH1EfYx4rFDnND6cHIA2jnt0X3mN9Pzfnv/etut+u4XZ7nNEAiJMAF7i6QWDgJjvDOUyEqeHoy47i3YzO9L5/b+fE6PZb+Kn0YeVCxmOPIc0NnL9IE0JybKh3m7nKsx8HYm31dj2tXDgXXGrEYELvvu8pwQJyUt1pYIWZT2Lm7HIq+TExvxrm7NNlBIq0BKwHuKtNWTxXljuADJQ3FJhGH+Xg9t0smC06SRFQyeoqFzfVS89LorIgzDYijYiv4MaIHBEvFmzofyrRnpKbEJHrN0lsc/0jjsZS5wJx78BsxHynArogzDwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/019.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 19
     },
     {
       "content": "— J'aurais jamais cru que\nc'était le frère, le tueur, en fait.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwty1tv0lAAAODS03Pp6e30SqGlLYV2hcqAtmNzULcFFiZDdtEZE9HEB5fMF/0HPvgDfNEXf60x8Xv/OAygwPGuyiRR4hqNBg+6tpV5raTlBqbeZFrbtH/9/vNw/0bleUeWuXEYpp7vMeZqmiVLEIBBuxnbhipiSgjFom+Z356+XL+oFShQiLiLUXZ9cpz7ft0PJ2Enj6IeU16Xz44iDwEQGlqdBmXUnqWxzxSdIM6isJ6t42i6X68uinKapH1dPk+Dy2FSH8TbMr85noxDz9NknSCNIE4UuDCeB53x18+PWRRRAKr88NOr7SyJH07L1Sg5z3stmRgiZCJU8b/AM9XteIPH/Ydu2yMA7pZXP7//2Jytiv7BpjqsIteRsEmxgiFFAichgUCsy2xenXiWzSgtB8OPd2+nw2rYm+5Ojwrfcii2JWKKSEYCJyKEAFQJ0TXb0W1TVl7O66d3758Xi0V1WU+KzKBdJjUl4lCsY/g/KERsWS2bGb7j7re72+X69upuudhU2Sgz6ahtBhq1KZYg+AtXjzfhE3pRCwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/021.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/021.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 21
     },
     {
       "content": "Ça m'a énervé.\nJ'ai dit:\n— Tu veux du popcorn ?",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZpJREFUeJwFwe1r00AcAOBjud9dLrncJblesiZ9TdqmcdrNtpbWjNpuk7azUHE65hu4ylAQRBE/TKYiflDwn/Z5EBigbC6YjQ1sGAYAfTk5WPS6viMCVyKEvt/8/Pvnn0cgEoITQLAD3Wi3E1cUs8rCAQxn/XyeJ5n2XYshhN5fXn66uoqF7TFTWQwJIEVSnebZMFbLdpSXgw/ze2+ngxejXlsr32JFp3k/b4/zTr3ka26hJCgN0+TsdLNdzKY1Vdd6ORw82s8O2/WjW+3T22mRNffrUap9z6QWNlDgeRebZz++3rx7tdWMSVtWwlooeFJyz4vRm8NRItleHGa7ioPhEIwsQu5297YXr799vqaEU2AEOAVTy9KD/uTL+vioU20FXsNzOMEWAGKECGo+Xqx/X//SrsI7YFPuMqdZzib9+cfl7Pkw61V0VVgOJRQTxIBghFbzh+erdSykb/E0DDq11vFkUQxPNuPxSRpWHTN2WMgZwYAoJhRDpHQeqFzJVNoNV65miyerp8VgnjfuHERhy2VN36lJW1L4D087Ot9mkhjBAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/024.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 24
     },
     {
       "content": "Elle a dit:\n— Ouais.\nLa vendeuse m'a dit:\n— Vous voulez du popcorn ?",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYdJREFUeJwVzltu00AUgGELMufMzJnx3ZP6QqiTOLabuHYaJxG0EkqjUrVUIITUp0rwwhtSuwE2gJDYCLsAiW2hLOD/9FvyORDDI8flwCVyjnyTZ98/7j+ft1ngN+NxOS5+/vjV1rUh5UuyxDPQwLMgEMDpEMDXN/3vx4ent9tx6BVpslmu/vz9tz5tfESNaEXadgWNoohQEAIJuGnLL+ft9TyfRN4kPtrOy/urXRmbKo1dDlZuwkDpLIiUIN+2bZLXTfFtv/60qus4qF+kH/r5rhqtp8dVOrRhYGlkhmTi+STI147ifOiou65apSZUapbE77qiHcWZq0KJGgYWAQsR4gNNjlBJGDV1X2b5JHRdHW6r8mKaGIkBZy4yhcyyObiIgZSSSy2oKbrXZ7vpy07LMDXHt317GnsesujAM8nAUjAgQAe5Ru4rXeWLYrRYLi5Opn0zW++X3cIoI3GouAYgBoclzpgjsDJBGfkn+byrtzeXd7f7969Wl5vZ7CxxCuPFShjikrH/svoxTYaeIF4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/025.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/025.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 25
     },
     {
       "content": "J'ai dit:\n— Oui.\nElle a dit:\n— 8 Euros.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwFwc1vmlAAAPA3vh4P8Kl8iMBEnq+AgIIWtYKd1jam6rZTU0eaNt0uZskOS3dZlp12WtZdluy8/3W/H5gQb0Jsz9Co3jYVzZZVE2kWL4Qs15fQ076symzB8oQTMpZrvgBAYRgWMLHVyi2jK4oeQm0E6xyfQLiLOsebyw+b+QXLU4abNPTMpSCl9KWqXw/8uesQKHagqENRYrkTAVYjSo2mLctrDvoMOzM7m9E5uN3uDte7VRxSgfcF2OV4B0KR4QcqGrQUFUm9Jr5AYhewmU2u8iVYT8u36822XC2IN3WswnXCOm4IwvdD7dOluuppxx3+eWdQBZ0GwyIeg3GQjPzktD9eT4sv1fJxkxNN7TTg83v85xH/ftD+PeHnj07QdSIvmMcZoJZLbZdYNCHDv5/3X2/PFv2eieTjUv1Ryb/u0bc7d5unEYlbZHZVvgKSIKm4aWsOtfvVavyuDGPbIo3a60g5nEk3OdwX5M0wzls61sIiTQESJMjDGsJe+yT1qIUVTZLtujz3lfNAXobSLNAiyzKwCSU76ZH/zXo/Z6epsNoAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/027.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/027.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 27
     },
     {
       "content": "J'ai entendu:\n— 1000 Dollars.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwly0uP0kAAAOAJj+20Q2f6Lp1tO9sCRaC8obRYoLDNUuuuuPFxIRrjQZPNejJZ7x5M/A/e/Zse/O4f4Ko8rEKZWAokTdnwmF8Og4fD8j5Z2hqFFYgqnFhFPKiP/c6pKAFfE7iaQLG0aXu+QZlJf7/d/304/fly2oxGx911FE4QuOhh+ce5eFPk/wOvIzltex3TmjD2KZ3/fL19Klahyz6fP9wfSwKqecf79fju1S4CsMajOlKQEto206xyPPh6iL4dlufVkOnGfDgr0syuCZ6Ai2h8t40ArPIih1WkqkjDUAos+6lMv9/Ej9dRzw2O+5cf359diJUK1EXZVk3QuGhQUUF1oiLV0a6YZsc+S6+coe2kyyweb/brfNIOcQWaRCUcBgSSQFU93Z71o93qOGDdKXNDSqnUTGbJbV5Go3UW55Zk6qIkCxIQOEXkxJblr6fZIoxdo6XhJoGKT4N4kmZJPusnRfaiywIFYSwQgBsU1rHcaLYun3lWu3XZNWSHWa1pbzUfJNsoWwyez/sLx6AEikId/QNZkkAyi5eK9gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/029.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/029.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 29
     },
     {
       "content": "J'ai aussi acheté de l'Energy 3000,\nje sais pas pourquoi.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaVJREFUeJwFwc9vk1AAAGAoFHjw4MFgQKHwaEv5UdrCSkttoctG20zXbdmcJjbOLMadjGYmGg/Gqyc9efHi0T/U7yPmyaJMq6g7y5Oy780O1TTEc4tXIorySPrMMT+9XG80NSCbXZrpN2giMVVXEV1ZtNmmzTEeBBZNqxzfJakMic9n0ftXz3a6FjeavSaXihJBkw3Ecuu4F8vIB7wHhBbLIoazyEamiG8XSWDoS8CPaQazwkmYES1FO3KtizRKJMnngMdyFsNAhtVJyuPAyDgwkRQDGBB0C8ClnxLnx/VltZraxlCEMRAGghjyPKS4qsd/uYLXw9bNxPz2Qqs7UBe0clwSdVE+Xa23xXxf53fb4t2uXIZ44+Pvt/bfj8LPvfH7wfj3Vbo/MyxkzKIRETh+Ho3ywfTzfvN4e/xweXpTTuoI3x05P16Lv+75Px/kx2u8zGLDjsJwSmC97Ry6huxdVfPC82Tq4DQZpNgaI3iRgDcV3K+UbTE5wdg2+4adEBKQVFFz9E7Q7j/puEnbdRTVEYUFRrsMnGd8PZSKsJObuowchKz/56RA0rUOdWkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/030.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/030.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 30
     },
     {
       "content": "On s'est assis, il y a eu des pubs.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwFwUmP0lAAAOAH9HVffLRAV7qktLyWGcoUbGmhlALjLC4hjskYnRhHE/XiQW9ePXgyJh7mF/hD/T6AxPgsKqv8fF9ePtu9WC+PSVQNaS5sd6aC8O243QyUtEVggtRb7TFBAhsSBkMbPItVxUZiqPU9UVAgFRJwHxi3T4qyi7I2PKHZSEInBAQ+STkc50LIEVCimdTSDYaRCKiBzsE3/B7yWtSyAyOxu4/ns4ENHNDGstxgPLGMhaMvHdOhaL4DmxHT+GhuyddYSkloi716uqpnObgvR8cyu7l4+rxutknyqkg2vjNE7N9P4p+73q/X5r8f/bc5cmW9TrK5HYLfH5cv63w1y65WdZNv3h+2d9vskODvl48ePgsPX6Sfb+RjERpmvF6sd8kZ+HoVVac4HU+TUTwLJthLTOQ8HroXAX+/4T80wk3avY09Q50Ui+rd9Q4EKopsJ7A8S9E1pMVupIjKxNSbsbIK2QpzmzGXmorAGYHj7+anYKgO7IHWk7qIF/uSbKtuX1KK0F/jYGQOkSCSkJJ4xDOcQLM8Tf8HxBpCRIRadIUAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/032.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 32
     },
     {
       "content": "— Énergy 3000,\nla boisson des vrais bonhommes.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX5JREFUeJw9jk1LG1EUhu/cc+4999yZm0zGakSDdiHSNhpjbCoRPzo6pilSsSvBXTd2FhrjB5jqRnCjFNqV0Bb9CeIPcOXeHyVj2m4OvJzneXmF4z4FRiGhR0Mvy6/mkrGldDzea9TWKsnR9Mfj+tx6pVwhdApIAQlfOQ2kkVGo8E15+fNGmp7MXt6ffdneuX5Ifz9+SjaqU1UprUbOBAYmYEKrhDHR4OLb+l5zudv9dnN4cHf14+qo06rNlwZfq0ywPcEaYANWerYYRN1m/GFi5ufW5u1p90+6fbm1+TVO1hZaNhvyLFBGswVGjwZcdNpK1idrndXmr/bu987+RbudLsZnJ+fFcNiAU8AiBCqgidCEYIomKNlcKTcwMVqeHa+u1BrxdOPdyNh8/X1o+3MmMmhFXmoHOoDs+lKxh1oySMceBUKwkL5AEl4AKnjGRCgpD9QLPc0iO8q/0H4fmgJyAU1emf9ANimUlJN/cwDaABFyhBwBZV8g96/RB/0E4dw4erpjaJ0AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/034.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 34
     },
     {
       "content": "Le film a commencé, elle réagissait\nun peu trop au film.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXFJREFUeJwFwYmOmkAAAFBSWTnkmHuYgWGW4S4qi6jtql3dkpi2SdP//5u+Z7GYhU4UuLFv+8iHnu1/sVY5L+7z47r/fttfSlkFLoh8SEIWrEPrlemcZMDHPKQFUXAdxrZ36k/P9+fv69/l9Mx56TmR8xIYUfGQWZpku7zDG4Sd0EAp/Vg6wWh25+HyeVz25RuOpbuO7JWfoVRBYWXYtKJgAcG2y9Y+e/Eqqh7zMlaH2/hxHr7hKGFAbDygoMzjxOrMjyGvNS3SDaIrl9juoPrHvPw8Lr8uf6ZmalR/3V4FEJpkiR9bff2vlHXGqiZtO1milSMCNJbT/XD/mG697t/qQ5O2JCSNrFIkLMXfKaxTajSQDdU6ZBrpsRzndt6ZvUCZESWHigTMwMRgaeUkT0ilWaVQpcRZkCPHEwMSRxQFlMZJJcuMmJQfeFTgNbAkSgnIEtJSPFI8MTrDqNt4Kg64Yq+N6oZim/GvCG5B1IDQ/AeRMzDrdO+jqgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/036.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 36
     },
     {
       "content": "— Vas-y.\n— Si tu m'aimais vraiment, tu me regarderai.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUlJREFUeJxFjMlu2zAUABmR4uO+iJtILY5sRY6dxIcEKNBr/v+jivTQAnObwSCMKcHwHwIIodf7r1p3hLqesH8KP1HcUcSp7AnDGDCGrqOK6Wwz7Tnufka4gx4DxT8B6aAnHEUVDDOylwY07WAK02N/zGl1zDRfHbdBh2Sz49aAcdyiZsvsWuEuUp6ZeWn77fS2xUURcann1be9Xda8Fh0WW5LwKAmX3VTkkGQ4ltdt3LIds6lJ+FkNAfQSpinMSfpRRQ8GacKicJ4NNX/sy1UJr0UJw30crkX46k9zPDnpNJiikyIMRZAZdDPLni9V+QGclZuShxLbefq8P/++tqOYwDD3IlrCUAZVQFVQjYpG5UTl8fx1e3yfx2MGM3M7Md1AVqabHKqpyBMWeh56Ef+SCLuuH7f37z2vhUAkYiBQhF/iMcZbDm9/AJ+7HQznZ+ZoAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/040.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/040.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 40
     },
     {
       "content": "— Oui. Oui. Dis-lui.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATpJREFUeJw9j9tu00AURc1czmXOmVtsj63i2E7aFJoSJCBU/P+XIRBU2m9rrYfdoeX3gWEwxI6P03Y9veRQ0BJaROcvD1uv1Xzw3bvNXhLFqbTTtPy8vT0uT5njX4TeOAVtsQdD/wNDivGhDL9u92+fbmtbBq1kgRyC9cFL8Jowzhz/BWTDkMZ9Xt++/Lgs5+v5uk0rGsdA5FAxkQsKYaLQoUUwmLls8+n+en8+Xp4+nr9eboU1gjBwAEqUyQUBmSV3YB06TxbWdvy8PUdKrUz7dAzGCzAD55ASJvWaKG517NBCL6mgnOathEKOW26FYgRVFCE+aBVQ8Roh7H3r0CB7KiEdpP455wI7EpB9vc/9WoMIcoKIjoPHXlJXSSrLoLlpqSF647wx42Hflu9jGjMre2TP6DCxDpJ/A4kKGJvYcV47AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/042.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 42
     },
     {
       "content": "J'ai trouvé ça mignon.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVlJREFUeJwd0MFy2jAQgGHH0u5Ku5JsyTYGAybGtCQBp4GBCdPJND3k0Pd/og65f//lz4xmA2zAWQyU87Q/vY7Tz/nufbr1i40Fa5SBXM+KNM571DajuxaLgTEIuq+Pf8fHw3P/8vf2tUgLR44UkQLIoXFVMCG7a/CMwVHRxXZcbsf5MLSP43LrwDBYVJoUCTgLrrYhs9oxBosh2Ni369uv999vH5tmfTlcPbKgNUAM7NCTNpV1mdEWFVmQpmjfni9/Lp+np9O+3x+2LzaHUkrS4I0XDPdAQgZag9ZGQSXl+enUVd2yWU3jceYjq29KHCV69ALSuDKDnAobZlJ2qR26LeZUF91uM0Uug3GCHF2MkhhEQCoOmVHGKFNYPwtN4kQP0C+Pu/Gzjj+GzbUt5yV7T07wvssTZ8mGxL4NaVGk1peMtF6dV8vrqrsM/bkOMVgxGhmYNNYu/gciTx6tLRMYPQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/044.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/044.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 44
     },
     {
       "content": "Je me suis senti romantique.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX9JREFUeJwFwYlyojAAAFCqkoQrgUAgnEVBAQXd5fBAbUfR7nTd7uzOtP//K31PIFBDT0AeIwyJBDDVnNQv3vaPX4f3W3dbRUuCsCqqaCxpUJOBIriqRSfIBjJTrNTPPBr9mG8/Xj/f+j/X5tKmtaNaFGETYUsxA9MXGFQZUJgoeTp/HD82af3S3P5dvtZpUy/azE09wtWJQkQFS2RmRwIdQyZK+ggwSb80w77sh+7+//o1tMPj9DezAh9pRFTEJwhFKbY8QR8jOhJ9maQ82ea7aroe2vt7//u8Ph+qc2KF9ghSiD3KZaAgoAiBTLhEA1YUcX2qTqu42ha7a3vry2NiT7lqulB7NvixbBIeGkAWPLPkrOPOrsm2XbHLozJ2kixcbpKNg10L4BjAzHLrrCrDaYRUgRqlgRc6zlazdujuTbYNWKTJjqZ4lOSRe5gZ0wXly3jxTB13IgmBu6ckM/Acq9Mk+FnnxzxumVGF4SXwX13eB95LbM9nPDKQxkT5GyzvNB+NVBHdAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/046.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 46
     },
     {
       "content": "Puis, je me suis dit\nqu'elle devait réagir pareil au lit.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVdJREFUeJxdy91u2yAABWBibDAmGBzAGIzBCanjNn+qlKRp1V72atKu9hR7/weYVk3aNOm7ODo6B+QQ/6vICQCL0/kzpQsAeZGT/wYAQpR/+Qq4yMtsgXltOLcZQDD7689BVKLCDMESwRJmmKDltn/o1bDEjBNRFZQTrpiiaEnR7wbEVe+FlZgbIlZF1atwP75f5puhams3Ufmdn07p7LiJjXW1AVH2yU6+bg0ijql5eHo5vB3iXiAaZT9wM7ntYTx0tR6EtUwDU9a9HB2VXu60Oqd+P9oH1z6u9RQwNUQEHVMXG8IHYRVmoIHEVE1Xx85+aHVt5aNqZt3eW32dwu12+n7ZvaYuFrBUtVshBjzhntRJDBsR1lTPjT1tnv3w4dRx7o7neH3ScculLZcDU4G1wFc8VDyUNCKyRjQW5evz+7cfP1/29zFbhByFogpEJDmu2/3orr8AxHQjxgSqjHkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/048.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/048.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 48
     },
     {
       "content": "— Vas-y, vas-y. Oui, oui, oui.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWRJREFUeJwdy8lSo0AAAFAsoPedNd1CkGYJIGQxVqKZGefi//+SVb77C3jMYAhBCCigBAoEBcdmrJf7cr/0x1N3NliRmIIQogijiAQlS1RMTIQMZAwrQZJElON++3r7vi+3x/bHykIhIWKaEqWwCjIkUkBzQGSMvRuP3aU01efx6zo/vB3merKyoDHlEeaAGmYCEQITIRUj8hS9lP5x/NdX8//r93W6bd1l3S8FYBowGuLoCRiqAw0p/z05VZ0dlmYd6/lx/PuxfL5Pt8twTWMsQySQIJDGIQwaXegIFixzWff6sg7Ph646vB3eT/3Z22GndgYJGePBtd7WFNCgFHWhOqNXl09ru7Z2eM6avp5Xf/I7b7AuILOQDm7vXeW4DpQcGG04bTPtV3+emtdMlpKluXaal1pOZTJXPK/T0qW7AvPA6FHJntOKIJvptrFTVXSCOc7qJNnSZEvTc5EsVpeaahmiHyd9KMbQSJHyAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/049.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/049.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 49
     },
     {
       "content": "Je me suis senti excité.\nJ'ai raté 10 minutes du film.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAV1JREFUeJwFwclW2lAAANCckuTN8/xCRhsIEOWAitGFrtpd//93em+BK4JLPNg2y+iw6nXDoaSA45oc49CpjH4BsIMcclIzUtPCcpd09sy1wjuscE2jjks3O+mTTk8m7yH3kHvmHPWkZkUQ/rQ/TnHsZBBICiI/Tvc/29/t8saxDEQlJBygs2uziI6awlC9NPPg+8CsRCKbZp2u2/q1Ti+GO4NExjIhPurkmNOAF1645+EyxdERpbA8tMfv28/j/L5dtr3rNJa/bRtF7OzUmr0ltsiId1SPwvXCMyj6MHyuH9en2/vy6mXENW2IkkhaNQ3UuhIVugSuhKGEATJcUUX0y7Q+Tp+HZkaAaqJnFSOWkqUGclOCQu9AALRh0SKJa2GoOebxkCdJdbWDrcnXdk7UMCA8ILqEhanwub+/rv+u88+5vV365bE8dy7VO1iXKMjwttynNHOoTIXkDvwHLDYmgJAZjL4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/052.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 52
     },
     {
       "content": "Du coup, je comprenais plus\nlequel avait le cancer.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAU5JREFUeJxdiklu3DAURGlrIvXFWc0vUaLUmtzdSdtyJ/IAeGcgCy9yAt//HoaTLIwAD1XAqyJxlH0liSkh0fb4tiv3VyROIvrfgfyt6IsCKjmYNIHoOv1D9pn/Vkqc2EHGIQEa51lMW+N/HrepWXSuLC+LpLDcVroSmdBgBBVkwD7o2lHpMthlcD+t2+n5pp5LppZmCRJP/fHYn5CXQxkcaBJMHdzUFqYGg7rbV9NYT15WCCoIiyBnP05+KgvdKo9MEZMCcucAER+1uTvs18kfEH90dukK29rxJhxQO82Ul5WKKbEpVEw25lCXa787bfOlc7NSF6Puvi+/tvPvdVxRliyBSgWbMBJA9bkcQI5MjJT3KRvC5Xj7NvvzXNhFuLnQQ877XOyF63VLkHJPeZMV7Sc8pOzp/vXl9f3cLl2UtGnepBDAjvitqy+hfvgAsp8ixmg2+eMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/054.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/054.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 54
     },
     {
       "content": "Elle a posé sa main sur mon coude.\nJ'ai ri à un truc pas marrant.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAURJREFUeJwtz91ugkAQhmFkdmd2YdlfWHBVGhRtYwTTqulB0/Rmev/X0KhN3sPvmWQyC2QeeSY6YVp78OGyTN8xXqLb3a6/p/Hnrb+9uM1KpyhUpgA1I8PIgWhJrfzo3WzdtFl9HdIwj++n4byv+46Tf9zNSsDqAQyjwERXRm9Oxk6p/dgtx2k4nrfHnQktl44JzSiTDAtABVQxclx0Raj9VDc3645WpaVPQ+y3OjRcmicgQAl3UwAaoLXuoj9Vau/DrKutLU0t1FpUnksFWAJmuEBaEOVEj2eWwkT3at3cxGsI89ClwccktAaSgAIw4znxnHBxTwGtpO3sLoRz7D5N1fd1HGzdYlkAEhDmlDEgBsSB2IKKnJLQdRG1HlXZl2Q3Pmy1i1xQjjy/L//BM8qxJdXIuhBtJWO4Y70uqsAFB3xu/gBpQRuUKuUKCwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/056.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/056.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 56
     },
     {
       "content": "Elle a enlevé sa main.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXhJREFUeJwFwYdymzAAAFBqjAWIIRBiSoARq2YGvE3sNHE6Ltfr//9N3xOk1cYEhqvZUJShCKAoH5vbMj7e9+8fh+dj/iyCoooqB2IoQfkbEKQVQEDnDvUUwxFBjPzH9HHr7/fxbapO+/pURXWXttQKbAUZIhB0CVprJYRmIBtEUvqk+Vr+Lt3r0t//XL+G/IW7WcuqFFMkm5ooC4EZuBvoiMCTVLJWp3y8drepOOzLw+fx51zOw7YtCWMqsjf6ZgUE6iRbQhOTOGvVWyvcS67d8trfz83luDsN2dAlTelvfaDZkqrJukAJL2g/8NmXlFh38qCIMGu3Y0HrhKREJ8wORz6GhmtJ6nfKhRjHsYoyK+Y4Z96cs8lFoWOGuowCK45JnZpRZXmZhqhi7FgmMKeg7siiheDJtl52/LKMP/p83xdTyTpG32hwCVDJVJvJsAgTwUalZdQEDzRasNW6uDkPz1+3f8/Tb84OUfgI/QvBEw3PiZ0mxP8PbPkz9HOP1XEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/058.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/058.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 58
     },
     {
       "content": "C'est lui qui avait le cancer.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXhJREFUeJwFwdtyojAAAFBaJChQBBISQkiQm4hyUUFQWNtSdzvTTl/6/z+z50gWMJiJHGXlqoaummhNx/L2Nf7M7Tx3j3JTbRCHum0oKwtopmpK68USAt2W1dgNtryIvPheT3+H74/ucTsMtdgniCPNNhRNX6w0RZccWYWyip5BbNNjer6W17G6F2HdbtuD2Fci54ZDgP6y0OQnoMhLSSDG19h6UnxtndFkqqaf++/n8PV++ig3Vc7SEDL7WYVLM0BUVw0pcuOcRBhooZsmXtbl59fmdShul+0lsEiKxZ7vkGqENumLKiK+FJiMWQm26sAbBN4wyC/5pQgK5giB9uLFizRTgFWMvGNWbDGVMDxR0gvaU7dpso7jMECCI4GdkrGZwHNITpFBYkiKMOOGJXG8G+u3uft3rd4jv27y8ZC02E6Q3QjxYP7d9+8hHSJIE19AYEh13NzKP9fDNJZTwiptGTrmDtlHgjqM2iT99dyeuD0jFXOQA/T/d3c0ljO802AAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/060.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/060.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 60
     },
     {
       "content": "Je déteste parler du film\njuste après le film.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX1JREFUeJwFwYlyojAAAFBGkVuURCAkJCCXgoaiFIR6Ve26th07Ozuz//8r+56gibo8VPwpQsYMigoUVcdEp5f98/h8vH09+s8qrVesIBYeS4YuqgLQLG0gYcOiY+iOtAjgIlhtks2v7uvn9OdcHXKar1kRQB+oU30oCwz4M9m0RRlJ2mwgFTi9Ndf9y/upem/zLvGyJU5KumCmA5SJIarCHEUM+FQz3ZHuDuVg4t5er38v/+7t72t92/MDZ0tOM181nZGmiKqAAYtJUaVNZBF7MIoh6dddX/Q8LI/loYxKAgiPeADIdCAj0xaIHcWApBbJLBxM2BxXCc4O/LCNNznNfUA9HXAvXDoMSXqKqBCiRQTC0K2I3SC7D3AfebEHKIEMGjb1moR0bEwCRQ8kJXGJ4MEFclqC+ir/uLTPZnXr+KXO2+2y3ix2xDsSfHHtJsS70PTm0BUsMwNWyePm+/jzeHved4+U1nm03+Zn361sWM2DO/PPrv2KwJoB9B9R7TiYWk5Y9gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/061.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/061.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 61
     },
     {
       "content": "Elle a voulu parler du film,\non a parlé du film.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWFJREFUeJwl0N9O2zAUgPGAz7F97Dh24/xxmsRN2qQtFLigiA1UcbFN2sUeYEJc8P5vMWU8wE+f9CUCOKHgDC2RVWoXqkMbYpGP3t6UttAUjC60dFJoZASYKIGKC2S40uQUDWU+hzJW1WXuP87TVLhgdKVlTiJF0ABJKhcggGckD3X+NnUbv2oL/7aPn9+Ol6kvNS1AyZSDQpY4Q6kUEtFI/mPf/T0fGmfLzLQr9zI2T7sp+rJQtBQ4aGCJSxcgEBzx12177utT8LnWRpna+d6H++GwKUorIMX/BaO4lnwBEr8P7c7b98ft2mZTF/dd7PJwPx7HKqRwvQBgiRKgOHJklsRzbH/N3e9jH2x2Gje3cRiq9nG+G+tA7CoFphETicvQjJQR/Ln1f243T309V+W2Wd/EsXH+YTz23n8BhZgYKRUXxAUhXMbw8+HOkVqvim0IXe53TX+KsxVcwbUGRsD/AdFJIVu7mXrLAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/063.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/063.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 63
     },
     {
       "content": "— Depuis le début, il a jamais eu\nle cancer, c'est fou.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWRJREFUeJw1z9tu00AUhWFXnr3nHNvjjuNp7CQ+ZjpxEhDhKCQoF0BVgdpbhITo+z8EciQe4NNaf8SBQgyZFIqyZmn9ym1ys7NJnahSS7dQVvKMM02JQKCAkUSKBHIlU86HwnSuGArz+zy8WZdLLatEF4rngi0oSCQMaCQppYBG8v46ezr1/TJv8/TP29uHqbvRwi1kobjhFwCEI43UDEgm2Pute34X9jcu1+mnvroLQ2PdKtFWsv8LMUecAYM44/j1tvnYVbWxta1cartyfWqDr5pcMMOpRnIBMF9ihOScPYbuxzQUUryoVveTb10zbXbTZldolSBRSC6XMOJzNDGCPR7HXx9eh6o+lcnT+TC13tfD1PjaGAXxDBDm6EQIxXjK8Odpevj+9/P+8KUvX43+0Pq23O43w9YWglwpJAIuQCBlQBWQu3C8//Z8Hvyxdi/HcB5DWI+7uq3MNY+vFBAGSAn+Az+xJneS1qE1AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/064.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/064.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 64
     },
     {
       "content": "Je me suis rendu compte\nque du coup, elle balançait la fin\nà ceux qui faisaient la queue.\nOn a marché.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYtJREFUeJwVyktzmkAAAGDaGHbZhX2wy0tQEAREBNQJEWPUxJkk06FpMj20h84kfWR67an/v9Pv/CmmBkwEBYJDHaNz1caoHTsuwZaBTR2lFntajJ6W0X7qzVzJgaoIBKUGcoutApsCYGHt91VV+w7TAEPg8yJ67dJD5lYOmQodg3PFRJCrg4cs+FQlUgOx4JdRcGqaOqt9Rn9epM/FsLHJmEBPhxJDxcLaxpN3iZuYRCLQTNI6bdqy3a8PWRC+rCZf56PYQFIDY6Y7Bla6kf/3/vS6u5hyNGQsH2fb+vK2O66KtkrKkBtrj3eBEOogM/WAYuUwNN+uN33/1s3KxncXUXosl8/dVd92WZj6785uHf5rk//o5hOGXQyVrWW87NrTxz/9h++neXxfTB+L9DoKd7OFw0Xz/qzD6K4MH6s0sXimIyU24Lft8ubmy37bF445kyzxAot763lb+kEIBiGCE05jTiKTujpWCk6OeRJJabP/u7apLx1BuW97IaM50WKqh8zwCRYIYlX9B1LCN18+lg8YAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/067.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 67
     },
     {
       "content": "À un moment, elle a pris mon bras.\nYes.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVxJREFUeJwt0NtqwkAUheHgzJ7DnnFiTiZjYjSZxHisPWKLF20plILgbQuFXvb9H6GofYCPf7E8AZwRGEjpS2xsOhulk3BQh31rtDU662OsxEByzSgC4ZR5inEgECAGUrZpVKXJ1sbfd62LfGt0bnSieCh5/wwEBQ/ZpYDzLDqsq3EU3OTx7369r/OhkiOjEiUuQAERQC6AhaieXf7z0FVJkhn/YzF9al0RxieAIpTCcFBAJPROkxhlIcq32Xg3yerELmxhB1FXVNdu5VIbCAgFOxUYkey/ABHie1O+d+VjmR037WZS1Xa6rZfzoo6k8DnoyyRGPAGc9miA+JgPP+9XV6P02eW7xXJddV3RbKpu2NeakX8A4BkpNReKwq6Ijy+Hfdu8duW26ZZlW6flumqt7yPtaaCC0tOtCExSpoC8LJrD29dN7Tbj/LpZ3rarWe7mY5cZH0lPUcLP4A8RaySPFivQDAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/070.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 70
     },
     {
       "content": "Et puis, elle m'a dit qu'il\ny avait plus de métro.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAkFQ4eEQo2HxMtGQ0sGApjRTGCWUaGUDxbNiYMBgM2Jx3Yx6HGp5J0VUSMZlN1VEYATSkaGw0GTywcOh4PMhkGbEszhVlGgkw3WTQhHxEJZD4t28iu2L+mwaWCjnVaiWlTAEImGi0WDEYoGVkxHjUaBVM1H2FCM1EwImw/K1UxH3RFN4Z/hu/m0/nw2te+meDGpABgMyM8HhEsGA5gNiJOJgdOLBFySDVjPC14SDBjOyZXNidbSUa/s6r4+O3++dr9+94AVisZNBoPFQoGVi8cSyoXMScsWj04YTgmYDomPiUXVTMiMyEfLSQqTkRGr6md6+TNAE4qGSIRCRMJAzYmJS4qPSkpPBoYJjEeFTUgFTojF2o/LjEhIS4mKjYqLSUcJIBqYwBKKxwgEAkWDQkoJDgqJjhDOD4sJS4aFyEyISV6SjlpPzEmHiQlHiVBNToqIi00KC4ATSofGg8JFw8QOjA+LSc2NCs2JiAyKCMxExAbPicpMyEjHhkmKCEwMio1IhwqHhggAE8rIBcMBy8cF1AxKy4kKzMqNh8bLR8aKhUQGhAOGhANGighLyskMjQrMykhKhkSGB0PbXb1wx18AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/072.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/072.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 72
     },
     {
       "content": "— Je crois qu'il y a plus de métro.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBEOTpyaHdJP0FnTDuHXkx0SDRpPyg9IRYUCQB7Z2PWt5z74m3555zJppNNOS8lHh0ATD05a19pJx8gY0k5iF5NeEo3bEItUjYpDAQAl4BrvLC0h4eG3tnA07WjUjoxHxocAB4RCiEVEjYkHV9GN1Q5LWE7KE8wIWpGMhwNAX6FfWt/h0hRU+nbs+bMsmhTQxUSEAAuGwwrGQwpFwtxUD2HX015Tzp4SC5mQCwaBwAoVmk+XHIuPEiQj5fo3sy2pY8VEQwALhsNKhkMJBEESzQob1BATS8jXDYiSS8jFgoBVVdYnJudaXd8n4+Q6uDV4t7NIhwVACMTBCQWETUtNiQeI0IwJUksIkMnFy8gGSAbH0c3N6SGeLGUgqyPfuHTwuTgzh0YEgAqICE0Lj47NkkWEhs6LCQ0JRlILBs0IRkhHSAlHyEjHyRLPjtnUki9qJbexq0WEgsAIyA0Myw3NCw1FRIbKh4gbEY4eE08OisqGBYcNSwrJR8iJiAmLSQfSzszW0g/FBENACAcLCchJiYgKSgiLRMRG0YrKVw7NR0ZJSAbKSwmLyQeKRwYITosJzosESYaFBUSDvFrfJuTZQ5AAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/073.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/073.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 73
     },
     {
       "content": "Alors j'ai pris mon courage à deux mains et\nje lui ai dit:\n— Tu veux que je...",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJwVwsFymkAAAFA6nciuiArisqALsmBUEBBEdDVKE5OYBGOaVGeStpe0ptNDb53p9JBj02N/oD/b6ZvHNRCwUBFXeSIDW4FUr9hYxOJBT5c8AzOHuF1zdZ9P7OYhwY5W565SGls1qsAWErRKgSJAFGDVS6ZSejxb/N1v33qNVvVgfxZtZn5iKdzcRW5DJBLflP+3ETDkAkWCg6Wfu82PfLYNDVwGeWSdeCQPdM5XgYv4SIehBvsacDXQ06FPxDaWXz7c/d6dPwwMrQyvB+ZFp3zcrnAjDAMEUo2PMYx0GGg8rb8et2uNKnyfpc/5YmpIqli4HVoXsX+z3HEBAj0EBhj0VeCpwMNgx/rHHlFLhcSWb4YmqfBBs3qdrTfnny6zd1xswMgojimcHgoRefU5f/Nr/zRytBGRvx11Vn3ioFJAOwv28ZStTydLLmnBlBYndpE5kDnw+cvX9XjIbHUbmn9u54+zwEZi2Enn6d04WAzdOZeYQmoJjIoTWzzqSk/5SdY1V3H4fRm/XKXrgdOqiasoYT7LkuV0kP0DeE9HSr+/iOsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/074.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/074.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 74
     },
     {
       "content": "— Tu me raccompagnes au bus de nuit ? C'est sur ton chemin.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZxJREFUeJwFwclu2kAAAFBfqlZICS5JxCKvYI+3wdvEy9jG4LHBYJuUmICiNG3DoVK5N6rUn+itt56q/mffow4EPm+jY5l83cdNJl1fdoTR9fn5bo7kQeedrV3uCpq76DC9zrD79umxptZJ+HLcfrnfnB/3uyL0IetL/Qyph2X0ust4+s2xruu8lEe90VX376/vVLPCVRF+bP1PbfyhdGY2/61wTObClYc/7tMScp6uusrY5ro6Q//7/ZMKAzXBMJupcSg3hRMb7Az0IXOFvWXmoBYjU3NdiSUKPVNuTi97yrUmyJY8k3embL3Cm1uNSF1TZDf5U4DKBa5ifx0YRq7SrkAbgKWwByJfwRYfOcJmYdUhqmIST5V5uK7zpilaA4Q2AK03wOC9wNxQHpKjQCmjST3Xq1R7yPJ89eqhOxWEq3RFYmIaiQW0YyQWDsOOetQitUhqVSnclV5FzNP28Pn0JydnVUKWZiMILRgnrv+wcIineyagBL4vjYei2Jdl9taWlgFWwVxkoSkBbgDYgWJNFOJbhT/19Yk+5v4Dbbla8F6SAv4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/076.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/076.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 76
     },
     {
       "content": "J'ai dit oui, j'habitais à l'opposé.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYT1MZFQ8lHBkiGRNgPCGYcF6balyfY1B6SjchEw1BOjH69dtbUEMNERN2mqNWZGUALCQlJhsUJx0XNR4MmFcnlnBijWFTa0U3g1A8TC8hTTIn48mxUEY6DxQTkY6MRENFACgbFSkXCisYCR8TCCwbEVg+M3lNPV4+MpVeSXNHNHVCMObCpV1TRQ4RD5eKgkA+PwAqGw8kFQgyGwk3HQg+JhF8WUiaXUylalinaVR6RjGSbFf/8dJYTUAPEQy3rp5WUk8AJBYKLxsIQyUKVi0LWDYdeVdHZEAyd0k5lF1Jajspq5N/4MivLiYeExMPrp+PU0xDAB4SBywYCEMkClkvC0ElC0EuIVo9NWtBNHJIN1IyI2xPQrWNfUIwJAsNCLaql1VOQgAeEQYoFggzGwU7IQo+MSswLTZBMSxZOy86JRtAKh5jPC44LC82LS8eHRtgT0MwLCMALhsKOCIKPiwdMC05TE5lJSY4LSMjNiskJBkRZ0Iyckc3KyMoOjI6JiAqODE3LysoADAdCjEjGDUzQkRDVjg4SR4cKiEbJWxSTG5NP4RVRGA/NBkXHy0mK0k/Rzw0QCwlL3x6cX9BZ7EMAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/079.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/079.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 79
     },
     {
       "content": "Pendant qu'on marchait, je me suis dit\nque c'était cool qu'il y avait\nun bus de nuit toutes les 45 minutes,\nque ça me laissait le temps de conclure.",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAmHxobFA4cFhIpFgwoEQkaCgRXRzeOcVpCNCuLZFSIWUl/TDhaQjghIyfOuKP+3MIAKR8aIBkUIhoWIxQMJBEIFgkDQC8kdldGQjQrhGFThllMjldCVjktHiEj1Mu1/+rOAB4UDSUZDTQgDTkjDj0mECIUBVlMO5d0X2NIO2hNQF0+MWxCMUQwJSgoJd/bxP712AA+Kx5ENR1VNhdGJwtBJxAhCgCPiHnx5M94WUiOYlCDW02HUj1uTjwtLinn5NL9+uAARS8gVkIoTzEUSCgMLx0OGQUAh3tpyse9VkI2clJCVjowaD8ue1VDMSoi7t7E/fDSACwcEkYzIjYeC0coDCQUBiUVC0tCRDs1O0IxKTwvJ1A1KkwvIz4uLDgrKeuvlfKwlwAQCQQ7KBoyIBMtGgo6Li04MkNKRVshHy1JODJBMykzIRY7JRsgHCEzKzBaPj6BWU4ADggFMB8TRy8YNi0xOTZPPjpKRT5KGhckJR0ic1BBglM/VjoyGxkgPDM0IBwiioB1ABAKBxoQCTYkFiwmNiclPjozPD83QComMRoZJkgwMIdXSjYqLx8dKjEqMyQfKT8zNx06dLvR4ZxCAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/080.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/080.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 80
     },
     {
       "content": "Je me suis demandé si je\ndevais l'embrasser.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBHOzEtIxoRDAowJhxlW1lLQz5pSz6seW2CWk8fGhgRDQssJR8oIBYXEQyihnWzmIgAOCwlKR8WFw8GGhMFJiAVQjUotoV5v4Z4e1RHHxkTFxAKLCQgLCQhKR8ZyK2Q1b2oAHBMQDcnHiEYDCEZDRELATcnGJVtY4ZcUXtQQDsoHk4wIjsnHS0gEywcD7GlkP/x1QCQYFBeOSklGQ43JxgqGgorHAtvTkJ6WE6fbFxpRDR3SDZBLCEtGwgzHQl8a1+fj4EAbUg6bkMzLRoONicZPigTMB0IfFNDnWxilWJTYz4sbUMxTDEnMiESQSUPQDMpWkpAAH1NPYBLNysWDR8WDkItGDEdBjcrLFxDPGJENkUtH1k4KHZHNSsjIy0lKSkjJDIqGwBqPzJeNCMdEAsNCAQ2JxxFPUxHR2tFOkYiGBInHA5fPS1uRjMuJytHQU9LRlxEPk8AXD8wQyYXEgoGDwcCLSk9Pz9kWVNpLy1EGxkoSTUqdUs2XkEyLiw4PjdGY1poNjFFAF1CNTUgFBUOCRcPCy4sRjw5U0U/UDk1TTQxRzMoOYdcU008QzAuRDMuQkQ9TisnORcLaBp30P9UAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/085.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/085.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 85
     },
     {
       "content": "— Y a mon bus, il y en a\nun toutes les 45 minutes.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwUtv0gAAAOCekE4oUBjrVmhL309aCqUFCh0FVkaFlcHcWJggyQxED9MYl2jmgfhIdt1hyYwXPXrUxN9hvPpDvOn3AV5N6jpMz5auH09vn0xPG5VkPBa/DwrwBhYL93uJkohoJIVtRudD7/e3T8CoUz30Kq8mwfer15+XZ2NTxVIxDklQW3EEurcTDb29uFpfXlMYdrd++uvnFyBo5weeenHUuxwPV3v19dhzxdy5rZRpNBkJZWFw2Ors2S0iFb959/zf3z+AqRFOQxw1C2+O+h9nk7vzk1lVftkxyjRKp8EimZAysIKlmRS4PPF/fL0BGmrOsriDmvrheHC7XLwfe8clbuXk+xqDp2MaAWvZSBEF9Z2wq3PTB23A5FHHlkwuVWez82Zj5pi7LHqQJ1+0dAXHBFpWGN3gJYtKsSikCgggZuBakbAKiqV1u6UKjcDMFhQU2Ge7mpDNWbob7C/8zrxWdAV8k9hOAggU5knS0EeeuxDZemQjgSehwwI5KUsiKcuc9bB/NvIfabJbUkQqAwPRcCiHmxLf3m8GhtbimSqVUZat5qo7UARHFV3H8u2yL/ONoqQ7hvQfM75knoBJTnYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/087.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/087.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 87
     },
     {
       "content": "— Je suis désolée, je dois le prendre.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYBJREFUeJwlwk1vmzAAAFAfSEL4MgWMjW3AJtgEGxKyplkWtVGmrFIzaVIPve0wbbdddpq0X7H/vMOeHlAsrKK5SDzmO5ZnVrIKp7sGnxQp4VwmbgnnReAUvkM8h8UL0PKIR7MCOuedvT09TUqK/O7apq8jr2kkGcSRU8AZCWYkcFAwB6PlnIayTl4/XT+fP1729yxefj20b5M8qqwqPMl8yX1BvYq4NFsAa7lSaDD8NNnn435oOIPujw/q56l72wrBo0bE/69kUpcxYBzW8m4c+GEQO13zLOwI/GLwr3P//UFvOqI06jTSGgkRU+IDQnxewXHgl72ZWk6iBYkWYx7eDLtu+DTQzVBYg7VGnAYEe4DSsGDh8X71fOjPW9XmIfIdnQXvJZJ11KySVZNohfo1toaavgAIeWnm7sf6sCaXnTI0Tl3Q5Z5IljScbRTu1sQYOljar2mnMUhTF2XLksPHbfv3959vLy+Pbd3lXk89HDgPZXbbNu8s6zTRKlct+geTAjcj9HpTqgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/090.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 90
     },
     {
       "content": "Bref, je suis allé\nau cinéma avec cette fille.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwVtv0lAAAOC+SDYoFUKh9AK9nK7taaG3tfTKAdYA6wJadnEaNIuTkRgSLzHxwW1PS0w0e/PF+OCP8Bf6fZjcLB+QNbZWzgbKl+357U3+eT2+e539up7e56YvtO4+9SR2b37EzUdkl6YxoV7mK09k8ukssD5cJl9vztbPJg9vT/7ulj/OwucOf5EhlmrpStkzqfvdBhPIKo2XQH1/YrVWx411MXx4f7lbJbdFcJ1qLzyQqtRMa7N4SRPBvz8/Mba2r1E4pCpIb8aQyZG1XY1+fzz9/mryeB6+G2p8Y8/liB5T7dZLi9TBAFs1BALy+MjpLBEspvYxMrbLaDPub1I1URiLI9xuxe7gNoeLFIGJHOH1qMhhUCDlE/10gTKUDR04d4QINIe6bCrQV8Wpp4xtUeYaGJQakd1BAyn1+CQ4LBZvoHqY+f2XR9ZVrIcqEDlZ5VUoKWPPzAITMzXas/jYB0kop/EsQ7lr+lCEj1fFt4uFBvqKoEXOoNsWPd1YZQlmaJxrCgNPSmLdtULTiKAS0C2g8wc8LQHBVgQDylabFESGtyH4D3ITV/95aSjVAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/096.mp4",
+        "thumbnailPath": "thumbnails/S01E31_brefJeSuisAlleAuCinemaAvecCetteFille/096.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 96
     }

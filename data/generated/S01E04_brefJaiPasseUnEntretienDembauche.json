@@ -12,210 +12,455 @@
     {
       "content": "Bref, ça faisait un moment\nque je cherchais du boulot.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBSSkJ2bmiLjJp4fIx2eoqbm6mop7atq7i1s7+xrrm0sbuxr7mnpK2Yl6CGhItxcHQAX1lWc21nkJWjfHqGhW1pqKa0s7TEurnFx8bQurfAyMPNpZ2jgmxosqy0o6CokpCYAGlmaXRtZpSXo2xrcmRST5+eqbe3xLq4w8bDzLWxucvH0H96fnZlY7izvLOttaKdpQBqaGh8dXCGhY0iJis8SF4pLTGnpqzU1d3Mz9e/v8eOjZQ1MjhxXGdXWl+5tb2nqK8AWVdXdG5qU1VcGB0lSVN5CA8UdXJ4p4CLj2RvpoiSYWVpIBogjFRrNDw/kX2Fc01XAFJMUFlZWFJQVjM2LjxMWi4vMj01NlgUHlcEEXNGUEhLTiYiJYtdY0lISUw2PDsACQA2QVQ/SVFMTE8PDg4FAAAdGhtBQUNFKCpQIydnSE43MzQdISIyHh4kFxoUGhstHyEAEh4mOD1DJCIlBgQHEAcLBAIEVVhedFVeZyw3ZC86MyosCgwNQRggLxYYDA4PRztAAB4iJTk8QC0qLRQSETU1MiAgITExMy0xMk5SU1tfYjQ1NxMTFR0jITM1NRQSFRwfH9THo/PZbApDAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/006.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/006.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 6
     },
     {
       "content": "Un soir, j'ai craqué.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ5JREFUeJwVzl1vk1AYAOC3hQPn8FULo6HdKqwIspaPAoePrqd0G8PVpJlLvHIuXpjdzRgTExP1ygu989J45T/wRxqfX/CAl9AgrRZ0HVfb5eo8W7cx3fhhGpUspmyebrLTLq0vcrYrmj1lOwjSMqSny3qbrtucdcWmC3z/tqkeXt1XqzNF1Qa6NZq4k6nvuNFj5ymE+SopWFI0VXNVn+9Ze/1ws/vz6eOvLz/PNq1EREEQEOIRxyHoY+BgWTI/ol5Iw/+TeubFH150f7//+Pbua55XBCGCMEEi5kQCPAEO7JPUDZKINlPHk8gQI7UMnry8uFrR7vDQFnoc6fG4x8sIy0QhIgFMdPckL9jONC1RGGiyNRweYWmkqpOxYYrQxz3+yDxYBK6s65I2AAHAGs9sP71raB0E+iiq2Z1u+KLwyDIMEfoSJr4zjece0VRJUQBz/NiylQPn/fPmvq19e96Uz7bL/JJmhqohgDpZVDSduceyqhBCgEjSyJoiyXzN8t9vrz/fbN9ss1uW7etU4kUeoK2yssjs2bGsyLiP/gEEgEH6G2L5uwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/008.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/008.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 8
     },
     {
       "content": "J'ai envoyé 257 emails copiés-collés\nà toutes les entreprises\npas trop loin de chez moi.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVxJREFUeJwVxtuSmyAAAFD//0f60HbT3SauIyAgNwEFFRO8a9If6WTmPJzkz8ctvQIEhGANLSTMSwSY5NZUgVGLAIc5o1hT4gpoYV4lP398XH59UiStaili6d8suwFV6rYeRKmzW56nkJFK8Y4TRwubfKcSAZGnQHEzPdY5rsu4T3EZH/MU13ncxsc6dGPf3ts6NJVPCKob08cQl3E71vN5PN/O1+v573m+jv08t3NfjnXa4jAGf08U7yixhBilOilbLrw2wZogpFeqMyYw3jDuOG9qHbTsElF6BPV3xhHSGFtMas69Un1ZOs69EC0mtsAGIS15y2mTXD8BwxVFFEOCIXHWHeu5Lfu+ndtyrPO2zvsclzhMvb+3tksosl+X7PL7+nVJEWCNjb6O3r25Jrr6UZu7UaESnSw9wzbBQMNMFLnCsOLUGTVoGYwa3lFDJXvFO1G2JWkIskVe/QfIs1QYmnOpBgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/009.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/009.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 9
     },
     {
       "content": "Je me suis dit quitte à me faire\nchier, autant que ce soit tout prêt.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwdzVlP2gAAAOD+q83sbZlhyYjSUgywcrWlLUcvBQZtRWVhuHVmhzpBSk09toTEp+1hJRlEY+UGWYBaYNlfWeYP+PIBxS/l4mFJq5yoZVU9Vk5V7Vw7v6xeVr9VL86+Cm8vDo5OtYqqlBSleHy0fwh0m8OW0e+3R9Z4bk2sM62olD8c7O+cVGSlJO8UtuT32Xw+WSik9mTp88cc0Lq6rf2otW46v4eT6fj+dY7JSvg652IZp/jKh2PLLveSc20Jcj1ywI89L58CfaPbqDV67YE1nc/Mufwus71J5nMxUSKyIsFxXjICBdDnXt8yErD5gjZgYHTret24bs7MPzNzvvtmXRRCmxKZTPo3EkGaBNOogyHAMOUI4StB1P4w6PVOs7ew/lrm4tOekE75JQGXRJLlEZYCM2s2HgdpxhOLwiHUDvRuOg29PujcWdOFZS62t+hY1JlKBhOJAEm5UNxBkzBPe5i4O/4frADtq9uGXh8PJ/fj2Xg09aMvYPcTIYNyrHeDRxI8gmH2KAWxcRdFQRgGAsava/37z16zPxlO77ojnIKQ4LMoDfK8W0xjPAdHqNVIBCSI1XDYieHgPwgO6oz7jdH7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/012.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/012.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 12
     },
     {
       "content": "Il y en a un seul qui m'a rappelé.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwdy1tv0lAAAODTtT0957SlUAIVOlgL9EahF0oLbQctYy6ORcMWRRcznS8+bdGoWYwP89H4otkv8S8aff8+YPqxFc6G08xPyyBbBdnajTInSLy09JPSn5Xh/CjOT+LFaVyceXEB7HA2mmbBvIgOj+Pl47I8cfuDzSzdbl621Y7c2G91rI4+1AbjgTNp7/fAOMq8OPeTRbI8zY/Oft2+/3J5fffm5uHbb6VZZxkacRCyNKQYDtCYYoEf58ZoYowiLy50e/Jhd/7nx8+Hz99vrm4JxhgiAhFiEd7DhGIwxQB9GBpu6CXlQd9hGPL2eP3p8ur66c4aeBhC9B9VEC8IVYJFRDGAlxTbz7L1tm+6Ei9+ffU8nz6BXL2tqBUOI4qReSHxnZrSIFLtX4CA6mqO7mambt09y+9fv1iv3vFCV20oPANFRFSlGY1tqV4lYgXtsQDRsHNgiXVNEOT7i+XH7cYy8keNbq+rAQAi21wtUtO2qrKEMcEsAoQIzZZeqbZojvhae1fMNd2xjLGqtAAAgdE7TGPDMmqyhFgoSvJf24dDEOYkduoAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/014.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/014.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 14
     },
     {
       "content": "Je ne sais plus pour quel boulot c'était,\nmais j'ai répondu très sincèrement:",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB1c3d3dHmVkph8ZmJ/WlCIZVubenGln6S0sLS3ur2xpaqym6CwrbOyrLOyrLOxq7IAYWJoV1hcWldeSDQwhmFXhGBVgWpcramorp2gqWJrhS80gU9Tube8rqmusKuwr6mvAHJnZmFhZHBxgUtHUjMkIHpraKKQerito7WwsZk5QJA+RHJ3eYB6fVlVV2ViZqWhpgCXcGKcf3OOfXZ7cXFmY2R3cnVlWVKLgHC5tK6kk5KrkpOAfn9YTEpqWldaWFujnaMAPi0oY0pDfmBUk3FioXtsrYV3Z1BNhXxxrp+GoZaNs6yqYV5fQDc6VEI9b21yoJqfAC8yOB8hJTExNUVCRVpMSl1IRGpUR5uLe6CPd3BeTYt6dl5UVjkrLUdBQX14e5mTlgCZiodRTU8jIiUmJytAQkhJSEptWkhoUkBbQjRFMCdOKCVWIiE0GBc2LCprZGGRiXwAeV5VoYJ1kXVnalhTTk9Vb2RcZFFFKBYRDQQFGQwLGg4LIRURKx8aRzIrnJSUo5qXAGZeWKKPgcCrmLCekZWRkLi0uH93di0dFwoCBBcODRMNDQoHCBQNDDIlIoJwapGCfSc0sbfFUF+OAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/015.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 15
     },
     {
       "content": "Ça serait un véritable honneur\nd'intégrer votre équipe.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCinqRwbUF1bjOknZO4tr+1s7d+eHmxsrell5d8U0mmg3t2YFpdU1OysLa1s7mzsLcAoJyee3Q9jYE2pZ+av77Ft7W5o6CjxcbMrKOld1ZQmXpzqo+Io4eCubi9tbS8tLO6AFtTUoZ3MJGFUrCss5ebqmdzjpqgr6yal35kYI1rZKyEeqqKgLCgnr+/xbu6v7W1uwB2b3GVjHSemZazsbaRlaRlc5GcmqOkf3U9JSFMMi53WVKAZV2IeHaNj5evrrW5ub4Alo6NmpOXopyeqaSlqaamqqOiqY6Ig2hhLCYmHhoaLSEdfGJein+JUFJYcXF6n5+nAKWgpLWxtby5v83N06KXl5V6cnBfWxocIB4gJR0fImRdZ46DlElJUTg3OVJRVnV4ggCloaSxrLC7usCjmZmMbmaSfXliV1WNe3iAd3kgISVBQk5AQkwpKistLC89PEFfYmoApaCjtbG1rqirfWNchWpjVVFScVdRpn1y0cHAhX+BPTg5Ozg6Ozg8LyssPDc4TUxTAElDRZGNkauhol5JREM7PF9gZaKcnp6RkI52cbukn6mQip2Efpd9dpV5cZh6cZR9dhED1vHdTqq0AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/017.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 17
     },
     {
       "content": "J'ai raccroché.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gChn7KZk4htaTOJf0qzsLO7ur+wrrKOi42RcGmmfHGrjodVREBsZ2m7uL6xrrOvrbQAt7XCm5eNbmsyjIJOs7C0xcTJramsl5WXiG5qeFZQtp2Ymn54n4qJtbW8tbG3sq+3ALGvuYZ/bod8L5WJVLKwuK2ut56hrqOSk5+Df6J6ccChnLGUjqyenrq6wLi1ubWyuACXlJxXTkKThkaXkoi8u8RxfplwZnRfPjdJMC52UUuWdW6WfHaAdnl5fISTlJyzsLYAp6Sognp5nJWOoJyep6SmmZigooF8aE1HMSkoTDUxPS4pZ1FNXFZbWVtjcXeDmJmiALKvtJ2Xl6eiprGusbSztpqCe4dpYkA5OSEhIxQUFUU6O2BXXzo6PmFja3Z9ioeMmQC0srinoqe3s7e6ucCci4mIbGQ8OTsjJi0hIigcHB96eItRUV88PEBpbnh0e4d8go4Asq+1pZ+js7C1lIeFkHBnZ1pZMDQ8ISMpJSctJScsKy00OTpAUFJaZ214d3+LaGx2AKOgpZ6ZnaSeoH1iW4VqYkRBRTA0O1VVWjQ1OiIkKi4vM1VXX1RZYlZbZWRpdE9RWbJpz96g6J+ZAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/019.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 19
     },
     {
       "content": "J'ai tapé le nom de la\nsociété sur Internet.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCfnbCUjXdlYiyRhlu0srm6ub6sqq+al5rAwsieh4SrfnPCpZ9jUk9RTE6wrrOwrbQAsrC/ioh1dW0qkYhetrW9xMTHnZmal5OVxMXLi3JuhV9XspWPinFrf2xqsrC2s7C1AKqos4N9Yoh8KpeMZLa1wLW2vKOlr7u7wMPEyaCOjX5ZUbCQia+Ri7SenLm4vrSwtgB6dn9gVTmWiEWZlZK1tb9hb4xXZYSxsLXOz9Oom5uAWVKpg3qbfXWRiYqmp6+yr7QAlZCUg3x1nZeMop6jqaepiY+ekpWjwsDEr66yYFtdTDMuTDUudF9db2t1ZWhwhIWPAKikp5qUlKahpaypqqakpqagncTBw5WUmUA/QxkZHC0pKldNU4B7jEpLUlRVW3BzfgCsqq+oo6a4tbm/vsNmYGJmZGaVlpwzNDkuLzUkJipCQkqXk61PT1szNDdQUVlnanMAqqespqGlr6quv77EiHNxNSUjbmNkQj9DHR8kNTY7MDE3OTlBLzA0KysvQUJHXWBoAKSgpaGcn62prKuorIxvaYBaUppzbK2UkFxXWjEyNy4vMy4vMy0vNCgoK0lKT1tdZpMQ2KZyVB7BAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/020.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 20
     },
     {
       "content": "C'était soit une maladie vénérienne,\nsoit une branche de l'ONU, soit des mecs\nqui louent des photocopieuses.\nDes mecs qui louent des photocopieuses.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVlJREFUeJw1zUl2pCAAAFDvf41e5aW7klSloikcQEEREWUUcOrcJJvkAP/9hCDSY8rbYez4xITikuE+u91fn/9CUFnlzWzVqOdBjlQMhCcMU94NUy8kl0ooI60UqqsJbVqCMG0oQZhA0iJS56j4yJOZKzUZKxdvQ1hiDFtw0RvvXQguLsY77fRkRjaxlvNuTFTHnQ7erWvYt3icx9difU86SlrWUU77xS7TKECa3i4vLcJJD7EcVfgFx35u8b/Tu7ent4eeN6d3q7ZpCH1jGdZJ+ShpQ72N289w6unr/Vm/PbXZ5Uj/7Zc/8fM1tnBJ30x2MwnKq7EX3q5hWddwHNvp7IaQAIAgqCCcARghFIwPqCFFRZIiy6tHKdjsTPA2rmHX0hCCGe07TBqEUFXWEOafIHtP79dbggBEADLCzGSNdM6Emau6bOoCkQojAMusgI+qzPL0es+uH98IolZYiF6vBgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/022.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/022.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 22
     },
     {
       "content": "J'avais tout bien préparé.\nJ'avais fait mon CV.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCdl45taTSJfkeyr7G4t7y5trurqK6YeXO5joCVenM8MS2Oh4e7uL2zsLazsLaxrrUAmZSLbGgziH1Js6+ywL7ErKmtfHRzf1pSk3Nstp6afmdimpCSvr3DtbO4tbO6s7G3AJqWint0MpOHS7Gus8PCxrS0uqqipJV5dJl2bciwrLCTjreqq8HCx7q4vba0urWyuABlXE2Lfi+Sh2O2s72GjqJ8d4V4WFN4W1aTb2azlI2kioWUjZCjpKqxr7W6t720srgAZl5ZmY9tn5qctLG3iI6hhmpqXEE8LB4cZEM+a1FLe2RdZV5jX2NrfoKMrKyytbO4AJOMipuUmKKcnKajpqGPi555b1hGQysmJy8kIzIlIllMTEhHTGZob3V+iZWZorazuQChnJ6yq669usGroaSOb2ZWSkcnKCwaGx4XFxl6c4JYV2U7Oz9oa3R3f4qEiJGspqkAo56hs6+zoZmbjG9nb1tXKy0zKCkwJicuIyQpUFJhOTlBUFBWb3R+eICLcneAm5aZAKCbnaikp4FqZIxuZUhDRjI2PiUnLCUnLCYoLiUlKk5PVVNWX2FmcGxyflhaY3JmYGO41L8yUi1qAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/027.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/027.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 27
     },
     {
       "content": "Dans la case loisirs, j'avais mis\nque j'aimais bien le kayak.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxj4BEQ5uLi5REU5hEQZufkVtcxCwzLsnLKMnesDopsMTJ3EBaXFJGUFhST4OHmFxQWY+DmF+Ti5uPhFeTjExKVlI6IKaqsmeHqU2jpXBefNjslvV5USlZEQlpQVIKTjYuXm5+Bh0eAX1iMhZ2bnYtHWVMnLDrT1sXdzD7Gxb8jKGZybeMCVU19XkEhVk5eQSExcQkZBg4efi1dw+L4eFMtHWExZVk5LT4BGQ39eDuXdluXdg+vXEVFA0EBERcra00NbUlpBQYWNu5QF7etPQ01KcE+0RauKYa+GWaxVbEJtamJNbnO0XaGXmpJQZ5r6mv7CnLlFFQYxIRFpbgF07LtZpwMXHAzZNmzqKVPgxc+DFr0IGzh3YiFd8OnX3GfvMWvuye8NipCXVGZwVBfn4WBVV5Lwi5QwSvSIDrXLq3OpbDPt2p2YPk819LZ9tkTjTJ6DCJyTaXFxG1MrRi01bW4efn5hSXYmPlZGTkZGBiYGZjYGTi4GDg4GVk5GJg5mNi42PlFRGUUlTU8XL0Z5KRl2Dl4xGRkZZWVlTS1JKVluZhYOJiY2UDamDkZmLm5eUWkZeWUVOTklQP9QgHbMV8VVSgXCAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/029.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/029.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 29
     },
     {
       "content": "Je n'avais jamais fait de kayak,\nmais j'aimais bien les mots\nqui se lisent dans les deux sens.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVxJREFUeJw90ctK5EAABdB8pCtldvoBLgZmPQwMuvADdBYOtt2dpKor9UpV6v1K0h3Fb5K0IJzt5V64FXhtwRbWGwB3CLWcYS2Yk8xJ7iX3glqGTQclaPhu2738b6quRhRyVGMMmKDGyGhVtio7XZwuVmUts+SeYYOgrPekooAILE3vBubMEIOZkpuTX0pc5bAkf7S6CO4J0m3NKrRfGwRWgho7pGDGKb1P6WNcvedwCna2qkgeCFKgYRVu8GGPGBJuiNlOxR9LfMvhy5L8KbqjN9PQJ4oNbPt1Ut8JK4JXyQ0puTmHpcS3s6XENWDVKFnASDV7WuEa9Uh0LW22B9SQc+CUwymFY3SzN5OWWfDIqSNIH4CowKalgKC6o4feiGCH4vS4UqNVo9OT0/PQJ9j2j48vv//cV/XzDr4CAgjvpKD2+wTBQgflv6fN37uH25+/flzfXFxdXVxefgLdQjJfFAFmkgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/031.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/031.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 31
     },
     {
       "content": "J'avais mis le costume que je mets\naux mariages, aux enterrements\net aux entretiens d'embauche.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBQSUB1cHCEiJZvc4Vxd4men66lpbarq7mzsr6wrri1sb2wrrmmpK2XlZ+CgYlvbnIAWFRPcW5ujZOke3R9h3V3pqm6r7DBuLjFwcDLubW+ysbRn5WZjXl3sa22oZ6mkI+YAGJeYHNvbZKVo2ZeY3BeXK+wvri4xb68yMXCzLezu87K1XtydIJwb765w7Grs6KepgBjYGB9eXhzcngoLzYwOkpCREfHw8vQ0NnGyNDBwMiGhYtEQEdmVF1rbXO/vMSio6oAUk9PcG5uPUBEGB4yMDdZDhMTm5KapoKNlG54qpOeVFtgLiAofUhePElLmoGLdFFbAE1ISlNTVkNCPj5NPkZZUTc2L0g4P18TIFwGFHtUXj1DRjQpL49dZkdKTFExOEADDAA4RFZFS1RERUMlKxQiKg05OzdSTlNIJyhPJSlrUVcvLTAkJSc2HyAkHCAXGx0yHyIAFiMuPkFGGBYaBQAHBAADFxgdgYGKbkVPaio3Yy44KycoDgwPSBghJxITEBMVTz9EAB0hJDo8Px0bHSEgHzk3OCAfI0tLTzA0NVVXW1hbYDU1NxAREyQoJzIyMhQUFx8jIzoxpxRh1le8AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/034.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 34
     },
     {
       "content": "À côté de moi, il y avait ce mec.\nJe l'ai trouvé bizarre.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwVtv0lAAAOADrDu9rlxaOEDpdesFWioyEIaT0g0YOBgQMgdhDAxskhhhXpJpjA+++GL01Z/r94EfXytfHrO7rbZcSo+70ure/Pyp+ut7b/vheD513lzr/YHSbCWH49T1RLrf5MDD0l7Mtaur+Gmd2ayL//4+3M3tP7vp07rbf602vGTeZas1/tvTq3cbezpTQMvPNDyu3oiWKky3I//+OVvclSe9k7ezs/E4d3GhDQdG91Ie9I3JjdLpiECWSSfPFp6zoopbFuN7UlrmK/6lVSwh4aDd0gfD7OlLcTQyBiN1Mn0GEgg/MqhSldWzVKHE5lwuiIVSshlBCCOwBCIsPaZKTDbHnTW1Si0F0iJ+qJPuMaPbtGnTsnoACUiHaYohKRrGeco65BBP4jCQEdi8wwNBxGWFRGkYS4ZEjRQkFkKMCZMkjRM4piqRYhEZZtg0ouYRl4hRoHoSPfcStTLvWDFDi3BRCod7NA0pEgYA8D233yvHUIBPYxkJojgGZrdotRY2K/P9yv24NV0nEgwEKQIj9kP7QdBv5xc3lWY9064p/gvBK6T+A36wT5QobbE5AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/037.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/037.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 37
     },
     {
       "content": "Il était trop propre sur lui.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC0qbe3rbu5sb66sr67s8CrprJKRklENTBxXVqclJywqbSpoqynn6mjm6WdlqCVjpkAuq+8vLK/vbXAu7O/yMDObWluSDAnpntyrH1zj3l3t7G9tKy2r6exq6Sup5+poJeiALyyvb+1v8G2wb62w66ntVJLTkw7NmFLRnRWT3ZlZLy1wLy0vrevubOrtK+mr6mfqAC+tL/DuMTDucW4sL6HgIpPPjpiSUJwU0x9W1KQenjBu8a/uMC7tL23sLm0rLSvpa4AwbfCxrvHwrjErqe1eHN6RDs4ZkxEfVlSiWFZrpqbx8HNwrrDv7fBu7O8uK63s6ixAMK4w8W6xb2zwKqjsW9qbz44NUw3L2JGPn9gWL+1vcjCzMK6xMC4wb20vbqvubSrtADBt8LGu8bFusiqo7JiXmRAPkFpXV9AMSt/b23AuMPMxc/Nxc/DusO9s726r7m0qrMAwrfCr6WxdHB5T01VLC0yJicsj4+fg2RwhGp1U1VeXltihoGIsqmxvrO9t622s6iyAMK3w2VhahATFyQlKiYnLCYmLIOFkm1KWo1wgV9jbRcYHR8gJktJULmvuLWrtLCmry4G9PhyMJyvAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/039.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/039.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 39
     },
     {
       "content": "Je me suis dit que ça\ncachait quelque chose.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCUWynn6mmn6ylnquhnqublZqcj42in6bGwsiyl5SZdW6IZVteQjkiGhcODAoTEA0ARVVxrqaxr6e2oJiji3d3bl1ZdWxsrqqyv73EYlZWMSQgSzcxSjYvIxwYEQ4MIBcTAEVWc7GptrKsuq6QjLmGdYtlVyUiH5KSmMC0uGxXU1lDPVE8NkgxKjsqJD0pJEgqJwBEVnOzq7myq7iifnWXcGWKaF1TQDuYj5KVeXeGYFaOaF5iRDpdPzZbQDdgQTlZNzIAQlV0sqq4sau5knZzmXJmn3pvjmphuauwoZidkW9okGpfb05EYEM6VDoyXUA3WkE5AD9TcrCpt7u0w5mBf5RqXaJ6b3pfWJmVm6ymrZFvaYhjWHZTSVY7MkozK0w1LVZCOgA8UHCtprS8tsSShoxkRz5YRT42NDYoLS92cXeScGdoRjlXPDJFMSlGMClSOTBTOzEAOE1up6Cvr6m2tK28c291IyUpGh4hFRgaKCstgHV5f3B0U0I/OicgTzUsVz42Y1BPADFIaaCbrKqktK+qumRnfSEjKyEjJRwfIgcMDkJFS7izxYp+hks0LH5paoJ5iGJfbaGRsJ5mT1+rAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/041.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/041.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 41
     },
     {
       "content": "Le directeur m'a appelé.",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWNJREFUeJwV0MmR00AUANC2/v+9a+tWq61lZFmyLUvWzBhOUEUAU8WRMxkQAFkQAblSvBAeO9c0R740/BzQSwgK+gzvOY8SuiC2Sd9avvZiqClk4DSwKfClkWvLTx4bg0OOz1J8daqRUOU0dXLp+fLCTzXVGQQDbK3Fo5VrK0fPmxRHR99K9d2bAqC0OB3FPsp1EHPNuxSPBtgzys+teu3U4Mli8sOZP9H/PcYPoUoNlyCes36f9FbLKaVeA9uDeGvU6yBfPGmWfCj1K0t/F8VPo5+Sz5X4tNjn1d6jHFJqNbDR0a1Xl05cFA4JTsTLJOkBAscvWtxL8f6wb5sdI48Wagss5Dh2cvB0lhg4dhlXB0iTBA5wRdpzvi56f5i+psqAN8BchlUOJ0cxJZlAygEZCIZ0gA3wltGy6ftFNZ6cwUIDKw14C53/fyIZyASGSoaUO4vzAXsB11U9dh0LdAYKDf8AIccgktXev7IAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/046.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 46
     },
     {
       "content": "On s'est installé, j'ai regardé\nsa cravate, c'était une cravate dingo.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCdl45taTSJfkezr7K5tr25t7yqqa6YeXO5joCVenM7MS6Oh4e7t720sLa0sbeyrrUAmZSKbGg0iH5JtLCywL/FrKqtfHRzgFpSk3Nst56afmdimpCSvr7EtrO5tbS5s7G3AJqWint0M5SHTLGvtMTDx7W0u6qipZV5dJp2bsewrbCTjrirq8HCyLq5vra0ubWytwBlXE2LfS+Rh2O1tL2Hj6J8eIV4WVR4W1aUbma0lI2li4WUjZCjpKqxsLS5uL21srgAZl9amZBsnpqctLK3iI6hhmppXUI8LR4cZEQ+bFJLfGNdZV5jYGNqfoKMrKyztrO4AJOMjJqUmKKcnaakp6GQjJ95b1hGQysmJzAkIzIlIllMTEhGS2ZocHZ+ipaZo7e0uQChnJ6xq668usGroqSOb2hWSkcmKC0aGyAXFxp7c4JZV2Q7Oz9nbHV3foqEiJKtpqkApJ6itK+0oZmbi29nb1xYLC00JykvJygtIyQoUVJhOTlBUFFWbnR/eH+McneBnJeZAKCbnqmkp4JpZItuZUlERzM2PiUmLCUnLSYnLSYmKU9QVlJWX2BmcGxyflhbY3JmYbY+1RlANd2VAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/048.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/048.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 48
     },
     {
       "content": "Je me suis demandé si un jour,\nil était vraiment entré dans une boutique\net qu'il avait dit:\n— Bonjour madame, je voudrais une cravate dingo",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAW5JREFUeJwFwdtumzAAAFC+bC+ttLWBknI1do2NDfgSzM1gGtJISd9WadUe9sE7x2uKV54GGgVdhQr2XdZfVuCRZYZEHY00DiUMReEz+HYuD648ek30MMU/OnToaWGFWkWzKbxqukg61FnfYEOznrwgegfwZsrEo5CwnDiB5wZtilwM2yS6btvt9tuK6mOeewZ7GlG6Z+imSuBVoAjBZ8fIQMOZx3uHL4ZsXXU1zV0Uu8QTzwYGpkZMJDEo9BQGdZ4bHC0CjzzZJLx02Gm6tNW3OX6O4vpx307MyXLiQKPAU2Umod+XoTu1q5ZO8XcFV81T9k+L897xi3NO01XAgbwK8OxVySNLH2TxpJF/ptFaxXOd2JYA/hewP1NLbZMtLbIK9jwT+ZOnGRYkFzBogF/GYHl7cSdqKjy03VgVI413ay/v156jRWtZBB5NDwanGkUi/+kfe5A1cw06fLRtaVtkSDTU2CplaTZWkKe//gNW3amIIeEheAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/051.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 51
     },
     {
       "content": "parce que je suis un vrai déglingo.\nÇa m'a fait rigoler.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAJBwkMDg4QFBQQExEsLCuVkpSfnKCgnaKnpKuloql9eHuUkZqMjZypmZLdyMHQu7EACQEECgcIDAwNDRAQIiEflpKTpqOnrquvvLnBaWJkKRwVYVVVhoeTtaej59XQ2MS5AAgABAkEBgkKCxAODUE1MJiVlqajp4OAhG5na0k2MVU3K15EPFRPUpeJhL2on7ujkwAIAAMIAAMJCQobExJQPjiWkZCFgoI2Li0yJyYyJSJDKSAvIR4sJCNORUBNQTxQQToACAEECgUGGRYUOCsmUEQ+lpGPfHl4JR0cLCMhLyUiMicjHxgWIRkXeHJ0npuhjYmQAAkBBAsHBzMsKUY0LVVOSo+NiXVxbyMbGhYPDSQcGVJAOSkgHRIMDDYuLpuXnJ6bogAJAQQHAQMYFxpOSktwb2yDgX5dWFYkGxoTDQ4LCAhKOzQsHxs6NTMkHRtiXF6dnKMACQMFCwoLAwgINT09d318d3x6VllYKCIhJRwcQS0nclNIPTIvMCwuV05LiG5olYqLAAkFBgoLDAsQEAkRDyw0M4eLlaenuGdobyMmJEg1LXVZUpSVooiGkHFlYXJVToZ7h4FNgnQH0YzRAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/055.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/055.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 55
     },
     {
       "content": "Il m'a vu rigoler, mais je crois\nqu'il a cru que sa cravate était cool.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjEFAw4ZczkldUL4sN39LXfGx238Fp7QentO7urvJ3dGCR0OWTM+aQ1BdWMikoqmhsaGTgljFR0LC0MzWrTY6pSIwpigyakpvQnBiWG+Ib6ebKI2vAI2vEIaUvpGicm1/a1NjIwCVjoqJlnejpMaE4O9LNSV9BbkJeapC1WbSLXXJQIKu0Pq+cMaeUvqCicXZuYVNTA8gGYUWLjODAOTVFm/uaVrZUnlk6a3NXzaEpzTkxMQwSuvwKJlzSBsJKJtk5Bc1N9Qxc4hqcUoaGxnY1CRFzy3MWVBdUJ0S0pUT2p0V4OroxSxvwyYP8IKVhlV9Q1FBXzcAlockhqcsuoRvr7VEVExLj5mSqouJpYpjg5qCmY8Eqa8QjD/KDsJJxWnp6fW0lA5eEAbu4rqiclpedTYSrQ4afR6yDXWmov7OpIa+kCpecAZecMYeUgYC8YUJCYl11OQOvhDo7v5Cyuk6Qp6+SjKSvrWWIg5WLiYGZqbWQpAyPkLiAlCqPtI6ggmFiYlJNVRkDj6AIO5+goLhMRGS6qYGRiJAQDxenspJaYGAsn4g4n6g4n4iooIS0uKyyrZ1DQW4WAL45cLdO80msAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/057.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 57
     },
     {
       "content": "Il m'a demandé:\n— Do you speak English?\nJ'ai dit:\n— Yes.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAODQsLCwkQERAWGBYRFBJfXFykn6Kgm5+loqidmqF4bm+KhYicna6MgoPXwrnTvrUACAIECQMFCgoKDxAQCw4MRENBp6Gkp6Ont7W8loWEfVpNfGdhlpiokIeI49DM2sa/AAkCBQgBBAoHCQwNDhQRDlpTUaqnqp+doIOAhW9aVWJCNWBLRV1aX4F3dsq3scWvowAJBAYHAAMIBAYMDQ0qGxZsYFymo6NmYGA0KioqHxw/KyQoHRslHRxFPTlTR0BURD0ADAgICQIFDAoKJR8dOikkb2VgoJycT0hHJh4cLSUjMCYiJB0bIBcWWlNUlI+Ugn6DAAoCBQoEBh0ZF0g5M0EyLHVwbZCMij42NhMMCxYQDjwuKTgsKBMMCyceHZCKj6SgqAAJAQQIAAMMCww8NjdPSER/fXlxbWorIiAdFRUiGRmLZlpNNi8cGBcmHxxBOjqYlp4ACAIECgcIBwgIFhwdbnR0eX58Y2ZjHRwcGBQTHBYUWD42OyojHRgXSEFBaVZSl4eGAAgDBQkJCQwODggPDiIsKXV8gKCisoGDjjxDQDdAOz9HRHJ0eoB/iXNqaXdcUoNqbDOpfL2p/6cxAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/059.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 59
     },
     {
       "content": "Après, il a dit:\n— Where are you from?\nJ'ai répondu:\n— Yes.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJxjEFQw4ZczklVQLogInFtTvLqjdtfEph399UvrCv2dnNil9PjkjDmk9AUVDfMKyhobGhi4ZY2VNC2tjI0rEyNTAn0cDXTLw33Kw3yiXezDPdx45I245Yw4pfQFFQxz80qaGhsYOKRNdPTtEjxdJ5bmTi7LywrwnFdXMrUkqy01uiwpjlVGn1vBGKIhK6cQpIFLykhM2TI3LKivIH3HpLY9U9r2zejZP63jwMT6ovhYFml9HkVjTmkDYUWTrJyC5sZ6Bi5xDU5pA2NTh6Ko4OklGQtrCtL8PdN8XBZXZYV6+zBJ6fMqGrNL6UlpWOYXFDXWVTNwSWpzSOqxiuuGurvWJ0XFujs5Gei5Gepn+rkZm9kzyxhyKxixS+sLKxqlp6c31FUycEoacojriMlqeNnZ+thYZAV4Jrs55fl7BdpZ8Esqccnpc8kZs0npCygYJCYm1laXM/BKqHDwC0nJq0QGhCpISTiaGoU4WnmYGznaOgpJyvCKiAtKKfNJawspGCYlJdXVlDPwCAlz8AvyCouHRaTbWdqIiQhzc3EqKKgEB8cLiEvyi0vwiYoJSkiJyyqaWVplpqcAAMTxcU2eT9DEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/061.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/061.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 61
     },
     {
       "content": "Il m'a demandé quel était\nmon plus grand défaut.",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCdoq6jpq+srbbBw87Hx9LExM/HxtTIxtbGxNTEwdLDwM+1sr+tqreurLekoquXmaYAoqizZGZpa1xUu7jAvL7Mw8LMxsXRy8nYxcPQubfCwL7OjoaLSDw6nJmio6Oqi4yXAKOorVpcX1hJRK6rsLS0v8zK0oeIjYyMksG9w5CMiLu3wIt7ejcgFzUtLkE+PzM5OgBcYmQSGRlETlesr7Spqq+urbMzNjciJimin593dl6joKFuZmcxJCEfFRUhGhkbISEAMzg4BQsJDhIVen6CqauukZORcHVvdnp4k5SVkpSCgXJpSjk0QjIuIBcWKiIhISMjAE9STggJCQ8UFS4yNpGNiXiBb4eQb6mtm6SjqpWXn4aBjX1tbEI4NBcPEREMDhwdHABudm4NDA0JCgscHB2PkZJyfX9obmyLk5F9k5lsh49khpJxh4ltd3ItMTAKCAggISAAV2NgEhQUCAgJHyEjO0JEOj0/MTQ2KzAyNUNFMkBBLjs7MD1BKzQ5ISwzFRATHxkaABo0SRQhKg4VGh05URUoNQQFBgkHCRwjKjpGUjE/TCw5RCo4QxolLg0cKRIiMg0aJe4Bq10YuEMFAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/067.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/067.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 67
     },
     {
       "content": "J'hésitais entre timide,\nmaniaque, obsessionnel, lâche,\ndépressif, feignant, menteur.\nJ'ai répondu:\n— Perfectioniste?",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJxjEFIw4Zc3EZNVj/VxX9Veu3ta1/7pHbsnNOybUJ8c4MMqocsvb8Isqm3rGtza2tnYUMfAL28irmJhoGdYEh/ZmJFkoaOd4e3cnBjmbWni4+jII2fEJ2fMIqZt6eTf0tLe0lTPwC1rqqBpmxHg21eSu6CpMifUf0F92ZyaoiQvl8ywYC55I155kAYLR7/mpta25gYGHlkTIUXzopjo3oKM/TN7zy+bvn9m356p7WfmdBXGxzJL6QsomrKJ65o7+DY2NII0cEvpc0oZW1m5lcWFz67IW9lSkezrHu1ss6o+P8jTh0lKn1/BhE1Cz8kztL6+tr2lkYFbUptTUo9LUj/Wx6s9JyU31D/U1jrYyqIw1MfAxI5FxoBXwYRVTMfG2be6qry9pYGBW8KAXVxfUsnI38kh2Nm+KCIwx98zx9fd09KUT16fU8GEB+wHY2uXirLitqZaBl5JHXYBSW1Dy7igEAUpCWtDPS9LU0cjPW1NHV4xGW4JVV5ZQxYxXUMr1+Ki/JaGGgZeUQkOfn45Fe20tFJLQ0MxEWF2NnY5OUU390AeYVFeIREhSRk+CWVDM/vcnMymuioAV0J5mqgZHQsAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/070.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 70
     },
     {
       "content": "En fait, c'était menteur.\nIl m'a dit:\n— Ah vous.. vous aimez le kayak ?",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJxjEFIwEZA3kpRVSg3y68xJzQ71n1KcubmjalZZto+dHZe0AZ+8MZu4tk9wXFt7Z3NDLQO3jLG2no2blWV1clxTepKXhVm0o3VPRlyko42zjQOHjCGfHFhDUExbW3tLcz0Dh7SRhblrUWjQ5IrC7dO6u/PSVnXUr+9pqk8Ijw8OYZHS55c3YZfQ9QmMbm1ta29pYOCUMlLStq9Ljm9OT9jU23Rkdu/2ia3bJ7WemNGWGR3FIKnHr2DCIannGxTd3Nzc0dLIwCWpyy1tbGvlVBQV0puTPKciN93fK8DabHZhspuTO5O0Aa+8MbeMYWRsSmNDXVdbMwO3lC6ruL6ShnmUh2tJTGiil4uvhamXkUGip7OyjhWbrCGPvDGnpF5AaFR9XVV3WxMDt5QBq4i6hbm9l42lh5V5hp9HkqtTmpuzk6kRl7Q2t4IJt5wxu4SOp19wbXV5V2sjA5+EIgsXr5d3uL+bh4y4qJOpsY+lsZeliYqKGge/MJ+4Ir+sDqekrk9gWE1VaUdLPQOPkAgzJ7eplVtaRpWuppa4iDAvN7eZqY2ekQU7vwC/qLiguKSwlIKJmVV6WkpHSx0AlFl5vJvh750AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/073.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/073.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 73
     },
     {
       "content": "J'ai dit:\n— Oui.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAKCAsWDg1iWFaemp+gmqGjn6aloqmnoqiOcGphRj6KZFuFYVhdRT59eH2jqcSBgI4ACwcHIBANZ11cpaCmpJ+mp6OqqaevrKSooXpyjGpjXUI7RDApUz02jYiPm6G5f3+RABQMDSkXE3BoZqejqKSgpq2qsLSyuZ2Xm11EPWZKRF1DO2BDOnNbV6Whqpietnp6iwAcERAxHhp8c3KqpauppqyUj5Vya285MTRWQDpHMSs7KCJGMSs9NTZiW2B0cYBmY2wAJRkWLyAbiYKCnZidY1peQzg7NSosJB4gKiAgQy4mSTMrJx4fEw4SGxQVLiUmOC0wAEAvKjovKpKNjm9pbS4jJj40NzYsLykhIxsXGiAUESkaFxUSFh4XHSAaHScgIywjJQA7KyZBNzKUj45mYGIhGx0yKi0sJCYsJSghGx4dGRopJCgSDxMeGBsjHB4iHB8gGhwAKhwYWlNRlZGQXFVXFxEUHRcaGBQXLCUoHBcZJB8gPTY3EAwOIBocJB0fIhsdGhUXAEY9O4J9f4WBgkQ7PywkJxQQEgsICicgIxsVFyAaG0E6PBUREx4YGyEbHR0XGRcTFCqLferyilGWAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/076.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/076.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 76
     },
     {
       "content": "Il m'a dit:\n— kayak de mer\nou kayak d'eau vive ?",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBhTEY0NDoJGS4bIjJmUlAuMDsAESg8Qk6Rhn6QiYipo6hnYmQMDA8NDxIJCAsJBggAQDU2LCsyBBYsNjE4soFvXk1OABAoOUBKkIV8j4iHpqGnY1xcEg0QDg8UDAoPCAUIADMtMyYlKwMSJDAvOYBaTUk8PwAULjg+SJGHfI+Ihp+coId4djYfHAYHCgkJDQoHCgA7NDclJCsLFiUgIyw+MjQlJCcHEx44PEOSiHySioWbmJiXioZQNC81Ih8SDA4JBgoAJCUsIyIlEBQWHSAiPT1OHyMoChAONzc4lYuAlY2FoJmXmZSRUD06Wjs2OisqJB0fABQfKRkdIQcMDyAjJlFPZxUaIQgODS8tLJWMf5eNhaifmIR8dzguLzsvLjInKCohIQALExcUGBwHCAsbHB5DQlkOEyAFBgcdHRyMg3iXj4Z9dW8tJCUjHB8dGBoVEhMRDxIADBMYDBAUBAYJHBweRUVfHCAwDxALEhQWhX9zjoZ8PzU0FhATEAwRDg0RDAsOCwkNABIbICIlJyAfJlZeNY6pQJS0Ppq6PWZrTKylqMG7uyUeHwwIDAwKDgsHDAoGCwgDBg1HZY9dciqaAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/077.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/077.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 77
     },
     {
       "content": "J'ai dit:\n— Vous avez remarqué,\nça se lit dans les deux sens.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJxFy1tv0mAAANAmZi8mDgOzynTIxI6LDCjQUqUoZoMNxhg4L4OQ6UgMwSAawc0EIYyl0LV0tNDva+laMLq9+SN99LwfhOmcsT1m2OdF7mIijIAksyfNq9bXv2z3d+d4dvIZ1sq7FJ5JJg3FmMqXyHmvLwx4aXgBxLEyAYoMO5UyXz266v749bMhVA7Z8kFxgw573eoY6soM4RluxAlAHKsToAI417Ri8qXPdreajmcIX54mG++y6Ugg5PXoUNMVAxEGw/FQhBJQJ1BT1D8QTo/rXO1jv/Ih7FghsYfvE7HM01CKDBrgf5CACKAEZpfzyYBpF3OnR4Vvb7KtQu7722wtt13aiNbzO9eza0OdI8KAF7mRPJI1qOlTvfmpmiF9lHOVwOyleKQYC5U2o4UXVIoimvWGxIvI+RkrcuJYkBq1L9nN7VgwfLgVf02TcQ+2hbvThDdPhyKuxws3Fu6ZLc/wMDLoMd1WZz+1S/sJOhBes68mCP8e5c9GfHtUIBF0x9edVsud24sm1LK0Zn+EnLbbB7lXOPYkipMhj/c+ii6jqPOBNYLZnnsctMvuWrbeurloNpmWzBbHiu0f0sahx71Al/wAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/078.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/078.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 78
     },
     {
       "content": "Il a rayé kayak.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAhIBwdGxcmJSEdHxs5OzuXlaCdmJ2ln6SppKunm56biIimoKuxrLqTk6abjork0MkABwMECQcIDQ8PExYUFRcUc3F1qaSqqqWqsKuymH13hF9Sm46Sw8DOjIycopaU69zYAAkBBAkDBgsMDQwQDxwaGHZxdKmlqbCssaqkqWtSS21MQWpaWn94f3l3gpiMitrJxQAIAgQIAAMKBwkICgswIh1/d3ikoKKQiotMQ0QuIR1HMCknHh0qHx5PSk1RSERXSEEACQUHCAADBwMFGBYVQC8pfXV0oJ2dcWppJx4dJh4cNSooMCYmLCEfMSgnhX+Eh4GHAAoEBggCBBUTEkEzLUs8NXx4dpaRkGpkYhgQDxQODUAzLjsuLB4WFBQMCl5VVq2osQAJAQQIAAMSEBJJPz9uZWKCgYCGg39ORUQcFBQTDw4wJCA0JyIYEhEmIB8sIyKHgoYACQEECgYIBQgIIigrgYWGen5/d3p5Ojg3GhUWWT85aUlALCMfFAsJJR8cQDEthHh2AAgDBQoKCwsREQoSEURNTHV/gKGmsbGywk1OVC0lH2RXUHl+gZiXooeHln5fWp53cGKlhfxP8SGOAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/084.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 84
     },
     {
       "content": "Il m'a dit:\n— On vous rappellera.\nJ'ai entendu:",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gATEg8TExEcHhsYGxgvMS+Qjpegmp+noaeppKmvrLWTjpR3bW6koKuRkaKjlJDi0MkABwIECAcICw4NERQTFhgWdXJ2q6WqqqWqt7S7trK6hGlifltQmoyQjI6eraCe8OHfAAkBBAkDBQwMCwsNDScgHX54eqijp6+qrpCNkm5nampLQWVEOV9SUmlnb4l7d7ShmgAIAgQIAAMJBgcLCwo9KyWFfX6gnZ2Tjo9EOzswJiUyIx45JyEeFhRHQUJUTEpOQz8ACQUGCAAECggIKCEeRTQugnt6m5eXh4GBLCMiLyYlNisoKiEeHxYUMikol5GXoZylAAoCBQgDBR4bGk07NEw/OYB9fJKOi29oZx0UFBELCiogHUExKx0WFRQMC1NJSqehqwAJAQQIAQMQEBJIQUN1b26Af3+BfntEPTshGRggGRhTPTdPODEXDw4pISAsJSOMh4wACQIECwkKBgsKICcpf4aHe4GCfYKDRUdHIRwdHxgWbEtAZFBJJCAgKCQjUTkyj315AAkFBgsMDAsSEQoSEDM7Om93eKKkrsLAzmptbzA3M0JGQoeHjsG/0KemuJd5eayKiuGGh1ynPj/SAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/086.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/086.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 86
     },
     {
       "content": "— Va te faire enculer.\nBref, j'ai passé un entretien d'embauche.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCOkpqcoKemq7SmqbW1tL64t8K9usi7uMW5tcOrqLSrp7GSjJOZk5uWkZiHho1qaWsAj5Oan6SqjpCTmpecuLjBtrW/tbK+vrrFqKWnn5yfppWWUzoycmxuoZueg4CDcGtqAJOVmaOmqVJNSnVdVLy3vJ2coUtLR7OutYuHfYOAeZiMilE2LzwyMHx1c4N+e0ZDPwCSmp5yeXgyNDVoX1u4tbZwcnAkJiCBgH+TfHBaTkZNRkU5Li0lGxw9MzFkXlkQFRIAfH1xHyknBg4NUFlcpqqsen6GX2Flh4yLkZCQeHt4bm1mPDIuHxcWMCUlLCwpExoYAGFDEg0UEgMHBjMzM42ZfX2MYCEoJHh+gZ2mqI+ZmX2DfTEqJx8WFCUcGxQSERUaGQA6Kg0MEBAKDg4sIyBoal2SnoWHjIafoaOqqq2ysb2SgH1MODIeFhUSDA0NBwcLCAgAEx0jCQYFBwcIHSEgXGJhX11fsailpZuXbmtuXmVtcnuBWFpWEw8QDQwODAkLDgwMAA0nOwsNDwIAATY+PGd5c1JdVoGGf4ulw3ebwW+YwYadrHSBeSApLAgNFQ0bJhIaIlB2qS6YLXLqAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/089.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/089.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 89
     },
     {
       "content": "— Viens.",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwFwdtvk1AcAOBTzjk/yu0UOKwW6AUEW8ZlhRY219WWrpk6E10MseoSEy8xmQ9eEhMzE9OXPelf7fehfKQ+HLM6Ny8L/iQwTKAZoReaPGxhV4Ib/+B9ap/P+NNN9/LiXr00UeGrp7G+npqPp+bG122RloRupbYvkL4I3x3+Lu3Vc95cuc3L/nZtoTJky8x8lBrbgq8D/QigImQOEGLqAnyxjF3U3VTWrul//Hy/aVxUjTuLRD9LjPOCr0adJYWEUBtjRxBCCq/1zovQqmf8+u3o66/4002AikA7nrBFYtS5WfVZSWBCiI4FW8AxoZVhLD2+So3dq8HtXf7zzxHKPLUM2UncOcv0pKcOBfKAEAdjj5AZpR4zIts8DtnzZ73bu3z/t0TpQMl9bXbIyoj5liy3iE/xBGgEdC5SW5ItncWusjo1v/1O9v9KdOgomadNx2oaKI7epoh0MU4kmskwV8ADkAGGXEpD+c2H4Y99ikJbmgzkKJDHXvtAFQERqYWHgGOFFhqEgMUW4YrocnqyYFfX9n+EazpyZUFj0QAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/096.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/096.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 96
     },
     {
       "content": "— Viens.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ1JREFUeJwFwVtv0lAAAOAjvZxeTs+hdaXY+2nBwWgnLVBbug1moVtw0wUWQrKZLdFg4uaT0fjig7/JP+j3gZ4pRw5KKapP9I9LK6YaBA1H5jWBJ5CtC+fDwlvNjLps5X0c+yKILZS6+G2Ar8/bu5V73NVRo7EnclvkBZ69zN1NTTcL83rePhmQUSCD1MaFR2aU3C3sL1f+ldV8D+EvVfkqSkcSnKXW9h29u3Bvq1dVpE4DBUxsfOaR2if7pf+87twH2pMs/cX434G+RdLkyPhU+I+1t1tay1grQwxSS5n6ZO6Th0v3adfdZvSUSKUI/1D9DPJjqn0be58rb12Z81jNOggcm8rYwZmD17X5/YbuuobAMiHPRbqMGCZvKz9j67F0VqfGNCJJiEBkKomtZA6+GOsPpXnuNdUGk3LcUISkweRN8XfQ2gyNavSy6OM3vgT6hjw00cTB8556k7VGHqEct4fiLYSUZaei8MNQq5AUhzh7rcSeBDq6MDDkxEblIZkNmiNV6rPckGFDhlVesAnHP6s4N1HiSrEr9hzhP6dmQKlqezQ7AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E04_brefJaiPasseUnEntretienDembauche/098.mp4",
+        "thumbnailPath": "thumbnails/S01E04_brefJaiPasseUnEntretienDembauche/098.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 98
     }

@@ -12,186 +12,403 @@
     {
       "content": "Bref, ce jour-là, Marla m'a appelé.\nC'est rare qu'elle m'appelle.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVy99LU1EcAPD7ZN5f557zPd9z7u5+MHe3uTXHzC1vyt3VpamTZNgqhCJoQrEcK8iYoURUgtlL0IMQZQYlGMEQFIneopcsqof+oRA+rx8FGZWcAaWmbvb0qILRammgeXG87hdTEefq1IVq2WeWpaqqrus2MAUZhAQPCY7AdNU41auNZtzlGb8yOPBoZW3p5uLqvfaDO81s0jUMgxKiIJyEsC1CkluEqJoRlZhD2r51+8/xz0/v391ttluNRuPK5WI+n7JRQeC2ENGQ7Ug0DKPunQnS8fHy2FG3+3lr4+jjq93ttx+2d65dmk859kwhrQiOEkXElo7gjsAgGRuMhjefrO/vbO22rnefd75/3f/743j6fGUoJufO5hQBKLhwpAQAP+MG6fhQKf9ivfP66f2Dzc7Bm5f/fv96trZa8wqLEyPlbEIRwCVHG4VABGKCSfrcSFApTp4b3lhZ+vblsLu3t7xQe7wwO1/MjWUTCqeWAH6Cc8skAEzXDa1XDSN6udO1yYnpkeGH9akbQSnIxP1Mn0ItApQhcM7A1E2bUQFAKSWmiYwSTRvNJlvVYLbQ77kxL5X4DxtGX2IUJ2wRAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/002.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/002.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 2
     },
     {
       "content": "D'habitude, elle débarque à l'improviste.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBJRkFwa2h7dXKCeneYkpCMhoOinJmnop+AcWuHZViSc2hHPTNJRCVkXUWBenZ8dnEAXFZRhoJ+amdjZ2NehH57fnh0lo+LoZqUk3BkvpOCz6+gX05IUEgmdmxJjYaChoB8AGZcWYZ7d2lkX2tnZK2ln7SupXhvZ4R8dYBlXIRfVKSGd5VxZ21aOXRtSJqTjZGKhgBaTUtONzJzY1yIgoCon5Gon499dmublIyVeG+kgna4k4Szjn5uYjtvaUSimZGak44AdG9oX1hUZ2Jefnh0n5eLpp2Sr6ikvri1gWxlg1pQqn5wim5dbGM3bWZFmJGOj4qHAKymo7Grp7Cqpravq66lnYZ9d3FqZYyEelBEOU01Ll1GPopsXG1bP3FiRm1WS2BRUgCdmJWpo6C0rqq0ralzcGtmYVZLQTBBNiM1LSA/LSVpTENvWkhfUThdTTRdSjBuXksAkYyLmpSSop2bp6KfVUdCKyUfTUEyQjgnPjQjUEAwW0g4UUUvWEs0SD0qQDYoU0UvAIWBgIqFhJCLipWNi2FHQF1GP4htZGhZR1RMPkQ5KFBDLVNFL0c7Kj40JjYtIUQ4KCkludvpNC0IAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/004.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/004.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 4
     },
     {
       "content": "On couche ensemble et puis elle s'en va.\nAlors j'ai décroché.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwlyz1v00AYAODbkCi17+69s322Y59jO3b8Fcdx4ii4TdqiSKVVi1T6oaqtKCCxoFZtByRgYIERIX5BVyb+IopYnu1Bts4d0+BAOGCCldiz9+v4eYe2LpsHeivhZRnsNGUYxkk/810HuUKXluAUc8CMYtPgy4E/d8lVm346WSy6/NUo2J1VaVoMiirwJJKmKU1DY0RjBCj2O+JgEm9LdrM9+Pl2eZbZ+4Wcj7KyrOuqCbseksIILN3UQONAVKVJ/JM2P0rk4+3l4+c378bJ1SyeDZOqGk/qaeR3EaeqFNwV3NLB5nB3cXC9U2+uPfl+tPvn17fTXvey72zUeTVchdj3EGDFYCBNw+J0moZ/f3852ywb/PShrX9cvz7VyF4ut+qsqibjUdPzXAR4HbCiAWGAHaF9fX98OM2mXDl2xMciuuV0K3WaPC7LuipHvmMjoj6j6upwqpKVOLC0FyYsifqB0XuNbUSdIgrzfJCnubQEwsra/0PVdYYVIAqh6hDwnhTnRbAA3AjW89x+nERhzzb4P+rcRzlDgasJAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/005.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/005.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 5
     },
     {
       "content": "J'ai dit:\n— Ça va ?\nElle a dit:\n— Non, il est mort.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAYFRMdFxYVExEPDQ4GBgobFhVHMipbQDU7KiNHOjkyKCgJBwcMCwwREBEqIB41HhoAFxQSIBoZIBsaGBUTCwoMCwsMWUE4XkI2RTs6ZlpagXNxbGJhJSEhCAgIDg4OMB0ZABcUEx4ZGCUfHiEbGQ8NDwsKDGhANUs3Mq+ssLCqq3pydIuBgHFkY0I7OiEYFz0mHwAYFhQcGBYmHx4eGRgmHxwWExQbDw2Ce3vHvbXCtqionZiPiY94bWs+NTM6JB1MMCYAGRcUGxgWIx0cHBkYXDwyVDMqRD9Bwb2+rot8toh0vK6d2dPSn5iXLR0ZTS8lTjQqABkWFBsZFhcVFDsrJWA8MjEeGnhvbaiajbeOe7WCccO3q9DLyVpQTlY3LE0yKUMuJgAYFRMcGBYVFRMoGRZSMSiUdWWmhnKAaVyWgnO3ppbi3dyMhoY+KCB1UUNJMylBKyMAFhMRGRYUFhQTCgoLFBAPc1NFlGlXmnVkUkI9WE1KenFwMCcmWTkuaEg7RC4lQCkiABQSEBUTEBMREQwLDQoLCyAWFF4/NYtpV19HPBIODRMNDDkmIHFPQ082LDgkHjsnISA3btrDVot8AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/007.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 7
     },
     {
       "content": "J'ai dit:\n— Ah merde, qui ?\nElle a dit:\n— Croquette, mon chat.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBWUUx6dXJpZGFjX1p4cW1pY1+RioeTjYl7W1CqhHTDraGCcGdIQSFpX0GCenZ+d3MAYVdUgXl1X1tXXlpWo5yXsaukfHNrcmpjd1pPnnVnuZyOmH1wYFIwbmZCj4iCiIF9AFlNSlM9NnNkXYiCga2jlqyikYR7b4l0aHJRR5JwZKCEeLmYinZkQm1nQZ2UjJOMiABsZl9ZUEpmXlqAeXWjmY2upZmxoJeNcWZ5U0mWcmbLqJqvj3xvZTdvaESalpGWko0Ar6mlsKqlq6ahtK2pqqGZiIF8nIN3hXFmMiQdcElBlG5hemBNcF4+iHdUfGBYZFJVAKmkoLavq722sru0r6ihl3NqWYtyY4ZvZR0VDkczKmRLQWpVQ1hJMmtYPXxgQIFtXQCgm5qrpaKzram6tLCooJZdUDq1mIlcTEInIRdGMipTPTJFOypIPSpLPitmVjuCcFEAlI+OnJeWo52btK6sgXtxcVxMp5CELCUYQjgnT0EwSTsqPzUmNS4hNS0hUUMvblw/AIiEgoyIhpCLip2ZmW1kWo50Z3xvZFNMPFJLQVlKM1VGLzgvIiwmHCQgGEE2JlxNN3YvuyJPb+TZAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/010.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/010.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 10
     },
     {
       "content": "J'ai dit:\n— Ah putain, j'ai eu peur.\nElle a dit:\n— T'es qu'un con.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBKTjRDSC5DSC42Pic1PSMyPCR0dVF7dFgxOCMbKBQiLRgjLRcXHxAOFgsLFAoSGg4AQUYoQUcpPUYmND4jJjAXYF9KsJN/wJ+OlYBuGigSJjIZND8jLDQdHSgVFRkOGxsQAEJKKkNMKUBJJzxHJTE8I5h+ZaF0X66Me5x6aDg4Iig1GjE7ICo0HB8sFh0eEi4oGQA+RycwPBtBSyYuOhlXWz6jfWaidFq4jXmTa1c+OyQdLRUuOB4rMxsaKBINFQoPEwkAPEQnNkAgKTgZKjkbg31nqYBnlmdMjWBKimVVVk85ESELIisWFyQQEiAORkc7TUlBAEFJLDRAHzM1GWpjVKSUiMCchpRoTkApGIBcTHZqUSUxGSQuGSEsFxkmE19cVHhvagAZIxEWJhB3ZUxlWEuZcmO+mYGTZ1xmOjCWcl2bbFU2OB4rMh0rMRwjLBhhXVd2bWsAEhwNSUU0l1NDTzwummpVnWxUpHt5qX15kWBKnXJjREEtMDkeJy0YKy8dW1RNXVpJADE5HkE8L2c1Jk03I4hRRraOm7aVoLuhsZxzcI1qV1FPNz5JJCkwGSsrHjs0LD9AJy6Pd8Eu/xG2AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/012.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/012.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 12
     },
     {
       "content": "J'ai pas su quoi dire.\nJe détestais son chat.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLREB0bGdhXllKSESHgX2moJx/eHJYSkODW1CRcGamjoN+Zl1kUjlbUi98dGt/d3MAT0dEUj06ZVNLfXd1npaNq6KRjoV5dGNYf19WnX1ztJeKvZyOoH1tamA7hH5yiIF9AGBcU1tSTFdPSX53cpmQhrGom6qVi3xaUIJeVbaWi8ejlqaBc59+anlqR45+cZSQjACnoZ6xqaWkn5qwq6etpZ6UjISkh3tZTkg6JiF/U0ulgXShe3C0j4KtkXibeGpkVFUAraikuLGtvrizvrizrKWdjIRzpox+a1NKIxoVWEE5ZUtClGtirol9za+jlnlgeF9FAKmkobStqrmyrrqzr7WuqJCCbbiXh1NBOB4bFCoeGUUvKHRXS7KOga2ThF5ONoZxTgCgm5qrpaKzram7tLCtqKOPeGmXf3MlIBc5LyFDNyo9LyVCNSice2+sj4BMPi1vXD8Ak4+NnJeVo56crqmnn5eSnoJ0gG5hQDgqW1NHU0UvVEMrKSIXV0I5p4V4aVZFY1I5AIeEgouIhpGMi5mVlIR2cZl/dYh4Z0xDMFdTSXRrYXhrXD84LzYpIIBkW5F7b459cW/9xjLHfEgXAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/015.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/015.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 15
     },
     {
       "content": "— Oh putain, il m'a griffé ton chat.\n— Oh, Croquette.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwUtvmgAAAGDO3apWUSooIgI+QBGLiIw31AeWoq6ds7Eutq5xXdqiabaQZdElTbomPfS6w5ItWbbL9h/3fUBfqR8rlfeO+m19+/vxy/fP/uOZ69tVm4JLULQIRY0i1mYppZTr8PSgWQWOTWEqM6sD49d98G+zeHgpne9lAoe/1hgRiZHxCAWGKTCC7oSg8LbF5oGJVZ3L7I3X+uq/fTox/RoyoNGgXVtptIrGud1odifkEIiYhkLPtig4AZyp5at92T/q3p4Ob7rSUiQW9dzdAb/SaQtLMGC4mgTPeYrejUWeb+UgEJiJzLVnL0e9hWuuveamw15K+XmDnIuFUSVrk4hFIt1CmoNBOLKtlyngjcK/OzQvevp6qG4cblROKSj4MOn8uBzeDeRZI/+KIw9pzCRgJQd3WRIYa/WRIX7sa0Gb6xKQjESdQurPavz3w+STI0zr5FTI94qZVh4dVHCXwQCvyY10YSbRVjb+Ih0zcWgfTzzNej+vjpY2dyGXPAYzybSCwyaZ0nII0OEZt1HplAmXzuh40sCTYiYR9NX71/ayxY/3SINApGxSQKEaArJJ8D8uemk5wC3+qgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/017.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 17
     },
     {
       "content": "— Rha, le con.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwU1P02AAAOAeifss67p261i30a4WtvXjfVtcuxXbbmWyuA8RGJYwBwVT3WCTATEmanQejCSExBjDiZsHbyb+Pp8H6eigV1NcCx5b4MeF/+f2y/388vqwvS3ltWzSW+OfMKkMGsaCAZ4it2oQ2VpX+/VHR7Y4stT7z+f/rme/vM2rJpjZ4u2LjW+daiNHEpEQFgpEFhbk/BKyY1YGDnxllKYt8+v48M5rTpXU1IGfNpWbfmMgsWUiloiEsXAoEnjAEBjiNiqeVfZrYPTUfLvX/tAzvBXitc6/q0u+XtwTGYGI0WiYw6LRYEDKpZGXDflYXx03jdOu5beMiVm+qjLDcvpMe/ixuXZZh3ISk8kYTCyS0bBdXEYG1ZWTKhh17NP241ld9CG9X6TewOyBQB8BZgjYEo6KOLoaRzl8scakkV2Z219XvQ3NrxSeFxJqPPislP05cOZd7cIShkqhXczuSqyWIQAVB1QcaQnctgHHlnyi5F0h0+NTEwf+fe/9Hu/Mu/q5LU1MsS8xtVxSpUmZwhFH4luw2OCWLJayl8kDwHzv2zeuc2ZKfZl1Fa7FZzSagGkcUAkxhf8Hn4VrOr3dTBIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/019.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/019.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 19
     },
     {
       "content": "J'ai dit:\n— On peut se voir demain, si tu veux.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwdtu0gAAANC+a6/0XgqDAWmha9cWWlsoFHqZ3KYMZQ4zYHEBcRuVbGYOQ4xPYhYTE99M5GF+gF/gv3kO0LH1Y888raubd5M/39bbLzefB56bjbtZ3t2l/ULqyCmOfcvajScwhEUgoO+a49B462q/Vpf/tvcPd28+tYymEFc5QmMwlcMHT6SlXywmmWQMYSAQGAbWeUNZ+Pb369nD8vhHV7k/Cbs5WmOwPA6LJDZ15FV1v0DjLArh4GNgFOhTR140ax9O+5tR67q0s6gpr9V0wMc0As7iyMjeW3fKIktQMISCj4BJTZrXSotn3lUvjJ5aq0ruvS2OpESLQ4skHIfBmautO5ZAxXAIgkEYGBuFi2Zt0QuiduXOlyM7c2WkD9Nkg4uZFCoS6DIs3XiqQmMsAmUpHDgx5XFQnh9YkSP2MkRf5H4O69vp802/ehtoH0N97uy1xYS9Q+k8pXEk0DXkkWfOy8JQ4o4E9qIq/72d/J71lg01qitnRq4tJtwMV05zZpJVORJomvKLktjJ8wc59tV+6uvL+mbQuHSV84p0ZudbAu+kGDvFGElaj1MKQ/wHoFlnxeZhfHMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/020.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/020.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 20
     },
     {
       "content": "Elle a dit:\n— OK. Pour l'enterrement.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBdVVF9eHVgW1hXUk54cW56c3CCfnp1XlaSZli8nY2TfXNNRj1hVy9lWzuBenV+d3QAW1BOeGpmamNeamZjqKGatqyjgHlyaVJIl2ZZtI5/rIx+dVxQaF00amI/j4eBiIF9AFZMR0o1MG9dV4qDgKqfk66llY9+cGdMQXtYToRiWLaXiamGdWlgNGpkPpyUi5WOiQCAenRya2Zwa2eHf3qkm5Ctn5KefnJoRz+dd2y6lYjDnYyOd2N4bEF5bkqakoyRjIkAta6ru7SwuLKuvLaxp6CZmoh/nYB1Oi8pTjEqhVtQkGxdZVE9aVU6hHBOhG1XY1JTAKmjoLWuqru1sLu1sKWelIp4Z6yLfzQpISsgGlk+NV5HPEs+LUo8KlxLNYVtSYh3ZAChnJqspqOzram/uLWWjoONdGKXfnInIRYwKR47KSJFNyk6MiQ5MCNHPCt1YkR/bU8AlI+OnZiWpJ6cta+tfHFnnYF0ZlhNMy0eUEQwTkAtQTYlNzAjLSgdOzIkXEw0YlE3AImEg42Ih5KNjJmVlHdnX52EeFtPQlpTRVlSSGNSO0o/MTMsICYhGTUsH2ZYRnprXTYwuLzYBJxTAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/022.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/022.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 22
     },
     {
       "content": "— Pour l'enterrement ?\nElle a raccroché. J'y suis allé.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBARCs8QikvNiEyOCIqNBovOiaAflqCdWIsMx8iLRcoMxsdJBQTHQ4IDwcRFw0bJBMAPUIlOEAjMjshKzQdGScQbGVTs5N8xKGSinZjIS8UNkEkLjceHywWHCASJCIVEBsNAD1GJj5HJjpEIys3HR8sFpZ1W51yXrGOfopqVzo+Iis3HSszGx4rFRUZDichFBogEAAqNRg5RCE1QB8qNxhHTDKfeV+hclutgG6ZcFxDQikkMBcpMhoWJRAXIRQUGQ8WHg8ANUAhJzIXKTYZQEstkIl1p4BmkWJHflRAh2FRWE86FCIOGiUSEiAOVVVKbmZeQUIyAC85GyAwFEdGJ3JkVJGBd7+ZgJJoUEMoF4NeTIdyWh0qFCcwGhwpFV5cU4N7eVlWSwAYIxAfLxd+a1BfUkKRZle5j3SWbWJwQDeKaVKiZlM+NR4oMhwkLRhiYFd/eHFiXlAAHCUTNTwollBAVzIkjWFMn2pVnXNsroSDkFxKnHhoQD4uKDAXLjIfV1BIWFhBTFEyACkyFykrIEo4K006JYNSSLmbqLaSnMCqu55/gJBnUmBXPyw1Gi4rHTsyJzo9IjE+GAMedvgcdNhKAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/024.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/024.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 24
     },
     {
       "content": "On était deux au fond de son jardin.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBdV1N9d3RqZWF3cW50bWh3cGujnJmfmJR2XlWNaFtwVU1TSDdWTSZ4blmFfnyAeXQAcmlkfHdzUE1IbGhjqaKdopqUcmpkk3pwrn9u1rampIuBOzMtWVArg3lgk4yKioN+AFtLSWZOR311cJuUkLWsm6eekH92aopsYaBwYcObi5J0aEQ4M1tULo2CZZ6XlZSOiABiWVJPQj1yamSLgnuuo5WvopePb2N8WU95V0yXdWejfnGMYVNlXTKGfmOppKGfl5EAq6Whn5qUpZ+aq6Sdo5yTnYd8ZEpDZk5GqX1wt4p5rIZ3h2tVemlAkIFle2lpgHh2AKumo7qyrsG6tbiwqpqTiZB5a3hbUTIiG3FKQX9aTohmWFJDMVpJM35qSH5eRoF2dAChnJqrpaK0ram7s66Zj36lh3RtU0ghGxQyJyA5KSNdRzpCNydEOCdgUDeJdVCJfm4AlZCPnZiWpZ+csKyphHZrp4t+Ni8nJyIWKSQZMycfQDUmNi8iMCofTUAubls+d2dPAImEg42Ih5SPjZOPjYNvZZJ+czIsIUlCN1NGNE5BLDkwIi8pHSYhGD80JVtMNlhJM5V4uq046c+PAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/026.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/026.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 26
     },
     {
       "content": "Je m'étais jamais Je lui ai demandé\nsi elle avait d'autres amis.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwFwWFzkmAAAGB+RI41QV5lwAsMRGAoCAgdKGbopu12tbkFZLFpsZY2rmtn263srF2f9qEPfemX9jwIuY2ysKgquGMz+6He7bHRuDka7NpOedgXVRUXJbxpMk2ThjzGQAwBAGUh1tAqqgz6gdQOmLfH1nrx2vfhnm/T3JailR2Pq8pEhSoyEEdKoECSm7pOSHKxZZKmi3c73LeLyPU4luUFidBtumHQskoV8A0Ue4QQABV4rN2piLUtSydbLuj6ws/FuWFyAsfx1aLRgq5X1RoUDtBNrICUwAaEj712WbfwmkToJr7flZez2W6dZRkK8iXHE56GjdEofNbr1JQdJDCrkkgoGtEfQqtJ1WViGNp58tJoQACIYdCaZ2n0yn1YX/+9v/2Rp0gcOtlJeLRnTYbBWdSJU+FuFf37czM5E5+0udml8X19lN9p55kZxe7xiY2kh97HOEwPvXRszz+Z04XwIqE/zAdffklf77XVg3Pz25zfSvFMOhir4UBBklM1mYjJlH13JVwt61kuX3zWrlfu5VKa5jvv8/qbrHZwut0bgf5z2u8y/wFg/3KLdhQvBgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/029.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/029.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 29
     },
     {
       "content": "J'avais le costard que je mets\naux mariages, aux entretiens d'embauche\net aux enterrements.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA/Rxg8RCBeVjNJNiFOOSR7VzuVb1WwmYa6p5iQb1iYh2tzfGFTYyVPXhRAPyQtKRMAIygONDoXZFYxPCcTUTsoclZAi2hNm3tjqZmMgmpXeF5EoKWEZ3c8RksTQDsiNjAaACYqE0JMKmRULT8oEBQQCwkHBSIaESEYDhILCR8YElg+JaGfeHKESz8+FDkyHElJIQBVYjqDl1x2bTpOMxc/KBo0IBVPOidYQTJHKyVkTT1qSzGJiVJtgj1gaS0/ORxSWCEAeZBFhp8+enc0XUEkVTgdckwoelM0jmdNnHVZlHNZd1U2l59cc4E5cHRJRDseV14fAHKKO4GbL3d2LmVIJz0pEl8+HmlDJ4VdRJhzWF8/JXxUMX+OMF5jJk9GL0xAKmluMwBtgEB3kURzcjZsTShMNRpILBBuSiSQZ0p8VTpaNBWbc1SYlGRbWyxNSCdQRTNqbjkAZno4aHdAdmU+el44XUYrQSgOYkAXflY0lm1QpX9jvKSQe3BrYFpTVk1DUEU6X2QxADw8J0c9M2FLN4RtTG1VPEotF29JK4xlSaWHcbWhkaaYkVZQUU5JTlJGSVlHQ0xPLJOHieZr/P7VAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/031.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/031.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 31
     },
     {
       "content": "Croquette était dans un sac plastique.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwFwU1vmmAAAGBO27QFX15A5BvfgnwrlFKxQtVNKwFXtGjN0tbYabpsp2U7LDvussMuS/aL9zzYyzHY743dHlUb9eMx/PBof/rS//ktOxwuqpW7WBizGUoTcZqJN5laVha2ubPXay0rhGFKHY/Rv78vu13vz+ftj+dikXcmI+XcZ4ZX3Nfvw4edm9+2sUmijq758aQVX9FFrv/+9fj0FG+z4fN2ulr25jNjWdp5oZfv7fW9Pn3XxgwEQp+5jJiO0eh59NuxhpCSpIsgSBSpNZ9Z5cobp2dV5d4uzbvqHFMkwnFgnDQdj7zoM54vntTJturxPGoQUJaBZ3KWRvsBP52b/YGCIdSwbBhGtNuFXo/SdZbAqSbdoiBLAkrioatzigBJUNdQs+sKmKoS2hlQVEKUT3WDbCMOxyFDsRAwBE52NO4ylF2LdUzO0XmeJbEwYNOYH4R84LQ8oymwzCkOIaDJBvXq9cnkOirmA06oSTKOFELkcGyeC2Ulb6rOw71zOBiuy9XeAAAgToBaHZ+NulUeppGU+urAFWKT/w+c21Dnb4vMjQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/034.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/034.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 34
     },
     {
       "content": "Elle était vraiment triste.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBMWiZBThtASiJfVTFDMB5SOyh5UzuVb1eynI2vmIiMaFCRh2pYZURHWxdDURczLxkAKTIQIisNOUIaZFQvMyAPWT8udVZBjGVMnH1osZ+RdVhEhG1Qi5hyT2EiQEcUOjYfACw0HSEpEkBKJl9LJjAdDBAOCgkIBiUcExkSDBgTEB8XEWhNMZujeFpqMTYwEjQtFgBbbEFUZTx/llhnWixDKRI5JRoqGRFQOipFMCZFKSRWPi9uUTR/h0thdzZIShs4MxkAcYw+fJdEg6E8bWYtUjcfVDYeZEEhd1A2gVlBmnRZhWJJel08hpRQcYNAXGE0PDUZAH+UVXiVN36dJG1nKlg8IDYiDl07HV46IoVcQ45pTlo3IH5fM3aMK1ZYJ0c+KkQ7JABbcCNyi0N4lj5rZS5hQiI9KRNHKxFrRiaOZEloQytULRGddlWAhkpMTB9FPyNIPi0AUGMkaoM9aXg/cl84cVUyTDggPiYLWTkVeVAzil5DnXVZr5WCdWxmUk1BTEQ5SUAxAEhMMT0/KEo+M2ZON4BpR1xELkUpE2dDJoZfRZ9/abKci42AeE1IS0xITUg7PlRFPQM2gi8YqagwAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/036.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/036.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 36
     },
     {
       "content": "J'ai dit:\n— Un de perdu...",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBKVC49RxlCTxI1PgwzOA8vJReCW0epfWOnf2i5m4mLg2lZaytTXz5OVDlCRTBERywASFMuTlovQE0fOkwFSUEgdVJBjGVNjmdTp3hfqH9tdmxMSlsrYGxITVE0T1JBVVhEAC42D0hTDkdUHkpaKUtLLYtkT6R6XZJmUJ5yWp12Z3d1RkFKIl1gSlFWPEZSGHiCXQBpd0dEThIrMBJWYzdodlFvYUawgGKuf2GzjXW+mIF9glVBSCM9RSI5RCYiKgdQYBsAQkokPkETMjsLS1gWXmhFZllFkWhQjmFPgVZGjW5bSlMwOkoZS1guanlVLjoeJjIFACEhCTQyFyw1DDQ3HTw4M25nXV5FNn5VQYBWRWBSUEE9Pz1AMDxGKTI/IEZTMC45EwAlJBEtKhooJSEVEA84MyyNjYhWTEtIOTSBeXhMRks0LTMzLDI9ODgsLSklLRkoMg8AIBwbHRoaGxkXEw8KLSkkTEdEODM/PztRaWNpODI2KSMmKyUoLCYpODA3MS0pOEMZABMQDBUSDxYUERYSDhEMCCQdGkM8RUdCVllSVislKCkjJiYgIyciJCQeICUfHklNL3sec84FGi/TAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/037.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/037.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 37
     },
     {
       "content": "Elle a dit:\n— Arrête de parler.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA9RCA9RhlFUhE3QA0zPQ0iJwk7KSCXbFSrgGevi3S1oJB6gFJjcUxXYEZKTzM/RSAAVGE+UmE3RlQnRFMMMzsNX0s2bEw7lWxUlG1ZsYJpqYh0Y2s8UmI1TVQyS0w8UlNDACoyC0dRFEhWHklYHjpFHIFkVZVqUKJ4Xo5iTZ1vWpJ1YExUKWNqUF9jTUtTJ2xzUQBhbklLVxgyOw5PXDheaUZhYEWLZUy5iGqsfWK8loG0nIFRVjI8QCI8RSgqNAlZaCcAW2hAS1IaLTMNQU4SZHJBY2hPe1pGonVcglVEjmJThHRVPU4cRVEmYnFOLjkhIy8CACIlCzUyGC45CkNNGz48Ll1ZT2dQQnRRP4hVRHtTRlBLRTxDLD1JJUhWM0xaNC85FQAgHwkvLRUqKhskIRwXEAxxcGp/eXVNOC9yXVNvZmU7NT07Mzs+OzksLyQnMBwtOBYAIR8XJCEdIBwdGBQRGBMOXVlUVFBTNC4/Yl5rX1peKCEmLyktLicuOjI6My8uKDINABYTEBcVExkWExYSDhcRDRgRDTcuLzk0SFdRYD43OSkjKCkjJSkjJSchJCchIz5CJBjsdlizeiGCAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/038.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/038.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 38
     },
     {
       "content": "J'ai arrêté de parler.\n— Arrête de penser.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJxjsHSQcPAWtfXkM7LhUVHnyfWxWloVt6ox88Civu669MRSlcr28MScwLA4FxdvFSdXbYawZBuPEG3XEDEbd+4Ae43GaLfmOO/FJdFTC+OmVKen5FmHZxqGJJp7+RkHBbsHhZsxWDgIeYXLuobIWXsLxLkbLi2PmZ4TvK41Z1VH6eIpZbZePOFJdrnFUaFRVrFpdnkVfgw+4ep2HlxOPhqRGY4JcS4zC0M2NSYvrE07sbBn7qTskFQ9VzdNBzdtIxsJ1yDR/EZrhvBELTMbQUNL/og07dRiv9Jox8mpAQ3+9jPz40uLA3zidW08JEOTbD1DLaRUWG19ORj0dIWNTIVMnTn9gvV8fO0S/B0y3UyrA+3r0qLTktPtHPXtPNXcQwzC0xwsXRXNHIUZ1NV49fXENbWkJIT5fTyd2pvrAu3NIz3su9s6vFw8rU2src0sbGyMFDUlzZwUdc0FGVSUxJXkJaUlxPi5WJ3tLSNDQiyNnWPD0yqLy/Q1dXXVtXTVtc30TWxMbTR1pC1dpRhEhfhFhHhFhXnFBHmEeDmMtDUdrLzCAlP8PDw1VTQ0lFXBSEVdQVVPRzEszgwAakF5ABSzNWIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/041.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/041.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 41
     },
     {
       "content": "C'était long.\n— Arrête de penser, j'ai dis.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAuNhU3QBM1QQ4pNgksJxaAXEqacmCvkoK+rKZoaT5ugjyGkXlhblNcZU5OWipKUzAARU8sQU0dQlARLzcMOi4egFtInHJgrINvt5aIbmdDa4E0aXlDW2dIT1Y8RUowSUs1AE5aM0ZTMD5OFTlECmdJOmhLPHtWSH5YSIVrYYVxVUhUIVdoPV5oRlBUPFxfU1ljNgAxORBATw9HVipBTidlTjqUalabc2CriHW5lYV/fVg6SRJPUjtYXUlHUChfbDV4hVUAV2MyKzQMMTofWGhAamdOi2NPelZGkm5frYdzbXlHUmE2ODwcPEcoKDIWMT0NVWkbADk+GS81EjE9ClJdKlFRPGRIN3NJPXZNQIJsY1FZQTxLITlGGlpoRVdkRBolCDlGEAAkIhEmKBEoMRApKB1NTElPQjpVOixXQDR4cnRLRk08PDU3PykyPR82QyY7SCQyPBQAIB8TIiAaFhQUDQoJXl5dVFFVMScoaWVoa2lvLCYrMCsyNC4zMzItGx8XISsQLDYUABYTExIQEQ0LCg8ODignJykkLDEuRlBNWUM/QyAbICQgJCQfJC0mLTIsMiUqEUZRKWwRdi0IxkHkAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/046.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 46
     },
     {
       "content": "— Croquette, tu vas nous manquer.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXaTdWaTVQYCxlXTVGNCZsTjqQa1OtlIHIvbu7qaGdhGyEhmtGVidQZxpARx4vLBUARlUgPEobUFowc2I/OigaSzotWUc7emBPbF5WZ2FfXkc2r6aMe45oUWoYTlggPjokACYuEyIrEUZNJWtUMjMhEhAMCgYDAysiGxcNCh4ODjwoHqiTcZ6vh1hoKUA7Gj02HgBETzM+Sy1mdktqVzNOMx1QNSk/KB2BZlRwUEWHZluCZVCbgl6hrX5fcjNCPxpAPCAAb4dKeZFVkq1gdm08X0MsWz0kb00vdVE9nntmu52BhGBFrJR2lqFnf5ZVVVopREAgAH6XUISiRoilMnlyOmRJMDwmFGJCJmpFM6eBapZ3XmtFKb2qiJKkVm92Qk9HMUpEJgBziUl4lEODojl0bzlrTjBFMRtJLBNtSy6SbFFVMht1TzO+r4iGmUZaVy1IQSlSSTIATmMacIpLeIpNfGxEe2BCYUw0QigPWzwdd1A0b0Qrj21QuqmWe3lmWFQ5S0QxT0YyAFJeOk1TNVxOQ3lcRIp2V29dRkIoFWdFLIJbQ5hxW6mPd5uSjl9ZZFdRWE9GSVpRSKojk21ozaYOAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/051.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/051.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 51
     },
     {
       "content": "— Toi et tes petites patounettes.",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwU1vk2AAAGDuJsakcVtqldrpNjX9gNJBgfZdKaNAaUtL2cC+a4FSaJHRja5bFmfjNDHRRD150IMHTTzqyftu/i2fBxkolO3nunp6aoLY4mA/bx0Ax+BNWNSsnctFc+62fLhvdHBHr0xMDrF1ynUJd4xHLh6/qF1GTbVdoVm8QDzaZXdo5pk7FD69GcUeN3eEE1dFRod0YPGvz/WXcW8C6dXCpMgn82n/45UTPAfrqdv9VvF60QoscBHI/pGEhLNKOAJnnnoeHi5m6upEr+1h37+8//3BXepECl3ryE9Xp82LY/kq1kJbRHzInfnSqafEnroM9BmUGGbrz9/wc9RctnNFLE1SibFJhFbt1aI9dwVkoO45hjAdKtNh2z9Sxmajxm3d/Hv749qJwP3dwgMMvyPWUdjDYZfsCTiiSfTEqHuD/WOnGdptqHEklf318+u3d5ENHqfWb2HZDZ5NN6rpOr0pg21E4Yt9uQy7wDrgbEOEGl9lMJbB6xyJFbYfZhIlfK1Go1I1w2BotYQiIsg3QL4lEF2R0WRWFcsSV5L4nN7JM0SGLd8rEQmicLdKJsv5JJFN/gekmIUYUjwcrAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/059.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 59
     },
     {
       "content": "J'ai ri intérieurement, elle m'a\nregardé, j'ai arrêté de rire.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwdtummAAAGDuO2OjHFVEBfEfaBG0Iggq+eMB8VyV1mkyU2vdis4a02ZtljW92JYtvd2SXe4xlj3cvg/hk8cnGcyEiV5L8S67JZjQoP/9wVp74/6kWK0BE/KjuWx3uG5fbfXTCMsdSyeBTO7VG+v078+vo0nu1Ai6S3a1rV9tnPMF3L07e9zMhlMwmud1EyB0xKdq1HimPC3av27c/abjnBX6U6mg46aV7Dr5Oxf++/3y7UtvcZsuGjySSqElLVa3pZXr7AeNtxe9hpOzaoJaiGkGe97M9GRu2ap605L3IHt3FlLS42nAUASazUhN2FLEtPRa0A2QyaIJ8WgMwboifOwUPy/r6wfuwzNADD0Ri4ZIEmVoWs1VJBGwTKyoAlkNAAHbXcBVmXse5v98/+StBvvHElJrJSgigOPBKB0GSQHwbCREJVk6LaFaVty6jaeJ/jI1f9xe2Ubl/nqOwGaEpPx+v48k0UiYBDyHY8EwRUhCCCqCnhV3E/vQ1WZtu10t398MELVIEITf5zvC8QBFYlycCVMkhgbbZXlYSEUJLBWnU0yIpSmoSIet9R+TjmeG0s/ZqwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/070.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/070.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 70
     },
     {
       "content": "Elle me connaissait bien,\nje Je me suis dit que ça allait\nêtre compliqué de coucher avec elle.\nElle a dit:\n— Je peux venir chez toi ?",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwctv0nAAAOCePEhHf20p7ZgM6KAU+n7StbSFdXYBDLJuziiTUd0kY48QQdmiS3QetsQsMS4mevOwxOuu/nd+H0SvwNl8Ilt4uFxMMDwiaahYA6ZBnkaNi9H2dLcTP2nOh5uXR4Ptto2lH0CFMpwrJWgGpsuwYCQFHag2ZtiEL9Nnb7q3H/bGvcbXw2ffp4OP+xG1CEMMj5QEwPBosZKULUywUN1Fixxgl9NHzx/fXZ/8/rT/cz4874fzlxs8m4EYfoEVEUZCSkKSVYC4imkuqTrpLa88exFejp7+Oh/eXZ1+mw2Ou043UKCqjFQEhFNAVUM5A5WdlGiScp3aCqrvIn+y400i50vc+ff35uptb9pfg3gdUWyUUzE7pKyAUF1CczMFllLY3OtWbbxpxxvawZp4f/v+x2xwfdCBFBfXGynBQu0g67eWNI9QXSqTx8hFUhL0XkM5juqvfP5zv/nnIr452YEEk5BqOKsAeZU0PUr3SNPPUI8AniZydNmW8nGo761r43XpbLc9GR1CJQFhJMDrGG8CzkhVDdxoUji1AHC0SC+pK3goFfpOZdSu27rVC1r/Afb8ZMm9ua8oAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/074.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/074.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 74
     },
     {
       "content": "Ah, non.\nOn a couché ensemble, elle m'a dit:\n— Merci.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBaZEJ1gV5ebzZmdkROYRtDUR5GOCd7XE2JbVySgXWWgHN2VUJ2WEZ4djtPYg1TXDoAQ04sandTboBDQlEZJS8NKy8YDAoKFxMPHBUPCAgGLCcjbFdIaUk4iHhSTFoeUVs5AGJsVIiVdaGui3F9WiEqE0E/JycZEzIjHFVCNysXEllFOruii4hfSoFmR4GLY1hlPgBSZh9vfFWIl2uAlFhecT9gXjdMMiFiQzF2Uz9jQi+je2TDoYeBWUKPcFF8iFtvfFYAl6NsbIInVm8cdoxCf5w8dHc8QywcVjknXz0sf1dBn3RakGxWZ0Iso4JndohBaIAuAKWqpaCpj2V9LIaaUoehR251LkApGDckFm9NN4RbRYheR2RBLWpFLKiKa2RpQjFFCABXYztueF54h11WcBF4lTR3gEJWPCMpGg1AKRZWOB5pRy9WMxxxSzCsiWh5clQ4RxgAKTQKKjgJWWk2ZHgzcIssfX5Nb1U6MiESLx0MTTEXXT4mYD4oflQ8rYxxjoJ7U1VCAC88Dis5Ci87EkxPNUtJNmZVRG5YPD8qGzYhE1A2IV0/K3BOPINhT5B0ZGNZVEA6QCDsjLVaGAlpAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/077.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/077.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 77
     },
     {
       "content": "J'ai dit:\n— Pas de quoi.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVhJREFUeJwdjclO3EAUAH0exuNxL2/rbvdrLxjPyoQRihBCiqKQCOUDcsktJ/7/AyKoUx1KqgpQQ+yFAzOLCH/ivUfkrHvtz1pOuTt0es56yXpfzdP9bjqVOOZYclc0lxSTMJd+HsZ96Xelm4MPIUw6XHV8rF5f/n5ZHhIIGV+iLuNxynOkkFJRncZuDpbFiWvdtvXEffX2430/7MgYsg5aKw4TBjTu5mYFnjIXshgh1OvaedJyV729vhcOttls1nVbN9C02NpNXa9Wq2azbZq2aZptswUPu8Pj7e25+vX933E6qmTyJJ4icEL5EEqJo3iy29YaM4zzvFxjGqtvT38eDs/78axBIzIDMXJAjhQISIDEoaBM4151RMTq6+X36e5pGS6RdVOvbWvAecbAXsAAOf44g3Si5MlaV11PP5fh2qclYPKfhWCM0iXOAlEgeuPBgkAAg87gfzl0MdfV8D2eAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/082.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/082.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 82
     },
     {
       "content": "— T'es qu'un con.\nBref, on a enterré Croquette.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVFJREFUeJwVzltu1DAUANAsgIlj+9r35VcyIWkzMxGo06oviYIEfMAXH+yA/W8BVToLOB3zUXVWKbVMhGyHAUOMIcaIuaxtvNR6zvlUyl7qu+5ju53Lmrms8z61JVMiHygik7S2TuM25UWCqi51urbjQ/f46WuOHAcXHExl3qaTAlHAlCpFypgatxTV9MYDiy7d4+cfAoF9gMF5M6TAKZAfnHPOO1+5ZkwS2Hw4OAet3XRfnv40EnfoTd8PxjgzoAM3WARMmEatwYMdLAU+70/bdt/9/Pbv/vK6tJsxH5vWhJo5FUktj0VyIuaA1phl2S/7Sym33dvL3+frr7UuVQpHIogR4H2vTUgFVQIjxOO0zfNJJXfPd7/vzm+Fq7O+P/TOWLAgqIkreSJgwaSUBRNHAQ/ddf8+t3NNMwJbYyNEjqqYEmWJykEQEBwQSPTkXfgPeOkwtWWNvpMAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/085.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/085.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 85
     },
     {
       "content": "— Croquette, tu va nous manquer.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwFwelumgAAAGDeYdqqCAJS7kPkFBTEC53asVpjOxu1YFyjjWSzpW7WbU22TNMffYU96r4PwPFTmgSLxYxbJfyu/OGcvR4VWg3SrSH+OV2xMEWBDTNvljGayRDkKYAgSZoCNRUxFGzQU/tdbjWtvj7OXTd/O2hQTEooQLUmqxt5ksoyLAxAuQSGnZQMWJLSjoXaDtRu4of1bcvjBIbnBNS0cbNCCCKShk4ycAKAcwmKTNddRJTSpobWXNRrMMcotB2Go2hOgAyLsB2+XCZBOJkCk0Am+46mUu02WrKysgQ7Tq7X5I7R2tBZliJoJlupUo222PTMiq2jZzDgqAxJpiUZ9LpYUYIVEerUi5vxqKTREAx6FT2cXI4G9mH/dNw9Pt1NgWnHmg/rw74eXrrzcf3qmv+xn/x7+z4Z87KCB4Fx+Pt5u7fiTWsb+feLFrC4qD3M/KBfDX1nfV9ePtDhqrB7vtn+EeJf6u83++XVil8KszvRH8rvezIQ3KizmTBf8KuIi79py0gMlmz8bG9+cl923NedttoUP4X5j1fIxejM65D/AUtxbzdmXaFoAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/088.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/088.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 88
     },
     {
       "content": "— Toi et tes petites patounettes.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaBJREFUeJwVwtlvmnAAAGCeQMAfN3IfIkehClNUGFYttKmGzCxru3ZhW+vWFh/WaNvsytLsYdkfvuzLB1VD82psXY/a9cS+n7uPh84m1dcj4+HQ+ZY7T7m9mzvbfO/76/T5w8mv6hiaavTCYt94rc8DdZe1v86sn4X9JdW3mfm39P+U/vPC+3HkPubervAfln3o7oVWh8ptT7rpyet9aR3Km1jbJsbviXUXKteR8pQam75yGohXI61OVKjyhXOLXchELjSPZbKQiUIERxJZdbiLDvcpEO8jZe3ypxYTt0DpclAmgKnQXLWZd17rbYeLaMwH6B5oODhSyGTlcGcWW6rkXGiaKByKJDRk8TGLFxKx1KiVSQckauPITAARg3cZPOHwGd98yWIejgwF4ibRoZDGPNBwQSNisYkIXAIVEHjMYCmL7ZNoRKB9shHg8IFC1Vm7TnXIBmhA41OVWjnciU51aYyHYRGBdfR/GYF9Ehvw4P1AvU2Ms64IDQSiMJhXNldaTCaCiEYNDDEJbKSQsUIdWOxlX6ti/WOsnvekpcv/A85iSxqwh2Z0AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/095.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/095.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 95
     },
     {
       "content": "— T'es qu'un con.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwctP03AAAOAeNeGiJo6EoIYVYZCuGy102LW17a/PdVS7uj73KGlhdBgnYwtlD3XVhWUj8cLNxBuJ/6XfB1kk0mSLsUYmjtjRSBGFezV2dVlvc5h5tNugULecZ3dfvd/ZFFE4t/4Ccim0o5RuLLC8qFF7bzbWnvg8/m913dVIbjsjoVkB2aoU4a5acsrI8fYGFAK8b9BpoD1cuTwKE5m1zxL+uOxPfVnD3r5ef97iDozSjlKEbww6EjDoXD4aW/wi1P/eBnppn888/fGJeVz2bm1wVSUHH+ihQavFrEHkqvi+ReahWCWmDrjvGPOwCuCX5tazgUH/mUaX8uG4zqW+GAFM2tscfqTcMiogWShWiG+ekLbUWD6M+YKXy8xcMGurXeHgZ0NOfXHmiWlTuWvLqU0kJgNFAj52wLVBnwFsYvGjGr0KT0IG+Vp9l/rir6a8ik7uz/TFaWXmCxMbQAGH9Q3mQiECtvC9IT/0nN+xGYt42lLnLeUuqCxOtXlbnTWViScNTBZyyvlzhWgwBZfKd9TjqSfNQz2x+JHNjyw+qXMjGyQWGNb5vsl90an/P9yI9peRtY4AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E22_brefOnAEnterreCroquette/102.mp4",
+        "thumbnailPath": "thumbnails/S01E22_brefOnAEnterreCroquette/102.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 102
     }

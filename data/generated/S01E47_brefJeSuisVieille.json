@@ -12,258 +12,559 @@
     {
       "content": "Je m'étais préparé un rendez-vous.",
       "index": 0,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwFwVtr01AAAOD8kSGsuuKuXbo1bS4nbW4n56Q5ud+bbIm23Vrtus06BsMHXwVB0DEZOEQU2YuvXtBf4I/wzd/gm99H3Vte4njh/OL52fmzh6PD2y8/JtMZ0mQI4eur93/+/vv66zfp4yT0r29uL68/Up3dxmq9VmX+IHLHZZZGHsvs0Gt3Lax9/vDp+7efV2/fxaF/fDR78fLy1ZsbCspgpbZUBPh0nC0m5ZNpJbE0z9CjQfh0z7lYzE8fj4vYGe+nJ7Pp/GhOAbB1f+WO1mMOMvN4mNpmV+IbHZbjpb4k6/n+cJT7AdHSwCxTz7MMamO7Rm/XREB3xV1VZVvtVa69ybBCk9doThMVI/GMxEGxR8LAglihJMg2m+syZJyoC5S2DFlJZoAMW0DfYnq8BH1HfzQdFJWnm0p9o07pJqDbaypmomFglKkYmusqcNPE9SKLuBwy1cixHyRBoZukB3iaMjFnE851RexhgRi0CjblDorTligQPxAIaiFJcfoKZiStAfUdanGQnR1moyrJixBbKMuDbODrtishWdSxFXnQRshFZWZNclLF+D/dgYxP0jTotAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/002.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/002.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 2
     },
     {
       "content": "J'attendais sur un banc quand\nj'ai aperçu cette vieille dame.",
       "index": 1,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwFwdtq02AAAOC8iogXA6EbWzFtjn/y53xOmiZpmiY1TVaTNT1sbTfatXPQybAyvJggCkPBi12IF175dn4fwhF1hcUlSNJE4zLv7sf9H7vF834lMeSsTD9sF/NqAKkGwI4b9UOWRBGNJ31LUDhKYMjbUfJ1mf3ZX/2+X3LNk8kwWl8U8yoTGIzF6yyB8gBDApMPbUHhSV1iB4545YvrnnGbtUc2dzPu7zYXi0mu8oTI4poIOIZAHIlyZGBIQIZEZsKlK5y74sM02VXpsspWs9PxsGfJQJcY31Y0CSKezrmG2HKsKPTWWfB9VX6pup9L7zTp9c/ms2qYhK7ENFsK45miIUPEVqHixnlWPn+6/vt492u/fVq9e5j0e4GHyYEeFtHZxmm5LRnYCiMADGEllRStbRE/nieFp6UqeNqM/n37mKVZrUnzZseIp/n00vddFpA4iSNNqB6c0G2Fvy87NEW9fHXwPg9+3lSjQSJ6A9kvKCPTOoUZ9CWFV20dqaHUIQZRnLQA+vrozYsabkL6+q0bdlOlHQPVp7SI4B3djWZlPC6j/+zplf0gy0cSAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/003.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/003.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 3
     },
     {
       "content": "Bon, alors, pour résumer, à chaque fois\nque je me prépare à un rendez-vous,\nje me lève à 5h30 parce que je m'ennuie.",
       "index": 2,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAACFJREFUeJxjYBj0gJGRkQTVzMzM/Pz8pOlhYmIiTcMgAAA+EABGcYqkLwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/007.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/007.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 7
     },
     {
       "content": "Ensuite, je prends un bain\npendant 10 minutes et puis\nje sors du bain pendant deux heures.",
       "index": 3,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXlJREFUeJwVzslq20AAAFDdrGVmNIs0m0a7RrItW5Fb25DUCnVaB3pKoCmlIdBCDi3todD/PxR9wIPnBEAAKEFoEC2TcpLpkZsDZg0KDWFNrAYad5iWAOogiN1F6Hge8wMOkAZQl6tPSTUl+bWUPYTCD2IcGho3lFtE8sUCzcD1qO9HgUdCbNrxKSmnopqMHgg2AAgABGU15S2JGtfFnscc18UQChgwrvrl22/SHKr6VsmeYI1DBQGnrGa8I6zxA+4B5QQ+C5GGQKTVu9X+JSlObfcxz/YEGwQFhJLSknI7A2RcmDgIKkYKRsp2eBhOv+zwOc1vqmpiOEOQ06jlasfEegbQ+ChzKK20WGu1HU8/d+e/mb1vhi92/JrW7019l9R3Zf8YqR2N1zMIC0eqK63HsjmPt38216/Lw49h+m03D5m9pPZiqnNq75nYknjlo9RDmVPYD0l+0109rY/fl2+ej5d/+9OrlH2IMkoqIbeMb0jUITqXXJD8ByRVNBjrcw9VAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/012.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/012.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 12
     },
     {
       "content": "Je mets du parfum, j'oublie,\nj'en remets, je réoublie.",
       "index": 4,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwdtO2mAAAOA+yu700iUuGmfQDkOXKQQpoIkVoq5CB3KmLT3QA+1PT7YrULRA6dRhRrjAZO799n1QIYOAFnHP1kZS61GhZjo3UclfJjfrk8Nu1RPrz3Z34cpzS3wEzEBoQIXMkUWXBkI90JnQEl6G1tRSQ7u3+Nl9MulAo1Zjde1ry5H67Eg+YKBCOjoUW4HeeR30ZrbxZ+K5fBPUb/1e+8Vi5hr55mvvc+ttqi/HIDB4qJiGB3xlLpUeFJqvFGgszp0dgat40G+HOhWA5toH/8L7v4G5nhpD7g4i0EOXv5sIpX4dJ7NIFdm+OfzIZKJPQjlUm6FrLz1j5SkLR3wP7Qe5Cd2mDnyp9qpUe9jXcnSrE9+txLbZVETPIaP2tat5U1MLNc4gidVYmQAKuoxteRS+6BZ5NCKeRYn9TXxvQ87CQjoCsJgjaI4kLhww7/NjuWHTBFQ63ZPxrPnjXLpA7JuEhEY63z4ZWIw63insfFDyCR8Iv119IlOgjHH5U6idQ8sJuJqEO5dJIZ/s5U5YFGZTEeU6VTv5XNzfYM9j4vdMA/2CHx/Ury7+AwhkybocihkrAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/017.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/017.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 17
     },
     {
       "content": "Alors, je remets et vu\nque je cocotte trop, je reprends\nun bain et je suis prête.",
       "index": 5,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBRRkZURkRoXmJOPjtUQjxZR0BwX1dsWU9UQThlU0pHODM6KiRBMStFNS5ANDNYTUwAV0lGe3V3f3R2YU1GaVRJaVZLc19ZZ01IYEs/cV5VTz84Py8lQjIpUUlLWFVdYFNPAF9TVcXX5cPJzm1eXG9YTYx0Y4lrW2NVXlNRXW1XS3JdU29bUWtZUW1kZm5lZWtdWACwxdu1srPTtJSvr7N4ZmGNcmBmV1g3RWgmMlZTRUNnWVRoW1l5amWAcGl6bGdzZmMAzur9tLCzwbGfyc/SgnBpfWNUaF1kIzRbIS9UU0ZCVUxKPDtGSkZNeWljbllNYEs/AL7V7rK5y4OOn7/Q5oVwZVM3KDoqKyY3XB8uU2RWU4RtXWxcVWlbVX5qXVM6Kj8jEAB2fI1pYGVMQEJ2ZWZpUENQNicqGRYlOGEgLlJnWluTgHaSfHGQeWpCMy8mGxo4KSQAQjg8MCYoRywiSyUTRzg1Z1RTZD0wMjZOHSVBZEc+dVxSeGdhfWtkTz85SjYvWjw0AC0jJDstLTkpJi0hHkU5N2tka29hZjAjJxkOEWRHPFw9M1ExKFA+OEY3NnlgYXlORqIFmRiLONIRAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/021.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/021.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 21
     },
     {
       "content": "Lui, c'est la solitude.\nIl m'accompagne partout.",
       "index": 6,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwVzg1T0mAAAOBdV11fXKHGgUqMEo3LpV0EiHcZi1JMYcfHImBs493HWzscOmBfAnlexEDggonXv+16fsGD+D3u4KonhK7qIDPSuGELXKncsAl6debyhKlTmeMIhm+/jGBBmSYvahXE71p6sbSQ2tmaqGDe+TFvf7fP4dQQRyo/1gSDLxJ7kQ+h1x8jbzSR+q0AxOt8Eg74+nL570/ppiPN29A2xLHKTXTeaoA6TZayuUL6SxqPdWrsSIPI5/DWpVS4aQvXpjA/h7YuTFRupAITfiOTiUr6IB5+i0ejR/HdC5kbqhA52ovZBpjqYGbwti780firZnXYYBtsLrETqaT2o5vBDT+aiL1TIQNIAnE63TSxf21yU52b6fy4BQYNpn9Gd2AB5g7p9AEWCDz3Pnsf2lZFqkblkQePFvzoRquaHbfYgcJYZ5WeTP2Sywafb1Yy1PGnAOrzepbD2CtVpHqKiNy7/9jhcOWT+MwU/mearKUwA4Xpwq+npVQhiaMrK+6nLmx9TSpnTVhG7tx13Lr9MIRtdmGhKxWtk1K/VrROab2alchkKr7rW/a4FhfXUR9FHNaKxD8Vr5RrBUeE5wAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/027.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/027.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 27
     },
     {
       "content": "Je le vois tous les jours\ndepuis que Paul est parti.",
       "index": 7,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gArIR4sIh8tIh6Gdm6joKGZmp6wsrV8eHk4LixMREWHh4yGh4x9f4VhWVpJPjuBbmAAEQ0OHBYVLyMhd2Zfq6amoaKmqqywYU9KhFxHa0w9fHl8mZyibGNiSjIpOCUffWhZAA0KCxsXGUE5OnVpZpaRkpqanqaorYJvaIBWQIBdTJOSlnJpZ1M5Lk42KzwvLIBsXgARDQ4gGBlFNjV8bWSHgICUlJigoqeQhIF+Uz+HaFp5aGJbPC9UPjRFODJBNC+Cb2AAKSMmOicjYlBJg3Nofnl5jYyQe3d5Xk1JVzkuYUY8aVRNX0xFTEA5TUE4Sj42hHFgACciKHdoYot8cX9sYXNhX0pAPzsrJjcnIkgzLEUwKkE1Mks/PE5CPFVHP01AOYFtXQAODhU4Nz93b3GIeHFdTkstIx85LCc/KiVLJSE+JiI+Lig2KSRBNTFZS0NNQDh6aFkABwkPBggQJSYyXl1pYF5nLSUkLSQgPywoTBcVQx4bOy8pKCAeNisoVEc/ST83cWFUAAcIDggJEAkKEQ8QGS8xPkE+SCAYFi8lIUQXFUMdGi4mIx8YFywjIUxBOEY7MmpbT9nJgt3EVmRVAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/029.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/029.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 29
     },
     {
       "content": "Paul, je l'oublie jamais.",
       "index": 8,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gApIR5FNjA6KSVZSkWRjY6YmJ2lp6qorK+jpqqbnqKQkZWJipB0cXVLOzY0Ix1xYlsAJh0bKhwZRDEteWphkIyNm56ip6msr7Gzq66yo6WpnaClgn+DWEQ8Ry0hWEpHZ19fACQYFiobGUk1MINzaYmEg5aXm5+go6SmqqSlqaOnrIuHh15HPVE4LFVGP15VVSMbGQAjGBcoGhlgT0iEdGt/eXmTkpaNjJCRkpagoqaJgH1nSzxfQzROPzddVVI2LSsgGRgAJR0cVUY/hndugnBmemxrjYuPioeLjo6Tf3NuZEU1XkM0TT84UUc/WExIMiclJh8dADk3Po2Cf4p7cYFuYnJhXoeGiY2KjXJiXVY5KlY9MU5BOU5DO1lMREE3NCEcGh0YGAASFB0/P0xoZW9+cm93cG+BfYBkUktPMyRMNixLPzhQRDxXSUBYS0MtJCMgGxoWExMABQYNCAkRGhwoUVBdcmtuVkVAQykdRDIqSD02T0I6Vkc/WEpBV0lBKCEgFhISDAsLAAQFDAUGDQMEChgaJFBNVkEvKTkoIkI3Mkk+NVBDOlJGPlJGPVBEOyUfHg4MDQkJCdZdjiY+n4eVAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/031.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/031.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 31
     },
     {
       "content": "Parce que j'ai plus toute ma tête,\nmais j'ai encore tout mon cœur.",
       "index": 9,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwVy+tT0gAAAPAVsAcjQHAGKAccuIQNhUbEY2xDbjzGmFeM8cyRjBCYtku42mGXWanXh/7mju+/H/BRbg5ajcu+PO+1tTPhvFa5lMUrtR8OHDwDLCmCYvOnSTyejMVCe7tBbBfQOq2JVNfOhC5XWmujXzeLH/pkqkh+LwZa4cQhWcoy6fhxJBDAXG4HjAJjpfN9Ob4edWbvxT9r/fHb5yfTWGkDv3fP+hwM+sN0lsmQKb8HcyIOBESBoVD/+WX6aBrmJ/XemP1e6Q9fjTtDS0RCFgvsw/bLeSadIDGXxwE7EAgF5Nzr26X6737zd3OzmalX/bb4hvpQr5hDcdFucVSafUsn8bjXuYNA6DZIRWbeb98utWH11BjKmiQwOF46Olp16w9qQ+HylSJLRnGn3YlAKAyhQJMuL97VJtUiHYuN+PKgwsoMrQ87elds5rIFqtBg+UQkisJbDYF2oFetzUVuLXMqX7weKXfG1FyOL2QhQxDh0MkxUWBy5UyScqFu0IZsw4XS41NEI3U4F+lziT+Jv3rp3vGhqO+FK+iPetz70TDJ0U0fdmCzQqDN/h/RGGcfaVqZFgAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/032.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/032.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 32
     },
     {
       "content": "Par contre, je sais plus\nsi j'ai mis du parfum.",
       "index": 10,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwdy1tP2lAAAOA+bL2dtoqp6FBBRF3sLgwFKtQC57SsIKUF2tmBQ2TAVrm4CeJiZJAMH2bii/94cd/7h1WL+Ua50LZLgy8ndU3p2kbbyI1bNUWMLXu8ajoPJVUI7SxzCzzLMSSNOYbp2gW3otfUtGsb8+vufHgx7TeRGF1gPFBSs7K6veHnWc4DOJoAmGWejprOn6HbNvK3nbP7ce/h7upxcnWSg8RLsP/mQJPRrt+/CFiGZCmcxiyoXZ6WH6ej+bA767f+jnvTwbfZj+8XtRK/6IkIH1AyFfStcTRHkyz5HKKRjp59uPv5dD+ZDTq/G6Vfjnbj5G7PTD1zJMcSUJQ2VnwMxVIEIAmAfc7AClQm/a/up3JNgecf5V5OnFS1FoyYchIdqWpCXuO9JA4oAhA4jZkpZCHlxtGseBgJgp2SirFw4f12NiwcvEtk0haS1L3NICAZAqefQ6NknevHowoc26h5rFy364O6FQ0FNl9tbQX3d0LxQ7GowIp3aRV/Qf4PdrVuljN7QSvx9tJC2WTcu8QzJMPQHt9KKLAuvN6VDkV9fTVA44DCwT/mW2e/JNDTcAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/035.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/035.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 35
     },
     {
       "content": "Alors j'en remets.",
       "index": 11,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwdwumO0kAAAOC+iKsSQqBV6DXTY3p32+lML1p6cLlAadAfWiRxSXQTTUx8Bl/XxC8fgzUQ6vB/xeZngcwVvvO8W/299V8rWloyVoXSNxuCSxwUOGASU0ksLbVRaukhXCSGtCH+bV396Y/XMr03Uaa8pwgei3ybxA0lDNX41AQJErHCx7pUB+Yuci9F+vvQ/NyVv9a4UWdt5F/aqqvKpzxjDO5tCOe+xLoiG6mL2ke7yO2X0XNbXLN4IMohDoauPyzzD3m6TQgTI6lwtMxWEwNGmrDytD1x6tAjFq49nAfpp26geGMaBXZCVwFMZilEB4mpEh0QTVy56jo0VBBwC3o+Xi/9t+N+4OVCgqVtFRYATGqCGMGlreYWzA2xccUIyRM2iKP9j9vL99sLoWd2TqdzKohE4jUm1oVEF1a2vH1UzjH6mJnbEHHvvE11un+5n/afBViP2XDM0cnM4qYyc0iDrQ9OsdURdHaEkye2jyY7VdokH7qL761fjcyHsf0w8V+P4OjN7B/5rHhcBdWYEQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/037.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/037.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 37
     },
     {
       "content": "Ensuite, avec Geneviève,\nje parle du temps.",
       "index": 12,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAQDA8hGhknHRsfFhNcSkOelpisrrKpq6+nqq6Ih4tKQUNUT1N7e4JiWlpIOzd/bF0ADw0NGxQSIxkWGREPSTgznpeYr7K1srW4rLC1aVpWckw3YUk+W09OUTUnOSIZemZVAAgHCAsKCxgSEiAXFk1APpiRkqWmq6mqramus4FuZ4dYP4BaSFg6K1M0JDwuKH5rWwARDxMMCgsYEhMwJSVrYWSWk5eamZ2enqKkqK2WiYaEV0GCXEhWOy1FNCxBMyyCbl0AIR8nGBQYKRsZTTw3f3h6kZCUhoSKjYySlpWZc2JeYT0taUo/XlJOVUc+TDwyhG9eABgXHyAcIWlYU4ZvYXZhXomJjomGi1ZMS0U4MzwoIlE1K0MuJ05DP1dLR0w9NIFtWwAJCxQJChMxMj5yaG15bG6LiIt0bW4sHxs1KCFFJR5QIRtAJB48LiUxJCA+Mit9algACAkSCQoTBwkTFhglR0pbdnJ8SjcvKB4bMCciQyUeVQ8LRSEcMiolJx0bNCkldGJTAAUGDwUGEAgJEQYHDwUFDy8xQEU7PSIXFCUdGzYfG1EQDDwfGyYgHh8XFy4kIG1bTsxMfMYX2VbmAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/039.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/039.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 39
     },
     {
       "content": "— Il fait pas très beau aujourd'hui.",
       "index": 13,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY9JREFUeJwVy8lum0AAAFD+oFWrKDHB7EtCMDb7gBlgwAsyxGw2Jhi7QkrSnqoeovbWb6/67g/jWVJVVTeILQeEKEmSBG0zH0IfwqY9tYdaUVTNsGRlTpDsLT7FOJba7p6j6iVux5+//358/Llcx3Ve7jbpapP246sXJLoJFoYtiI8kxWE8z8S72kDpMj90/fXHpft2KOvLuyYvfB99f30rynqdpslmq851iuYxSWQFxfxMSebSGzNUA21AYGhriRPhEv46N321b47NZeiKch8EIcYx009fb3FWPKXhuPGGGAzIbFe+ZRqa7ed1n1enJzOAgV8WWVWXGEXiMwOUz8UxstvIOa/cLrar0EEonrAzTgGC6hKizj3MDG0BoYfR5CRK1tcqj1Qpc7U+AS8JyJy5bVi4oFEPBi1bd4xCCk+iJDMMj0kCU6zgMbRTzzwgt4tBG9l7MFcf5Qk/xzmVELUbUrqjJZaTSJLDinUYOWagq+dil/tW5RsN1JGh3JMc/j8s7gX9C87fEPyU4okp/Q/TS2LWvZSEPAAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/041.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/041.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 41
     },
     {
       "content": "Avec Jean-Pierre, je parle du temps.",
       "index": 14,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwFwdlymlAAAFA+oE+dtiOCZZWLXtn3zSBcVDZREKIknZjUmbQPfWmm/99zMJ6lTcuMssKLt/WxL6t6fziHUeT7Qdudi/0WiCvNsAWwJEiKZnhM1XXP8/eX26Z/vf3++/Hx7/1+b/onFCfptnh9/xOj3HQDWTEYZj4XFpgfrSXNFO0HLcmbun45lS/17tBdISsmG/R2/3V6HE9ts8tzSdaWUMYQSr5Npp9wxnCtn0XYOeoYGm3iczR7LIpblSKUtd1pvPbDcE6yLWY7NkEQK83pd+vn1HlC3g/k1p4qCpzsbIqmD9NSVNww8JpDWVYlRlEz1TAuj2O3tgpXHZF72di5LUtwhXMKC20GWqSgilCRJSkIXExZgsDW34673JIqX7+mziVx9iYEAE44+TvQZ4L2lRI5UZ7PFzTDYYcsHoqsCfRzFg+JP8T2EFuZDhkWTHllwkKclT4TPMkuOB5QNIs9RGsRLKCkxVlRhVbjq22oRZqEUwBnV1NBIwT9CynglDCjeJJk/gOGQWG8D6sIegAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/042.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/042.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 42
     },
     {
       "content": "— Il fait pas très beau aujourd'hui.",
       "index": 15,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwFwVdz0gAAAOD8AB8cxTJCBcIohAABQvYeGFYolgQvENMzgAWJNCVA8TzHneN889Ef4X/0+4ASXGphKI03ZI5UBKrf77iuMzGvbduSNYHnaF4gR6/6FNUiaAzFK0CxVNRYfKTylqEYQ/F0v/r39898Pr15aw5s1bBVy5FtVx6N2ZFJXpk4wLPYZCSNJ1LflERN3C9nP987D+Fiu3YevnvBseOH7eVWddeS5VGGjQGdYYvRaoJek3QyA6E/Pvnh5qZWoTzL+rbfBqERHPTgqPuhttjIM48BOAXB2TKhkE2Oi0ZzRq/D0nzkHLrutL/4i93BPp7046m7O+ibO9W75YFys9yUmLoq56qNeBxKpeEEWHgWSQpKz999bA8m9/thsG8He/32g+QuGCDXwjLNRoEiL/IwCOZjiewLCL5Iw6kCKvVMjB/sgnd3YddbC+6Sff0GB+IwDCJIul5PZkogWHgeTT16cg4jtVSxXiGUXJWZzrxfX1djhzSnxJXVBM6y2WixCFYqMegylsieRZKPn8ZFUbpE6XyVhhCCELq/Px9W8+HLISp3y/8Bxf13jP8/lDcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/044.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/044.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 44
     },
     {
       "content": "Avec les gens au supermarché,\nje parle du temps.",
       "index": 16,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwW2PkgAAAGB+QrXWKbB5iFIQbyIQr4K8iYqJcnAHp9ndyWzt8uxCQ3e31npbW2196Uu/tucBWJZstShdFR1D7jmmbZvF5vquLByv61qGbWlxEpqmLmsv2hLLCATQ4mhXExPfPAu9OPGTNPj7ufz3/RAtXg5O7ZNzY37pnqbddG4kmTYIecBzlSS0prExio1uTw9Owp/bfJ+frW5G27vx/deLdTnK39uLazPN9clcBJyB6IWC5jLWpNtSO8c1+s+PYrteOZa+/5h9Kg9FOftw8Nc7P19byYUICDolmZzct5TpBGOEoydI3/M0pUNT4q9vxe5VdLtJ9/dBUQ7ebuxsKQM4Tz2VJcpxxCAAa80q2KjVCBBqViHUHcbbXdmfzGbL4e3eXb4zsisJwHiu3uYIyyRVHUaeIShZBdEq3KjATbjB+mHG64EdDN/cWIuVlix4gBJYhGGaqoIQLabdrqPPjyrIw8eQYZgYJWCsjlJSxx8nr9VxxvlTCjjGCRDHYYaBcDKKhhhGPngEQVD995cDKXRQWqnUKVqUokzthawb0P8B8BV1IcAnydIAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/046.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/046.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 46
     },
     {
       "content": "— Il fait pas très beau, hein ?",
       "index": 17,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB9c3KZh3STgWyUg3qakZilo6uompaLhItyZWafk5CnoqeSh4GHe3R9en13dH5taXQAZ3OVcXuWiYeQrpySpp2htKWjo5eXfWZgb09EloiEvri7pJWPj4SEioqTbWFiRz9FAFl9uWGW3H2SsaOTa4J4bWJRUzg2Pz4jJlsuLWRdari8zqyalaaId52VmJyHgINsYgBxh6t1kLSNlZ+elXM+PlQgIj0SExw+HiBWKS15b3aQiJF/eX+JfnuLgoR3amhrWlYAg3h2j4F8cGxuVFZoGh8+ICEvFBIXPx0dMxMWSj09nn9wjISHjIiNYlpcTzo6SDs7AE49N3NnZn98gHxxclY5NysZGgYJEygMESEZH2NhaY+JkGJgbl1aZkE6O0glJT80NAAxIh1ZRT+TiIylj4eZZlJQLCVQOjJoSDhlX2ONiZKUjpM/PEo+PEw1LTFAIyI6NDcAQjAqiHBmlIiGi2dWhGpVno5qnnlnlmVIZ1xeMCsxe3J0U1BbKCY0NCgtNhsZOTM3AG1QRX5wboRwaGhbXndjTaaIV62cmJSNjltSVCYiKFxXXFBMVSsqNygbICMMCzIsL6F5qvh/v62bAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/048.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/048.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 48
     },
     {
       "content": "— Oui, oui, avancez, madame.",
       "index": 18,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBlXF6ShX6ahm2ZiHaZioignqmtpaWQg4JjVlilk42clJWhmp2Edmx/d3N5d3xxbXcAW1pta3ylc4CioJaVrZ+bq5yat66ufWpnaUY5fWdkp56etrCyk4J5hYOMfHh+WExPAHF4kWOT1G6f4JWUjJeKamZWV1FJTzAhKVcrK1RDT5ydqcC5vKSFdJ2KhJiNj41zaACChJV4kbR6ja2enJBlYl8hJEMSFCAjEBNePUGPiZKYlJ+DfoaEeHaNgYGDen1xX1oAeGxqloqFiHx1Z2lwJytJGRwwExMaJhIUQSAgcFdOoYN0i4GEjYWHfHd5T0RGTzs7AE5AO1hIQn11d398f1lLUDkgIA4OFRYJEBsGC0E9QJaHhoeFkW5reGVgYzooJ0cnJwAzJR87KiJ9bGmgk5aohHV3QzNFLyxySzdhT0d1c3yfmqFzb3c6OUlAP0gyHRw+KisAIxgVaFBHm4aAlH52g15NkIBfnYVtnWlNkG5cTUdOQzxBgHqANDI+Ly45MxoaNyUmAE0mGX5pYoR0b35taWBTVJR5SK2TeJqSk2ZdX0M8PiklKmZhZSwqMyMhLCINDiscHfF4rHTg45irAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/050.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/050.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 50
     },
     {
       "content": "Mais ils n'ont pas le temps.",
       "index": 19,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBnXV+Uh4OdinWRg3aWiYijn6iqoaKAeoGbmKSyoJmfmJygmZqCcmZ7cWl8eX55dHsAXl1seoKbgYOSqZuQsqOhta62t6uqW09Sg21popKQpJyeta+wkIF6ioiReXV7TUdOAGtyj1uN1GeX3JKQjaqdfZKGgW1cXEw5NlAtJicfK2lqe7u2vKyNfJqNipGFhoNqYQCAhZt1lL5+l7uloY2ck2o6O1QcHTEtGBw/GhsqHiV9gJGYoLyXjY+Qg4CMgoN6ZVwAenBulYyJfXRycnN2Tk1eFho5GBooJxIUQBkZIhcdblpRbWdviYmSfnh6U0hJUEE/AFRGQmRVToB6fYOAgWZZWzwnLRcSFiURFDAUFRQSGGFXV4B3eX59i2BcYD4mJkUqKgA1JyI6KSJ2Z2Wbj5GcfnOFTjpHMSwYCg4wHh9zc32Xk5pmY24+PE85OEE1HRw9Ky0AJhsYZ05Fm4iDknxyjWJLvJttk3pkODQ8Wk9PVEpPVlFWdXB3QkBRPDpGMxcWNyssAE0rIH9sZoVya3ppY2pXUZt/SrKag6CVkoR6eTUvMjMuM2NfZCooMzAsOCMMDC8jJQLRq+Xw93gEAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/052.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/052.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 52
     },
     {
       "content": "Des fois, je passe du temps\navec mon petit-fils.",
       "index": 20,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCEeHaZh3SOf3KMgH6dmJ+loKWhlZSfnqqzpKOUi5CqpqyHeGyBdWx/e36BfISHg4wAcXaNe3yJnJGMrpuVqqGnua+xno6LtKqsopWYKSY0hHyCpZePko6ThIKKU0xUZGJuAFZ/vl2P1oSKlKWWd4FybHhkYDkxM1BJTldPVkw9P1dGSkZASpWHhJqQkYxyaXhucQBtibBzkLmfn5WLgmQsLkstL0otLT0cGR4sKzWLh5SQkaQZGCVNREeakJGEbmZ/cnIAiH9+gHVxbWx2NTlXFRo1ISdDQD1PV0pIGhoifWVdnoN6RkNLKSYtW1NUV0VERz8/AF5OR4F6e3V1e0lEUUArLzMjJk5NXV1YXyooMn9yc5aHhn59iktJUkMwL0srKz04OQAyIRxpV1SVi5CcgXeCTDl1Pi1fW2ePgHl5c3yTj5h8eYI1MkE+Pk04IiRDLS4yLzIAWEE6jnlzj396jWBIrYtjq45xcG13hnl1Wk1QVE9VfXd/MS89NzZFNyAiPCorMS4xAHlkXX1rZnxpYmJRUpN2Ra2Udaudm4uCgT84Oy8qL2tmbC4rNyYlMScWGi8gIC4qLWU4q7qYSbHkAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/053.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/053.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 53
     },
     {
       "content": "Je l'emmène au parc, il joue.",
       "index": 21,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwdtO2gAAANB+wKJLBo6LjQWUBTeGAgWFAtp1FOiNtoNeaYsQW0ALCOswgSzgNhVilm3RhyVLTPa27GGfuHOAAhx/W9gnqUO0mMWwtCDgHBHvdoVTW21ZXNNilZMSJ2FMHSvSmTyeBBSNOTtrmG1Z5yuqkO++Z2aO8OlmMFtOb74uh3N98FGwbeNEETWTMHplwBrVVea4gWcVHHH64uVKu1q1Pn+3H+7vp/O7D19M+/rd7aL383LYGfMthwT0Hlun0LmloakERSDOtXExYUcLcTVuynSlOWz3F6fTiXll6faw2Z2IgGHJr+FMKLy74YMouvjj13J1N779Nj3vWaLY6IxGBEky5XKNrNAUK6kSUOVrLn8A3N598swLhV/+/ffn9+ODZTu5Ug1jVIJTY4lkIZ6QDjLZHCJLAuDd2tnYDPgC4acecM3lZVttve+ghJgrsm9IMZY6Shxm9qBQGQwheUQQ6sBzMOjb2llzedbdfk8wgkkqXpVKnFbh9b300fYrOIUUqiiKRaNVmjouVQC3H3L7IQ8YgJPpgyLOK8rw/IKWrRic80IvNoORWDQy6xjLgalwVL8h/gfxS4lJpCATHQAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/056.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/056.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 56
     },
     {
       "content": "— Mamie, tu me regardes !",
       "index": 22,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwWtv0lAAAND+DT+YqVtEQxY1whIHo5SOR7GALX1QSkuhj1tob1soCCOERdbpWEGWyUI0LposfFr8j56DJN+/5WmM43E8HS+Tx1LjVOOS0JNlk1W7LPAY4JTrSoXi84yEUrUkorucIueET6hMJtptfBhw1wvz5vfy7u9uthq58yo858fQcJWG4pSakECaFiVWTwAoAK9kqLnJUpkGYricOaan2frgSvIX0ubS24y73Qmrj8oI3SyIbMYEZQvSoJ33g1Z/wsyDdmA1AdDtc1+FimPIHaGqqDLwBeTy2+TL3Ps6tX9cnK1Xs8d/Dz+388VNWK3JjNRpGWYylSphGEuSaTxrmgay+XV3dRt+367vd3/C7e3D4y5cr4SWi5cEnKydZIjDWOz0VbT+IRFPHA8HHlLU1LyqEcDMGkbZtqtOj1asIi3hH7kjlDiMpxIYFn/6HN2PZAs5iheQjNjA6iKp6yx0al7P7PeltlXXemieehZ58+L1OxRN95pih62UyCJJM4gJO5VG3R16ozNfg850+NmGg0S28mTv5X40dhCJEumjscpfTwYXUL2H0n8IV6LIu9A7EwAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/057.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/057.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 57
     },
     {
       "content": "— Oui, oui.\n— Aïe.",
       "index": 23,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwdtummAAAGAeYze7XZpUE2t1Ea1lgrUqgkZFYKIU2C+/oBwq1gRMD3bg1jZbY6PLlmxTs+yQ7pCY7G7J9mj7PiQVD9EUWqETajPb6QsttaHoDBwwml1vimxTLondQlPOMVWsTCbLlTRSJaKCjFvj+sRXp3fT28XHkd+zfMb0WleWYepPe+cN3a3DQQWYJUUrImwjLYGD4wk3HDNXZ0O3zWum6FxLo6m0OhsEHrBftG2f611wwOOOnBoi8QeqXj7xldNJ//3spa/L0IHA6bYlAXC1I45T+x13CgeXquIA2VaQwDMX82D2ZkazCjSGDC9ihSpxSKbQJJPBqSKZwbOr5bt/f39vNl/X67fI6bUfzF6BvrObLjzGivF0PprKRxL4djjMboVzaJKkS+tPH35uvn/78eX+foWkeL6gAJxiI2h2K7oXSeDh+JMdNIPjBP7gIYVlKvUarxmMbrrPz5fLO4SSFUbTUKKE7uf3D2sxjNxJZh+FdruicGNBSxIYlvVs81kHdEfD+fwGMQwIdD2UIHI5qge6UIHbMSwaixktOjjWPs9vf50of167C1i9gK2x6/wHScencekdFMEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/059.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/059.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 59
     },
     {
       "content": "Et des fois, il me demande:\n— À qui tu parles ?",
       "index": 24,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwVlP2gAAAOD+i73saS8m49ihIDBrj5GKnJXSA4rQFno39LAQViCAICvuMBlsMYubyhaTRZORLfFlib9t3weA0WAuG8cLMYVNinqlpjBS61BxSd0pVTm6wudqSooVMLII5dOJfGEHIJKbLIdaffJ42pyfz96fffXGtnVCmf3q3DFNldWHpOGVlCNcbGUENQ3QFFgXks6Y6QyKVlfzVeF0pFl+vfOWuxw5855k+zXrhDHGjNRj+DYBCJWUrB94vtzxGv3x8Nuk67o6ZyuHHCsyBFemZUPuziRnIgluk7MFwO/bi8VkdXO5X2SzRJ3lRRArxHaxeCxBwEg+nYUQ9OLiy8PD3/X65urqHOjPp7NPH6w3g2AEeZFIhiLws9jrUBTZCISpjeDednw/l179+P7nfn37+9fd7Qp4xZQzoozk6cAW9CQYDUWg8DYahVIIjCKPHmfBXbxEVPQWY9i96ej6egnkBYHWDTCNBzbBGJqDM/QezoajkFgtv7MUk2dLFNUxDb7ZkNtHy+UpYJqKbrVegtjWDqZygqlocTjzNPxcZ7MzR/u5OLtzG/8+ep81cqjWBr32f/zqpxzG7rouAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/061.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/061.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 61
     },
     {
       "content": "— À personne. Allez, viens.",
       "index": 25,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXZj5kclCGkIqJk457iXFsflBsflBtf1Juf1NtflJte1JueFJqc09RUkJxY1VzYlQAYHBEfYZ/eX2IdG9yf3x+eIlhdIdXd4pZdYlZdIhZdIhYc4dVcINQRk47Z1pQaVlKAGZ0UGBeW21WSotrW3psW3eLYXmMYniMZHmNYHmMXHmMXXiLX3aKZWh3XDk6OSUkIwBfcmRjWlSgemeng3GFe21whHNlfmxifG1nfmZ2h1x1h1xvglxfdmZDTVEoLzUQGBwAeYKBnJqXfWhdeGFVkI6Ji5F8i5J3iZB4jpN/nZ+Lo6SRpaeQgIN0LzU6HiQpHyUqAEVMVWxwc4eJi4CDhEZNVmZscLOzqre4q7W2qrq7rrW1qMHBs4KEgCUqMRcdIRkeIwAwOEEwNz9UWFtOU1c4QEkzPEhscHPPybbOyLfQybnQybjVz71rbGkjKjEZHyMOFBgAISgvISgwIyoyLjdAO0NNNT1HUlpgnKWglqGckJuXhZKOgY6KQEVIJCovEBUZCQ4SABkfIyUsMjE5QTQ8RSoxOiUsNTxFTk9iZU5iY0leX0FZWUVZWycuMg8TGAwSFgkNEtQOqSawz05CAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/066.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/066.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 66
     },
     {
       "content": "C'est mon petit trésor.",
       "index": 26,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwU1P2mAAAOD+Di8Lh8UY5ozoAfxIXIaMRQuCtdIXNB0FS1ssLf2krS0o0Bbazk2zuTnFJSxEt6BcTLzw2/Y8UB6NEzRI72+A8tZJV/UvfScwBQ1llWxV3mGEHfIYxouJ/dQ6nIhlt6JQQyUYI0MZH+xL88fgoWd7TsfWvZLsoooDFCcvtnO8scuKmUp1u0hsQowIMxasOGize3oEcl8F4rslaTah9DDFxZQeJrmY6OS4NsJYcFlJQuXK+1oLkRwCALSJp58849qsN11a9QjZLaleqdE/UPsF2cG4FkaqCETzcEXLEBrFSZzNkzaRCSS65dq0JdFnPN6guTYudgF/huIi2KUKkNkk3UBi5Qp+xJ4HvskznRMdzua3kcOayvgX+refndu7/s3AcT1Zt2gosNXJ5A8rKMuryT2A++cXtbr8JrIWicURQP79N5xOH5+f7x/Hv0ej6+HwCtJM8dftF7LKLq0mQrMLy9H18GIsHFkLL67ENj5+oupP4+H05WEyvrsfXQ1uPkOJfCFVJOKpvXfJ7ExobmFpZTOZnn0bffV6fiY0dwAOJdWo6hqraceqQgn8f1DbuUs2NRNiAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/068.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/068.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 68
     },
     {
       "content": "Je lui apprends à siffler avec de l'herbe.",
       "index": 27,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBrYU5qdFxXZD9gbEhuflyKh318aVxdT0NXSD1hUER2d1xqdVFmaEpgWURWTT5WTTsAdnhdantQbX9Pk41yqJyPmI2DdGBMcV9OdWJSeWVSiXpkf4FkbYBSbHtQaHVLYW1GAGRoQGt+T3WEVYd7ZG9eUjMvKxgYGBkZGisrKyooKFBDOH17XHOIWXGDVGx9TmZ1SABrZURtf1VwhWhUXVIdICUgJywjKjElLDMnLzYiKTJCTEl3jGN2illzh1dsfltgdF4AcndWbnxVZ3dhPERJLDA2JCgsGh4jGh8kICUqJiwwLzQ8X2tbf4xleodha3pbV2hWAIJ7Y6iqmnp9di81OjY7QCgtMhgdIRMYHBUZHRsfIxkeIzw/P66snrCun6Ggj5OTggCCe2ubn5hPVl4kKS0vNTkyOT8gJiwVGh4QFBgRFBkRFhkgJiuSkom5uKepqJqnqJoAX2ZqRUtUKS82FRcaGh0hKS4zKC81IiguHyUsHiMpFRoeEBUbZmZjtrOnpaKWm5mMAD9OYCcuNhkdIhQVGB4iJiEmKhogJB0jKBUbIBshJREVGREVGy41OWVxclhpalZlZrVMiLcQrGSMAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/069.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/069.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 69
     },
     {
       "content": "Il est content.",
       "index": 28,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwftT0nAAAPDvT/UDdZVoifkAPQTWpSXxOHmMrRoNcIyHju3LgDEGk3hsI1CeaWgyfNAd3WVXv/WP9vmARBiDFKHkaLWQagqZfqumtjqzn3+nk/73AXV18+PkTNf6F+rpudIeSLIEcM8eje/nYmgx8bEOqUlH/tatN6vi3UXh7HKqnI4rtS8luZETqwWprrbawLdrj/idacIPIwGe8J7X6dmQ1oroqPP5iBPCqE+IYo3UJ5YMhYJBHnLAvrbs27XRIVfUg3TzcVXJZ3iyIibFJH4scFKKHBWZocBoHMVGMAlGAYW5cSfC4R6B9M97jXKBRXbsweC77CF1q1/+Hmk3ZXaulKY1KKcJOccA+fBDJuxjSaxdgne9JpVGIYzcj0++ao0rXZ8NtLlavq7AiVIo8YzL7QXblg2HZWPRuGQwPAnt73U7R3/03r/r8a9eo1I5bsrSkE8qCUKrlmLxxAuzAzx8tPhsafWp0QTAA8PjBT6TFLNsp5xX8hm7M3DASFkqhr6n0APe60dXNhHwfG3rpcW2Yt42msymdevq1qtNxPnGHbA6dlxYHOfaJiS4YAsgPuqt279uff0f3J+NheN6+/8AAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/071.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/071.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 71
     },
     {
       "content": "Un jour, j'ai eu son âge.",
       "index": 29,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwFwdlv0nAAAOAmGl+YyaYbMpNxbCuBQtcVSvvrSe/1Yj1ogy0r15YKATJwMdPFxEhijG/GNx+N/6jfB+m6IvBgezv4th6vRtH9NH68i35/WSyzdJFNFlkWxjOt9+6S0XBGJQUDEiX+2lQeJt46tqeedp/Y81DdLQd/fjz9/bXbrle87hOC2eaucEZHKQnieFIQqJkrjUwutbiJBW4dOpJa9VpdkcRBPCJ4EyUlDKg4o2NAgQBLIJfNyJY/JE7mKtuhtUlM+LTyLPcKp8VBOue0oMWZlHRNig7OapDhKkaoqb78ME+/L6ebmz6KNJ6/PDxrtoN45oRjRvUp1Qeq3+atepuHeomcvHe9ibl7Wv/7+TUNetCL3H6hWKyiYXInXIWdrsPqAZBdnNHPmiR0kzlZlkXpcJz0Z6GHEcybUnXv8C2MEqafMopHKx6QXQyo8AUonCJQkOhePFJ7wetC8bgMl+t4FaNKNUy1+qafEoLdYo2OYJ+j1NEJnC/XoE8fV58fNzTL5vbzewdHJ+dIBWnRojEcz7u63+hIGK01Ot18qXpwXK4gxH9hg3TNo+YS/gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/073.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/073.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 73
     },
     {
       "content": "Parfois, ça me rend triste.",
       "index": 30,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwdz01v0mAAAOCePJm4xRkQ58ZGhnzDbAttgb7tCy90pd8U1paGj5aOstXJxtz0sKnhYGI86MkY/4W/0GT35/JgHQS7CMImpffQ97vlamZdn01uA/vP5soaqnSD8b3pwB6LukNxvWKVx9otgBCAPBNNzIelfT0x19P+h6m+iZxfX9e/f2zubtaiPuIE85hBpRrEAEdzHNVo1nxT8GQwleFC51c2OtfZcV+6X4UL36d4KYuzeYLNkwADkKnS+FEhO1BQ1G/Ne42FBr9FVngqPt2O5SrkcDSvt7ViDRZrsEwjTDEFwWh3zHZH4VUBvrONe98Jhmos8Xorvi9qdt8JGh0Db4oEK1YYhMk2ND3RClXZ7VYoOp0piE0m8XL3ybMXubd1axzyJwMC9CiokuAx7Z5rYTTzz7z55dQwtFSmlEimt+N7O7updJHsGe4jlaqcVKLa6TKDnfpyEDgPy9mnS+/f359X4TyZLjxPHOy8OjzRLKTYJJCO690yhVLFajz5Bru9ufjy8f3ncOwKnDdQF65VwOn9ozzDCcORz7SULM7mCJAj2PhBZiu29x9XZnu+H8il+gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/075.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/075.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 75
     },
     {
       "content": "Et puis, j'oublie.",
       "index": 31,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwd9zkgAAAGBeenDtttkkM+3MLS91TH6LgID8ZiDbQAQ1dbKpEMur8+K6dlvd7WpPXXvppbf+1L4PSKJlmszjkbMau/efkyicojjBMjTNtIg2gTM00+UlRXnn2hNb4UgESBe+IzNDSw771ubC+ff7e3Q5g5pwEznGcLRJYBRH65psGupkcN4hMSBQaP9Emp6qntyeG9TDh+DPfXq9mIwDFyHJOoYgVEtWpGDgBoGPYRjgdkmNwXsccdZBfKn998eXhzS5cPTHb5ufd2m0nGuGhpBEHEemZb9tHAMqBasU7GvseuSky/DxZnP36T2Ekv2z3u3H1a+v6+RqworCPFwwgsJ2DcDQBZNFJay+Hru3cXiznMXTIVg6hMkO1IRtjaeZFiV0rqJLx/M00wVc16DbRGY7W3ldsWSRwnHwRemggVUbGIzj4kn3iERZlbMCXbVMmOQAjmffVOuZndyTp9mtvXxmN7cLFosHtVyhjLQo5VzQPV73eKMvi5oN4SxQbdTAQnm/8Go/X9p5lt/Ogs+LFfBlOZsv1SC0NxSdubS6ng1GY4rXDo/w//0cct9lITlHAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/078.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/078.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 78
     },
     {
       "content": "Après, on rentre à la maison, on joue\nensemble et son père vient le chercher.",
       "index": 32,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwctv0nAAAOAeTfSgJs7EhOwwtmUwViWFthNKRwEBWUsrqX2u9P2jtFBbZDzsFFKcHnSZB49L/E/9PsizlZFrLf0qEI51EA1kS3rf3AZmOgXb0J04Q90wPy2+XseiK2QGXAPahNXbuLwOSotYkI2AIi/UDjHX5d3U/Rm63+fTZcBx7bLDFySm5Igo5F/lJxpM97A+T3d7bPYgK1LY1lHu5v79bLTyzADwa1BYjnFHJQWmDo0tNfKc0JGSGLgS28CLlzgc8R2Pbd/FI77bXCU3t5/PEz+nSRVx0IUiMBwbyv1m/jddpLEbm7zab7F1XG2Tw3Yt9MC/hwcbjD72GzSFClwdwiok0bxkaMYWmXQGkokxlelIYQymLstymu40wynVeoxgcYIG9A6EES2ixeTLFEFSwRW3sIW1LYN+Q3pXmX3ZJpsdL+uFMoWRvbfND8yAh4r4xWGhfJBH9vZzaAkxWOrXKrrxTCR3JGr2j99/LNc/flM5Qymk2oExCto/OsueIpns6ZOnLx89flYrwdemAiT++YtXvGqtvqWOH2UO4TxSOylWX6PkfwVskeHj1N4vAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/080.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/080.png",
+        "width": 1920
+      },
       "mostReplayedScore": 2,
       "start": 80
     },
     {
       "content": "— Je n'en sais rien, je ne sais pas,\nj'ai pas la solution. Ça va, maman ?",
       "index": 33,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwdyk1P2mAAAOBeNlEolQ9F2iFWpCBQjLSl9IOCfRFLPyhtQ6EgAhIh2WjCWJwui4uHHbzsJ+yy037mkj3nB0rCOxdoqHQYIGKBqZD4uy2/DfHfT/afXy/b+Whjg9k1r1FFgyEZAveG91AZgwU83M7vq6XIXEy8OukpF1up9NvzZtltffdufEMa8BcrrVE7JyYzH8olgoWjIJMKdvJhg4xRx0gmsqPw7Ho6ewD0663y4gK/U/uo1nsc5W9+QOdJmEThCrbXyoa1UlzMxiofYM/Q5+P5pMl8dZVnuzHiiiCf7l6Bz48/of87VEH3AIF0y3GJiPOnsFIhLMORGdo3W0/99vKqYlGF4WC+/vQFojCYRncv0V1A7DuXh3ImZGeQO/LIY4qqWF90mr7C3QtFtykObHdiqhBzEmVPECoFi2eRdi5ssfnHxdKfPRiy4pjuWFfHXEEmsw2uzvOAZgGERUNYNJgIvceRd83y2Wyxna6+2aN1A1hWR72Wmn1dF6q1GsPxVT6VzkH4Qfg4GsSQAInCPdNjRF2QNLntCpLaN3pWR3N0U6hydZbjq9xB8vQfwq9muNA78NcAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/084.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/084.png",
+        "width": 1920
+      },
       "mostReplayedScore": 3,
       "start": 84
     },
     {
       "content": "Et ils repartent tous les deux.",
       "index": 34,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKgHuWj4uinJmqpKCLgn1oXl6TmJ+gq7SlsruNkZhfUVFhX2RQQT9pWE+FdGVxY1cAkIZ9n5WNqaCYsKafl4yFdWpolJmfn6myqbnCkoWCfVFAXEE5RzQvcmNZk4JxeWpeAJOIfqOYj62jmrKpn5yRiXhta4yOk5KdqZmOj2pKQWtJP1ZEQVBHRYN1aJ2LeYFyZQCViYCkmY+sopmwpp2ckIh4bGiJhYmAh5BFNTUjFxo8LComHyU1MDaHeWyikH2FdGcAkod+opeNqJ6Vq6Gal42Gem5qgXp+Nzc+BgQKGRUdFhEYFxIYEg4Yb2NbopB8hHNmAI+De5iNhaKXkKaclZOHgH1zcWphYhkSFRkVGhgTGRkTGBwWHBIOF2JWUJiGdHtrXwBoWlR2aWKcko2hl5KNgnx4bmxfVFRJPDgiHCARDRMXEhgTDxUMCRJiVU6OfWxwYFQAMCIgNSglaF1ckYeDhHhzb2ZlT0E+QDAsEg8UEg4TFA8UEAwRDgsRSkA+b2BWZ1dNACUbGhQNDjQqKnRpZnRoZGJZWldMSzMnJwoJDg8MEBQPFBMOEx0YHVtOSWdYTltNRabQovgFkio0AAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/086.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/086.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 86
     },
     {
       "content": "— Salut, mamie !\n— Oh, j'ai pas le temps, là, je suis mal garé. On se voit demain, hein.",
       "index": 35,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB7cGeGe3KQhXuXjIOdkIaIenJzbW6IkZx7dHhsRTZbOi9BNTdOQT1CNzRcUEmCcmQAg3hukIV7mo+EoZaMqJqOlIZ8em9tj5aggHh8WzkwSTEpIhsjREBLVUpGZ1pSiXhpAIl9c5aKf56RhqSWjKeYi5SGfXptbISAhEw8OR0UFw4NExYPFBsVHkM8P3NkWop4agCHe3CTh36ekIahkoehk4aQgnl2cHFeSEA0Ih0KCxEUDxQYExgXERYuJyp1Z16Fc2UARDUwZVVOfG5qoJaUoJKHi312dGprUUI/WUtGLygpDgsQExAUEw4TMSkseGpghHNkACgcGj8vKj0vLXBlZ52QiX1uZVhFP1NAOVVCPDMoJw4LERUQFRAMESwnKWteWGdYUAAnHRwcFRgdFBVBNjWNfndwYlofFBJAKCF6UENGLioOCxITDxMNCg8gHCFnWlRpWVAAHRUWGBEUJBsbJxwbc2higGZbTCAWPConU0I+NSkmBwUKDAsPDAsQGBUbY1ZOa1pQABQODxMNDxcQES4iImtiXHFKPW0YBy0ZFikkJUE0MQwKDgwKDwoJDiQgJFZJRVREPilqgAJCBMAvAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/087.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/087.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 87
     },
     {
       "content": "— À demain.",
       "index": 36,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwd1zkgAAAHAe6mq9RH6OOWyKsilj4pgIOmGaqaiTTNiYinMM/KA5MRn5dW13q67rum7X6966664/s98PaAhiU+6o53q/dzUyJua1NRlbN9N5Xx0UkhQbQdhtP4O+xkNI5Sj1fXoByOKZeq4Zg9FkbNnWfG6vblf3pjGqZ+giETXOpDvLbgu1NLF7wud+L/tAt9UZagPzajKbzhafVner+2utJ7FUg947zaUVSZYa7XKpznNsRyg8fjUBvavqF3pXuVxa88/zW0NRRIYQ6VgjFX/PMVsbvqdPnjmdUJHNGrLw58cN0Ouqo77xcTRe2gvtRHxH7dYpXKRjfIoU84dv47jTteH1+jdhrF0X/v2aAbrSMYcfbHPaqpbKBFrdjwoHWDlFVrOpCsuEAyjsC0HrfheECcfNvz9tQG01h5ea+IYt4sECHuaJnSJNVlhG5vOJeDKCZcIhAt4MuzxImko/fjGBU6GWJ/c4FM5FAlwUySWIUiYpFY4OE3QwSAQDmMftczuhF2svY5Gdh8UAOAhtxWEP6YcSiJ/Bo9nkfpVjarkM5IVB0O0APY5XXgfofr4GYuj2t0n3P55oeicu7D3nAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/090.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/090.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 90
     },
     {
       "content": "— Tiens, tu es là, toi ?",
       "index": 37,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwVy31TmnAAAGA+QntpW9Pr1tV288yz86VMSeWS9eZAIzRLQuXytZuz4XLDAAVR4CfizZlIH3a35/8HwmDffT5FHIYziTBLpR+KBMdc9Op5U+yOBR4Igsrz8q/fj60mhZ/g8QiUigY4JoPFQqdhf79+Jd9Rgwalfi/Zo4Glawtdn2v6VFFGXa6cPSePEOgiHuxVcyeRYNjzuVfNcQwp1a5HzeKzOrDHum0YtmlahjGV+k36isKOIRLZFcpZLLb3yfm+ThzdYbEOifKVnK3K9hjYhrE0zaVpzoZKu0yXiOT/0GVINOR7u7KCH/jpfU/jLMrepOeKtAT6AgBrMrUM889Q6dSK5SwGEfHdNk3EAt7XL16hB4k0HEwj8Zvk4UwWF6o61/QnMHkCE1OSOtVS5RKHMNjfyH6Fd9zrjg23ax8O7GW+IMwpshhKlg7mqvZXAzMNALH347ZQuUxBxyEvk0LhHfe7Vefmhsfp2IK3XXk0MhE57ZEzZUUT+grH82z7WyF/S+JQIuihk0jUt732xvFh3eV0fFx9uYYEvHyzwd+3xJ8dnn3gWixbq1WvM4Xzs3/vv6VQgVNA0gAAAABJRU5ErkJggg==",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/093.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/093.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 93
     },
     {
       "content": "— Viens, on va regarder la télé.",
       "index": 38,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwdze1WmmAAAGDuoNyZzpR009woN/S0MStQklAUEXjl+ysllFctE2fL2SqzH/uxq945e27gQSBghzLbJcsQNG601g+ne+eJq7689nszvW01KQgakckvB5pUpyS6gkyV5szgma/FW7PzcKU8Q2MTGpuR8RIaY7HuVEujLr0egKexa/ENrUEht3pr6UlfcpnIFjbQ3E7sLbReofUc6NtL4TeoQZF+HKl/FsNAET2BQeZ6a3UJcqmkx9MvE+vp/7AweeEUd6pl6Rsmk+XI5P/ejye2EvQ45Eblfrpi5l38gsA3UH8Yao+BIpFl/H2SyaXPD1CHPQm5k4Utzn0rVHlkAthrlUvEdo8/5VcDee2De0+s4h+L2RSdimunxFysTZnjOxdEvg21DhIIdAjYxJvYfuLttd7+NehFtlDKoYdogquctS7kDoFrZOk1Gs76Zqh1EKdJ9jt0fGcnn06OZDayuxOFO9pPlvIZhuKOsEqxcEjihaVvTB3jSmkjav2726omYrsFdM9t1wbCucNRGBovFw4+Y0QWxdLJD0Q+6zao0FL7MvcPmfSAUFxbMGgAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/095.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/095.png",
+        "width": 1920
+      },
       "mostReplayedScore": 5,
       "start": 95
     },
     {
       "content": "Bon, alors, pour résumer, je suis vieille.",
       "index": 39,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwYlummAAAGDeoFvVUOuxAa1ipxWP0lSH4CBoQRCVwv/jXbmUHi426cxWj60u2Vvv+5CpzD5BRakUbJUP9OZ3S1kN1NdJ59dMX/aV1VB9BnKgN9YO6AqswtCIrdR/TLtc4WLea6zvu2+usXGM9zncuiZgy2ad/jnTXyfaPhhZLbEnfEU8jd84RimN221+64OdB3cu+LOAh8DaGt+elervBdzP4fvT6L6n9GUe8Tv8zjUuPic0lt775tYDOw/sPXAI+usOtxDpl6F6eBj8XU582J12moiv8W+zXhZP1vIZKNw0rrIvQ3UJpDu2DKsUk0pS2KmjCf9WdjDQHV1GHIVbWa1SGjc5Wr6mKDzeY4qWWOFyZ7dniVIczcTROkVufOtxZLpGCxk2qg93TZrEp0JlzNI350mxmLmls3ksJkYjdALFTsIUEV8Y0uMY2HoL0bkrp81/QsN8LjVmylKWqOXSTLFwSWC1k1D+NJKIfCTQkClUFwNz2pWQVoUaSzUiHiOxlFzMVUlCYmv5L2UCvyxEo2T4KBb6EDs+arPXLtRH7eZ/D8d8gpP+0DkAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/097.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/097.png",
+        "width": 1920
+      },
       "mostReplayedScore": 4,
       "start": 97
     },
     {
       "content": "— Bonjour.",
       "index": 40,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY5JREFUeJwFwQtvmkAAAGB+hutsAYdUHjOAHigCcnAPjsNDUYzUtqtm7bZkzZpt2bJlyZL98n2fVK3K+7sjJXnFcNtudm1TCU4LkmGMKU3zPMeIV6zglJAsRYkEs4hVGSkhLdHL+fDz47uyKY/n07rbVTtWt+XNed3cctHh5ojKfSwtcYB4SOukuRVfn7q/zw+7++bf989/vn3iLVzvl1j4GQekDnIORBdLmilr15dvXY0LeoezU4EhhnuOfr08x4TolqwMXynXr+XhhW4rznwkadbQjuYzmi/RcjsyWseJ0jiEJapvVu0p5qtkU6fNZl5xl2IduFJf6U8YW2y3m239BcFHiqbzwAkSL2YzuEpEkx66rOtmQhgQXlimpKh9Y+pa/vR9t/rxsP394QA8y/ZTLy7CXIAk08a2CbxxFJq+ZwJXejNUfZSDLD3WS2DKO+QloR9mPCUihixC5YKxOaUzQiZp6kaR5BkDZ6y7tlYs7MAeIKCPLcP140mQqFeqOtBGuqzKvf5lT1X76lXvP45tbZubTDaNAAAAAElFTkSuQmCC",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/104.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/104.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 104
     },
     {
       "content": "— Bonjour.",
       "index": 41,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwUtzmkAAAGD+Qi/tobaKitWEUKVohFVgd3ksLLA8jShmUKumJtNp7aGZzuTSS3vqb+73cdV6SYhFbJilLC/SMAp86iMLu4Qg20kTxuIgYAGlxHYQgDPOISZ2DZvA3Sp5fqhp4qdlVh2P4YJ5qfPnsj+Vob9A+caNSsTWkINEtQLAlv55X/y9HNIVXdbZv98vnw95XHnbzeLHw6E81l42T+9h/ZVyHeFdX2w5HtxQsnUxi6k6Az9PuygOJgak66dsd6Hl41CdShPBTTRucKsolmk4KLq+LqWPOprrVoCjFUkqHC788tHffMNJbeVr2Zx1r9qcBKGWZV4SPVnwhCDQgaSAT7o/xfGNArzl6fvlV1yd8V01wuh14w3XG0p9RV6m5HlbvHxZG+qwP9LkuT/ULMNL2f2Z2dgKC7bZj8C0J37gxtCUDf0uMqc3fIxGeD6+NQgi8QwSN8xRVLxqtd8KA9OPYRAOpxNOEnvioGOronLFY0UYiX1J1saq2eWFZrOlACj0uu/5pgzMNt8QOo3/gEJ2p84iOEYAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/107.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/107.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 107
     },
     {
       "content": "— Il ne fait pas très beau aujourd'hui, hein ?\n— Ouais.",
       "index": 42,
+      "media": {
+        "height": 1080,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwdlymlAAAFB+oS/NNG1HmxgBg4gii3rZL8sF2S6LuKCSTKIh0840yVOny/QD+s89h8iLrMixaajREq3KDOPED33LsQxoQcc2IIzjMEpC13c9DwIdEI6r20h3fDMInT/Px8dj5WfBfduW+zVKnaqO/p7rKNDiDUzXFio1QrUF3ZN8bJZ1+vup/n7eBZX/7+fbr5cHF4Oqyds1fmzqqE5hJK7ubaJHdvpkh5fZNA4OuroNfWCo+xK3pxMP5oqbOMVDuH3WlxuK64nqkOgxNGcZwLN1Zba7JtFMVAwTOKmL91661ZcVWn+1cGPEOyVOKJ4hulRvnucgjpoSv5r6ZukxY34yh6OFx4oqr3r79sfx9OoUdyBJvwxp4rp/NRAmApBemuztkH2rY5KieQWNgStpXrg7Z8UGI4RWdxpC1GRI3I5ZAdqGrWM4nQ46K1cU5IXmJpodzRQ7rg43nPDu46eRrMEIS6ZBCGx/zNzIHOnIA4m5skSaHrDiwpzw88v3H5gRz07lbufylp+x3Kj7+eI/rMJ1S/a81IEAAAAASUVORK5CYII=",
+        "previewPath": "previews/S01E47_brefJeSuisVieille/108.mp4",
+        "thumbnailPath": "thumbnails/S01E47_brefJeSuisVieille/108.png",
+        "width": 1920
+      },
       "mostReplayedScore": 1,
       "start": 108
     }
