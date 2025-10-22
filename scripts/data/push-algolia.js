@@ -12,9 +12,14 @@ await pMap(generatedSources, async (filepath) => {
   const data = await readJson(filepath);
   const { episode, subtitles } = data;
   const episodeRecords = _.map(subtitles, (subtitle) => {
+    // Move .media key to the root
+    const media = subtitle.media;
+    delete subtitle.media;
+
     return {
       episode,
       subtitle,
+      media,
     };
   });
   records.push(...episodeRecords);

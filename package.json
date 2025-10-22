@@ -25,6 +25,7 @@
     "data:generate": "node ./scripts/data/generate.js",
     "data:update-popularity": "node ./scripts/data/update-popularity.js",
     "data:push-algolia": "node ./scripts/data/push-algolia.js",
+    "data:push-images": "./scripts/data/push-images",
     "ci": "./scripts/ci",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
