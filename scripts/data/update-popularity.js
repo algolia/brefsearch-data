@@ -22,6 +22,7 @@ await forEachEpisode(async function (episode) {
     videoUrl,
   ].join(' ');
   const { stdout } = await run(downloadCommand, { shell: true, stdout: false });
+
   const response = JSON.parse(stdout);
 
   // Reformat heatmap
