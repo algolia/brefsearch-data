@@ -1,0 +1,9 @@
+node_modules
+.git
+.github
+tmp
+*.log
+.env*
+!.envrc
+data/source/popularity
+data/source/images

@@ -4,12 +4,6 @@ Data processing scripts for the [brefsearch](https://github.com/pixelastic/brefs
 
 This repository contains all the scripts and tools needed to extract subtitles from YouTube videos, generate thumbnails and animated previews, and push the data to Algolia for search indexing.
 
-## Installation
-
-```bash
-yarn install
-```
-
 ## Data Structure
 
 ```json
@@ -50,7 +44,7 @@ Files in `./data/source/` are the source of truth from which the whole data will
 
 - `./data/source/episodes` contains the episode metadata (title, index, YouTube Id). I don't expect this to change, ever.
 - `./data/source/subtitles` are subtitle files (in `.vtt`) format for all episodes. You're encouraged to update those files if you spot any typos.
-- `./data/source/popularity` contains files with popularity metrics (view count and most replayed heatmap) for each episode. That changes overtime, and should be updated regularly through `yarn run data:update-popularity`
+- `./data/source/popularity` contains files with popularity metrics (view count and most replayed heatmap) for each episode. That changes overtime, and should be updated regularly through `yarn run data:update-popularity` (runs in Docker)
 - `./data/source/images` is a symlink to the [brefsearch-images](https://github.com/pixelastic/brefsearch-images) repository, expected to be a sibling of this repo. It contains all the static thumbnails and animated previews used in the front-end. Its content should be regenerated with `yarn run data:update-images` whenever a timing is updated in the subtitles)
 
 ### Generated

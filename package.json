@@ -23,7 +23,7 @@
   },
   "scripts": {
     "data:generate": "node ./scripts/data/generate.js",
-    "data:update-popularity": "node ./scripts/data/update-popularity.js",
+    "data:update-popularity": "./scripts/data/update-popularity",
     "data:push-algolia": "node ./scripts/data/push-algolia.js",
     "data:push-images": "./scripts/data/push-images",
     "ci": "./scripts/ci",
