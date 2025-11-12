@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Wrapper script to run yt-dlp via Docker
+
+set -e
+
+# Build the image if it doesn't exist
+IMAGE_NAME="brefsearch-tools"
+if ! docker image inspect "$IMAGE_NAME" &> /dev/null; then
+  echo "Building Docker image $IMAGE_NAME..." >&2
+  docker build -t "$IMAGE_NAME" "$(git rev-parse --show-toplevel)"
+fi
+
+# Run yt-dlp in Docker, passing all arguments
+docker run --rm \
+  -v "$(pwd):/data" \
+  "$IMAGE_NAME" \
+  "yt-dlp $*"

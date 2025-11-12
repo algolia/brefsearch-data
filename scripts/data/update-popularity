@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e
+
+docker build -t brefsearch-data .
+docker run --rm -v "$(pwd):/app" brefsearch-data

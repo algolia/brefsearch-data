@@ -1,7 +1,0 @@
-services:
-  brefsearch-data:
-    build: .
-    volumes:
-      - ./data:/app/data
-    environment:
-      - NODE_ENV=production
