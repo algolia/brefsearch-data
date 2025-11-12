@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Generate all outputs (episodes + images)
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+echo "Generating episode JSON files..."
+node "$SCRIPT_DIR/episodes.js"
+
+echo ""
+echo "Generating images..."
+bash "$SCRIPT_DIR/images"
+
+echo ""
+echo "All generation complete"

@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# Download YouTube videos to tmp/ for FFmpeg processing
+# Uses yt-dlp via Docker wrapper
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+GIT_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
+YTDLP_WRAPPER="$GIT_ROOT/scripts/docker/yt-dlp"
+
+# Bref playlist URL
+PLAYLIST_URL="PLlFikkv2B2ffwYiFQJmcao3RKtw1DFMz5"
+
+echo "Downloading videos from playlist to data/tmp/..."
+cd "$GIT_ROOT"
+
+# Create tmp directory
+mkdir -p data/tmp
+
+# Download all videos from playlist
+"$YTDLP_WRAPPER" \
+  --output "data/tmp/%(title)s.%(ext)s" \
+  --format "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" \
+  "$PLAYLIST_URL"
+
+echo "Videos downloaded to data/tmp/"
+echo "Note: You may need to manually organize videos into episode directories:"
+echo "  data/tmp/{episode}/video.mp4"
