@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Migration script: old structure → new structure
+ * Migration script: old structure to new structure
  *
  * Old:
  * data/source/episodes/*.json
@@ -22,24 +22,24 @@ import path from 'node:path';
 const gitRoot = absolute('<gitRoot>');
 
 async function migrate() {
-  console.log('🔄 Starting migration to new structure...\n');
+  console.log('Starting migration to new structure...\n');
 
   // 1. Create new directory structure
-  console.log('📁 Creating new directories...');
+  console.log('Creating new directories...');
   await mkdirp(absolute(gitRoot, 'data/input'));
   await mkdirp(absolute(gitRoot, 'data/external'));
   await mkdirp(absolute(gitRoot, 'data/output'));
-  console.log('✅ New directories created\n');
+  console.log('New directories created\n');
 
   // 2. Get all episodes from source/episodes
   const episodeFiles = await glob('data/source/episodes/*.json', { cwd: gitRoot });
-  console.log(`📊 Found ${episodeFiles.length} episodes to migrate\n');
+  console.log(`Found ${episodeFiles.length} episodes to migrate\n`);
 
   await pMap(
     episodeFiles,
     async (episodeFile) => {
       const episode = await readJson(episodeFile);
-      const basename = path.basename(episodeFile, '.json'); // e.g., S01E01_brefJaiDragueCetteFille
+      const basename = path.basename(episodeFile, '.json');
 
       console.log(`  Migrating ${basename}...`);
 
@@ -80,19 +80,19 @@ async function migrate() {
         await move(oldGenerated, newGenerated);
       }
 
-      console.log(`  ✅ ${basename} migrated`);
+      console.log(`  ${basename} migrated`);
     },
     { concurrency: 5 }
   );
 
-  console.log('\n🎉 Migration completed!');
-  console.log('\n📝 Next steps:');
+  console.log('\nMigration completed!');
+  console.log('\nNext steps:');
   console.log('  1. Verify migration: ls -la data/input/');
   console.log('  2. Remove old directories: rm -rf data/source data/generated');
   console.log('  3. Handle images symlink separately (points to brefsearch-images)');
 }
 
 migrate().catch((error) => {
-  console.error('❌ Migration failed:', error);
+  console.error('Migration failed:', error);
   process.exit(1);
 });
