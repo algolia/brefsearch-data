@@ -4,7 +4,9 @@ Data processing scripts for the [brefsearch](https://github.com/pixelastic/brefs
 
 This repository contains all the scripts and tools needed to extract subtitles from YouTube videos, generate thumbnails and animated previews, and push the data to Algolia for search indexing.
 
-## Data Structure
+## Record Structure
+
+Structure of a single Algolia record (one record per subtitle line):
 
 ```json
 {
@@ -31,30 +33,113 @@ This repository contains all the scripts and tools needed to extract subtitles f
     "width": 1280
   }
 }
+```
+
+## Data Structure
+
+The data directory is organized in 4 layers following the data processing flow:
 
 ```
+data/
+├── input/                          # Manual source of truth
+│   └── {episode}/                  # One directory per episode
+│       ├── metadata.json           # Episode info (name, slug, YouTube ID, duration)
+│       └── subtitle.vtt            # WebVTT subtitle file with dialogue timestamps
+│
+├── external/                       # Fresh data fetched from external APIs
+│   └── {episode}/
+│       └── popularity.json         # View count and heatmap from YouTube API
+│
+├── output/                         # Generated artifacts
+│   └── {episode}/
+│       ├── episode.json            # Complete episode data ready for Algolia
+│       └── images/                 # Symlink to ../brefsearch-images/
+│           ├── thumbnails/         # PNG frame captures (via FFmpeg)
+│           └── previews/           # Short MP4 clips (via FFmpeg)
+│
+└── tmp/                            # Temporary working files (not committed)
+    └── {episode}/
+        └── video.mp4               # Downloaded YouTube video for processing
+```
+
+**Episode naming convention:** `S01E{padded_index}_{slug}` (e.g., `S01E01_brefJaiDragueCetteFille`)
 
 
 
 ## Data Pipeline
 
-### Sources
+### Prerequisites
 
-Files in `./data/source/` are the source of truth from which the whole data will be re-generated when running `yarn run data:generate`
+- **Node.js** >= 22.16.0
+- **Docker** (for yt-dlp and FFmpeg tools)
+- **Yarn 4.6.0** (via Corepack)
 
-- `./data/source/episodes` contains the episode metadata (title, index, YouTube Id). I don't expect this to change, ever.
-- `./data/source/subtitles` are subtitle files (in `.vtt`) format for all episodes. You're encouraged to update those files if you spot any typos.
-- `./data/source/popularity` contains files with popularity metrics (view count and most replayed heatmap) for each episode. That changes overtime, and should be updated regularly through `yarn run data:update-popularity` (runs in Docker)
-- `./data/source/images` is a symlink to the [brefsearch-images](https://github.com/pixelastic/brefsearch-images) repository, expected to be a sibling of this repo. It contains all the static thumbnails and animated previews used in the front-end. Its content should be regenerated with `yarn run data:update-images` whenever a timing is updated in the subtitles)
+### Setup (one-time)
 
-### Generated
+```bash
+# Download YouTube videos to tmp/ for FFmpeg processing
+yarn setup:download-videos
+```
 
-The files located in `./data/source/generated` are snapshots of the data at any given time. Those files are generated from the various sources. You should not manually edit those files as any change will be overwritten by a call to `yarn run data:generate`.
+### Update (weekly via cron)
 
-### Pushed
+```bash
+# Fetch fresh popularity data from YouTube API
+yarn update:popularity
 
-- Running `yarn run data:push-algolia` will parse all files in `./data/generated` and generate an array of records following the data structure documented above, and push them to an Algolia index.
-- Running `yarn run data:push-images` will push all images to a private server so they can be served by the front-end UI
+# Regenerate episode JSON files with updated popularity
+yarn generate:episodes
+
+# Commit and push changes
+git add data/external/ data/output/
+git commit -m "chore: update popularity data"
+git push
+```
+
+### Generate (after editing subtitles)
+
+```bash
+# Regenerate all outputs from input + external sources
+yarn generate:episodes       # Merge metadata + subtitles + popularity
+yarn generate:images         # Extract thumbnails + previews via FFmpeg
+yarn generate:all            # Run both commands above
+```
+
+### Deploy (manual or automated)
+
+```bash
+# Push data to production services
+yarn deploy:algolia          # Push records to Algolia index
+yarn deploy:images           # Sync images to CDN via rsync
+yarn deploy:all              # Run both deploys
+```
+
+### Environment Variables
+
+Different scripts require different credentials:
+
+- **`yarn update:popularity`** (if using YouTube Data API): `YOUTUBE_API_KEY`
+- **`yarn deploy:algolia`**: `ALGOLIA_APP_ID`, `ALGOLIA_API_KEY`
+- **`yarn deploy:images`**: SSH access configured for rsync
+
+Scripts validate their required environment variables and fail early with clear error messages if missing.
+
+### Scripts Overview
+
+| Command | Input | Output | External Tools | Description |
+|---------|-------|--------|----------------|-------------|
+| `setup:download-videos` | YouTube playlist | `tmp/{episode}/video.mp4` | yt-dlp (Docker) | Download source videos for FFmpeg processing |
+| `update:popularity` | YouTube API | `external/{episode}/popularity.json` | yt-dlp (Docker) | Fetch view counts and heatmaps |
+| `generate:episodes` | `input/` + `external/` | `output/{episode}/episode.json` | Node.js | Merge all data into complete episode files |
+| `generate:thumbnails` | `tmp/` + `input/` | `output/{episode}/images/thumbnails/` | FFmpeg (Docker) | Extract PNG frames at subtitle timestamps |
+| `generate:previews` | `tmp/` + `input/` | `output/{episode}/images/previews/` | FFmpeg (Docker) | Generate 2-second MP4 clips |
+| `generate:images` | - | - | - | Wrapper: runs thumbnails + previews |
+| `generate:all` | - | - | - | Wrapper: runs episodes + images |
+| `deploy:algolia` | `output/{episode}/episode.json` | Algolia index | Algolia API | Transform and push records |
+| `deploy:images` | `output/{episode}/images/` | Remote CDN | rsync | Sync media assets |
+| `deploy:all` | - | - | - | Wrapper: runs algolia + images |
+
+**Note:** All scripts using yt-dlp or FFmpeg run through Docker wrappers automatically (no local installation required).
 
 # Initial data dump
 
