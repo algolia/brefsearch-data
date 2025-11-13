@@ -5,4 +5,10 @@ export default [
   {
     ignores: ['data/**/*.json'],
   },
+  {
+    rules: {
+      'jsdoc/require-param-description': 'off',
+      'jsdoc/require-param-type': 'off',
+    },
+  },
 ];
