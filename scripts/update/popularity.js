@@ -1,5 +1,5 @@
 /**
- * Fetch latest popularity metrics from YouTube and save to external/
+ * Fetch latest popularity metrics from YouTube and save to computed/
  * Uses yt-dlp for normal videos, YouTube API for age-restricted videos
  */
 import { absolute, spinner, writeJson } from 'firost';
@@ -10,7 +10,7 @@ import { getPopularity as getPopularityFromAPI } from '../../lib/youtube.js';
 
 await buildImage();
 
-const popularityFolder = absolute('<gitRoot>/data/computed');
+const computedFolder = absolute('<gitRoot>/data/computed');
 
 const progress = spinner();
 await forEachEpisode(async function (episode) {
@@ -30,7 +30,7 @@ await forEachEpisode(async function (episode) {
   // Save to file
   const basename = getBasename(episode);
   const outputFilepath = absolute(
-    `${popularityFolder}/${basename}/popularity.json`,
+    `${computedFolder}/${basename}/popularity.json`,
   );
   await writeJson(data, outputFilepath, { sort: false });
 });
