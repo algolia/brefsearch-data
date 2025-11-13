@@ -27,7 +27,7 @@
     "update:media": "node ./scripts/update/media.js",
     "generate:episodes": "node ./scripts/generate/episodes.js",
     "deploy:algolia": "node ./scripts/deploy/algolia.js",
-    "deploy:images": "./scripts/deploy/images",
+    "deploy:media": "./scripts/deploy/media",
     "ci": "./scripts/ci",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",

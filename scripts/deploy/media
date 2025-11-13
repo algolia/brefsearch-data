@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
+cd ../brefsearch-media
 rsync \
   --chmod=Du=rwx,Dg=rwx,Do=rx,Fu=rw,Fg=rw,Fo=r \
   --verbose \
@@ -10,6 +11,5 @@ rsync \
   --prune-empty-dirs \
   --copy-links \
   --compress \
-  ./data/source/images/thumbnails \
-  ./data/source/images/previews \
+  ./media/* \
   pixelastic:/var/www/assets.pixelastic.com/brefsearch
