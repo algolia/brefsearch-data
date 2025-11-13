@@ -6,7 +6,7 @@
     "index": 54,
     "name": "Bref. J'ai aucune mémoire.",
     "slug": "brefJaiAucuneMemoire",
-    "viewCount": 8159681
+    "viewCount": 8164237
   },
   "subtitles": [
     {
@@ -15,8 +15,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwdz2tv0lAAgOGyLr1fj6en7eGU9pSy0kEvdCAU6AZLuG1eppg4NZppolNjsu/qB7/7pw3+gCd5X+Y9sX9txvdV9LAdfVsVv99sP24X57E/T8KX9fDJ9GxR9MuITrIU6pBtcMzeAj/Xj+9nJ3/vrv+82z7s11Vycjvq3uTtUdwedLt1WTy9mBVxrMsGe8QxuyK5XY7vduff95tVVfoWsEThS51/nqVQ4LCmUAhSGnRIoEjaMcszp9TLqDeIfN+2MDByYvccMKcu0RRTEIih27KMDbOFsCyo7BHPIPDIteyE4GkcdrAziuiLYW8cuFiVImgCWYGyQi3kIVfilUOSrGhOM0ho+Crzvy6LZZG2my2K0OthTCEAkkp0I3IxxS1JUA/TIi9BhEM/qM/K3Xz67KLOkt4iDq5OAyjJlqISw6BNL8C+Iv4HSFEtE2b9bFbNy8Hw5up6kueRqSJVNSUpBGaKnR7xEbBFXj4AomueaYQu9pzm8836x6cPl9WEYRpU0972O6tuZ9GmCSaGCrhjkW1w/wDipz4wPHQumAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/001.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/001.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/001.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/001.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -28,8 +28,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaNJREFUeJwdzP1TmmAAAGB+6BWBF3wh0rxmWm2uj7GCBUZA6NQpikohiOcHaObY2V25s63dbf/77voDngez1XP3WnCVY/19/mJ/11KE6TfVUiTz7KNV+nJrqD1N6WnixDJHjZtZt4a5ZcUvy7OKtLo68S+LLe3ioVuzS1L9aK8uCrHvRp2mXykt7xr3vVrsWVhoV2edauQ0ftQvbfHQMqXI/vpuJ3NzsJdD7GMY/Vt9H1SvHgedlW8/jRws9my/qm8zKI9QaTddVz+F7TIBqB3EpyA6SGeXrjNu6s8jZz2+20Qe5pSvWcjigEwAqoDTnlicNk2GRDiANJkiAXGa3x83jE3Y38z834sAcww5u53GAckxnECj4Xkxskz6raBwyEHEQtatqH/ug5d58LoYYuNW5UMul9gis3zmM0SBLCzdFiRSOKCSgGQIhsLprqH8jce/5oOXeYA9uO3jQiEJqAyfFpP0SFPnXhcSNNgiiMQbSEJbl18Xw/W0vw49LPZ7Z4dHOCB5lpcIOjS06W2bIRgckESC5CDiILJ1+WfkP02850n/P3GCWxb+a5N9AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/002.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/002.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/002.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/002.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -41,8 +41,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwVy9tummAAAGCy1DUV5VQVFUSROCzzRJQfqQrjoFJKi4XaAgFXuxmXLHaLydJmb7DLvfGy7/6D8mcwBGUkngstZTnq2qOeIw9sqf8gd/V2w9flaK6kjrpxPiVXWrSYQipfF8rF6UUzMiTvUlzNpDsNxIby97Pr91qBCnaeubub7wN75y+2tyb0PGylIqf22GQxeTCU0Jo+uYvQ0v5E9gZcAJ57cvXDo/sSe4fo5tvahlJzdD+oX4pcOJ+E1nQfeKnr4HnsEQjLNnPy7nSlKa/P6+PGP26CQ3QDETlkeI4DvubrUuosjmm8nYk0ismdj5Y0xGFMYarfr9W3Xfxru/6ZrKBMJoufZFWaDMadredsnOWYZQaNZrVQYUi6SpT4QkGiy4c0ePsS/khWUPYsV4dRkyI9sRUtDRuAfp3tN5rFHEZhBE/V2FIVz+LRlfF7Hx/iWwjNY00Em5QKS5G/N2byB15k2TbFkAjBkZVOgz2HCeQUMcHo9WuUuvr/wMGoQhS0vuCMh0Kt3mUaXIUiEYImikyxTKJF+H0OCMJL4qeu8Q+zUV0jcWQPZgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/005.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/005.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/005.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/005.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -54,8 +54,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYhJREFUeJwdxrlu1EAAAFBLJOv7msNzj2fG9h54bSM2iIVkVyzLoVAgRRFpSaDjAyio4BvgE+jp+RhqPgOJVz3PlHAg5O0wf3++uXv6cIeRmMXMj02Q2DDlsxCf+MqP+Wkkg1SFmYeD6NPl+d/f3398uLyd3IFWfBarILVBeqzbC6GLez6ZxSrMVJiJIPVYknx9d/zz89uvL7cfN4sdAMqPVJC4IHuzHF92qyZKwYnP/cRGhQwyr0V4EvLmyePPN1d3z/ePCF2ASoe5i/KDXRztfKO77Xx0aSlPExMBr+eil2ZUbuB6Us1ousm2TYFElJkCmQw4SNdMbbV2ca793Os5v8/kWtSDMoMyK1mvlHWILKk4a5dTbU0JRRBNGO1c04bA2ztlYdVh0SC2knVT8ZaKjrCe8iUVD6QeKHd5OSD4rNE95t4Ly2tAGsQsxG3FLGYakhqRobZrIUcMzyrYg3Kv2atWswx4FxKrAtAMshzRrKA5/H9gMLeQbGt9MGJR5K9bdz2uRFH9A6MwOS5Wq5LZAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/007.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/007.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/007.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/007.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -67,8 +67,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwdtummAAAGBul8U4T/gjiuABqoIGGi2sMi0qKCIIQZ313LXa1uO21jY7ZWmW3ezCqyXdTbPH6O22B+gr7fugVuVoYKjrk9GHzfp2tdwu5tuzztuhsZ2NrSjXYfPTbu/96vrx8e/97l4CcaitSKdt8/pi9uPr5/l4VOZzBk8ojOPuXLMpYcAVBsVDvVD68+/p98+Hsj8OWZLYkiuLfm8zW05H04/ruUCn6ozj26Xeog4mWWk+nMBOcH5587D7VfWTUJGhFD43VCp93ezo1tBsWmzmDYle2VqXFropvmf3gwiJ48nvV190NAW9Lucq++nTtrkZ9xbHVqskvpuefVqvbpbrCf3SjGTkguJ0BNLMwe72rgESkBAPBdzeRkmuKbpWbxclSy4btlq31boaz+TRWI49dDkDWJgaVs0aTELSflrMy6IoRcIxDEsyiWzEj2JuH+EDYR9giAhDccATqDBclWaTXhRStYZmNGtNAwHhGILSOI56QRAOYB6YgEHIBygqW0hnLo5eLQvZkMcFOZ89jyGIyPMosRcLhnEYvHCDJCv4PQBxurwOVzzBJQiSjUao6J4fYP8B4Qdu8U5EmfIAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/009.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/009.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/009.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -80,8 +80,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ5JREFUeJwFwVtvk1AAAGAejHMblS46R6y1JqXZ5poYipQ753A9wCmlwKG0wErTpS4zuiz6akx8N2Ym/mC/jwp9fEJ3LvpvfE3eN/Vdu/n25f7nj18IWu/f9t6xLP306MVRp/OMZhlmwLLUiqzhJZfp4ve7T6nvhLqSBejx99/HP//Eqwv+fMT1eq+73Zf081O6Mzg7peJgpnOD2lYf9ruH/e5+t70pycIFVTJDqoqBEZk6EHiOPXvFMMPuCQV0qE0mjsj76jSxQerClqSf2+uvN7tsYUWuFtuwiIIQQubweHh4TMmiEfnYkQRXEpAq+YroKVOkKcsMbG+D9jbK526J8b6pXN0cPjmgHIBsE3mqgjQpNDQMzdgGSJMscB5G400TLRNMZjjHUV2Q2DQp4cNUl+Hc8zxVwtBceA4J0RKHRRRkoVul8zpPqzyr83ydZZuqokReItlqXZTW9CMGBomCOl3UadLk6bYs23LZFKQh+TonWZwEjkuVRVWvNr7tAVmyVRk7dhL4c+TFrhNa0AcGVCRlwgvjq/FoxPX7/wHrtHA9xQl3mgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/011.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/011.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/011.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/011.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -93,8 +93,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwFwWlvmmAAAGA+LY2CFk0naC1Irc5r1hO1TNd3Kh5FJwKOo0N8RZib06ZuJq1ZsuPbkv3mPQ9CJdJCu6WJ46fvB0WWZUnWVJXvdmiKLlznzXvDtm3HdQEAOB7042fIeSw+uG3a+ocfz0+SJEqSqCgyALcxhknFaOOmuu6BT/13w1Ke8PlJP44UGCqI+rLJ1GH/qCiSosi6rvHdNhOPJ8PhZTl77DWPPDe4ir088RIeFJmyufNAEEf9Dly4rmtZC3tlC8Lw8iqRIgmnUfwz7f8ad5pUlPSgIQ+GjKq5dj49KqS/WgZc2dZ87rquIAzD0Wg2Qi7rpd9i/3nw9jp0FkEx0oshypuyBmpzUN+YmgUXEEJFlrlGrdftFC+iK67yVxd3oPEKP6UwH+HBkHElJ7D5942icwdW6my32UqTCcdWj/sHNkZ9btX+6ZNpNhF+cULjgZAXQ1gm+voicpO8NNoNR1fXtrtdfzk8frvjeRo/HdWKP13ozCQ2k2mxFQIPIBzLNut1UC5Iw755b0LTgh9NBy73D/tSOjNoceNuWxfH0NB3m62qzP4DlBVwVnnDG+AAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/013.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/013.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/013.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/013.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -106,8 +106,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAapJREFUeJwFwWtv0lAAANDbxy7tbXn0ltIXt6W1G7A+xigMECFjVbawTRPnnMAyDCEm2xQyEzHq5j5o4g/QH+w5gLgN3a7V2sdPDy7i/rt2cvn25u/p5Pv59Mv4YjV7efZwt/z36+eP68XO1mYuJ4Ki5fM01RvOhq9XxYLTcXLz68dkt9Epk9tPf1Yf1v2doFt1rpJu3dEtPQtaL947xG32zk/H99MkWRyEl4uH+aAzCgvL5e/1zbc3dS8mwiguRZVY1UrgaPy14rcRn2mHnZZl+qZhksZJqzXp12ZXnx/v7sdtf1jBe5u4ZPmSTEBz71DCRVs26uSJyom6IIiAeVYJOsTrxoP59DaJtmuWRRRRxpokEXA8WZuGY+eN2NoKFc0QkJQSTEFxkDbaLQ/ilqJEHG/DDYSQrKgeeH720fMCgg1ft8t5vYRxZBtl1SwJWqhliWLxyIUs5mEaQhFxGDT3X3kF08sqsVMNVKvnuifblsynBQaJLIczGmRllk5DVqSpFAUYEDQarlxwM0rkBNW8qXJIQSmehTSAaRZmeMwyEk0hlhFpCtJg4z/A1kjcZBkdcgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/014.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/014.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/014.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/014.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -119,8 +119,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwdtu0mAAAOC/tFB6Wks5dRTK2kKPnLGFUexmhenC2GDrOnVbNJNlMynIyC400d0YdXEX3hjjpQ/gQ/p9QDH6aU5V657jHXvjdweXP3cOl4PJ4vT64fTisz86uzoJ7lbL77eL5/0+z2VAzdqhUVTT2+OXH8Znd5ef/p27bb2kXtz8mYU/wvDrq/1A59Pb1fJ21eRoAmxNwo57KIvqs+Dji/C3/+b+vFcaDZ++Xv2d3/5aLe/nR35PSLQkelOTZLkKvMl8138fi8Bae3Tk3xgZvi7wynqq9Wg4GJysFl+up9OhlrMlusynlHIdWM6BItUAiOjtXbfldQqSlssLCaa0zlc29GA6e9J1N7VKLsGmaFIQNDC9erCdMQDAqLiWUm/kZSmT5RhKzOa6ZmPPrgp8g6BUGKajCCaKFTB++812RhCAlLLl1h53NmSvYYgcm8TJBMkUWJokxSicjMJUDMEIPAm29me1ul2I481SsyU1e5ISWGYxSRLYWgyhokg8jqZhiIIjOAyhAMCg0XVMU5cwQikaSl4tMikGx7JrJE1QKBJnKRaNskiEiEAoBBAIIP8B6hRRwTQxjaoAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/017.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/017.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/017.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/017.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -132,8 +132,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwVtv0lAAAODDeqHQnp62tKcXDrCthVMtLQwwK+5GJltcMNtwnbpB5uIYLJop0xhColFfTOYS9cFn3/2Xfh9AClmkDxvx3lp30NwabHSS5PLuZHw7HH17fnQ1To4/v5/++TI/7fVKjk1pCWQYtkC87uGbbn/abu0cRM7Z5OurD39H1z+vpz/Gw3G05HRCdz9+sIhVSosgbO4Sq7DZe71/fnuWjIZt+uLy+2j+b/Lu9/Tm7uP5ZO8eablot+GH1bammqD79C0UZeI2O9unrqZTC1Wrq48Ob05efprNfs0urvpNf72i1j0cBatQUkFYbad5OYfsBllyNYwl6CDRxVZ4P55czJ89STZqcQnnTRVSumIYebC5M0CSakDDx/nILjoQmoq0vlx0FHwQBzV/DaotjsMcl/G8OiEe6Dwe4JyFoV7Rbd8qlLEZLOepU5AEzVbknOKleYtnUZoXs4ImCQg04m1PVgKT1N1aYJKtcrlf83KyynOIZQQpa3OMyqQkZkEAgF0ALAhWIhcpFd0ul0LfLDoiMrOCAeUML1qKLosWyyCeyaYAlwJsCrD/AcOaTMQpIM5tAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/018.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/018.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/018.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/018.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -145,8 +145,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWxJREFUeJwlj1tr1EAAhef/LIj4IIgvIqUULT64xQcritay1La0KbvbZNOdJJu5ZO63zGS3pf9VsoWP83Q+OAf8O5xcHk6ujybZ51d3x6/nX97cf32bn7xbTt8vv30ofnxa/Z6uzk+L2Z/52c+/Hycg/360Ppuiq1/d3UwWmavLHqPIRFIu6RCkd9wramhNEcS3JwdAYe6YiSbt+qen9DzYYRcet37Y+W0vvefGEMk3lMJN19Di8gIYIgwVXpio3M6lpPygQ9oTVdg71jFjqOxqvCkrYKgIwibdb20cTD/YOGL6ZPrBxKhHxzGtMGc1acsKSEQd01G6qPxg+9HZ45lynQrCasxl24m2I7Ct8hLQupWYKdQZwi2VgevA7ThGOM+N58ZSqTAnsG0KWM6XoL5fEbhhDVGYW6rGkrBjMm2pUojvH7+08+VNBhazc5ivmwLih4ZUqKvxC7RCBLbooakLuF6simyxuM6yi6v/ZUrcdIFtAJQAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/021.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/021.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/021.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/021.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -158,11 +158,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwQlP02AAANAmW4/v67WVXiqwlXa9TNuxmw2TZYs6FTeEwQKouKAD0tiKou5Ix4YaNPEgMfh7fQ8pZZ36WkHXdF5KL6rOslVOGXnhTmZBTGE4Hb4Lv32JQn+w2Wrs73T80yOkkvMatZKeMShWTt5SbcPRJZmmRU5awQE7noz//Loaj84PdjaPXx+Ohh+QasFrrpdN3QIkj9GSs7y0lbtb0bTUYophxNnl5c3fn7Pp6HBvO/DfRNEQWct7zfWSZdiAFHBKlFnusWuW1LQiCY6qfL/6+u/m93w27j/fPQtO5vMJUs27rXrVMmwM8pCR4jGIxwEeBzLHr0hCr9O6vv4xvxi92u9+Og8Cf4BUVt1mrWibNgYXICviRCIegwQKEyS7JAirujKdfLyIhv2D3aOXe882HiCuZVRzrqWbGJGEjAgYESdYAiUhSvJ0Qr0t+4P+NPrcffrwyf36WXCCuKZZdC1Dy6BYgmYEkhEh5HAUApRkAM1BqtvZeB+e1gpeb7sdvj1GDCWds3UtreAoSREMAZIEwaIxAmIUQCGJgnLWa7ca94rZrfaj/ovefzllWpfQiDQnAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/023.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/023.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/023.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/023.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 3,
       "start": 23
     },
     {
@@ -171,11 +171,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY1JREFUeJwFwUtv0zAAAGD34cROnKSxHceJ47ZLsjTvrrQZAwrVqooNkHhckNB2QzsggTiAuCIuSPxrvg/Ehq0sN6ChoMLH5Ph4+Pfr6/3b13dvXv75/vD+er+rVrt61eVprhMdhgCMkGEQ3+OChYqz68vd728PH2+On077vz++3DwZujxTQupQoqmFIQEjYE5GyCFUR0m9nO8365+f794dnt0O6w/H/eY8q9NUqyQOI+oxG7kATuwxQBb2dKQ3Rb5rqtPVkM4ow4QSp8vTYnG2VFrHSslYCgkQJMbUspAX8uhRWWzbuo4VBFMEceD6T7uqmC+WsZ6rJJJRJCTAJpmMMTJcTuW2roauKRJtjzGGeC7k/avDi65slzqPpQ4CyTjgM2ZCgqBDveCqb7d11WapMJ145ivGjxfNadv2ZzqXYcJo4HiAuT6fcWw4yHTLNFtX9bo8v5CiVpI67oLR592qiGVC/cDxHJMADG1BBTZdOLGbotrUvaRBFrCM+5KQQ1/eXvbNQnHiuNA2R+g/dRI1HCPokgcAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/026.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/026.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/026.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/026.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 3,
       "start": 26
     },
     {
@@ -184,8 +184,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ1JREFUeJwFwdtu0zAAANBs7Zo4thOncZzGiZXMuZWsbdKmdG0ptNnaCqHBxNhFCBASjMdJSDwgHpD4AZ74A76BD+Qc5d+fn39/PcyE12urGUIJhHZHp0dAAHgMkYQoxUYI9BTjE2JmGCk3T+e/f3z7sD9nB60YwlHXbOJAbwHSUmkbmAfa2KVzwSOIhsQMIVK+X6w/Xb78+Hx7vZhmpiEx3iUBbGn4UGVHunWoXo3Sh/2ysEhlE9rRla+72etlfX+xf7t6XFLiqqDokqFNCrs76PWYhq6r/P7ZtLBIjjFpA+VukjW53I2KszhYhd7YozVnlWMlhuHohrTZOOClz0PDOrbsnLlK009OQ38r+WWZrWRwnooQ4RgjDyAG8CIUm6K/yrOBxydCLOJIaQbFNvbf1+mk58w5WwpXAP3Uo6VLRza5Gsh3i/J2PqlF8Hk9XSeRUnP2poxfDaWE0O9oTgcwwwksVzrCMUVCWeV7T5Lobjb8sqnPcqk0Md/3o36XuKruaXAWuC+qwmchUGngP2LsJOOppK4wrU0mFzL6D5+SPSpbd45vAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/028.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/028.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/028.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/028.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -197,8 +197,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwc2K00AAAOBxJU0yM5nJ/0ySadqM+ds0DSGmVLapW9vdrdSlwqoIiuAqLIIHRRAPnrx78Ql8CF/Q7wN/f3359+fnk3waKGqKcYlxpCFvBIUGJcIJRBnGCcIpwhWlJTHAcdn9/vH188vn7ESROswQkpT0gsN7qnNfD1S4GnOmwpyQmpLUMMD3p6u7m+PH4+HFo4dzz4khSk1au7YCRuaJJg1yN7T707TEuHOtQIXg29Xy9bC4PVzcXqx77oQaTAzj1KKS0hljiUE+rNr3Z21JjIoSR9HBu2W1K5LLptpm8XrCW+4uBOu5U5rUg0RQex4ETRRFmEjLkbYLNoVcyckwZjdtPkixzcaZaSYIhTrydbxJxHWdXc6KwmfzKOrGAuyaeiOjN106TMIF97ZSCF3vmd1xN0K4D9m5jJ81xX6WvT1rd4UELfeOdfKqywuChaqxke5hO7b8ggluxRF1miAsPH+dxp+2i+smB4+n/FAlje8EKvRV2DJ335TTIFEUl/PCZ7MseNDGEw8arQjOc/kfnuE8cK858HkAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/030.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/030.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/030.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/030.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -210,8 +210,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZJJREFUeJwFwUtu00AAAFCLhvgTu7bHnhl7Mn/bGZskjT1V0iSEILUgdYUqBMvyUbsAiTVLJI6AWLJgwZJzcA0uwQV4z6nTdMfx2/3q7mDvHw+XBRTjgI5D7UdVEEkvgCduceJJL6QjV/mRwz3/28eX//78+P7m+Z2tr2kpx6HyY+1FW8Ju5ksZxuCBK71THSTSDZ02S39+evX319ffn2/fr7tLlNf+qfJj5YVPVXMzXKxxWYxcMgrqSdJMYsdAtJPy/ur45fb1h+urPSEtwDrKpBvumXqxGPZMbcx5TzUfT6ogcs4oG4Q+l1XPtFWzQRtbtwaWMgjrJDUZMrBcCLOrZgMu1EPfWU7ZisqBayvrXlRnXK9EbRCps9zqxsqqg1BMgioKD5JZiJxHBTVo2mI6Q2RJVYtpR0RXsFVJrNBrVW1V1QFgknhL8mez2tlQKkHRIKLzoiOiwVONSg3LgQlLSQ+BhYmFySJLjjTfUexcEMgAFgDxtOAp5gDzFNEkn1PVMzmU+AnND2UyB+m7zfKo+X85vT30xnAHgQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/035.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/035.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/035.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/035.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -223,8 +223,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY9JREFUeJwFwbmO1DAAANCwiWM7iXPZORw7cZxrrsyxs2J2BmkZadkFpgO6EdIKUUCLgBY+gF+gp+cL6PgnOt4ztjn7dn7x5bR/txte60ybNrcQN+HMcS59n1kwfmRLgLmJCgsKAI1Pp+t/f3/++fHx/Ua+UUkHsARImGgXBfecto6bWjAzYWljAVBh2sbD9fzX5/Pv7x++nvYvOW0vgDAhN9HWJ/c5PcSBhDi1IL+ANcClhYyBZcfp9Hy8ebi7PbbdguVdyAoLTl13RbwZ8a6E2CtVYyJNuwbIWFftRjVLoUapV3V/1c1GoWqEGsetIK4g0o47xtGhlB1yNIDGnJeLolpLva6aZamXUi8K1XneNmNPKn6ZxA3GGtq7jN4o1QJk9Akf0qJnfBT1nFd9LidFNYuiwcMT4m5oOIbehLiPmfd80CtKjYblTZI3LO9S0WeiZplO+JTSdUS2lOwS/5AF64g8K9mt4hXxjTJkImAySIWfyCAtw1QEqY5Y55N5HDyV7K5kA3HfrrpX4yA9/z+QYzYX/iFkvQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/039.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/039.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/039.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/039.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -236,8 +236,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwU1vmmAAAOC3U9iKilCwVhHBL0RoES3iR5yCs7BWG6KBaNP1w7ZSUbNuh+6wNXVb1yzZbckOu+yy07I/sL+35wEVhtOlusqXCXh9WJHdF7Wz5+JJWzmxXe/0zdXYNbcFnSZzYTTwBAr5INDMy6ba3Su3CD98KGbm3d2ZWfRMeTKa3cw/Ly/fjdv6hcpaAoNDMBGAgC5Vh8axpQ0qW4Rdylk7mfNmoS8x9w+/7r/+XV6vlvbRvMVPVL6WpMI+COwpnW5zsJNTDI5ddHbdljTTitOOtLr7/uHhz+v54/WRd9GQFprsanKVJoCSV3B4HQG+JIpdNSSvJY1LnF1iJue371e/velH7/LOqdcnNd4ppw0uCjgqvwYADgfVJD0sZq0CbYtsm4lYvVfffvy7uf25mD06B2cGx1gi00lHQQyLx5BQLZbsCdljVdBT8X0+IWySmQjdVPTp9NPM/XI6ettrmP0C2y+kQIaI8+SWGGMSgVAjRe0LaZ7cwJ4iNB6Jhck8Ge02eiPLcwxnoBRfClmQwDapIE6hOPksGPLDuM+PrsEbEJJCMRoJs0gwi5FaxWxuF6u5bJmh/wOX5l9El6g3jQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/041.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/041.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/041.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/041.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -249,8 +249,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjMFNUc9K30FfQdtJQSXGyjLHWibbWy81uLCubkBKZkR6V5WtsYiUpLMnBxcbAxs7IymCraeBp7iIjLGMuJRpvoRtroxVloZyTUlBZPS0zsTQvrTLY1jlMW8JFXpSbkUWAnY3BUc880DnUREXfSlok1FDVX1c+ylQhPzm7Z+b+ssoZuZkNWSFR6dZq4Tpyirw8HIzMDO6mTiF+WcG27uF6ijkuxvFm6klWGvkRYV3Tdtd1rM7Nas2IykyxMchxMgnTV9QQ4mVwMHJUklCW4xf20ZBLs9b015T1UpUIMDdKyWovKpuak9WWkVgZYmac7WwSZarqribBoKOgw8zAIMTObSMv7aUq5aMuFaKvqCMmoqvn1NK/MSOzMyej1c8xyF1VLkRfyUFJjEFOTFmAhcNUUibGXNteVlRHkNdKXkxNTEpDWiMts7WhZ1NqclNsaL6VprG7upybmhyDiqC4rpikuaSsuay4j7a8j6aMgbSIKCePvIiklpScp3NYZHhZqHeKv3OEh66Oh7oCg5KQmDSfiASfMB8LhxQ3jxwvHw8zmzAXrwy/kAy3gCInp4ttkLdznIe5k6u+nrWSPAB9wmR9/xyolQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/043.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/043.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/043.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/043.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -262,8 +262,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwVy/1T0mAcAPDv3POMTVJe5AppgEjOOZlcMghkjKlsbqi8BAx513WtGEhJdp5d3Wld/3fX5/cPeAHRBCZhJbLus021d3qUi7NvI5viq1CY9uy9Dn0da/P+idNW7HpxZOSABuwBigK8SuDRWelL13A1eakp37T8CRcRohs/3MsHx1ze6PPe8YdGEUjAGDBDYB9Cg0rh99RaaKWpfNg/3LFLXEva/nPfenSN2dXRYlB2LRUIQBioFwSVCQedC+XZ7fzt135eluaKcHsmLLul5/v3msgKAeZcSsws5X9AgOOMd5jl3Eb5adZ5vDJ6QnKcSUxU/teieXetin4mFfRW0+ynZgEA0Dr2yNGXdp7/3tOeZu2H61o7xRXC/m46NjWz1mmW860Wo8FGJu7U80ABSvjXJjL/8ViY6HlpJ2nXm45ptg72LUkcVMqVrIQIHKJpld+0qxKkQn59l7XVPfMg5kWeJLt1N7I/d/o3tVZXN/q6LosiAAlABmim/o6HyFqozMWG8m4sGAAAOS3d9sbD83pXq17ISjWfy3JvAMgVQASQ0lbkH/MUWrDLNIc7AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/045.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/045.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/045.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/045.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -275,8 +275,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVRkFhUk5zaGZ4bmxzaWl3aV9zYVN1Z2FPIi5cPUisqrKopKy7usNkS1UyEhlZSkgAWElEZVhTfXFvgXVySkBDU0AvSjMWf2dNUiY0Xz5Jt7W+sa63ycnTblZcVDcxa11aAE4/O1RFRG1dXVxYYXdtbk5BQUQiDINmS1EnNVk2Qa+ttbezvZqZpToxOUAtLU5FSQBALilPPjxiTktdUVJYSkdbQ0BuPDZ0V1NVKTVRLjmnpa20r7g9O0gPDRoYFR4fHSgAQjAmQTIvZllWaFtZWUxKYFldf3d5c2trVicySSkzpaGpp6OsIyIwGRYhIBohFRUjACYXFSYgKUE8QiwwOjY5TC0qNzgtMTcrLjEbISkZHjkyNjsyOB0aJh8aIx8ZIRkVHwBUUlRSV1ozNjkTDhUqISYjFxoYDRAeEhUfFhgVDRBFKi5wRkI3KC0aFx8VEBgyJCcAJCAiOzU0Mzc7FxYeMCIkFBAVIycuHRgdHxMXDAULTDIueEs4OigsERQdEREZIhcbAAkDBSgZGC0pKh8ZHA4GCgYDCBsgJxMTGRYMEB4TFxsQERoSFiEhKQgIDxAQFwcFCfU9b3Ih2xs4AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/050.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/050.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/050.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/050.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -288,8 +288,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwdtu0mAcAPD/JhQGg45Tbb/Q8hVoKQVat7a0FISxwkbLYQXZOMzhLox4Y6Ix88638MJEn8CYuBtvNPEZvDAe3sbfD3CKCgHcbl/++fd3PZ+vff/zpzsDiVqhcNoy25raMQ4Hxw9H/e5seLacTSCfYUIALzbPf/76vVksLT778f2HnlzX+LzXsR1Lcyz9/PRk4Y/GZz3z6AhExBIA26tn37/92E4nI029+/LVKWn1QnHQbvRtI3ef4Sh67Byv5lNb16HMYQLg+nz11vWW6eQmi969uj2RDB3jrqX5nYZAIwKCZql4MfFXizXIOT4CgSbN3WSoVVFc1xtv3GGLr8kUvRj1ngxbY6MqUSmFZR55A8duQgXzUQhWSWom5CdZri+rr69vOuIhjhw0VbnGIlNVqhzLJ8hLr2crMsgY7wORj2XciuQn01qCeuz0bCxnAhFdUWz1AY8F2InEI2THMuu1Ckgsiu2GmGC8ncfjg8QVg5ZSqc4JCo1cp/t05rm6Eg5EiWCMyaACjUAkyf1AOHUvZpfKTjLlp6mpqtYQp2FeFYRGWbCKuVg4uruzF90jo6H4f1BhWKat1tn9AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/052.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/052.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/052.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/052.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -301,8 +301,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ9JREFUeJw9y91P00AAAPCu3d31rnfX3tqt3Zcw19KO0W1s4NZNHB9CVwMlrPJpqIRoiImJD8YHScT47hN/sW/+3n+SjvUSMQQ2SpoRusHPx7+/np7vrj6Gbc8xV+xSXVf1prCSaPtLfnG6mEsGMTjmAusGNiwq7m6/Pv1+jvdPN73+pj/UICWQMUh7Ky8ebpbpfCppKtUQ1bFuMdPUxGV2//jjz/F8en509nB2FTjORr0hMG+alc+XaXa8lJCs4iLmKg/s2mvf35vsvj/cv08G2dtFfpicjIbLyXbYaK5a9qtg/V3yQZILCMqohGka+nEvFIjUnEBjjXgWf7/Os2icH7zJoq2m6RQVjWEuKQWoyKglRNbvpOORyStWZU0q4K43+HZxm8+jT/Hu1loHAB0CDQBNAjIqKqpN+VHgLmfjWrVjlj2MDLPspTuLk2H/oB+6jTYEHEEGAZVUgBlhguqR194bRZbdJaTMmUNovRuMd9Y3ZoOp+3KgyERFHEEqYUgIIgzTVrXqt0JCHAgYo46qWq47mvSnSXzTWu39D/8A+B4//Svsa3oAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/054.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/054.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/054.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/054.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -314,8 +314,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwFwVtv0lAAAOBC6GnPoZdTWsoGRii9bCWBlTtrm4FltIDbwLEQxozpENiWaJboMmNiskUlGhNfjA8++eIf9fsIDHmJFXNbT29vP2++/314/B20h2W9WFBMlmI4is3wwsuj/rv1q9GgvVycERzCIiMmEJ5Nr378/Pfw+MtpeLNgcn3ywtX1pqZxIN537PubcNLv1nd2CA7yIiuJCE9Pw6+bP3d3m+loNnC66+HzcbNxfuDkBGnsdT6+WZz7h45uEAgwiphq5pXL+erD/bebcPll3f20unw/X6yCZ9dHvdNWfdL1wsnxxXTVLlUIOkJ5Wm7mNH37oGwU7b1aZVcdeYO3Zxdhx7ka9vZUHVK8jFOGZu2XbQKTsKM8eR14+4ZKR6lkyozGBDmpzP3xSdUa2XZJL0YiNIihKAFowBIMCeuZ7XnHrSlZntmWt0w2LvKC2qp4g1rjuOXu5osgxkDA0oCNQ4GgSZQVk0HFUuSMJJtYyGKc5nDWLLi9UnXoBoZeJWMspAVI8QgmCA5xkiBa+XwmbeKEQgGe49IIyYWC7Tv+ZLzUVAuQLIIiggkKcP8BN5pSu86Sbk0AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/057.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/057.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/057.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/057.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -327,8 +327,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwdy1tv0mAYAOD3a79+PVDKOihdKRQ5WkhZYUXYynErImEbbCDbyDCybBPdTDRZ0GRZFo0mi4n/wSvvvPAH+OOMJs/tA7Wn5/vHbxf3Pz1vuDtdHl1+GdWqFz1v0p+UnLa97tpZS1sJyrwgc4JEeGj3r3ZObi8//3Lrw9np605nPG9s3J9OHt7fuU5jw96yzaIqyUGfPyT6VwURtoc3tYMPs+UPd3uyGPWvDgfTRnXR23lzNC/ly5k1LRfPhEQ5wPqkfwR4Nv/mju6uv//pDF5tWvbL3b2P4967g73l2XUpqlkRLZ8wJeKjANOIoREDzdmDM7idf/rd6r5YlcLl7OOz1pNFtzvrj7fiaj2pF6MRieUBaAr+h9b0a6XsOWVPCeo88TXzZiURaxaKWjgVkvWEouYU2VwL0wjTwFDAQH1wE4tmaQCMGATELZSGm5WYarBEFriQ5NcKhtHOpa34IwwEAQbbfc6xARoIg3gKWFXNFK2qJCoM9jNYxFjSlMR6VHdSyZSqY1oAI5JEgCngELAICCGBgKzTlIApgUIcpgQGrxTSpmvl00aW5+S/AEtJZmDaOCAAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/059.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/059.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/059.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/059.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -340,8 +340,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwW1Pm0AAAGAW3bQvTktZoQWvVw44uIMDDgqUttBi+qaY6tRu0yxZZvZp37Zlf2F/e88jaMrQQc4kSuMgwZYXyIODS1cIXZsm6UrgrKO1L9TWRb95LjfOPpy0hWKc2CbBJo2ClJIw1MADNpcQGufdqWE8Jlx61xo03iun7e7bpnjcFL7vdxvPZghzxn0vsmT1c1GuwlA8af3clP++PoBOD4oyFGXQVUa9gbAfu7cO2PtG7QIHDDWpXybl1fqT7c6frjavd4/bql4kUx8R3yIM20Ks9Waj/pMPamYVHpsEMU+2Cj/Qm1949wet/17mP5Lx0kW2qekONARbEmMICuJcp2kVhHm2ePnyLcpvQfysLX/D/HVR3N3sDtM4hwogI1PILHvNeRnwKkootEI/+3j/PJlts2ieRdWMz16K7H5TJ4SFlsOwI+QsSAmLaXCpDI+PWsjwy2WdTVY68iQZp4T5yKLQ4MicU4rUocApY45PCW80OkdvmgC6cVJhHGrqSB0Ytk6HsubploN9qluugf8D8PpNJE65CxkAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/062.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/062.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/062.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/062.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -353,8 +353,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwdkGtPm1AAQNHChdtbaHlf3q+2gLRIHytooS9jdFusdgtGt85tmmxx25f9/y9L9/2c5OQQf1///Hr5+bL/vr//9OFmd72+LmflKBmf9Addt29pjtCW2y2xw4os6jQZRHyuH+vtx6eH/e8fr9urm8vl5SzLs2QU9xLPCgzVNrGjySZ3oFlAQuLu3W2VV/d39bfHr8/75/q2nqRvluV6nleW7mLJyCeFZ/mQRgxANGgSxaTIx8Wm3CzPlqv5upxVg2gY+lHP62uKIQtYETGCLKAgA5oMaBJpfDoIh4tisTpfnU3Pp+k0S0ZRNz70YEsVNQ4JCHKQRuQxTTVoou9HUTfevd99eXjavt2mcbauLuazchClm8WFrliW5pwm2UmYMAA1jijCMhzX9EbD8Xg4iXtJGMSeHbiW55q+awYyr2HJ8OxA6MiAhOQxILCky7zimF4YxL7dDZyeJptY0rGs86zEIQEyLUi3GICoBkORDGFgSxExljRV0gzVtv+fkXhFFlShLXEtHkEWQRbSB6FxBP4BIJo+7xWYLwoAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/064.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/064.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/064.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/064.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -366,8 +366,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaZJREFUeJwVzW9zknAAAOCfCAv8w6GIE5whATIRGKCJqMlcLhBFxWYxVp64nHXVuuvdvkGv+gx91G4f4LkHNA1Hs9zu4B1XPhXLp0NR4LGMRdfqBQqAdCaNEWiOwPAXaYwiSIriwAmElor0sOecEZTf1v/sI1dTB6I+YAUkBUMAwZ5NHk6hBJaXaQbA4AQCULVMD8+VaGD9no9HqqkK3T4rKmQhBWDo+UGRdKZM8pbYABCACzgZuMHscrIylF3f3IYbXTZrudykwQ656nvbvNJbEEDzhJzFKgAGyMh2jsnhqtc366yjKkm8/fXtsckKarX+07P/PT38vd/c6Jojm1S+BLIovvCCu/VmejkOXT+JP0fL8LDdf7pNuBITmdoXqxMb+q7TPvS6a/0C1Jn6x9VNMHGDa/f78fFhf1x5s+Dai/1FoKihJEWqcqupa7m5lBqL5jm4kFp3m3g5DT7MFz+S+6f97uvMfduS+3TFf8VNBX4q8L4ozKWGJ/Bj9iWgS5W2ottte6Qb844RvjY9TWWyOIlgPE60ikWDomyGGdVqb2pn3UrlP4eOUM6teeWlAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/067.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/067.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/067.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/067.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -379,8 +379,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXSENgU050aGZ5b213bWx4bWh3ZFZ0ZFdxW1tEEB9pVV6vrrahnKS6u8R5ZW45EBwAWktGZ1pUe3Fui397VEpLTT41TTUcX0YlfGNXRxIjblVfubjBqaWuw8XPgml0MxMdAFZHQ1lLSXRlZG5nbWlhZHdraCkbFW1LJHhgVUsVJmhNV7a1vqunr8LBynJmbxoSHQBBMS1OPTxgSEdVTFJYT1FiVFRQJSBvNShvVVJQGildQUusqrGrqLC6tr9IRlARDxoARzMqTz44altVcF9XZlNKV0ZBfG9vfnJzdWZnVRsqVztEs7G4u7jCubfALSo2FRMfADEhGiUbHVhOT0tJT1BPWD4/T1JOV1dNTlNGSEEaJDwoLmhiaGNdY1tVXCEcJRQSGwA0Jyg1ND07Oj4eHCMlJjMuKTQjFxogFBgkGBwhGBscExUlFRk5ISY+KC8bGSYREBoAVVhZUldXQ0pKEhAWLCAiKR0fHBUZHRUaJBgaIxcaEgkNXT5CmWNSXUM+FxYiFxIZABELCysgHzw6OhYaIS0hJBwSFRUXHikwOBcRFhwSFBAIDCwdGkcrHCYfIhweJhMSGKLVfmnmNKEzAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/072.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/072.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/072.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/072.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -392,11 +392,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAalJREFUeJwFwe2PkmAAAHA+1FarliMHq7OZHEy444A7wBMUAR94fFQE5TzPF3xBpG7YlVvWZtfWBz+39aE/uN8PW/WbSQjSIUwGYO7bkWca0plIU0AVKYIsEaRAFan8m8LLV2+fP8OfPMWGbi29AZ8nKOmZie+sPLshciJ96lv6dZm4OiUF6kMJz5Vw3JAVHyIsupvtsmzhQ19iIc92Bc6V+CrPBrbuXBV7tbNpF3TNmuegOIrjaI39/nVMN1k+RxZzOBI4ly9fFN4bl2K7XulaRhQGm8Uy9EORFU/yBVM3scf9j32W6fI1TbzjSYIhSOLFa+VcQp3p7XCyXKx7Xl/XGsUCVVW1m8EA81qd2e34+8PueHjcziOZ5RlaYXioVpwebEEbKrKmKpokyK7TMhsW5lqOawEE0Cpa//3zD8DxSbllWv00irbx8mGT3AWhY4KKXL0UFLthY5ZeR02nDSAw7A5sM6zGcI0vH9P9Ntuu42/Zp+PPw2H3NZ5MF6PRuB9gKkfLHKPyXF1RbL1+wYoe6u3u75NovprM5qPxKBh4Lmo3YRu4yG7+Bx0QcQBWlzxFAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/074.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/074.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/074.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/074.png",
         "width": 1920
       },
-      "mostReplayedScore": 1,
+      "mostReplayedScore": 2,
       "start": 74
     },
     {
@@ -405,8 +405,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa5JREFUeJwFwe1TmmAAAHA+blftjWllqYAviMssnxQQeAQBRY1I0cc3DIfhS9itvdzWecvtts+72+0v3u+HuR3d62i+rS1QfYUMs8KWSEJnUpBO9g0tdXhIhMI5Mka8xY9e7EV2d7CJpfZq0ryr348aq55iQkDiYT5BluKxxbXZhvnTOH5KkfE3ryJ7u8xxFBt3u763ePz2/Wmz/bl5/BrMuQyj0AmeIiCTHdXYJpdChlzngASKo24f+7399ffPvx+b7XoZ3M6Cmf+wXDzwJ3n64CD6GldY3kEDB6G+3eMveOqIwqZ9NJ84gTteTwceuq5LYrHAXxTElzuh58/CutaYzZbmZVuGKhFLphMMplXUhla3Gpe9K8sboDt3LBVZPJQ5psr5M1GXlZqsgQIHAJ9J5yRJxqqiVBWhChW1orR0Y9i2RE7eJ0VebL4fDhcTZzl1Oy1TYAVwXmLoHFY8yQqgUBXKGpRkASoiTJLZSPTMv3E/3S1X05sPvvf0+eOXdTCybctoYApIFxkS0CRgUvx5XmK5bOqdXIb381tvPHYHwwkaOD1km1ctrdZUa/8B+ZJx1c30nKoAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/075.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/075.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/075.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/075.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -418,11 +418,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwVy91u0lAAAOBqdJl3mjhfw3hDYrLEmM2YOYVlihmDgFsorANbwmhV1JbRQoHC6dqe05/Tcs66IazzZ/EZNPG1zL77jykXi5/EljHQVeVr63293+2aEzAxRsZwMOhpuqaqiiw1hHqF3dvNpR4+YtqSaJnANsEXSXQhojQOcehChBwH2ha0bR9B/ViRP37IZ7PPn64x49EwpkRXjyk5vbr6jf3AhSgMcIhDD7nIgdgPbDDudeQ36UxxJ8fgwEsuFs6J9efvv58/fpFomsznYkPQlI7vegjCwPcDF9VZtrK/v7G2zpzHNMKh2DyCNpqdz5IkSeZzbu+dcFB1Hei7XoSxa51sb25KzeaDeyvMq42Xubc7r9NbHFsZ9HrmeKLKcrt1ZAEQYewhtPg2kwQ+m9k6KJdv31himryga2q/2zHHxuXl9/g0poSQaEqiKQ48SiIa4Werq6XdfKlQWLq5zPAc15UVC4BhTyOELhYXlF4XQshZfBYFfmE78ySV4rnDapldvnWHUWQZjCeB5430foOrdj63LQCQ4wBj2G428ukX649TpVyOr9Vrh7WVu/f/Awa61heJ/ty+AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/077.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/077.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/077.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/077.png",
         "width": 1920
       },
-      "mostReplayedScore": 3,
+      "mostReplayedScore": 2,
       "start": 77
     },
     {
@@ -431,11 +431,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBKQDxXSERyVkhdNzJKHiq3sK+4tLOyrKvEwMDDv8CBbGcyHxwbERJAJyU+Mi1AMisALBwYTz85eFpQXjY3TiQvxcDAx8PDwLu61NHR0M7PiXFtaUc9TDMtKBccNjY7RT89ADUlH1xPS4N9dV9ARFMnMszJyMrHxsXBwNrX19nY2H9YYDkjIlM/OhQWFxMXGT85OQBAPkRiWFV1bWZWMjhYLjjW1NTQzc3Lx8bV0tLS0NB0SlYVDBAYFxgTGBwLERMPEhMAJh0fLyUmPzQyNyIlRjAzjYaGkYqJnZaWz8zMzcnJZDpINSIiVkhFDBMWDhMVCxASABYLDBkTFSEZGiQdHSkjIyIbHSUgJCgjJ6Senb+2t2RASBwSFV5JRgsSFAcMDgsREwB5TVM7JicXEA8gFhYfFxckHyMoKC8kIykyKixdUlFKODUbFBV2WFA+LCk/Lik0JSEAZD0yNCIbGRETKCQpKSUqMC40IR4kFxUZAwIDSzUvLBkcRTU0WD45LB0cJBkYEQoMAEc3Lz42MxwTEx8ZGyIdIiYjJxcTFwkFCEU8O3BgWzwyMSMfIBQXHBIYHgUICwIDBnuCfXUEalDkAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/081.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/081.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/081.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/081.png",
         "width": 1920
       },
-      "mostReplayedScore": 3,
+      "mostReplayedScore": 2,
       "start": 81
     },
     {
@@ -444,11 +444,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYlJREFUeJw9z1tPm1AAwHEt1wLjIJcDxcPhFGrpVaCFYmkbxdJms16qD0u6bPqwZcnigz6YZdmDyR783ouz2Qf45Z//zq/j6Oei+7SMvhb9h7PR47rYzOLy8OA6j64mg3ncGXhuQOpVTqR2WWqX3Xk+Tb+P/af3w+ePxcvd6tvVh8uke5u1l2FQZsN5lhbD2K0hjhG24H4W/ZgP/nw++/3lYjHs9rGde/sv62mCzX1VC5AzjSNbrzE0T1e4V5CHndV0dJL0w8CrmzqS+AQZZdNRONYUqlgBddOGCmRpnqr8K3hQb0CVGJomSglB52Hz06itcJwpibYsG9I7DC0NaAzD028AWo6L3GXfv4gaZdyL/EaIUepauYdkXqgBxa8hVVZpitsWTBNZFkp9vM7Czelk0OkQy96krQBqe1WJGLCJPR3or+BtWgFqnTTyLM/Hs8VJcXx0lLh2hk1DkFRRdA3oI6IBnaH4LbBk2cOk1+q1D1o3q9VlOWcrLE9zDgAT4ow9gqEtCeA/+Au32DvudW0+AAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/082.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/082.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/082.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/082.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 1,
       "start": 82
     },
     {
@@ -457,8 +457,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwFwdtu0zAAANCIto5jp77Ece5JnbS5161YowKjLR2Dl6FqkwYSqNwkJvHIK698AB+A+Ar+kHOMPFKR8M4Pf/f7c9scP57OV3otiZPKZOZHFFMMydyTlUtTgoY8NopkUab53c3D9vF11169vb5/1evUDXaX575+RqBl01lVDMvAaYWdu45RpGUVZ3t9UaumyLpStcqLC8876nUdZ6VLsnC+We60zy4C2oSekXpJnaltq/uic6hkCAGAnSlfRUyHok+ymNqFFDrgQ0BLyY1E+MrzN8W8jtPxCBLLnozgFDPTJE8WqvBnPjYXkjQuWUm7cokROTJkNOKMI2SbCAPIMBfEnYzRyzYZcqU4rlzcCeuQiUYSI+BOQLADgQ2AnNpwDKoolyxYpvLDNj/p5NOh/nrsfr57/mVItU8NSZjE0LeARCYaA4IJQvzRCN9u1Odd1Uf+YcF/fTv9+/P7+2s9xMzwCA1s5FsTaQE0AYIIaBLOwhf1rBYwofBmGb1Zqx93T99fzlfB9D9RnTZwtNo44QAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/084.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/084.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/084.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/084.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -470,8 +470,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwFwUlu01AAAFCHePrxENWxncHDj+d4qGd3sBrzrYJTEuHGCd11QUGILVJ3SFyAI7DhIFyO97DHh29J2NrzmaZs6use+WtkCbUDm7RqqztTNeDKeH7Xfn36/LR/brMSi6AV63MUmIlp36XXpiyKLECWPKBdW9S6wCuinG7yv3/+/Xr9fbjdYjeOUplKE8VQnL0ZEVP2IlhK7y2hC+GttaxdtTAWmaEe0a6vb/rCwkpzhYL1vsy9xZwD7IzhHenCEbl7b4m8eRdrhwx2idVXQRepQ2VjJZTOlfGpTkIN+vKUxOnRiGRp0HqLPoPHAva53sXOY+V30WoXa9jrvvx5yu/TkAYiCziO4SlyQhOgC9VTafSZPhRr5CnDVdiFy9ZfYT8a+3vrRIZJkBxFcQzgKQIQY7Iy5FMBD7F2LNZbW94n5odLDblL7OhLkTwRpiKBA5LiJoCnyQmJU5cr4ZSqh0gZUv2tLSJ38TGBjSVh56tgIzI8J+JjeowzJMVSBCDHlC5wXxr3ZWu/NO6Qqw8xPBcWcqT/2NtFpEMS6AcAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/087.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/087.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/087.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/087.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -483,8 +483,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZBJREFUeJwFwdtyk0AAAFCmrdWkpSB3WDa7XJd7wkIKCQQSkglmOrEz7fRB86APOuOP+OSDH+jPeA4zLGGMuDnWnpucGJqjyJvQ6kMrBXKJ9ViX+NsPGvswE6U2c5vUYU6NVwRy7oBTnRcYZFDrYmdI3ZUHVx7aRWZtKwb7IE7utpQMJWFaWzzMFeqCAGjnBH2to0dvpt2z28Q9LkgfwnMBvmxSaTLtc+9YR0zATZ8idaTOSKOXFL0WfjbTdY5v/NmQWGtb3rhCnoRatOso+bQOmZRnO1veZfBA/AHhfUaWPlq41rlK35r48uN3d/x2JRG+vNBqPVY200OpcLnSUbYmOltk7xHfULCqtknw0tBff//1lz/XEpr4o5U+7gvIPEXgRPU55jtgHkzcA7x0cYaRKYgrH2+rDQmLG9W+RZVihU2mMW8U/+zjyGBLVSlFtdXh0oKOICZQa2O8CXSsSzcCemfErGxS7yMzeub3yqOmEArcQpTngtxhkOnS5zpJgNKFmLvnrljlmtPf3/GuNv0PS4NFjOXenrsAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/091.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/091.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/091.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/091.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -496,8 +496,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZJJREFUeJwFwd1uk1AAAGC2dbGS7QAtFM5POedQoPwOKNAGRouFssx2i1vmxZKZGGNivPIBvPAxfElfwu8T+gbvc+ZhMBRRnwV0Os0Y7iK+tmBMtJIhDK5V8QoCxSewCqlw3PPHNgqpfKyy+3VCJLlyzCFxdz4tOK4dc8M1rkjy5diGWrtaCDcIvNS8dNVjlR3yAIrjnx/S2yWrPX4qgy62hwi+NW46N7AC+tIRiDjuuPKYomOVPGziOxd+r0IEJEub7kO+dXGBr/vQcIKSWV63okKhKakKnnK6S+yHOBosVnMUc7z27OeN99x1n99+I+yc8x0uTk1ChY82LrG0CbTUNO6ZfbK8IfB9ovuUfirtL9/+/Pj7T+XpiGTvF7ermAmtpb/kNPeUBCsHk92RRc8dDxtkooYE7pKs7V8lnY2gd4nipY2Ebmn86m8OEbZUsZ2jSsXbOW1819ZnGUf1ksREuprMLlR+PqEmUoQtM76WzlPCsTQu4CSRZg2aW7K84qQNrIzqsQnP3oERmJ2JUxWI/wEWVESyPSiVdQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/092.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/092.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/092.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/092.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -509,8 +509,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZFJREFUeJwFwW1vk0AAAGBiG5eVhtECd+Xg7ni5Y7wUaAt1V2hLrymdWbe4qFE/6BLjF/0H/gvjH/S3+DyKXOM51XMKL6KMEQyA2SWBzPzCtSpqL1wIVdVUx9S02py181B57OIqBoVvfzqKxIFLigSngpM75giGW+5sOQwmN9ZI7ZaRXMXKnlunAtQMPW1roF6/iCwyDappj3XSLyKZ+feF/f1YeBN9vwjPd5nCtatLCp/q4LJdVa71sr5dE5TaQKbeIfUa3xBU32Qhzo+7Or0XsRKMroU7PZWkL7MHzk8RnVO7DL13Yv5eJF++/e7k54FO1PJDuZHn2lf2rlVSrfSNPaFvaXRkPEYzD8BDkX7crX79/Se//hkY+LW3I0UrV0Q5sdnDwkmwdgjsHoe9xyMI3OmUWrM3jBya82K5GwJ/iCszLMV8pjwX5GeXxzOtYbp0cQNxiZ2UkgTBbeptOGDIGBp0AOMxpEs2VXqGfojbyrVyMmowqA20Rk6L3edlmDugS/2pNnk1hoMbdDWeMDj6D/XdRUz2yGBOAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/096.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/096.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/096.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/096.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -522,8 +522,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY5JREFUeJwFwVl6mkAAAGDSxNaauLDDMKwzw7AJhkWJYDSgwfDQLzGpX/rY5RC9RK/SA/U0/X9mFSiONFoHTrvwDJ6PoNpGaE30EAi5pWqT8fTjEMw4Twd1jJvMZ5rMJNp4m9BDFvmKsPXsua4WDrz37XvPagO1tBX1ZmxLwr4I+iphasyuMLtLaEqsRGZ/1vHo4moB5WNKdxGqifReOX3m6zzXlcHLQ8pE4vhtCZvUbRb+EwGvCbZ4vsRGO0dNaGyIdodEla5I+aUt3K+HlEHT610k5wR21HvCuKZ2YICCkvdNeO6677//usn+AuTi8ltVpud9xKQ6m/lcqosHw+ksukaOJfBI0Zo5OfXnX3/+keXzlRre+MckS09bzJxujVsyTa1pa8JHiEpgOJKozniqgcqz13EMDDTQ4qFVYY/2JWR+3NFDCLE8fMBiLeqFrOXYDgBYu7D0jI2nipJ8KbkDJYSmXhGWeYvMl7lpcp9LNClEKRdBJqlHavULnBhKgfTLT5MBBz9cyxw7C4TRf2XVRfIyxstlAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E54_brefJaiAucuneMemoire/099.mp4",
-        "thumbnailPath": "thumbnails/S01E54_brefJaiAucuneMemoire/099.png",
+        "previewPath": "S01E54_brefJaiAucuneMemoire/previews/099.mp4",
+        "thumbnailPath": "S01E54_brefJaiAucuneMemoire/thumbnails/099.png",
         "width": 1920
       },
       "mostReplayedScore": 1,

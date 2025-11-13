@@ -6,7 +6,7 @@
     "index": 39,
     "name": "Bref. J'ai déménagé.",
     "slug": "brefJaiDemenage",
-    "viewCount": 8290486
+    "viewCount": 8293866
   },
   "subtitles": [
     {
@@ -15,8 +15,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCemJeopKVzam6qpKTd2dXTzsymoaSLgYPGw8Q9Oj0JAwYQCw0WEhNhVlxdU1lWTVMAjoeInJeXf3Z6mZKUxMC9uLW0n5KRooF5c1RQIh0eDggLDQkLHxoca2BmZlthYFZbAHt0d4Z+gH92e3pxdod/gJiQkYpsZ4pfWWtFQCMZGhcRFQwICSgkJ29ka15TV0c8PgA3LTI2LTM+Nj5CNz87MTo0KTGBX1p+V1FbPDcvJCkxKS1URUNWSElcUFMvIyQ0JygANy42KyIpMikwPTA5Oy83NS0zb1VTc0xHUjY1LiYsHhYbSjs8ZVJPWkhHNCYlJBkYAEQ6QktAST40PDoxOHBqcGpiaFZCQlAxLUM0NUlBRz83PCceI1ZEQlpIRltKSDQqKQAfFhskGR8hGB1jW2FnYGVORktnWl5cQ0VMQElGPkRNREs0KzBLOzpUQ0FXRkQ0KykADwoMDggLNzA0XFNZMSkuNy80QDg9Pzc+PjY9Qjk/Ny40Ny40TT09VURCVENCJh8eAAcGBwUEBS4pLD41OyskKDkxNkxESUc/REU9QkI6PzgvNDAoLkI2OUw8O0g6OSUeHWl9fOWwlrKVAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/000.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/000.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/000.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/000.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -28,8 +28,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCblJOno6V1bHKgmpvd2tfSz86moqWNg4XDwcA4NjgLBggPCgwgGh1kWV9eVFlWTlMAhn+BmpSWgHd8k4uNvrq3ure2m5GRo4F7dFNPHhoaDwoMCwcJKiQnbmNpZ1xiYVdcAHducX11eHdudHVrcnpwdY6GiYdsaIddV2pFPyYcHhkUFw0JCjcxNHNoblhNUUg9PwAwJy0oHyUxKC89MTk1KjIiGSF0VVOHX1lcOzgsISc2LDFaSkhdTk5TRkksHyA1KCgAST9IPDM7PTQ8PjI7RTlCRD5EYkxLaURASzQzNSwzIBgdSjo8ZVFOV0VDNCYmJBwaADIpMEA1PjQqMjgvNXZxdm5nbWBQUlQ2Mkg5PUtDSkY9Qy8kKFhFQ1xJR1lJRyUgHgAaEhYgFxwkGh9gWF5gV11FPUJZUFZRQEVHO0VFPEJEO0E5LjJQPz1YRkRUREIiHhwADAkMDgkNKiMnVU1SNSwyNS0yRDtBQTlAQjpARDtANy4zOjE2UUFAWUlHSDo5HBgWAAcHBwQDBB8aHDwzOS4mKzkwNU1DSkxCSEM6QD82PDUsMTAoLUU5O08/Pkc4OB8ZFwc7eyaVD/qXAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/002.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/002.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/002.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/002.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -41,8 +41,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxj4GLncLN3XjBj5tZ165fMX3Zgz8HC3AIeVvaijNzW6sb22pba4orUiMj4wMCizLzUmCQGDlZ2L2eP2uLypqq6utLKaR3dUYHBwryCWfFJ0cHxSXH5Fdm5mdHRmTGxDWU1ualZDJxs7Ppq6rZGpq5WtrYm1hEe3i6m5iGurt729g7mdk5WLknhEaW5JYlB/hVp8cXZRQy6SooGquoC3PxyEtJK0vJOVo5uVvZeto4Olg4eNrZBzo5R/gFOVnZKMso2xuYxjrYMZhpq5lqa0iIiFtrabtZ26TGJOXExRemp3c0d2XEJiUHBwR7eRupaKlLSphoaDiryDIZKsi4mhk5GBm5mJgEuLnlpmRV5ednxCXFBIcHO9t52tpYGRoqSkqayki6GOjZGJgy6kkK6MhKaEsLyAjw8TIyczCwC3NxqUpKW+vpORoaRtpahRlo2ihIawvxaMlIakhIMVooidqoSTtoKdrpaET7+ke4efta2AU7OmbGxEbbWIVLCkbLCwVJCpmJC8uJiYuzsDBaKwnY6qt6OzkmRSclxefHhKbG+gSkhwRlhIWmhwTFODkEGuj6a6u6G+k6mxoaqygCwfHOURhNyAwAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E39_brefJaiDemenage/004.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/004.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/004.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/004.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -54,8 +54,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBtYmh8cXeIfIOOg4qShoyHeX+AbGehdV2keGReS0Y+MzpdOTRMMjAqICEdFxcODQ4Abmp+fXmRiYWejoujkI2lgH6UfWJoqGdSmFxPRDI2VktRdEpEhlRNWUE/SDU0HhodAHRugH96j4eCl4uHnYqGnnh1i3dcX4FIOF85MEc6PHlqcXZPSYxZUIleVYRcVWRKSgBxa3x7dYeAeo6FgJWYjp2Xh42CX1hfMyhGKydXSU91aHJiRUKPZl6wiX6kfHSTaWQAbGZ1dW58d3GCmIWJxKGRt5OFhl9UNhwWOScoiHJyt6Ccs5qVv6KbvaGZspKKnnhyAGhhbnFpdXVufKWAd7OBcJ16cYRaUj0lImtRTcCgl8Gmn76im7iakbKSiaeDfZhybABjXWZrZHB9b3WwgnR9TkRoRT6cbmWjfW+uin6uh32rhnutiX+tiH+pgnuacm2IYVwAV01WXFZhhGJfg1FESi4pXDw3nnFnp390onZtpntypXtzoHZwnHFqlmtmhl9ack9LAFdITGBRU3BWU2hQS2VQTGxUUINgWqJ4cZtvZ5VqY4lgW4lgWoVdWH1XU21MSFY6OLJnu7ZAvKb/AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/006.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/006.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/006.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/006.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -67,8 +67,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCDeXpiZVdmbFpscWCblpZ7e3NmblllbFmKiYaHdHZoQjtkQ0E0IyI7Ly5dUVFjV10Aj4SEaG5canFccHVimpSTeXpwZW1YZ29benp0kXNxk2NbimBeSjMyJhsaMyQiRDc5AJmNjHd5bXZ7bHh8bpSOjXp6c2tyYmVsW25uZ5Nxb4hdW4ZcW1I3Ni4iIE5ERkA2NwCkiX7e0L/h2crBrJ+Jb2mKdXGEcWx3Y16Dcm2OcG2LWlePY2NYOzovIB5HPTxDODcAp31s4rmT7Mqh1K2PoX91k3hxmX11n4J6cV9dTDo8f1ZSWDw8QSwrHhUWGBQVFxMUAJt6creQhL+ajLqYjbOXkKGAeoxpZpF9eiwkKREME0EtLlc7OUs0NBsVGhcUGBkVGACJcW6kiIKtkYqvk42jiIGvhnt+WVQ0KCs3MjVOR0lIP0I/LzEgGR0YFBkcFx0cFxwAYEhEgmtnooiDmn94i3RwnHtphWZdKh0fOzdXeHCMc2x8GxkgGRUbGRUaFhMXFREWADAfHkE4Qm5ZWIhwandfWIVhT5t1azooIz8wRxoZSzgnNTAkJhUSGBQRFREOEBEOEkObnQI9IsgdAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/009.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/009.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/009.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -80,8 +80,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCLgod+dHWMg4ajmpuil5aajImNf3uRg39wY19tW1aKeXSOf3xyYlRTRTJxZGJmV1EAe25tf3d4mI+SioGDi4GAiH17ZVdVZFVTMiUka0Q+jG1nkIOAdGRUX083f3FwcF1TAKGXl66nq6afpLCrsJSLi42DhHxzcmlSUGVEQJdkXbOSioR5emdYR2RVPol8fXliUgC5tLnBu8Gvqa61r7Wyq66nnZt3cHhgTU56TkeGXViahoGJfHpdT0NOPDBwZGeEcWkAu7W6wbu/raesubS5pqGnb2p4UU5hOS82OyMgdGVulJSniHx9cGFdYk5MbF1biHp4ALu2u8XAxq+rsLq2vH98iFdTZmFfdkdFUjc0OGhofpSVrZWPmXFiXHprZWdUSXNhWgC0r7S/vMKwq7G6tr5saXtST2NqaX6amKOnpKmAfo+KjKeWkZ5iUUtnVlJWQDFRPTEAq6asvLm/qKKng36Hbm2DTEhZZmV3sKiuvqinh3+IZGeCfneDeGJTbVpPVUA0TzotAGVhaXp1fVpVWiwnL2RidlxYaF9SWnVXVKSFfp6OkH91g46JlpR+cF9IS1pJQkw6McM/zL9JdOrTAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/010.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/010.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/010.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/010.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -93,8 +93,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAjHBc0LSRGQTRXU0JSSz49JSGLdnazsLO+urm5sbOzrK7OysorJCgGAQQkHiBVSk0AIBYTKh0aNSssRDw4QT06PCgnlIGCrKaomJGSmoeFgGdlq6WnUEdJIBkcKyUoWU9VACIaGS0iIy4oKDk3M0NCRj4xMmxVUntnZ3RjZFpCQFk9PWhYW3JhYWtaWlJDRUE3PQAcFBQlGxkjHBs2LS5FPEBRPT5gRkRTQkFEPEFhV1tNREo4MDVZRkVhS0lVRENGREUAFA8OHhYVGhcVKyYmNzY3QTAwVTo3RzQzPy0re2hmeWlmPi4uUz48V0E/PTMyTVFQACobGC8gHjAkIkEzMlJDQU8yMU45O0xBRW9pdVBHVEk8QUtATEhGV0xGSkhFQj08OQA/KidFKyhXODdjRENwT0twU1KFdXVtcoVidZcrLUUcGiYZGiYlJjk+P0Y2NC8tKScANSMgPyglVTk3YUNBa0xJZ1RUaVpbbWt5UVBjPTg/LSUoIhwjLSs6LCEjKR0aJBsaAFFFRTYkI0kxL1s+PG1QTXZvc5aPk9/e3KiVloNVW83ExIV+fldPTHVoZ1NBQTQlJLuffpTJiBG/AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/015.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/015.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/015.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/015.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -106,8 +106,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCGgoeTj5Ojn6Kvqq2Tiot/dXerpamvqay3s7W9ury5trespqmfmJyUjZGQiY2Mh4sAmpeaqqequLW2vr2/l4B/akI/qKGmu7i7vrq70M7PpJ6ea2BfbmNiZltbUUVESDw8AKekqLi1t8C+v8C9v6yko4tqYo2FeKealb+7vb/BxaeipHNoaXxyc392eWBVVUU4NgCqp6u8urzDwcPBvr+Gh3ZxdVpcWkKAaGK0srZweYibmp9XTE13bG+EeHqAdnlaT08Aq6irwL7AxcTEvru9fnJqaWlQb3JZhHRuu7m9nKOsoZ+gLiMiSjg2h19ZiWVgY1NTAKmmqayprL27vLWvs4Zva25uU3d6XqGemb67vd/d242Ihx4TFDksK11EQXVUUE44NQCenKB4cHKQi42nn6JYQz9XVUleXFM1MTBfXGDe3Nx8d3cWDAwuJCQ1KCg/LiwzJSMAg3Fvdm5wfHR0i4GDPikpTjo7Tz0/IxkcSEVJ09TUinZ1FgQEGhISJBscKR8fIhkZAHpoZHZtbXdsZod+f2RTUYpwbIlwbHZkYnx2drexr6OSjntraHdua3lubHhubHRqZ2D/0yI0YhpsAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/020.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/020.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/020.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/020.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -119,8 +119,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwWlP2gAAANB+XbJk2RbUhrSoKaMcpZJaaEsXqQuVzQgDFOiRUq5mVCdXgKCtyBgyKBtGIctiwpLFub+59wBoHRRi0dll68d1bzWf/XtYPv26exgbVqM4rZe+6kpHSnE4hoD240g4yYaAN7CjqeSsy7rKc60j/r7fflx8W1zVrEbJapZHer4rp9IEbnv2nPF5KvEDgHC7Tb1w228n6RDvQW/q2mpq3HarVqMy0vNXZbEjpxMBLACCXgj+QJFAGMcNXTPPP2PbzkMu8rSc3Jv1eVuf1MoDTe4paUP+KPIcAcMkiga9GPAuSJ6KIuMP7CAu6ejw73L2c9CZNbXxWbFfkZrZuMLuVjMnPMVEQxTt8wEJbk8XxaDHb39tI1F0cXO9mn4ZnxWG1bxRFBrZeJIOZfiDGMPSPty3hQAxljlX1T0iCL60uWHH937392w41OR+WeopmYtCTuLCfngz6PUTqNcNbwFRiupU9SjNInbYsbY+aJ7+mY8GZcEsCV3lpKvm1GgkSZHv2bcY4nJCDiC8E2h/0vdJGne6Nl68qqny493ELGQv8tmWmKoLyXyMayu5RGTfCW1Caxv/AS0+jvIkbb64AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/022.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/022.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/022.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/022.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -132,8 +132,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwWtP01AAANB+Ry0MHKzv9e72/Vi3UlhrhVWRVTDFMelwkMFmMoUMcFCni1WyqXGJiskIDxMTQ0z8m56DtMKnn7tHjZXlAoHtlLx/v0ZXX95d9o9H8WHcDKPaWsnU9TS9sWA9yqnY2C2k16pfDj92tqoeYELP/Xvx7ffw/Shu/3y7HzfCk83gsSbjY3cWNKm+vMigKPI1asftvVlZl3GCmZr2Zs0Pezvn8cHw6EWvXomeB5u2KU5OznGg7FogMYHsrpfzgqpBSWCgBrhMCvdt63oQ/ejud7fKx9Wgct/WMVxngaPnZIpGHtquAgSF5QSaVVko0awB4fnpydXgTXe7cljxd0veA9MqmuacrPAEjRQthyNBTtR0KOiAlyiWnEr2Oy//fD+Nttdbq94TQ/Ed1zXyGsgQ6AQyr+WpJCEynJTmJCYjktTd2+OdZu3mrP+6GjR8z+b5eTWbhaJI0jg6jgCMgSTICmqWVyDBaCxgZ7Bn/tLN2eAgDGpFZ1GWi1ZBTmc4gk6hCYRMEhwFdF7RoCQyUEqzJadwzzAuPvVelVfaG2vNYHWp4EKCoadTM2jiP6yob4XjPlFWAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/024.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/024.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/024.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/024.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -145,8 +145,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzYFmBbmaIdGuKdm6RfHSSfXWQe3ONeHCJdW2Hc2uEb2dbSURWREB4ZF5yXldpV1QAhXJsiHZtQjMwYkhDpod9moZ/nIZ+l4J6kX11kHx1e2VYWjoxRi8uXkIyc00zdmJcAI58dWhXUiUZGmVIQ6qDeYt4c4BtZ4ZybYVya5F9d3xmVm5KPnpWUWdINnFKMIFrYgCNe3WCcW1oTEdyUEmUcmqBcG9pVlRsW1l3YlyJdW98Z1pLMSV4WFOLZ1ODYEeKd28AbmRoaV5jiHJ1XkhGenGAm4yOj357inh2gW1jiXZzNCozMSAoaUdIOiw6W09Yj3tzAGllblVLT5eSoZ2Wo5iWro6InY+CiqaUkIJzfGteZBALGhUPIBcPIA0IGR0VJYFvagBhXGRNRUmGgZG3tL+yr7mMg5BqTltoVVhiUlh0YWAOCRkRDBwSDR0LBxYcFSV6Z2QAUUxTRD5DZWF4lpSusqiypYmDo5CSx8jPt6WbimtcGxUiFRAdGRIgFxEcJx8qY1NTAD86QT44PmBYZG5jcVtJTHFaWaynruTo69DKybyup29lZzYuMzMqLyghJiwkKjYsL1U2qQt0JnxmAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/026.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/026.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/026.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/026.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -158,8 +158,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0YlyCb2d8aWGKdGyUf3aSfnWQfHSOeXGKdm2JdW1/amNKOTRVRUF6ZV1yW1BqWFQAinhxc2FcMyQjj2lgp4yCmoZ+moV9l4N6kn51kX11d2BUYz84RzEvZkg2cU01d2NdAI97dlJDQFs/PaJ5cKWDeoZzcH5qZoFuaYJvZ5B9dnxlVW9LQXVUTm1OO3NNM4NuZQCHdnKDcW2DYVpoTEeEbWl/b25nVFJuXFp3YVuNeXNxXVFGLiWDYlyFZFKGZ1KLeHEAX1ZaamJploCFfGdqhX+TnY2Pl4WEkn99g29mgXBuJh0pMiErXD9DKR8wVktUjntzAF5YXmBXXKeisaehraGes4J7k4t8g5uKiXtueWZZXg4JGRQPIBEMHQwIGCMaKYVzbQBaU1lMQ0qKhpq1sby2s7yLfId3WWJrXWJzYF5xXFkJBBURDBwSDR4KBhQiGil/bGcAS0ZLRD1DcGyIlZOsraCmo4N+s6mt2tzhv6qch2xdIRsnGhQeGxMeGxUfMCgyY1RTAD04PkE8QWFXYl9TXUU1NnJfYbe1u+Tl6MfBwbuwrWdfYTIqLjoxNDAoLCkhJS8mKeQyqq7rrlfGAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/028.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/028.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/028.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/028.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -171,8 +171,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzX1iEcGh/a2OGcWqVgHeTf3aSfXWPenKLdm6JdGyFcGhWQjxTQDx2YltzW1BpWFMAiHRsgG5oNCYlf11VrI2Dmod/m4Z+mIN7lIB3k393e2dbVzgwf1tUblFAbUYsd2FbAJN+dl9QTU83NJtza6iEeol2c35qZoBuaIFtZ457c4NuX1w8LYplXn5dSmxFKIJrYQCJdnGEdHCCY11qTEeAaGOEc3JpVlRrWlh5ZF2IdG56aF1KMSN0Uk2GZVaDYkyMeG8AamJpXVRYkH+He2RlgHuPm46SmIeFlYOCg29niXZzLyYyKBonWz1BLyIxQzpHjHlyAGtmb1VLT5yYpaqksZyZr4eCm4BzfqGOinhqdnJkahUPHRMOHhEMHg8KGhcPIHlnZQBhXGVMREl4c4Wyr7y1sruTiZR1V2F4Z2xpWVuBamQQChoPChoTDh4MCBYZEiFyYF4AUEtSRD5CZmF3kY+qqqCppIaAqJmb2d3jyLqxm3xpKSIsGxUgHBQfGxUeKiIsW01OAD46QEA7QFpRW2FWX0c5O19MTaulrN/h5tDMzcC3tHxzdTIrMDgwMzQsMCkjJysjJtWJq0MzdKknAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/029.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/029.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/029.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/029.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -184,8 +184,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB2Y12AbWZsWlOGbmaWgHiUf3eSfXaPe3KLd26Ldm58Z15JNC9ZRkJ4YldyWEtrWVYAi3hybVxXPSkomG9lqYyCmYV+mIR8mIN7kn52lIB5a1VJakQ8iGNZbU06cU44emZfAIl2cWRRTHZUUKF4b5d5c39uanlmYXtoZH9rZJF9d3hiT1s6LopmXXlYQXdQNoZxaQB3Z2WIdnV8XVdiR0KHc3GEc3BsWldxX115ZFyOe3VkUkhMMSeAXVd6W02Jbl+MeXIAUkhLdm97loOMdmZtiYWbnI6Rm4uKloSChHJscmNjFQ8fMyIuSjM6GxQnVUlSkHx0AFdOUmxlba+tvKyotJqYrmxlgYp2eYV1eXhqd2BTVgoEFhQPIBALHQwHFy8lMop2cABRSU5MRlOIhp6yr7u0sbuFb3eVen9+eHyQdWliT00CABASDR0UDh4KBhUwJjOCb2kAQz5DS0VOenaSk4+koY6QnoF9xsTK5ufpsZqLgmxhKyQuJR0mIhoiHxkiOS83XU5OADs4O0Y/RVRJUEQ6Py0hJHtvdMbGzeDf4crExb62t2FaXi8pLTQtMDcvMy8oLCoiJ3AXq0URXd8vAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/031.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/031.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/031.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/031.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -197,8 +197,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB+dXuHfoONhIpiTUx4UUuaiouyra+zra+2sLK2sLKzra+spaehmZ2Wi5GKgIWCd30Aj4SKnJGXloyRWDs5h1lRnoWDubW4urW2vrm5vrm5urW2ta6wr6eqp56inpSZloyRAJ2SmKOZn6OZnnFUUWpBO6KLib26vL65u8K9vcjDwqegn3Zsa3pwcHpwcHlubnRpaQCjmZ6toqi3rbJtWlpOMS2omZrCvsHBvb3Ev7/Mx8emn55fVFJhV1RgVlRfU1FRREIAp5uhxLu/08jOua2zq52ixbrAv7S8yMLD0szJ1dDNr6mpaV9ea2FgbGJhbWRjZVpZAK2jqc3GzLShqbeZpr+otLumsLyjr7i0u56kraqutbawsHVra3Rqa3pwb3xxcHZsbQCSgYOulJKgj5SflZy9ur6ko6unn6WXhIdoY250g5W7t7dRR0dVSkpWSEZPOTV5bGwAf29xhFhRppGTqqCnsKqwkpalhHZ8dV1dWlxobHmKu7i5PC4uRDQySjw7WUlHe21rAHVpbGxLRpSDhLWssKehqZOXpYqAiW9XVmVxgXOBjrOvsGteXHRoZoJ3dYZ7eoF2dKOj7bHL95wfAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/032.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/032.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/032.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/032.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -210,8 +210,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA8MzZ0b3d3c3tya3ZlYGpjWV9kSUhVPj1ZRENYR0hOQkQzLTIuKi8rKC0QDhIeHCAAPzI0WktMVUZHVkhJSDw/UUZLgnV8V01STkFFSjc4NyoqOjEzMi4yERAUIB4hKiYqAHttboh7fIyAgpCEh3FlaWtkbJeQm3NpcjcuMTUpKTIjIykeHk9FSjIvNC0qLiEbHgBeUFFjVVdkVldiUlReTlGCeX2yrLONg4xEOT5bQD9bPTxBKys7MTI5PD04PD4kHyMAPi4vSjk6VUVFYFBQVkdIoZuf19XZsK2zbWNrWDw8SzQ1UTw8KSIjHiAhLDAyNjo7AEE0NU49Pl9NT1xKS2FUWcrHy9DJy6KGinptdXdueF5VXVlISlE/PhQUFiEhIjE1NABrYGlfUFVXR0dUR0iSjZXg3+HGu72IWFuBVFmUiZNQSFFJODp5WlYsISImKSg0NzUAcWhzenF8allhi3uC0c3Q0c/Ru7e8pZOYnIKIS0NLPTc7TUVId2FgRDg3Ky8tISEhAFVNVmxlb3xyfYBxfYdxfJeFjqafp7KttZiUnpiWnqihqJaSm4WFiTU5NioqKigpKALamUIHvyf2AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/035.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/035.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/035.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/035.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -223,8 +223,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCBeIKEfYdbUVReUlJlWl1YTk9TSUlQRENoVFV1V1Z7VFNuSkhpR0VONDInGhYlGhcAkomTmpGbdGpwXVBQW05OPzYzTT4/b1tgXkdIPSspbEtIglpYgVdYdktMUzU0VD07AJqQmqSapZ2VoVpPUEo+PC8mI1pNU35hZWpHRVhAP2lJR2RFQXVOTXZJSi8eHUs3NQCimaOpoKmlnKZ1bHI8Mi8tJSJVR0l0VVR7V1aMamx2T05CMC9UOzhUNzUWDwxoTUsAp5ymqqGppZulpp2pXVdcOC0tcFpcdVlWfV1cflVXdU9Nd1NUXz08KxoXTDc1gWRjALSttMfDx6ifqJyTnpiSoFxLT29UUnhVVWU+QWxJR31UVHZNTVc1NFU0MYVjYWpUUwDV09XQzNBwaXFpY2yXkJx1anFpTkuCXFpoQUNuS0lsS0hCLSo1JSJhQ0KDYmFoUk8Aw77DsaevnpSdX1piYFpkcmt0X1JTXEE+Y0ZCYEhHOy8uIh0aPjY0WUdFclhXfWJgAKehqKegqLCnr5WOl2tmbo6HkXNsdGFYXoZ5gYV8hlBJTkc/QlZNUEtBQFRDQmZPTUpRpfe4VITxAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/038.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/038.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/038.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/038.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -236,8 +236,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCCeYOCeoVXTU9dUlJjWFpUSkpORERVSEhpU1VwUVB5UlFuS0lvSklKMS8qHRokGxgAkoiTmI+acmluXVBPV0pKPDMwVEVHdmBkTzo5Piwpck9Mg1pYgFVXcEVHVTg3V0E/AJqQmqSapZuTn1RJSkc7OC8mI2RWW3lYWmhHRmVKSmlIRlc8OXZOTWtCQyIWFFxDQgClm6aonqijmqVwaG44LisuJyRgT09yUVCGZGaLZGZrSEVCMTFcPjs/KScZEQ9zVFMAp52nq6Gqp52npJuoV1BWQzc3cltccFNReFVWdUxMeVJSelNVWTc3LBsZXEVDe19eALu1u8vGy5+XoJqRnZWOnF1LTXJWU2U+Qlk1OHJNTHtRUmxFRk8wL189O4poZl9MSgDY1tjGwMVnYGhnYGqTjJhtYmdxU1B4TlBkOz5tTEhkRUI0IyA4JyVkRkSHZ2RdSUYAvbi+r6WupJqjYVxkYFtkbmdwYlNVYERBZUlFX0lJMSgnJR8dRTs6W0hHdlxbe19dAKWfp6afpq6lrpaPl3NudpaPmWhiamNbYpGFj4Z+h01GSkpCRVdNUEtAQFdEQ2lQT/tvpKshN8pCAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/041.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/041.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/041.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/041.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -249,8 +249,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCBd3yIfoOSiI2WjZOCa2uNc3Gpo6W0ra+2sLK3sbO2r7GwqaumnqGakJWNg4mEeoAAkYeMmY+UpJqgkYaLYT86hVdQpZWVvLi6vLe4wLu7vri5ta6wrqepp56hnJKWkYaLAJ+UmqWaoKmepKSZn2hMSmQ+OqGNjcG+wcG7u8XBv8G8u31zcmtgX25kY21iYWdcXACmnKGpn6WonaOwp658aGg/IyCfkZLGwsTEv77Hw8LGwcB6cXBfVFNkWVhhVlRZTUwAqZ+kqZ+ls6mvycHHu6+0pI+Pva6xxcDEy8bF0szKzsjHhn19Z11dbmRjcmhnb2VlAKido62iqcjBx8GxubSWo7+qt72ptb2msaypsZCYpLa2u5WMi21jZHlvb2dZWF5LSQCkmqCfkpayoKKqm6GZi5O0rLKpo6uwpK6jl5xgZXakrLeNg4I0KChJOjlDMC1INTMAmZCWjn1/il5XoIuOraaspqGniIyaiH2Dg29yT1prn6m0joKAPy8vVUlIbGBfd21rAImBh3psbnhUT5eHiruyt6umrY6Sn4V5gHVfYHR9ipqcoo2BgHVraYF3dn5zcnhtbPyk8AabV+AfAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/042.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/042.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/042.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/042.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -262,8 +262,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gChlI+zqKG6rqe0pqC9r6jBsqrGta7Csai9raO7q6Gtl4yegnOZe2uUeWygj4eckIwAr56UycC4y8C4xrm0q5qUo4uBy722xLOrvayjuqiespqMqot4q4t3p4h2t6WbsKOdAL+qm87EvMq9tMGzr8CxrsGyrb6wq8Kzrbemn7Whl8ezpcu4rM+8sNC9r829tLChnADAqJXLwrzKvrfBtrO8rqu0npasnZm+r6usnZmomJGwnZLPu63Sv7HZx7rNwLmtn5oAt5uHysC6x7y3zMPBlZCUZ1ZTblVLdV1Uc1tRhnZyhHRt1L+x0b6x3s/Hv7OwrZ+cALydh8e9tsO4tLuwrl1QUTEmKHJUR2lMP046Mkg9PYp6dM67r8++s9vRzKecmbCinwCsi3R3bG5pYGReVFc8MTMvJyuRc2NvWE82JiYgGBqOf3vNu7DXx77Mw8KUiIeqn54AeWVbX1BSSEJLS0NMRT1HRDxEZlhaRTxCRjk7Oy0va19frp2Wxru5rKSki399mI+NADMuNUtBRktETFRMV1lRXl9WY11WZF9XZFtUYFlQWkpAR19VWa6mqUtDR1dNT4J3d+IC8CnS8fusAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/047.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/047.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/047.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/047.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -275,8 +275,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB6a2iUh4XMxsbAt7XKxMPQysnEvLq4rauuoZ6nmpegko+YioaLfHhqV1FvY19lWlcAj397q56a2tbUzMXE2NPS29fWz8jIxLy5taqnr6KeqZyZpJaTmImDblVKfW5qeGxqAKCQirerp+Ph4NnV1OTg38G8u4J5eMjAvrmwrbSopq+joKqdmaKTjnxjV4Rzbol8egCrmZO8rqrg3dzh3tzw7e6zrK6jmZnCuba4r66rnpunmpWonZqrnZmIb2OMfHaQhIAArpyUu6ym3NbV3djXvrq7jYF9opOOqpeQf29qemhgoYyBiHl2ppmVknltl4eBkYSBAKqXjrelntfOy9rT0WZgYV9RRoxyZnFXTFU+NmNNRX5nXVNFQYZ5dY10Z6KRipGEgQCZhn2bhn3EtrLNvrduX1tTRkSUeW1iSj9YQDdvVkx1XVNdTEVwW1RqUEZ9aGF/cW0AbE9Dek40rX5Wx5ptfWtjXlBMm4NzYkpAZk1Ei3BifWJWUDczOSEcRSwjTzImVTouAHpOMJpoP6t5Tb6MXmlVSUU9P4d7doRzbVVAOXReUrqkiZR+ZkszKVZANUo0K00wJMDp5fLYHYDbAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/050.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/050.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/050.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/050.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -288,8 +288,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB6bWmViobNyMfCurnOyMfUz87Kw8HAt7W4ramxpaCqnJegk46Qgn1uW1RyZmNoXFoAjoF9rKGd29fXz8nI2tfV4d/d19PRzMTCwbe1uq+stKikraCbno+Jc1hOgHJue29tAJ+RjbitquXj4tzZ2OXj49/c29jT0tDJx8W8ur2zsreurLGmoqeZlIFnW4h4c4t/fACom5W8sKzi39/j4eHi3t7u7u7m5OTSzczGvry+tLC3q6ayqaawpKGMc2ePgHqShoIAqpuXuq2p3tnY4uPlnZOQtaehv7Gru6mhkH96pZeNtaSZiHBok4N9l4BzmImDk4aDAKWUjrenotbR0LLAzYB5e2VJQJl8b5l9bW9WTIhwZY11aUM0MDAoL1FBPJ6PiYyAfACUhH6fjYfBt7WsqKuReG2hjYLLtKWjiHeLcGGEal1/ZltmVk8wJygPCQ1vXlhwYV0AaE5EelA3sIBYm31pppCDuKGRspyNrJSEp419noFxhmtfVjw4JBQWMR8aSi8jRy4kAHlNMJhmPqx7T6FySJBoSIl8do+DfpaHfZKAdpaBcsCrkZmDbFA4LVM/NUQwKEgsIMl29Km1JbbDAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/052.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/052.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/052.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/052.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -301,8 +301,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4a2WUh4LNyMbBubfMxsTOycjGvry6sa6yp6OpnZmjlpKajYmRg36Fd3J2amZoXVgAjX95q56Z2tfVzsfF3trYq5WN0szJvamjp5eSqJOLk354raGeopWQmo2IjoF8fHFsAJ6Ph7erpeTi4d7Z19XU1nNnaYqFh3lrZlJHREo/QjUsMo6DgKqdl52PipWHgYt/egCpmZC8r6nh3dzm4+DR09hcV19PR0hVRDlKMScoJC0kHSZzXlabjYaXiICVh4CNgHoArZuSvK2m3NjV4d3b5+jpTUtRZFxcVUlHPS0rQDQ5KCMsfWtjl4iAmImCmoyEjn94AKmXjbmpoNfQzOHc2eLi4m1wdoyIil1ZYVJOVFJGRyMhKYBwaZiGf5WFfpqKg5iKgwCaioGhj4fEuLPXzsnb19SpqKe4t7WRkJV9eYBlWlgvKy9yYVuMeHCLeXGJeG+Nf3kAblJFfVM4sIFZzJ5tv555lIFwm4V2dWFabllSZk5FOCwtVzksbEc0Z0U1ZEAvaUo7AHtPL5tpP65+UMCPXLeRbKicmLKopK+imcK0qLutoKqbj459c4RuZHlmXWZKPFg3KK7t5HnQKfaVAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/054.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/054.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/054.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/054.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -314,8 +314,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB2aGWPhILGwcC6s7PGwL/Nx8bDu7m5sK6xp6WonZmhlJGZi4iJfHhpVlBsYF1iWFYAinx4ppqX1NDPyMHA1M/P29fX0czLxb27urGvs6qnraKeppqWmImFbVVKe2xpdmpoAJuMiLKnpN/c29bR0d3Y19rV1NPOzcnCwb+2tbatrLGnpqyhnqGUj3xjV4JyboV6eACllo+2qaXc2Nfc2Nfq6ejo5+fb2NjOycm9trXAtbG3q6ato6GqnpqHb2OKenaNgH4AqZiRtaei19LQ29fW8fHx7Ojk0sW+sJ6WmImEaV5Zd2pkkoSBp5yZkHhslYaAjoF+AKSRiLCgmdHKx97a2MzEv6CKf6+Ug66Zjs7Iykk8OjUlIVdKRYd6d4pyZZ6OiI6CfgCSf3WQfHLAs6/Ju7WPd2uVf3TAraHj3d7CvcB3X1VsU0hdTUZwW1NmTUN4ZV56bWkAZ0xBdUwxq31UvpNopIp8p5GEqpqShH+Cmo+PjHZtalJGRzIvMx8aQyoiTjImVDktAHZLLpVlPKd4TLeIW5VxVX9wbGVZVjQuMEpDRVRIRoBlUWxSQjwpIkUxKkgzKkUtIrx38qr1cPkOAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/057.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/057.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/057.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/057.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -327,8 +327,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3aWaRhILHwcC8s7LHwL/NyMfDu7nBt7W1q6ipnpmhlI+Yi4eJe3hoVk9rX1xiV1UAjH15p5uX1dDPycHA1c/O29fW1M7NpZyaqJ6ctqyprKGepZmWl4mEbVRKemxodGlnAJ2OiLSopODc29fS0dvX1uPf3q+rrBcNC3xxb8K5t6+mpKyhnaGUjnxjV4FxbIR5dgComJG4q6fd2dfc2Nfu7OrLzdRja35dVFe8sa65sK6ypqKupKKqnpqHbmKJeXSLf30AqpmSuKmj2NPR3NjW7+7vgYeYNzpLVVdklIaDmYBznIuCiXt5o5eUkHhrlIR/jYB+AKeVjLWlndLLyN/Z18fExlFWaUNCTGJcYFFITHdcUXVfVlBDP39xbYhvYp2Nh4yAfQCVgnqdioHBtbLLu7SIenZGTF5LRktpU0lqWlZ2Y1xuWE9SQz1qVU5nTkR4ZFx6bGkAZ0s+elA1rH5WwJRop419WVBPMjE3XlZVbGRjcmJdTTcwMiEdLxsXQyshSzElUjcsAHZLLpVkPad3TLeIWp96XYZ5dURDRzc2ORsYGUAyLmVKO3RbSkIuJUQxKUQwKEApIFcv3U3t78LlAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/059.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/059.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/059.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/059.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -340,8 +340,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3aGOQhIDHwcC8s7LIwcDOyMfEvLq7sa6zqKWtoZ2kmZObjoiLfXlrWFFvYl9lWVYAjHx3p5qW1dDPycLA1dDP3NjX0szLxr27vLKvtKqnrqKfqJyYmoyGb1ZMfW5qd2tpAJ2OhrSno+Dc29fS0d3Z2NrW1dTOzMrDwMC3trmwrratq62in6OWkX1kWIR0bod7eACol465qqXd2dfc2dfr6ejo5+fb2NjNx8W9s7Gyp6SjmJSyqKaqn5qIcGOLfHaNgn8Aq5mQuamj2NPR3NfV8fHx7ejk0cS7s6KaycLBcmdkFg0Mc2dlrqKekHhsloeAjoJ/AKiVi7alntPLyN/Z2M3Dv6CKfq+UhMGzrbCoqFlHQkUyK0Y7Nox+eotyZZ+QiI+CfwCah36gjYTDtrLLvbaQeGuVf3S9p5mcko5sXlpvWE9wXlhaS0RuWlJlTUJ4ZV16a2gAbVBEfFI2rX9Wv5Vpqo9+q5WHrpiLdGVgVU1LfGFUc1ZGYkg8OCMdQSkgTTImUjgrAHdMMJZlPah4TbiJW5t2WYl6dYF2dG9kYkQ9PWdWTWZMPkcuIj0oH0YzK0o0LEguIivE8M+dsr4OAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/060.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/060.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/060.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/060.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -353,8 +353,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAgIC4rKTYlHiMvN1RGT2yJe2y2pp6jiYG7sqymkoqzoJjLw7rLwrm4saqqo52dlI8APTU8Ji5JIyMuXl9nUVt1k35uqpORm4WCfGFafWJauKOdyL+2oJePvrasvbWsrqafAFg8Mi4vRGZiXICAe0RHXWVKQqGVn6ihp1M9PEkzMZiMjZV6dCETDoyCe8/GvLuyrABRNC1UNzBsVklnXlo5NUQqICVJPkKzp6JcUEoZFBeQh41van1STF2ln5/RycG+t7AAKzVRSkdQcGlqWUxKPzI3MSUqjoqkn5ikPDQ2IRwgd214VV2AZ2uGta6pwLetsaebAE9PW3Jva29wdGFjaUFCVVM6OVBETU9LXS0ySkBDXFddfD5EZIV/gLasn6KTg6aYiQBjY2qMi4VfX2M2NT4qLD83LTUwKDAhIzM5P1o8Q2BOUm5zcHion5abkIOekoOmm5AAUk5TWlZVOThAJR4kKik0JyUuIR8nIyY7KC5IS0xdSElWgXt5jIN5k4l9oJaLlo2CAFZLSiolKB0YHCgeICsmKjMrLDQqKjs0NyQhLEA7QikiJzgyNX92bJCHfI6Ee392bOhrq5yasVbjAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/063.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/063.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/063.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/063.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -366,8 +366,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAhHCQnNFdDRVZ0ZVeTfXavo6HKxcW9r52+rpjOxrymnZSFe3Wso53Evbe1r66inJoAHBkiNTtWSE9lh3Zplnt2lYeEoJSRwLaszcK1z8e+RTYyGw4NQzUxvLSux8G9o5mSADIxN2dnbUFFYGVQRmtVUl5GRF5BPJiTlMvGyL2gmHlRRyYcHCcaGKWbk8vCuaCSgwBpYFeAfnc0OFAqHB1lWGFvX14fFBVdWFzCu8FvYW2ic2hhPDI7LyuvopK4rJ2wopAAWEU/V0hCOjI7Hhkhk5Gzf3yYPCkqSkBFv73DqpqfkmlfZktNXFZgnI+ArqCNr6GPAF5gZ2toaEM/SkIvNFxKUF1SYE87P1BNVpORo5JycERAUUhPZ1tccY+DequdiqqdjABbXGRjYWNARFMnJzk9LS84LjQvL0B5dnmSh5BtWl9AQVVLTWZQT2CGenGnmYifkYEAY2JjPDpCJyYyISArHxwkHyAwJSMva2JiZmd8SUtfSktiT05dZ11Yj4J1m41/jH5xAEdBQiEgKiIZHCQgKCgiJzcvMy8gHkI4P0lOaUJCVkdDS2NZUXVsYYyBdIR3a3VqYAH3rn5EzBr6AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/066.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/066.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/066.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/066.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -379,8 +379,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCDb25vUk+lnaK6tLa8t7m8trm6tLi+ubzCvcCyqq1INTQnGRgvIB8mGxsmGxsmGxsAeV5bblxbn5iesqqvvri9vrm9t7C0ubO3ura6tKqsmGZchllTTjUzKyAhIRgZHhUVAGxTTnBjYqObn7OvtLextrewtLy2urKrr7CprqB/eY1dVZxqY2pEQCAVFjwlJDcpKQB+a2l7bGpvVlRpUVGak5e7tru0rbK0sLWzo6SIWFCXaGGVZV2dal+MYVdlPzodFhwAcl1ZTTw8i1tXiFlUTzo5fHJ3oZqgtLG2tJyaqnJpiltXilhRrYBxpHZnYDwzOzRCAFg9OxkOEW1KSYdcW2dFQTQkJzAsNoZ8hZRxa3NVUUg3PqF5bbSFdINWSV5ESE9OawCMg4dLQ0ZBMjZxTU0+KSoVEhYrKjppVV9lTEkgHzRbVGWwhnZ0TUQ/LjNHSGVHR2AAg2tof2hlUUhLRTxCPzU7IBwhJiMuYmF9SUhgP0BWkH+Gk2hcLiIqOz5YSUhkSEZfAGFUWV5MTmFVWEs2NkIqIyAZHxYPFDo4RXt2g5KNlZ6FhYdeUy4qOk1Pbj8+Vjg2SqxirH2lXmUqAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/067.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/067.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/067.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/067.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -392,8 +392,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBzU06Dbm66tLi8tbjBu73CvL/Bu7/EvsHGwcSwpadkQz5FLy06KCcrHx4fFRRHPDsAcVVSe25vsKqwv7m+xb/DubS4urS5v7m9v7zBs6KhqXNnqXdvVzo4IxscHRMTUEM+AGNMSXZsbYyAhZCGi7Sus8C6vbq0uLKts7Wrrp94b5VoYJdrZIFWTkkvLVU1M2dYUgB8bWpxXl2IW1Z3T0uFfIG9t7y4sLS4tLqymJV4TEKjdG2pdGmyf3KicGNCKSc0MUAAY1JRVkREk2ViiF5bWkZGj4iOsqqvuLW6u5uVq3drgldVonJnuox9j2BTWTw6RUVhAEIqKBILD3FQToJZVlo9OiMbIVdRWZ2QlKmFem1UU2VRVb2UhJ1vYmlEPVxRZU9QbgBgVFgpIygtIiZSNzUmGx0YFRtCPU+FZWNlT0wlJ0KFdoCgdGZILiw/Ok1QU3RNTGUAnJWcgXZ4ODI1ODE5NC00HBogUk9nenCENjRKNzpanYSGelRJLys9T1J0TUxpRkNcAIF4f391eVRJSUUyMDUlJBoWGzIwQ05RcF1aboV/iaSEfXpWTDY2TFBScj08VTk3TrYLs1I2uD6aAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/074.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/074.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/074.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/074.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -405,8 +405,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAeGR0oLkU4QV5xZFiUfnallpKvpqW5r6bBtaTLwbfOxbyYjoeAdm+zqqO1r62ak48AFhckTUlQQkxrb2NbkHl0ZllbfltVl4mG0svI19DJy8O7QDIwIhQTSjw5q6KdpZqPADk4PYF+c0pRakAyM1c+OVhHRUMxLzs0OczGx83HwcjBvDksKisgICUWFYBzarOnlwBSPTVpWk5IRE0qIy+Wi6J4bHU9MTMzJimqpanHvrjLxL5XQz4UCAYnHRyXinuwo5IAVVJYZFxaSkFDOiswh3mIcW6GWUdMRjc7mpef18/KramqW0dKOiwwSEdQloyCq52NAFlYXG9xdlhbYzExQ1pFSFBBRUU6QklFTrKrsMO8uXRyfUlJXl9gdFpYZHxxaJyPgwB8e3VYWWA/PEInKTwmIisqJjAaHzReWFy1rbKQgoJPT2FZW29hYXJXU1eLgHWViH0AaWVfREVOIRwkJiErHxwkKCQrJyIpOyomaVpbUUlWPT5RRkZXSEZRcmpll4l+hXhvADUvMSEeIyIbHSQeIjEpKzksKz4tKkg4NkM9SDw+UTk4RjAuOVVNS4d8cYF2a3NoXjrPppP3omTuAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/076.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/076.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/076.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/076.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -418,8 +418,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAeGR0nK0E2QGBtYFWRe3OmlpKzq6u6sKi/sZ/KwbbLwrnFvbSon5a5sai2sK6dlpQAFhYkQj9GRE5ta2Jck3t1cGJjgmNdmYqG0MjE0szE2NHJhXp0Kh0bVEdDo5qWqaCWADAwOX15b09WbkM2OFlBO1ZFREs2Mz82OcrExs3GwdnRzGZYVB8UEyQWFUw/OqygkABQPTdwYlRMSlQpIi6KfY95bHE/NTYsISOnoqXEu7bTzMVyYFsXDAseExJNPzitn40AUEpQYVdUTUFDNScsin2OeXaSV0dORjU3kY+X1MzIzMbAcWBdNR0XGhQYbGRiqZuLAFZVWXF0eFpcYjQzRVxHSVRESE4/RENASaulqsbAvZeTlEZBT1BIVU1MXGVeXpKFeQB7eXNaXGJEQkcnKz4pJS0uKTEcIjZXU1e1r7Ojj4taV2VVV21fYXRTUl56cWiShXoAbWpiS0tSIh0mJiMsHhwkJSIpJSIsOispdGdoZlxmPz5QTU5gUlFgZF5ekYV4hXhuADgzNCQhJyIaHiUeIi4nKjYrKzwsKEQzMEQ9Rj5AVTw8SzQzQElDRn92bIF3a3FnXhNRp1M6d2nVAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/077.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/077.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/077.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/077.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -431,8 +431,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAiGhwlKDw0QWNiV0+Jdm2ij4q1rq27s628rpnKv7G8s6rFvbTHv7a3r6awqaagm5kAGhgiLi05QkxtZF5dl392gG9wi3JvmYaB08zGnJGJOi0qWUtGnpOKysK4wbq1q6OcAB8jM2djXVZedkc9QmJLQ1RFRVM7OUEzM8S/wYd9eikcHC8fHjstKb61qsjAuK+lmABEODp9cWFaXGYnICxpWWN4ZmlGPT0aERSak5eto6AkFxUeFRU2KSasn466sKCtoJEASTs9XE1IT0JCLCAlf3aJj4yqVEpVRS8udnJ718/McF1ZIA8MQT1DjoV+qpuGraCQAElITmxweGJgYDU0R1hBQlpLUlpISz43QI6JjsS/wWhbX19ITFJTZH94da6gjaqdjwB4dW1eYGhVUlYqMEUsJzI5LzYgIjNAP0mvqKqZlZ5IR1pSVGhfYHB+dnGgk4WajoAAeXZuXFxhKCYwJiMtHxwmHxwjICAuMigoeW1uaWd1S0xgWVlsW1trYFlXjIBzhntvAEQ/PzMvMiAbISUdISgjKTAoKTcqKTooIkAyM0JBUT49TkFBUj47RmJaVIF3bHJnXqatqHP3ZGR8AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/080.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/080.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/080.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/080.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -444,8 +444,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKe31pTUmSiY60rLC+t7u/uL26s7fBur7MxsmakZQxJSUvJCQrICApHR0qHh0mGhoAfGJhZFBNi4OHmpOZtK+0wbu/wLq+urO3u7S5t6+zSj09KR4eMCQlLyMkLiIiKh4eAH1iXm5gX29VU31VUHdnabextry1ub22urOssL62u2xgYRoREiwjJiogISQbGx8WFgBzXFhsXl17VlKndG1oSkaJgYa4sbe3sLW+t7rKxMeupKZBLSwvHx8XEA4aEhAZERAAaUhDJRobSTU1lGhkflZRSzY3TEZNnpect7C1t7C1uLK3dV9eZT87JRsaEQsLIBcXAGNOTy8lKBkTGFY8O1M2Mi0hJhMOFkU8Qq2nrqmiqbWus5KKjnBaV4FaVGFDQUM9TwCYkZiXjpNMREcsJiw1KzAiHiQeGR8uJiufmJ+8tbq5s7i1rK+BeIBtT1BnWWxGR2IAlYySoZiddmtsRDg6RzY1LyYrGhQbKCAljYeOsquytK60rqewV1JkRUNcTVBwTk1iAFBFSnlwdn50dlFBQy4WES0fICUcIRoTGXt0faCao6WepZCLmE9QcE1RcE9OZktIXIDdq5utHliLAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/082.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/082.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/082.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/082.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -457,8 +457,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBHS15SWW9td4xFV4Gvr6mYlYpsaV5lX1JCPUMrJTo1M0hKXos5R21db5xIUW5ZWWsAS01bVl95eoWYTmSPa2lpKSUjPi8qZFpPQT5IJiE2NDVOTWGPP053XXGfQEhkd3aJAFRUW1Ncen+Km05olR0dJ0EvKpFjV2lUSj88RCYgNDc5U0ldikBRfkhfkTxCXZ+esgBUUVJMVnN/iZhXcp8vMT5kTEWug3eObWJPSEUqIzM2Pl1EVoJEVoRNZpozN0xoZG8AlpWQY2l/aXB+XHqkNThIl2tcsIZ5jG1jWFBJRD09SU1qRVR8SlyGT2CILS5AU05TAKyqoGZodF5ib159pjI6TnxWSYlfVEI4M1ZQSlhQSk9Ub1RbfUxeikFPdDIyPzk0PgCjoJSEhIlkZ3Rlg6gzPlUhGhwsIiYxKypSTUZPSENCTnBHUXRLXopBS2l3W1NZRUcAuLmzlpeZVldkaYSlNUNcIBgaFxMaLyorRz85QDk1Qk9yOklwRVqHPUFYe1lOSUdaAJ2cl42OjUxMWGJ6mDVFYBwVFxkWHCsmJychIRkXHTxJbjpGaUtXeS4vQR4eKyszTk1GldrQMYPIAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/084.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/084.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/084.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/084.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -470,8 +470,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwftT0nAAAPD9ERaZ13lmml7g2HDjbHB7BttwD77hBptsxEMex/NwYBDHiWXoZYdQ2YWdYv3S2dUPdf19fT5QVMuBRN3MHar2YPZ1fPSqVskZdlz1IwQFY4ibEK0zIrIfK34mxbJt1yA9kdVTvfz+eyV9WspnWcKf3wW2ARAPvfpwC0EjUnpEKQeF7g9eLjnOEEpa2d29o2r3Q9g6cc3d1/yoA4Q4kHwws7aEIj5BtN+xsX40O6H4zOX0NxTXdCPTL78cSYWPj5bd7YR61chVdXkLZ1YWfRs+KWwOmZ03IeucCSe/3/yDinsvUoV+oXkCatMATk5KyVmrXNW2WZL2reFRtchqh2LyVE6PMD9fyRWhv39u681BzKxrzrXIqb/a6SYQGQIXntENEL7ovSWUDm8ch54feBEqxG5DF5Pjdqtnphpm5wZ9KlEeN7nhxWCPJHB8INjItDjQkVNntFSVSI7DCejn7bcv02lMz1vdGUbuPLg775pbgNefCGwQQzZJscJFHVp7TYWsoQ0UVoaury7H4/NIJGE0P23SxqLr3vydhfXlxzjsXl1aCYhVgq+IxgDzi0Ev6sWU/xo/lZTa5n/nAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/085.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/085.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/085.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/085.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -483,8 +483,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAfITIgHilKT2JcYXKwoY/X0dHe2dnj397Ow73NxMDZ09LNxMDJv7bCubKso52nn5wAIyg/XFhUgH9/VFtvuKmZ6ePg1MbD08bDfWNdaFNO497f1s7L1czFzsC4UkA8UklHAEkwLHlkVHx0bz09T3tvaI+IhrquqLSfmW5ZVGRGQ5qRlNXNzdzY07qcklgyKU5EQABFQU1jVlVYQz5FNDdaS0owJymJf3zEvLl5YlYlHB5VT1PVzcm0sLNoX2lfUlyXjIIAUEpMYGVySUJDNjZJbFpdc2ZtjYGIi3V2XkZHPSwri4OFu7W2XmB1TFFsZ2dzpZeJAJmShU1PWjYvOTI2Sjs4RHt2hEZBTEFBVVxUYLWpq66psWpuh0xSbEFBUYR5c7aomgCloI52dncjIC0wLTgqJComIiojJTcqLT+PhoOlprR0YmlSSVZFRVF6cGqypZSsoJIAaWJcW1RTNCoxMykuMy81NS4xPTlBMywxUU9dMjRFJB0kQzo5hXhsrJ6Pqp2NnI+BAEA4OykeICwjJislKU9CP1A/OlVDPUI1NSwoMzQiHi0kJHhtZaCSg6GTg5WIe4d7bvIkuqgLNoOTAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/086.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/086.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/086.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/086.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -496,8 +496,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gC5sq7Hvrt2eIg+SF6LjpyPg39GNzFEPj9PVGNBQ0o2NzofIyg3QFFlcYtaW2RBNjEAxLq1zMPBd3qPPElifX6IgGFUakI2TjUsVEtGQkFBKS41MThHdHiMdoKdMzlINi0pAMrAusS8u2xxiERQZnxycnFJPHpPQnBNQi4tMR0pNik1SW5xhayqt297lio0SHBoYgDKv7e5srBiaX9AS2JyaWyLZlhmPzRyUUYuNUAkNUlIU2l1d4ydm6pkbYY7R12topsAxruxraakWmJ3O0dcUFVlbVdQWjovSzczLzNJO0ViS1duYWd+g4OUZmqAPUpiraWgAMK0qqKbmlFccUVJXldFaEcxMlExJjkiHyYdMTcrRj87VU9bdV9hc1RRXD5NZ5SOjAC4q6GVj45LVmw8Qlc4KUU2HilQKR1HKS0jGSwhGy0qGzFDSmZDQks5OD9AT2x7eHkAqZyTg35+RU5kNz9RKCM9Mic+WTApRik2Jx00JB8yKhMkPDFHKyYmPUFOPUxpZWNmAJeKgXFtbjtFWjM6SysmQiohNzskJDMiMikjPCohNx8XKCwgKyMgIUBKXzhFXktKT1e7l9IMUgD3AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/089.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/089.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/089.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/089.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -509,8 +509,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCdmJepo6K4tLLCvbu9trO2rKW8tLDPyciTi4otGxc3KSZCKydYTEm0raupo5+akpEAnJOQu7a1w728zMfGyMK/vLOrurKtyMK/tq+sf11WgFZNlmtfdVxccXWMop+krKajAFlLR8bAv8XAvsO+vby2s762r8O8t8bAvtLOzbapp3VMQ1tBPH19kXiCn3uBmYiKmAAYDAqjlpLRzczLxsW/ubaom5W5sKrIw8DIwsDMx8aLf35DQ1Zsd5lyeZh3fppxdY0AS0dLSz480MnHx8PCf3VzglhOn350urSxwru6w727wb7BYWiHV2CFY2qMaG+MX2N8AI2PmRQPFpCFgKypqFNAPINXTIxhV6iZlcC8u763tbaloGRohVBZfUtScVJZd0tQagCWlZ1DQkkyJiO+t7WeiYRwSkF+VU10Y2Cxrq2+tLCYcmdZXHtGTm44PVhHTm1GS2IAg4GHhoWLMCgmW1FQRD4/TTMtPSomFxEUJiMnlI6OfnmHTVV4PEJcPURhPURgQkZbAHZzeH16gHRwcBIKDA4JCks1MDQnJhQSFw0KD11YW3F0iDxEZDc9V0FHZT5FYTo9TAST0kSHter+AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/091.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/091.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/091.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/091.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -522,8 +522,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCclpWpo6K3srDBvLq/uba2rKa6sq3LxcKoop82Ih82JiRJMi1HODSmn5yqo5+ak5AAhHh1v7q5wLq4y8bEycPBv7WvubCqxL67wLy5iGxmglVLkWdcgGFdaW2DlZWeqaOhADgqJ7y2s8fCwcS+vb23tbyzrca/ucfBvtDLycG5t39bU1A2MHd1hXqEoXh/mICDkwAaEBCBc2/T0M7KxcO+uberopyeko28tbLIwb/Kx8afjopNQ09kcJNxeJh1fJlxdo0AbmpuMSYnwrq2yMPBubWzfGtljV9SlHdvu7m4vLCutpeOdm9/UVuBYWiKZm2KX2R9AKWjqRkZJG9jXbWwrq+qqHxjXJBiV3ZSSqCUkq2Ph6WCd2Zic05XfElQb1BXd0xRbAChnaFWWGIkGhennZu3tLNvW1d6UkiRamCDZFyZiISPb2VQTWZJUnM2O1VES2pGS2QAjIiMh4aPRD89QDYzRz4+UDkzk21jfF5XIRkbRUJFdXJ8SlB0QEZhOkBdPURhP0NaAIB8f3FveI6KiRkTFlI1LoNaUFlAOhoUFgoIDBgTFFBPXEBIZzY7VT9GZD9GYjo8TyCjz5lCllCUAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/092.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/092.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/092.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/092.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -535,8 +535,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCNCCeyL0/Lwr/Sz8rRy8TNxr69s6mypZqtnpGrnY+voZSsnpJFPDtsYl2LfndvYlwAngkquy9P3NLO4N/a2tjT0s3GwLass6ecr6GUq5yPrp+Tq52SdWhhin12kIJ5PzIvAK4GKco7WuPg3NjVzq2Uibqnnb2zqLChlKOUiKKViambkKydkqibkJmKgWhbVR4XFwCBM0y6Kk2ggnZ+cmdoaG1yXVNyVURbRz1eQDF1WFCPeXGej4WekId0Zl8zKCYcFRUAj3J1pG5sdk48ZUo5cWRfZFNPPC4tFBMZLiEhUDIuUi8kaVZLmo+HbmFbLCEfFQ8OAJVpXr6RgG1MO1o8KW5IMmRHNzcrJzssJyQfIE8/NlZCN1xJQXVkW2ZYUlNFQTEqKgBvTEWne3FeQS9UNyVXOShvTjllRjRNNitHMy1nU019amRfS0VIODROQT1aTUlbUU4AWj03jWZfVjksTjMiWTwqUzgpNSIbLBwYNCEcTz03VUVBSkA9SUJARDs5PTEvOS8sAEcvKHFPSmE/MkoqGU4vIEMoHDQdEikaFDYqJz83NEA5NkI7OEE5Nj02NDcxMC8qKW6FpYE7+7ivAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/098.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/098.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/098.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/098.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -548,8 +548,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCCc3GLfHmThH+Xh4OZiIOaiYOejoeWhoBOQD4lGho3Kyuyrare29jT0M3Dv7ypo6AAeGlmhnZykH56koB8koF7koF7mIiBgW9qX0E8PyckFwoLU0hH4t/c5uTi29jVu7ezAHdmY3loZXhnY3hoZXdnY3ZlYXNkX39oY4VdVmY8NUgqJjwxMNvY1e3r6efl48vGwgCYioidkI6bjouNfXeKenSRg36Qgn6ZgnyHX1lnQDlcNC5pWljn5eLq6efs6+nSzskAloiFmo2KlYeEc2BRcl5OjH15j4J/n4uFdE9JXzQwYTw2sqyo8O/t5uTj7e3r1dLOAJSGg5uNiZaIhW9iXm5hXIx9epOFgYV7dWtNSE0uKlkvL7qXnOvs6fD18u/u7tbTzwCFd3WWh4SQgn92Y2J6ZGN/c3GVhYGLVV96S0lbNzFoFSBrCB2GOkvAmaHq6OfT0MwAemxrinx6kIOAd2hmcmVjh3JyoD1VoB4/biMrYyAjbQgYagwfbQUdbAAWpm56ysvHAHFhYHpraoRvbnplZHRkYJRXYaUhQ5YePIYaMXAVImoKGW4MIG4OImYGHHYrO7GtqnO80/UKRMcMAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E39_brefJaiDemenage/100.mp4",
-        "thumbnailPath": "thumbnails/S01E39_brefJaiDemenage/100.png",
+        "previewPath": "S01E39_brefJaiDemenage/previews/100.mp4",
+        "thumbnailPath": "S01E39_brefJaiDemenage/thumbnails/100.png",
         "width": 1920
       },
       "mostReplayedScore": 2,

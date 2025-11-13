@@ -6,7 +6,7 @@
     "index": 43,
     "name": "Bref. Je suis allé aux urgences.",
     "slug": "brefJeSuisAlleAuxUrgences",
-    "viewCount": 12013574
+    "viewCount": 12017941
   },
   "subtitles": [
     {
@@ -15,8 +15,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJwdz+tumlAAAOCj56C1h0tBreIdGOUiFydaAWFotdbUegutrs7E0mxp0mTZn2XZI+zHHnrJvjf4QHzrHx6i3Z1fo7gmye5C/fPI2Pqqq4pKs2F8kMRqVeKLFwiTELcFAWxuvCSenjY3cqFcy5B/f8V/fq7WfTGyFF0Q+MtKuViRanWeydME2dNV8Dzzf79t33a3WokXcsz7w8cfT72nyJoMO4Fr9+3O/NN00nOuyjyGOOjawNG1WXgdOLZYqraYwlBuLT1jvQjUriFb2vEx3i8P2yjqCHUmS8+8HkhDGoBzkMJpRKUQhcn8cOB400DqGi3zKozG68nSVuS2LpbY/LVlAoRoSNBpSKYRBQAucuXXeOO7nuNoA0s0FEFXpHylqrQVudng2EuQghREFCIYRNAglatXGsnj82l3/P767cv9ytdadb7AcUVLs0PbOMtSIA0xRFTm7AIiCiKcO2cDyxkN+67nbuebeH6/iKLVKBr1vcA0swQGGQITCEP4/wBJlKHHXTPsqOOB8/V4ejkkyX7/nrwspnOjWeNo9h+SOkfYzpIwCAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/000.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/000.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/000.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/000.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -28,8 +28,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwdzNtymkAAgOGFBQyHxdYDSDiIEZYlCIKgwaAknmNrUq2dTqZNO82kM7nobe/zCn2Hvmgnnfkvv/lBYFmPx8XDbVlG5C0QSmx9nfeOE7JJnYFre22L2O2u1tTkqgD4JqoB3zCf7zfPn1fbPK4B/pCf//3z9DDzvr+bvS8usWEa6ilWVZWvIlrU6wogmvby6/j78fbuMmkA8SbovPycflmG97u7D/Ntit2E4CLqnQo1RIudlg4sxbgpR4txOvCwITdCpbXLg+VsuF9tD4vdJAp84hRpz5TqIuB92wZM5Q0AIqBECko0i2gWTYrUz8I4GRbZuOs6avfMDzGxTRbwXd0EECLIyBSUKCgBWqIZtLm6itPEzyISuGbg2oFnn3thhM2WRr8aiGiIGE6GDGJYREEhC+L5xbAcxfOsPxunvuvUFDXpp2U/FE9kAJnXN3dSZTiZ4xBFVQge7FYf8/5onFzs14fldIU7xGn7Q79n1BVQ4SSWlRhGov8HgNBs6DEJQudsMS2P+09P334c1utJft01bL3e/AcAHUA17XynrwAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/002.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/002.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/002.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/002.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -41,8 +41,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwVzM1ymlAYANDr5cMouWCMyiB/AnoVEAimSkJEQDOx1OjEiSZmkmzcNNNuu+6yy75DH7WTBzgHBaZxfFy8rdNkODhHXG7rr/PhLrHvIzsPh05HsxS1K4sSX+NQVTprIt8wPg7Fx/PdchLUUeUp8f/9Pb7m/X3+5WVZpENHOhd7oihWBYI5rSUhT1N//9z9Om7WcdhA3Cbs/fkx3+fOocjW6W3q+5Hbj31XqtYJ5rqyiqy2vr29WaVXY2egCc1RW364crMkjMeXq3g2H130TP0yGBhnLQ5VPctC7EkdlQjCBAPPsAKwQjQJvNAJPWcaBJosN2XVpKZHjQrmqGYghuEBBMzwJeaTASvMridfF9n3w/smvu53NZ1aqtXxPGooMrA8wsBj4NlyDeCzZ4Bk4+ipuC+y7OEmXMbUdc1GSwxdb+a7XIVHDJASQ8qVGrACW+YxEEsxVtNR4Jm0o6/zaTqJqElN1RrbtlhroJPyKQunAAQDYYAgxHUVZZsE+UXvW5Y+b3dvj/vdclEs7qjWadcb/wGUWUCsz9+H7AAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/004.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/004.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/004.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/004.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -54,8 +54,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwVzM1ymlAYANDr5cMouWCMyiB/AnoVEAimSkJEQDOx1OjEiSZmkmzcNNNuu+6yy75DH7WTBzgHBaZxfFy8rdNkODhHXG7rr/PhLrHvIzsPh05HsxS1K4sSX+NQVTprIt8wPg7Fx/PdchLUUeUp8f/9Pb7m/X3+5WVZpENHOhd7oihWBYI5rSUhT1N//9z9Om7WcdhA3Cbs/fkx3+fOocjW6W3q+5Hbj31XqtYJ5rqyiqy2vr29WaVXY2egCc1RW364crMkjMeXq3g2H130TP0yGBhnLQ5VPctC7EkdlQjCBAPPsAKwQjQJvNAJPWcaBJosN2XVpKZHjQrmqGYghuEBBMzwJeaTASvMridfF9n3w/smvu53NZ1aqtXxPGooMrA8wsBj4NlyDeCzZ4Bk4+ipuC+y7OEmXMbUdc1GSwxdb+a7XIVHDJASQ8qVGrACW+YxEEsxVtNR4Jm0o6/zaTqJqElN1RrbtlhroJPyKQunAAQDYYAgxHUVZZsE+UXvW5Y+b3dvj/vdclEs7qjWadcb/wGUWUCsz9+H7AAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/004.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/004.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/004.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/004.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -67,8 +67,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZlJREFUeJwVzutumlAAAOADhwMdHA5QCgcRRC5FlKrDxipGnGJvRuOWetnaxKZbk2Z9gP1a9hR7hz3n4gN8yQcc9ex1e31YTxeDrg7xlVc9zNv7SWt5FfcbQdOrpYHvV0xX00RGJLwMLKy9Py7e9re7+dBEZBy4//6+vSx7rXq9Ztn0zIpc75xSG6sKxJqogio+/fO++fW6frob2YKSO/bv5/z758koG1pGtUKtUS/9dNmpqYbKYYPooKLb00E2HWT9NHEUI9GtWSfcfFkedj/v8iJyqlmWlEUW6JQwoqtbgOUUhpEAEBkWQ0QAIzWa8WA2fFjuV0UZnAdemrQ7SeQ6ApSoZgLIEQ4RyMkMxCwnA/AhCsLxOF/Py8nHThD7frvZuIjDuivwBCIMWE5moXw0iCCeMKwYe/7Tav1j+/L1ZlV025TSRhKnoY8Q4ZEM4BFgxBPEKwjJkBNNzdxdz++LMu9mo8u8nw17rQuP2gCcACACAUkCkniE2WMJA1aS8em0l9720/19+W2zPTw+bxaL2XgW1UJDVv4DU049lbH8358AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/005.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/005.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/005.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/005.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -80,8 +80,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZpJREFUeJw9zc1ymkAAAOCFXQh/qyiQGA1WiUKWRcXR4g8YMhXRaBrHSqbEZmyaaafTW3vutac+QR+300tf4PvAmNov2fzxNhxcNnUoL7tWHtNs5qZDQpuNtmnar8xWVTekwgkQ6kYFjFzna7788pDEXVIGwufN6M+vQz6zn7dvV5PQqdetas3S9VOhKDFiq3YBpq7989v+x3GT9D0NiIdr+vv7Ik/7x/0hS99FHRINaEDsM0GVWYlaFvAuW+/X17tFGFw5DaxP6xerMV3czvbpZhcnA+K0ncaoT6pSSWGlIbkCHK8yUGERRlyBRVgtGmEc0Im/niex75e10rlp9jp2paiJUO7ZNoCowEIMWJmBCgCSKJXC8PV6nRw2u6e7LOi6ZcPwOu2KcQqhgrEGWIT/8xAVBKGYTCYfH56zVZZGs326DAgZ0fa5foYQFngMWKQwEPOCihDmeQw5pVmp9akbToOBT6nnp+HNmDgi/+9nGRHwnMxxMuIUFikQKoCROy3rPvK3US/f3n14fHo5frqfv+l6Q0PVlBP8F5Z4Qgdy1TMLAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/006.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/006.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/006.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/006.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -93,8 +93,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZVJREFUeJwlxFtP01AAAODT9nS9nHPartS50cvW+4VaWTuYuE3qoOzCRhTKDF4QjYkPhBej0Zj46oO/2ijJlw8gSjgr92/Oj64WY4ts2ZJ6OUnqSXo+3qnyYBA5mec4esfraBKDRFoEmBLqanT3bv15cxJobUdUfn44/npdXhwET2LXM63Itr3tTk9tKiwmEAEEuDeLya/bze3VPGp1LI78+bL+fVfNcreIA0c3uoY5iEOv1VZZIrEEtEnrYnrw7dPLt6vDpK3HyoPTnW59kg+KvMiGgdVLfXdR7qXd3hYkhCWAE1URa7LcaioPZaJJQjP2vL3VtF8ef7z5vpmtH7lWvx9mni1DLDUIoCABkAAKASAC+t8CUqNhno3G1+9/vFrWrrlt+07o9xAv8w0CGCj9R+5RNEJYW06PikF6dnr5eln7lqHb3SR2kaCwLAE0JPc4XoGQsCzmeGU/zbPd6Omz4aysiiQzdMPvWpAWGVoEkEUNFkOIYUOiIWYgpmgcmmYSBqPh4xfr1Xy5qZ7Pd6MUY42h+L9CYT15SI7wsAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/007.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/007.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/007.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/007.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -106,8 +106,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAARxJREFUeJx1kMtKAzEUhuchfQWfwIVrfYCufAl9BV0UBBFEN07rZdU6tZ1L0mSS5jLJSY6csRYE/fgJITkfCX/hjOyamrUNY4JLK6Tm254LA5DyXxQhRGOsdc57j3RCc5hzGgFIv8mFcwOOtxESwPcwiYi0OayI6H0AgOJ1Xp4fHz3cTqsNX68b8QPnXAjRtq0QknPOGHPWIWIxK1/OTk7f5rOQsFe7XtH/jDFaK621czbGGEIYhiGlREICQMTnm+u7y6tlrZcf9VbordSMq47rXlmlnNKUnfEkwCis5u/l9P6z4YvFqqo2dcPbTtZtr0jYR2uXMwn0UEL0gXBuMMaGEKmvlIGa2CeOk8XjU3kxmXRMit4ysUuHUv7hC8NImM2GQsDDAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/009.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/009.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/009.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -119,8 +119,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATpJREFUeJxVjk1KA0EQhedSbryIB9G9h3ApCIJLV+6iCwmIaHQhwRgxEPM3nZnpdE26e6bt/5JOSNDHx6uiqEdV5pxHxBjj1sOWEON/jzEaY5zzWVkWvc71YvJNoeGitTsZk1xrvemTrLWImL089Y4OD56790LZsqwYg7quAYBSyhijVcX5GgAYY1rrFOBrMZsX48H7dPhR1T8VFUpppbSUrZStMc66sCM9nwWfSr9z2724Gi/Y12hClrQogRR1XqyhbjZIBpILlQLOOUTs3Nydn10uCB1+jnJSkSWdk9UsBwZplYFcMclFu7kQAiIupnn/bQDAi4ISUgFwLtVaqLbVe5TSMWJmrfMRY0Tng7HOOe99iJsJIoYQvQ970oWHx9fTk+PZnMxyOs+pEJJz3jRN2yohhDEm5f7oF2Kck1y6fd06AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/010.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/010.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/010.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/010.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -132,8 +132,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAUdJREFUeJxtkTtPwzAUhft3WZj5KcyIwoKEUFUxIAEVbBUgQSl5tHFeztNOYidxEsexUZqhDBx969E9557Z58fm7OTU1LZKqa7lHReTOOdd1/V9r5RUfzQTQiiltNfV22IBAgqcCGGCM5qiIkGEUEZLRsuGlqyq26Nhff+4OL90Q2wYIIxQFOMgymFY5EU9keU1oexoeH54mV/ceAHWDeB6kQ8TD6YuRElaTCBMaXkwSDlGrGrmwxi4qW46mm5p+t4wna3uuV5kO4EFfAgTWjZSqdlwuKC/r1d3tzbMDANYwLeAt9t75h7CIC1IkxcMZ1VBpkjjHxTYfD0tlzDObdt3vdCHsR+kro9wVhLKCK0JrcuqmToMSikxSNa2TdNUVU1p2XEupRoG2YuhF2KkF5yPWWbfP7vr+RXCJCsYyuthGCvJ/zTt8AvEr49DWYo7GwAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/012.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/012.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/012.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/012.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -145,8 +145,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZpJREFUeJw1j9FumlAAQCn3XlwLFwS5THBoUREFQVGrThQFqcW2OI1b0zVubffQLemSPW1fsOd987JlS07O23k4FGHzH7LF7eUsm/UVhreJckj6bxZTQVBUUqzreqdRMzStrhUExL6gTyhyLHy5TZ9uVvdZqHOSLYo/v+7SOIVsMccRRVbrFaOmaRVJEhHHApaSj4Xnu/W3j9dPb5MyLpiC9OvH9m5/CINt0+pZRsWpVUdtu6WXZYbHiKNEyH7eR98/be6zeVWQHZFkbnm3Ok/Th8eb56vkvN2zF1N/5FgywhhhSpdLg6YVnXXnA79G1CpRh25rlUVeGIyXGzeKTyeD+sgPAs9QXv55YE4kGglHNKYhBoinIYYM318G081ilJw147G5DO144r3uOE2DQRxFAwwgDyB/BDiK5v6aNd3OxeXkcD3b75a9ddAKBnbfaXtmIS9RAP4L/oMBwoSXo3l39+7i/SYOw26xrBOtZDYaVbVE0ZClAQsQRjkBQC7HcBRkX4nK2G9vr9aP+4dkOB36Y9fyavopycu/AcG6QZ5tuj31AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/013.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/013.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/013.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/013.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -158,8 +158,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZxJREFUeJwdzM1v0mAAgPG37wfY9n1boCsda0E+WqillBU6pIB0oyWMdU5QSjWZiYlmS7x48OBJz56Nf7CZyXP9PYAH/HXo37+OsnVosEpTqmSRd1h667HjtRu9Rt0zWx291tEUhgQBCUAAz7Ik/PYxfTgklqK1afnLdvS4X9zfvVsMhqeq5pod86zWUiolQhkWgQCKWTL78fD26/uNU9MNQv/+Ovz5edxv8jer7fSF3TYaXqfVPqlWCGOEAgb4PJ7+/v7hMUsGZ7oplPOX1qddeEwP+XafTAae241nY7fRrGBKCQXVUs2zuut5EJ675qnxvKTOz/vRzavlVbwMr/xgaPn9i3DotZsy+g8QkSGWABABpBAzAKkgq+5qNr1ZjuOJvQh6U98JXM+1KC8XCwwgLGEsISJxiD4FKSKSM5/c7aI8XWzS8CIOmk7PG/U1ReWQACB+GkPEcEFGmGHCEBaNRj269D8fd6uJa9t15aTq2LapG5DjAcQixAJEYqEoIcIIETkkdg09no+Ot7vbaJ3G18v5auQMtLKKOP4fvnBAu2x6fckAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/018.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/018.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/018.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/018.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -171,11 +171,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZtJREFUeJwFwdlymlAAAFBmImiqGQEDKmG/gFx2blgERFBj1SRax0lbmnY6XdKXdPLS9/Z7+gn9vJ6DBboa6CoYC1MXzVEa25PIBAzRrxz97QLtM2efO5vEmQcw86zEdbDMs3PP5ih2wgMXujQz9jwdSvyNbz4d8mYZPt6gU+mvY7vwncQ2Md+06uSap4fsOdnsSw15BnKTCL7JnZ+n2aeV/20bHnPLUtXUNmyRxbiRMENIZjim3X9+X6E6lrN0Oo8+LL3ne/R94z9t3FNhxVBLbROKLKaIWo6QwQkKI3i6BqehWpTHu+bHbvrn6+zlELwrjGiiuhq4hqYxGmAe9G7r+cf9jh7w8pUcIVfU4f3m88vjw7+/v35/mTUlXEUuVIFjTAIAsNu6etiuF1GM42QV54fFsqy21a45HLdZAHSevyvCVRIGEKYhWuYZti6z10VsSkDg1EtW4TVopLEchUkdKbLcwilpzLP08JIeiZxoKACTeAlcDckuhb+i8e7gjKDOWmSLoIg22elQve6gQ1yct/tt4oLAewTe+w/DSU4OEg7QDgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/019.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/019.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/019.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/019.png",
         "width": 1920
       },
-      "mostReplayedScore": 3,
+      "mostReplayedScore": 2,
       "start": 19
     },
     {
@@ -184,8 +184,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwdtu0mAAAOA+wiRkMlbWVEuhrbWlx78H2lLokVK6CQM6DgPcnDqRsRHMdqMXZplemezC1zDGB9L4BCa79/sg3vKA01ScUGC5qij9+Pnrz++/p+9XL0bT/cFRI4wazdgOIs12JcOuiACSDbsWtDhZMxlaI/Dv9/f/Hh5Gp2cHvQFRpjJb2VwOBrple6EMFJbloEq9DZoD23Z8saIS+OXrk29f79LjGctyjx9lYlXKZ7J7e6iuV59zcqHEQWhtjNanqunrZNGSZLKIy2W80+0yFR6UsAgIJk1x5dLReLZa37xdXkF5PkKMNEj6gcyxekjwhguEk/NlPBiTOO7yTLcKVIr4sN58vv2yWF5CGVyF9T4bHvudiRDPScFoeU5nupCjSdhseUB0eIZCCulwcv3pNumPIISQd6V2Xus/dedlsQbvwLRUp5XQrXsHvjuczEM/RAtIlByuP96lLxeQJXAorW3TDVRJtrJw7glDMIomSC0/THuHq83N2btV0O6+udicX10nvRGEoiW4yO5iDIaRuR1kG2XpMoUVnxG8OU7Ti+VyOHsl1GKgWXbdNavGf/GEdd9eMkmhAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/021.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/021.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/021.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/021.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -197,8 +197,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAahJREFUeJwFwf2OkgAAAHBeoXXnHObpQAW9kKQiQATu+LT4VvkSAbnTcYRea7vdXdey1tq1tfUA/dcb9Ij9fgB7rrKKTY0FAkV13VgVu6SokqK6LKtsnS/TtR8n1sKfWo70VudlFVDfGfS5Nhqckl2YGWJRvo0277Oi8l2n14Y6bYid8H6SmnNP0Y0zUQKc1dYKM42hKbQnjPDFcpVtC9txwVodBhvg0fHTJ0em6zqeZ1qWbZrAQE76pMLgGIN2Qz+YhVEZuJtg3gVB9hR9DsEw2BA4/vbu05fDt93+A1BDWAhjaXyosBPaubr//hi7dhl5UZwKLwmiA6GtVr+DpFm+vtjohg3U+hzC2robri73tFve/vj1ePhcxv7vv//Ku58K/QZ51mzVQV23ZvNAmxpAs0+d0G5XzgfKOjj8cTcfKbgpqo6V3dw/fN2We4E7qx3XBUFSpyYnyMAQ6RGvJw3SRAT/VfiAkBp0Ar9QsmC+vK52yzRf+DHLi5Y1kyRtRJAA0kFQjIIwhqJ5ihbblNfCFWQkytqsvL4xDdt0Fqo6ZccTbjzBMfw/yTR5P7+xNGMAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/022.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/022.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/022.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/022.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -210,8 +210,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwdtummAAAGDeYdmaaSxNa6fFeQBFKAflJPwUsXJSAQGpBWw329J03dWyLSZNL7buWbaLLX2mLXuDLvs+iNcsxfBUyyPaOENSYfr2x8/HP7//bjZ3cLH08tmLQqFkWdORbggcL/ICJOmm4S9YTurVqqDVOFLU778en57+ZadJCy7JGLr9fIsmKXt8PFLBECgQN7TUWaxIiozWhTqicb0v93cPX78FftDZ3z/utuXG6z7eOU+SNI7jMITKor/DBzgtc7UKIPCRopgc7eiaH0WGPqQPKkR5j2o2b67yVbZKT1OoxDjbtM0MxmytQlE8wugkUs2X8Yf7h3B1qQ4GVRjeLRTP0iyOYt/1oa2WUiTGh2BqmzYJXNZOTXNym+dxvvEW567r0RTbbmLrN+skySYTF4KRwxKuwz33lTjvgikw511pxqpzVR6d2EYYRJY5CYP49ub91eW1YzqQgLVQvF/saDusUyFAR7Q7fVPoDTReiJZnnz9+WkQn3sx3TGtqOYAXoINyZQ/p7tapBkYTGIFSsiQBDmvVUNY60t9ly+uLi/UqEzmOIUgwUP4DbbaCoOpd208AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/024.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/024.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/024.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/024.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -223,8 +223,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUWmhaXmtAODtubnafo6uanqWgpKuVkphkWlhtZFxna3ZRYHpYaol4gpSDfn6CcEsAdXV9fHyCVFVfbnF6tLi+qq60oqSqnoeDXExLODg/X2JtO0NaJy9Jb3SCk4+Oh24yAHl8hIWHkI6QmZOVm7S4vra7waalqo13dHFdWktRYk5niD9ZfSVCbHJ+kqSgn3tmRwCOlaGZoKyhqLStsrm0trqYnKJiYGRmUlBkU1AqLjpGXn5kfJhbdpaJlKakoJ97dHMAmp+poaewkaGyrLG4pqitJCUvEREUNTUrVlBGKSolGxwnjZGYr7K3rbC1enZ3aGBgAJGZpZ2lr56ns6ewuHJ3gRcZJSIlJ2htSWhwSy4zMA8OG1JTXKaprqChpmJeYD86PQBvd313f4Z6hI52hJM7Qk4SEyApKCOVdU+YeVQvLigWFyQvMTxsdYN4fohFQkcREBYAfV0xhWU4j3FEgW1TJigyERMeHxoZe2ZCfFw8KCMgEhQfHR4oUFZkVltpMzA0KyguAHNRJHhXKYVhL3FTLBoaIg4OGSYkIFxNNlVGNSYhIg0PGBUWH19lcVlhcB0cJCYmLkteq81cKPT8AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/028.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/028.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/028.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/028.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -236,8 +236,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBWUllsbnl+h5B9gYiEhYtYU1dUTU+PkJaHhopRUVdGVm2IhYaRgGKAeGh+fIFzZ2QAdX2Kj5ijgIWMT0VFn6GmlJacio+XpKuzhHx/SkhUN01ok46LfWA8hXZchoeMamNkAIeWo4mYo1lja0pCRH6Gj6WzwKa0wnB5h0NBOjQzMWRtfIKEiWJOUX1ycId9dWxscgBjcX51dXxWWFtFTVVfWFeVfVyehGA7ODpMPy87MSctNENJTFQrLTY/OTh4XUF1cXQAmaStmZmeYFthWFZgb1tUjGQxlGgtQjkzSkxLQEA+QUtbOz5HHRwkFxYeOTQ1UU9VAIKQnis+VkQ8QTs4QTE5SG1YQW9cSTxJWT05P0E8QDpKYTAxOhoYHxYUGy8yPENMXABidIcvOUoTGCQfJTEiJzRNTlNQVFsrNkYmKC8jIigiKztEUmY7S2I0RVxEVGlUZHoAX4GfTmV+Fx0rLDVGKzI/MTpIMTxKJDFCLjpMJjFDLD1TVXCPVHKVVHGSV2yGTmF5AEpvkj5cez9ff091lkRoi0VtkUp4n15kdUNffkZkhFlcbEtvk0xsjk9ri09nhEZceKLDnUGSXUV1AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/030.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/030.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/030.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/030.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -249,8 +249,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBcZWlbZGlYY2lcZ25jbnRha3CHjpPT1NaOnqxCd6Bgd41YT0xCOTZZREE9MS8TExUAWVxeX2JiWWFlYG55fYePa2hnXlpak4uJgZOgRpvMWJK6e29tUkM+ZU9LSjg1QDYzAE1QU05LSj0/QGV1f2xxd0k8NzUvLCQeGiIhIDuLsVWq2Xd5gEs8NkQ4NVA+OmBPSwBcbXx8i5aXnqV/jJNjX2ApIh8WFRQfHRsZEQxITlNjlK10jZxRRUApJCFNQDxhT0sAYWhwlZykub/Gj5GURj46STs4OS4rTT05XkhCYVVReYKCcnx+RkVEKSMgPDQwWEtHAFFcY3h/hb3Bx5OYnk5OU2hUUEg5NSMdGk9APGhsbWhzdktQUEVLSUhKRzk3Nj83NABve4OOmqK6wciaqbQ1ZoxweoJlZmY0NDROU1JrcXJOVFM7QD44Ozg2OjsTFRocHBsAcHuCl6KrrrnDjKGweZmyjZeffIeNVmJoUFdXV11cP0NBNTYzKiooFxsfCAkOLzQpAGx7h4WVpIeSnX56e4ONlmBwezNDTkdSWmNjY0tRUjg6OCkoJSQkIhoeJCAjIFBYQwEbnMugtrBGAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/031.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/031.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/031.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/031.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -262,8 +262,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBfYmNfZWZaY2hbZWtkbnNqdHluc3anp6qgo6lNe6BEeKNXcYtkWFVMQT5YREE/MS4AhpWiZGltU1dZYG12cX+KlZqeW1FPRj47TUM/P0pTSIm2apCwemdiRTo3VkVCRTUyAEhsj19zh0tISFtmajxifllcYj4yLSUiHxsZGBIKBTRLWmmYt35zcUQ4NDMrKE9BPQBDX3x7iJOwusOFjpVBYXtPSks4LSkZFxUyJyUzKCVOOzRja25wcnRBNzMtJyVLPjsAYXyVd3V4s7i/pKmvQDw7TUVBa19eSjYyQzUxU0E8aGVkY25yVl1eNTMxLikmOTEuAGV/lm1tcLq9wqqwt0xfb2VjZYKDhl9OSxgSDz9AQGhwcUZMTTg8OjxAPDs+PSMiIwBmfI6OkZS2vcWlrbVGep9mfIuDio5ud3pqaWphaGlDSUc0NjQzMzAuMC8bHiIICQ4AiISGlqCpsLzGj5umhJ2xi5ihf4iOpqOjyru3hndzRT87LSwpJiUiJicoERMaFBUXAHtvbYqBgJ6Zm6mmqK6op5GQlJuSkqeOiIdtZ3VZUUo5NB4eHSEgHyYoKhARF0JGMOeZoX+Pyva0AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/033.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/033.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/033.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/033.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -275,8 +275,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBhZ2teZWdZYmdcZm1lbnRncnZ5fH+Pj4+Ah45KeJxGeaFaeJF0Z2RJPztdSUZCMi4AT1JUYGBgVFpdYXB6eIaPkpWYXFFOLyglNzIvOj9ERoCpa5KxhnRuRzs3WUhERjUxAFNcY15dX0VGSFpocD9kf19aWzswKyMhHxoaGBUNCC9HVm+gwYuAfks+OTQrKFBAPABba3mFlZ+stLt2hI4/X3dOR0ZFNzMYFhQZFRQfGhkvJyRcaW9/g4ZHPTkuJyRMQDwAXGFoi5GYt7q/k6CqSltqZFJMXlBOQC8rNConRjMuRT07W2VnY2xtOjk3LyknOzQxAFNganN9hb3Cx5ylrDVqj2dudnt7fU0/PB0ZFkE9PFlcXVliYkBFRUFFQkxPTiknJwB2gIeWoKe6w8mYp7M+d512iZWJkphka21dYGFUWltVXFxKUE83OzovMTIjJSkLChAAdH+Gl6Otr7rDjZ+ti6e6mKGpdoCIVWFpcHp+R0xMSlBQPkNBMjMvHyAhDhAXFhYXAF9ue3uOnICMl3dxcXN+iFFjcDZFUBgnM1leY25ra05UVEFCQS0qJx8hIxETGkJINxaYmtZ7rg0gAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/034.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/034.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/034.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/034.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -288,8 +288,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwVwo1S0gAAAOC9QNd5pt0pnCcqZ11OOK8TTuskT2gBqZUlkzwEhmMwcLC/2NwgxphN4Fx525AN0vPn6LrqDTu/+wCa5dxTrslHj0cfjjnGJ9a8HtA1E/L7PLNP0PS7+vEqV9wSGOoQgZOJFzTLAQxTmXNOjTwYXZx/RiIIBu+tLICxcBRa9vDxRTXvFQ+fNrElOInmUh9FsQp82N6ZGBlzjE/GwuFf5o+LVlur1VqCKDM5SynpSvlMLZ9/IxVVU2RJVlQALxBu5zTomtsMvJII/K/du/6uaVXh9mb4c/jv8u7P5c3v/vVwcHVlXNhq+wywB4M3UGTeOV3ah8Vcps2xTYqqE4TdNft9+75t2VavZ1mGYbTaHUA3e2gW9y94kLfR7M77r0W8w1dOq6Ju6Kahd7tm17xnGIamabKsACTLFw4O0ivPj/bgRDCYhKA6kpRqjWbHlNTzitRhqie00KC4OsGImTwFYEUa3dqmvbNcOsFmkDT0mgddLIIdn1plXkXyTArn4xgHo5VPKXJzFwGyRXZ/LVByOxqRdT4aavhAc2nmS2D1M0oywgl7VCjFQ9ndUDAY8ftexjbA/8KhtF94pA1FAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/035.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/035.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/035.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/035.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -301,8 +301,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjmDB1btfEWRNnLM4prIwP8MsKC3KyMJOXk5OUlJQAA34BISEhUT4+QWlpaW0dbYa5i1cvWblp9abdGWmZS3rbFnU0VsRHmhvoCQkJ8fLwysnKWurpykrLSEnKaGtpyCnKMyxasWHbrgNHTpwtLynvKy+c3VRTlRRnY2To5+PnaO9goKWZFhTgZmnuaW/rYmuloaPJUNs1ddr8ldv2Hp3W11+cHJ8WEZYeFuzpYO/m4h4Tn5wQFhrt7+fj5BDg4uzt5uzs6chQXFbR2NFX2z7B3c1zcm3F3Nb61rys/OgIKXFxRiZ2FRUNL3d3Q319cVExPUM9Oxc7hp4ErRl5VnHBrizcwuFeHu25mYEOtu5W5sJCItzc/GzsPFKyStZ2jtY29jaOtnYu1gzt0aq98WqWRppcfOLKasrR/l6hjg46aqpcXLzcvII8fEIcHDxSMgoeXr7uPm42jpYM9eGq9RGaSipqnNwiDj7W8ZmBxga6Smry0nLSnFz8vHyCPLyCgkLiiiqq1o7WJlYmDGUByqUBqopKKoJisgFxbqnlIUFJrn5xTpoG6lzcAgJCooKiUjz8IrIKisZWJloGugBBXHSrH43sqwAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/039.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/039.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/039.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/039.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -314,8 +314,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCVmaGVmaGVm6OepK2TkZVyXFhyWVRPQD0jISEXFxcREhIXFxkfGxwUExUREhUTFBUAmqCoqq+2tLi+t77DraKhood/j3FpZVBMFhYYIiIiIB8eFhUVTj89PzIwJCAgMSoqAH2Nl5eiq7K4vcLHzKqcmZR4cXpgW0k8OhAPEUA9QHV5flJJSF5OTFZGREw+PE5CQABpeIN4i5iImqiQnqh8c3RvW1hORURaTEk5MTAqIiMeIyhPTVBXT04+NzYuKSkvKysAdVs8jXRRlYNsVVtcTEVHf2djeWViYVFPNC4tFRQWAgMHCAoPNzs/QUNEGhodJyorAJFgJZhjI5lkJTUxKhweI1A/PVpHRTgwLislJBMTFQsOEQsMEAkKDzM3O1dbYEtPUACBWSePYCeGXSwfIycMDxZBPzc7OTAkHx86OS8dIR0ICQ8ODxMLDA8PEBQ0NjpCRUIAd1IjiFwleVYpHCElEhYdT19HYHJTR046RVA2KjAnCgoQDxATDhAVEBIXGRseMDUxAGdHIH5VI04+KBIaJCYqJHh+TXF9UV9xT1FfQh0iIAwNExMWGxMXHQsMEhIUGSwyL+jTdupX194BAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/041.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/041.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/041.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/041.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -327,8 +327,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKjpmIjpqTl6Kdo66UlJxeUU87NzUwLi0wLzAlJCUgHyAbGxwZGBsZGBwPDxISEhUAlZigmJymnqKro6qzrqOijXhzNjIxLSwqKCcoHh4fGxsbHh4fHBsfGRgbFBQXEREVAKior7Cxt7e5v7O4v6ialpZ6ckxBPisoJxwcHBYXFxYWFhYWGBAPFBERFBQVFhwcHACtsLa9v8PBwsbEx82hmZlwWVRMQD5DODYfHRwUFRUVFhUjISEuJiUkICEmJCUqJiUAf5GelaSvqrS8rre9gn1+gmhjgGdjZ1JPLyknFxQVGRgaMy4tNzAvJyQkIiEiNjc4AHR/hXyIj4mapmVzfh4eIlxLR2hTT01APiUiIRcVFQcIDBITFhMTFhETFz5CSElPVACKYi2PZjGSc0xAQ0UNERhBNzdLQD4fHRsqJycxMjQ6OTtcU1NMPz4xLCwxMjMkJygAf1UkhFgjiFskKCkoDRAYJywmTFQ+Ly4nPT01eWhmbFVSRzIwPzU0ODAvIR4eCwwNAHZPI3hQI3dSJyEjJg4RGjc+MmVzUFZhREFRNlI6K3EnJzQZGDAoJ0U5NyIgIBIUFER8ehA5KqgnAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/043.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/043.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/043.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/043.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -340,8 +340,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwW1T0nAAAPB9BV6Udq0GBRuy/Te2wfFgTHRYyJ5cwkBEFhoMh24ghzzckYoFd5wG7dC46kVveuFd7/qC/X6QdXRsVY4PZEVIbPRrH+ezr3PHWdw/zJxvN5PJcDQaXl1d93rF9Lsg6keeIdDg7Gzc6/bNk4os3ZzWp9Pp/XJpNa20uJNMbSZ4bj+vXZtGY0/Ocm/iOIC6RnU5GT8unEdn/u/Xj9/fH7RSgYmwVIhGCVySxQ+7qrErfjarLU01FAFqlg/uBhd/Zrd/ndm8Zd22W2+3twI0YKMhwAZruj7vtE9VRY7FjiShkVMhs1j4cm7/HI8Ww0G3XBKTHMkygKaC4WA0EbPLh3ctqyEJPEnlNpM1RYRUfssql6YX7U/16mVFTyc3fACQTJAMM2E2FPfjxRRvS5nme/l8P3eiKlCEANlt3j4szvqdy3qVIADixdYAIFiGwgHvx/e4hCllOsWCndf0zA5EoVg4gHNsyMhrTb0EGMbj9a+sIhggaYZZx4EQiRZSKV0Sszyfjq9DwIeRXnTN85r0YTRBBigaw0mX6zns9rk96AvYg8Cv4BXkqQt+ueqGnyD/AXNCiTtT8NZHAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/045.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/045.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/045.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/045.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -353,8 +353,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCHjZiHj5qTmaOXnadqYGFlT0tfSkYrJSZEOjkSExMXFRZAMjAnISITFRcPEBEXFxgAlZylmKCqnqiynaCmqZOOnH96gWVfMiwsRDs9W01LUENBhmhkTzs5OC8uQDU0MjAtAKits7G2vLnAyKyssaaNiJR6d21YVSsmJiQjJZN7eoxyb4tycHNZVn1jYXxjYlNKRwCtsLW+vsLFxsm1tbiBbWpfT05WS0tSRUQ5MDBnW1x7ZmVqWlpcS0tnVFNmVFNPR0UAgYuVl56mr7O6mJiclH56gWdkiG9tVUdFIyAgBQcLQjo6U0dFPTU0KCQkNjIzSEVFAHR5en2EiISNliswN1JDQWBKR2FNSTYvLRwZGxITFmdMSk8/PR4cHBkZGklLT0lLTgCIYSuTazNuYEoQGSIsJihbSEYxKSghHh4sLCZ5aGZ+YFxmTUk+NTQaGRofHh8VFhcAfVcki14jUkIqCxMeFxocT1pENjUvLS4mR0w8oIiGm4GAd11agmhlODExHBwdERITAHdRJH5VJEY5KAwSHSUpJ2V3VVpqTE9eQTpDMmlbXYdwcG1ZWWdWVTszMxESFBcYGfkyj+rhq2kvAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/051.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/051.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/051.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/051.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -366,8 +366,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBYTVVvb3l5f4iChIuNjpRhW19dV1uHiI+Kj5iSkpq5wc9ubHOKeFV7bU95eYRrYGIAfYORk5qlaGBjVEpLqquvmpmgk5eipKGmmZCTyMnVvsjam5+oeWJThHFfhYiSc3R/AHmDkHN9iUtJTT00NnZ7hKGnspqgrYGGkFNDRIuGkHd9jn2Ai1VITWdZW4RxYHFqagBndoZ2eIBERUovMjtrYWGOcEygfE5USD4xNkWToLR0fpJ7fYkuLTUkISZqTjdwYl0AlKi3jJCaTE1ZWVhkbGNkd1gykGk4RjgtXWp+obPLcICYd4CRLiwzFBIaJSQsQ0FHAEFRZholOVpOTj86QSs0Q2xYRXFdSTw/SHB/lZqqwGZ3j2t3iy0uOBUVHSouO0FPZABWYHAVGiYvMjopLzolKjZOT1VRU1gsM0BncIGBjaJseZFqdotJXHUzTmw/V3RPaIUAW3aUN0ddJCo2KTNDKDA/LzdGLTZDLThJcn6TZm6Bc4GYZnSLWXGOUHCTVGuHSl95AEZmiURgf0ZlhEpqikFffkVnikRtkmN2jn+ImVdqg2pxg1RgdFFhd0tddkpackJSavpqr0AlaWvwAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/053.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/053.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/053.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/053.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -379,8 +379,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXTlNvb3d6gIiBhIqMjpNgW15dV1yHiI6UmKFsY2RJUmFheJSAd2N7bE15fYk/WnsAfYSRk5ukaWJjU0lJqaqumZqgkZagpqmuhoiPYVNUUVlrWHmaZGNnhnJdbXeFJVOFAHmDj3N+iUtKTTszNHV7g6GnsZigq4aNmC8vNE5HM0FETHh9h1dVXmJWWmRRSj5EUQBod4V2eX9DREkuMTlrYWCNcEufe01WS0MfHyJqUjUjIihgYmpQVmE/NThYQDNJPz4AlKi2i5CZS05ZWFhja2JjdlcxjWU0TkI5MztES0c/PD5Jho+bo664SUZMIR0iQERNAEBRZhomOVpOTTw5QCs1RG1aRXBdSEpQWycwQjIqKyw4S1FebktPWB4hKygtOzVBVABUXmwVGiYuMDgoLTcjKDNNTlNQUVU0PEkjKDMvLjEWHixKWWw6Um0xTGtBWXdBUmoAV2+KNENXIyc0KDFBKC8+LTRDLjZDJTBBJTBBLDhKHSg6VmqCVXSVUXGUVm6LR155AERig0NefEVkhEtsjERlhkhrj0l0m1pkd0ZQZD9bfGBhbV9yiU1hekted0tbcjlLZUBZmYLDQ7o+AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/054.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/054.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/054.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/054.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -392,8 +392,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBxlrdhj7lEea5Bd6tPiL0ePGMwYZREea47c6lFdqU6SGIuQWFFWHlea4Z7e4WAc18AZ5jAXJrMSYS6S4i/UJPJJkFjV19xSEZPR0hYVlBZICtGHSxJFB45Nj5RioiQhHBMAGCfz1qf1U+RyFef2EGBuDlAU3lgV2xWUXxjXntmYy5EZShDah84XjtMZpWVmodzXABhpNZYm9FNjMRRlMw0aJxQT1p0YFpYSktLP0E3LjAgLEBMZIVVb5Bid5KcnaKKgoEAWJbKVJTLTonAUI7HLFmINjVAWUZDWFJJPUE4REk9CwsQSU5bn6m2n6u3jI+WXFdbACVKcx49YitXhzxunx1CbSQvRUAxMWJbSm9vR1hfQxUXIBocKXqBjJykr3l6gD88QgAaPGQUJ0MSJkMWOGIdNlkjJTE4LzRnTzqZakdsVzsVFyAVFiFMUV5sc39eXWMhICcAHD1mFDJWFihDFSpHGTFSGiAuMiszYFM8g2lETjwpEBEaDg8ZLjA8RklVPDo/HRkcABIwVBErThIrTBUpRBctSxcmPiciKl1RRGxTPU09MREPGAkJESkqNFRYZSssNxMRF8vBkX3Ju+OkAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/056.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/056.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/056.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/056.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -405,8 +405,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwVlv0gAAAOC+Gw+G0IPSA6iUgpS2awstDFooRWAMHXRjLIO5BSgOrDOgMUwXNV4JMyyYxQcSE1+nyf7hvg8wM8rmhmgmExmBU9gYzfCkaXu5GuJFDuvV7+P+u+PupLt32D44/zwfDXqAHEYb2VjniWzKbDHFMxiULDT9yi4Tot73uqvzt9fLi+vl/NOr0ddvP1++GAAVNWEVpHZR6pTW7ZqYCsPahtazX1MEaTfrv8+m/5fzm1/zxezN4vLqdDwEJIZqGKqZjLcK/L4eLfN4jgtbRr6sKsOd7X7z6RdneDEZz5zx6s/fk/4REMDJrMBWVc7SBYMPpaOYROOllNjZLJ8NjgY7jXGr8cE+tvfboxOnXq0BuJ+I07SR4lWWiQcxGkdjoYAuC8WkeHrQWn2cLabOv8sfg13LvQYbehEgMeIxRUVCFImRiAdEvZ4ghmnp9ZzIbRe0SWevbeaH1jOOjroeQCT+CAA9PooIIiCKgH7PGihGIirHJ4SIIsUYkrSK+vNKqZJJ37vjcrsgnKABFMZhEEMgzO2Cc5K8mDpbeQOCfKJCh0gfSwUzHLulZf0wfv/uQx8SuAUKBXQCH1F9UAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/057.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/057.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/057.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/057.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -418,8 +418,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCDiJKJj5qMk52Pl6CTnKaFi5NbVltHREdscntzhpVkdIUgHiIPDA8IBQoHBQkKCA0Ai5Kbl5+nn6atpK20pKyymZKUh3Z0ZU5IYlVUhI2WeH+GPzk8MSUlGBETCAUKBQMIAJWao6SpsKqwtq60uqWqsJWGhY92cHdeWV9JQ1NfcWN8mFZXXT8wLzcoJw8MEAgECQCan6aprbOtsbersbapr7ZtY2RJOzpZSEZQPTmEgYZunMNIXHVMPDg9Ly8eGRoSDhIAmp6lqa2zqa61qKuyrrG2jH5+blhTd19bak5GaGt3X5bBU3mcPTQ0MSgoLSYlIh0eAJmepqmutbC2vLHCy5nB2GSAmVdEQE45N19FPjRGYy5YiUBmkDg3Px8ZGDQrLBoVGACTmaKqsLWRrL5fm8VBeqwlQWM9NTdYQj5PPj0qRWktTXcuTXc0SGIgHR8cGRwODREAh42Wl6awQ3CXJlSHK0t1I0JqJSs4OSwpLTA9JEdxKUpyKEZtMViDHSMuBwQIBgQKAIOGj2WNqR9Hcx87YSFAZiBCbBo0VhUYIRgvTCZLdyJEbCRGbhQcKwQCBgQDBwQDCGb7np7tEW73AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/059.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/059.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/059.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/059.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -431,8 +431,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA7MS8sJiQfGBdIPz1dansUKkUpJSdoVVCQd3GhiYSiiYOHcm45TGY2SmVqcX18foQAPzIwMyspGRQVGhMUTVBcOj5PMCkpYE5KfGZhjHVwknhzaVpXiIqQmp6lk5edf4GIAFhCMUUzJSYeGiAaGWVlapeUmFhGQ3BeWl5PTFdJRX9oY3poY6SjpqyxuJ6hqH6BhwBhRy5KMxwyJBo9MCpXT003NTtIOjhtW1aagn2XfHecgXyhh4FPSUxpbHOhpaqGh4wARDEgOykZMiQaNiggPjIuDgoPGRMWTkA9fmhjcFpVWUZCZ1VQGxYZCwoQRkZNiouQACsfGScdGCwiHSsjISwmJBIOEycgID40MUk8OWFOSmpTT0g7OgoHDBcUGhoZIF5haAAZEhIcFhQgGhglIB8cGhwOChEtLiRNRzsnHx9AMzJaTUY1MyoOCxISDhMaGiE3OUEADwoPEQwOIBoZKCQmExAVEA0UNzwvT1c8Pj4uKCYcPkUvRk82GhgeExEYFRQbKiszABAMES0jJEY6OSQjKhUTGRQSGi0wLFZhRE5YPE5YPVNdQlFaPx4dHBQSGxUUGxwcJEqHcINE99JRAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/063.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/063.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/063.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/063.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -444,8 +444,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBtcnyDgYVPQ0FVSUlrWFVuVE6KhIeJlaB9iJJxf4txhJVbYWodFxkWEhUFBAkHBQoAdnyGjZGXODI0U0VDcFpVZEtFYlRTi4yQkJadiZGYhY2UcXB1MikqOywqFA4RBwYLAH6EjqKjqVBEQ0U5OEc6OE08OmtXU4dxa3hwcoyYpW2BlXh9hkE3N0k3NCQaGg0KDgCGhIqrtLt8foZRQD1YRUJfR0JjT01viqOLpbeOqb1plLlmhKFHPDtFNjQtIiEgGhsAjaCtcabMO1t/TTw5SDs6UDs3STxAMl+PPXCgRG6YgaTAbZzCQUBHKiEfOCwqNionAEt+qzJejSVDaS8vODcsKzwwLy83SShHcSlHcCpIcCVOfTBwqDtKXRwUEzUtLTgsKQAkRG4mRW0rUX4lSG8dGRwbHCQeOVorT3slRnArSnMlS3hki7FYd5YYFholICAeGR4AHj5mHDpgIUZxKVqOJ012JEBkJEZxJ1B/IUBnJ0lyI0p3Q3KfQ4vCJ1V9FBEWCwoQABo2WhcwUBs6XyRMeSZRgChNeCRLeTtWeC4+Vh48ZCZMeStroSlrnxYoPQYECAQDB6bai0FLuhrzAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/065.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/065.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/065.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/065.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -457,8 +457,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAzP0U5RUs3PUJeUlFZVFRCTVJQWl5ZX2E6PT82ODpCRUZMUlRITlBARkg5P0E0ODsAMjk6Nz9CPjo6dl9Xb1pUfoCBgIeJLy4wUEJARjs6GRcZREZHREtLRktNSU5QSEpMAExpelVtemVYVWxRSWFKRM7My4KFhjYsKodnXXdeV0czL1FHRoKIiqepq6uvs5OYngBGdJhQfZ9iV1dnSD9rZGNcX2AlHBxFPj1tVEyGY1tpTkdfSES3s7S8v8ObnJ+UlpoAJkdlSGqGbGVkWUhFRWJ6QEpPPS4rSktNU1Zde1xVaExEUjYwjHt3tLi7lJaZkJKVABk2VC9VdlZrfVNjcTlZcjk2OEE1MVxfZTNJY1dbZoF2dVFLTV9VVKmus5ObooWMkwA9T2MmS2whS282X4A0QEwjFhIvMDYyR187RVdqam+Tn6ZyfYiAiZGxt7uao6tzfYcAaFhTM0RWGTdULExoJkNeGCEtHis/Mz1PTUZKeHd7jJKXcHuFaniGg4mPeX6EWmBmAC4wOSExRSMtOygpMCw6TC4uNy4wOTgwMS43SFxSUmhlZixEWyQ1SD0/QlxZW2FgY81jmZPaerZGAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/066.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/066.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/066.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/066.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -470,8 +470,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXYGtcZW1hanJmcHdrdHtveH9yfIJye4F1aWeDbGZ0XVkfGh41OUBqcXtgZ3FdY24AXmhwZ3F4b3l/dX6EeYKIe4WLeoWLh4eKr5qSnod/h29qMiouLTE6eIGLbneBZ3B7AGpzeXV+g3yFin+IjoGKj4GKjoSOlYuKjJl/dYFqZXJeWzcuME5HS4WMl3yEkHJ7hgB1foN/iI2FjpOFjpOFjpOIj5VscXZfXF9+ZV9RQUBpWFZiT013bG2Rm6OBiZN4gIsAe4SKhI2TiZKWiZGViJGWj5ecV1dbSEBBjXVtfWNchGtlX0tINjM6WWBoipGXf4aPAHqGjYOPlYiUmomUmomTmZCcokxPVh8fJU4/QFg/PlVCP1lGRDw0MAACDDM2P2NobwB0gYt+jJKGlJiJlpqMmp6AjJMaHygCBxNFSD9bUEUtIyVNQzxBRTAPEhkCAg4NDxkAcIGZeImfgJGkhpanjZ+veYiYMjtJFBcjTF0+ZntRQ0s0PkguKjIjEBIcEBIcEhYfAGx/mnCDn3aJpn2RrYCUsIOXtIWZtXKDnWp7aHWHU2FySFNiPycuJAsMGRMWHhEUHtJzrtt2o57rAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/068.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/068.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/068.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/068.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -483,11 +483,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAzVHU2Wn0jOlMJCxQAAAlCRE2YmqGdn6eqrLO/v8aTk5oEBQ4CAgwBAAgbKjpPfKMAME5sMFFyOV6AUFtxQklYZGt3lZeeoqSrtba9wsHJ0dDWZGhzFBkmJzVGUX2gVIiwADNRbzFTcz5ef4SNp293jVZdaGloa4F/ho6NlJGPl5mXnnuCmHN9lXmbu1qbxVWNtQA0VHItUnJfc5COkqxtdo88Q01DSU9haXdqcX9pbXlkaHJ7hJyosMWvw9dgnMVimcAANlRyQV59ho+pipCpWWF0Hys5KkRfNlZ2MlJzNVJwM01oh5KpwcfWyM/bbaLIYJrCADBPbGFzjouQqHqCmUdRYiA1SjNUdTVYeTdcfzlaeipFYneEm8LG1crN2IOsylyWvgAsSmhlcoqJjqh3fpVATF0tTm07YYZBaY1FcJdFc5wvT3BufJW8wtLIytWbs8tdkbkAKkVgYmp9hIqiXWBvLkJVOFx/PWKFQWqQQG6WSXqlO2KGbXmRwcfWvL/LlKa6V4ivAChDXzRCU0JDSSk1QixLajZXeDhdgUBojUFulk17o0BxmVtqf73Azby9xnmOo1GCqulAwjmLcfXPAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/069.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/069.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/069.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/069.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 3,
       "start": 69
     },
     {
@@ -496,8 +496,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAdR20aSHA8WnaIkJZtbnIyLi8mIiMZGBgLCwxOT1GLlJuIkJdbXWEODRAREBMSERQAH011HFF7O159lJqeb2JhNCwrXklFZE1IOCwpbG9yj52qh5GcRkVJGRgbFBMVEA8QACJTeyJZhTVbfJOboIh4d2hTT1tHQ15GQWlWUpeepJKbnI6Sljw5PRkZHBUVGRQTFgAdUn0VUYBFbY2OlJ96cnVtWFRZREBUPzpybm6eqa+Sm5+UnaRXUFFAMS8ZFxoTExYAQWyQc5GqnK2+jJWiT0NCTEA9Tjs3XEtGnJ6hqLC1nKq1m6WvYlVUa05IMygnDg8SAJ2msqGotJOesIOZsktQXDUrKT0uKkVMVrXAysjKzK61u62xtmJYVlxHQ0g4NRYVFgB3g5V9ipyDj6GFk6ZmfJY8QEsyLjBNb5C1wMrKztO/w8a/w8ViXFxBMzBdS0c8MS4AanWHdYGSfIiZg42ekZuraniKMDlGepKrxMnPtLzFtrzCxcnLhIWHOTEwTEA9LyYlAGNvgGl0hW96jWJvgWNvfYKMmj1QZYeUpLzBxqWuuaKqs7G2uaGnrDc4OwkHCgICBpFBsC9YSWKZAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/071.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/071.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/071.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/071.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -509,8 +509,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAyISQ7LS8xJyphXF9tdn5xeX9zfIN4foSik46kj4iAa2UnISZITlhsdH5fZnJdY28AMh4iRjQ3RTc4Z2BifIOJfIOIe4OKgYGEppCJgW9rcmBdQDc5TU1VfYWQbnaCZ297ACUXHFRAQlBAQmRdX4SKkIOJjoqRl4KFiYVtaH9nYol2cW1bWHFiY4OMlnuEj3F6hgAvISQ/MDFGNzdhW12Nk5p/g4hhY2ljYmiTe3SJbGaagHhrV1ODfoGSm6OCiJB4f4cATTU0Sjc3MCQlZGRok5+ld32CODQ5OTU7bFlXcFVRcFpVW0pHRUJJV1tlh42UgYiQAEQ1OkcyMVdWV4aTmo6do3yHjUQ+QTU0Oj45PG5cVzswMFVEREpBOgEEDSkrNVVaYgBbZn5NV250gI6Un6KQm6GEjpYnKjIJChc8RjhdXEs9MjJaT0pLUjkfJSMFBhILDBUAT1pzY3SQUmqNYnaPk52jc3qBFxokDQ4bTFhAeYpaVl1CSVU3RVE0FRgeERQeEhUeAFZie1diemJuhk5hg2R3lFtjcBsdJxUWIktXPHmNWmZ2TGVzS0xXOwwOFxQWIBIUHQYmmgKLKMEZAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/075.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/075.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/075.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/075.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -522,8 +522,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAoSGd0fYV2d3s5NTUzKypENzUlHh1TVFWVnqKPmJ1pbXIcGh0XFxouKCc8MS4xLCsAL1JzhY+Xd3Z4Ni4uY1BMel5ZblNMe3d4kZ2llJyiQUBEDg0QFhUYFRQWJB8fJiAgAClQcoWRmIp+fGpTT2JQTE48OFxGQoWGiJOhrHuDizAvMh0bHxYVFxQTExQTFRcWFwAmUHOAipKYmp9/bWtsVE9kTUlnU0+RlpuVnZx/goUsKi0WFhkaGRwXFhkREBQQDxAAJVF1j5qkeXqCZVhXUUI/Tjs3XU9NmqKnl6KqipObUEJBOy0sExMWFRQYExIWERATAHeLnp6rvHN4hEg5NT81Mz0vK3VydLa8waOuuI+Um2NQTGJHQxoYGRAQEw4MEAkIDAB+hpeEkqVxiaJLS1RPOzZBPEFcdI7HzdTGys6ipKdWSUZXQj43LCsODhAHBwoEBAgAbXiKdoGSdoSYXHGMREJIQEZSYoOmwMbOvsTLvL/CSURDSzw4WUdENCspJB8fFxQVAGlzhWt1iHJ7jH6KnFdhcTQ/T36Tq7e8w6Gstrm+xIGDhkQ7Oko9OSghIBQQEgkICt2slWgqHrL0AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/077.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/077.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/077.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/077.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -535,8 +535,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZhJREFUeJwdzc1yk0AAAGCew2fw4tHRGS89OE6cHmyjzXSc2AbTJG1D0gApsMAGll3Kz8IuvyEhQzPqjAef0dEX+D5hZqlToEyBOoea7NsP2NQoMhhWQngL16K+vNKkwXz05qv4vvdRfPtCmBjywjEeQ9dkxKtCcuDOLrU40SkCzNOoM7e1a1X6NB2+6g9PT14L/0kMq4Q81+RY23WqsNCuKNlSM8ZLy5RsY2ysLiTxZPj5Za8vgAR7be792IO20ivmNyw5lrgtnDgEATY5vgPalXp/djvqXQ/eXZ4JThkFXWFvOWmz/Gdd/m7CkqM4DnYc76kawBlQJ+56DOXzO/HDty+C6kNUxdmvpvnT8eeaNkWQ8WifkX2ix2iNN2ZO1BTNfTCyVqfjoQAS76nlUVdA7oeHgh23tMvdLHDL0Ctir6bONjIyIkebm41y8TD5N9iZv3IN2bOiLidNgsooPPDkWHg5xTvq1IGeIgkb3/XFQLoR7qG+RGAdbPQIqcSG3PebFO8SyJ6shACGlcCWnMextrxcTPuz0V+AdNlYSIcHGAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/079.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/079.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/079.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/079.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -548,8 +548,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAWExcSDxQWFBkdFxpNSk6irbmhrbl/eHuWg3+Fc3J8aWQ2NDsZNFsYNF0SLFQRJUkADg0REg8UGRYbIRocX11is8DOqLS/hXp4lYB8iHZ0iXl3Pjo/ECA/EiRGFCZHFCdIAAwKEBAOExoXGyMdHlxaXbTBzqmwuqCMiXxjX5F6d5uLiXNhX0ZfhjphkjhdjDZZhgAOCxARDhMXFRkaFRdlYWW5xtGss7uGcm2EbGl6ZGODbWdiX2olUIMfSnsmTXskSXYADwsREQ8UGRUZRjEwdWNgr6SknZGPh3BqnY2IrqOicl1YIDBJSGuVSm+bNluFNFR8ABENEhEQFTIhInNRTnVhXo14dFpDP1ZDQKSUkLWmoox7diQfIBofLz5Ra2Z7lXGEmgATEBQXFhpKMDB1VlN3ZF9yYWA0NTJZWkqqm5qypKCgkotMVD8NDhMLCQ8xMThob3oAHRwiLSIkWENCTj8/PTU3FxQfMzwxaHdTi4B3sqCam46FUFtCGBshEhQeDg8ZKC06AGVziFRFR0U7PiAiKxETHRETIC4zLF9vS2NkTpN/eJmHfU9MRAkLFBUYIRgaIxgbJUJOikqv+d9AAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/080.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/080.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/080.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/080.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -561,8 +561,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXUFdra3ODiZGKjJGCgYVYUVRVTE6OjZKKiY1PUlpHWG+KiIqSg2WCe21/f4Z1amcAdXyHjZOckZmgVElKi4mMl5ebiYyTqamti46XMTRBODpGl5KQfWA7hHVch4iNa2RlAIaWpI6dqV9tdkc9PnJ3f6e1w6CvvZOdqTM1Oz02L1JQV4WEiGJLTXxvbIZ7cWpobABjc4N3e4NUWF0+SFFXT0+Se12giGZHRUgkIB9KOikmKjZGRk4sLDQ/NzV3Wz9ybGwAm6avnJugX11kWlhiblxWi2Qyl2wyRT04Q0dIQkE+O0RVOTxGHhwkFxYfOTQ1UFBWAICNmzFDXEpBRjY1QDQ7SG1YQW9dSTxJWkA8Q0Q/RDpNZTE0PhoZIRYWHS40QUFPYwBebX4kLDsXGyYjKTUiJzROTVFQUVYsNUMmJywjIygkLj9FVWo7TWU0Rl5EVWxTZn8AX4CeSV52Fx0sMTpKKjE+MjpIMDpIJDBBLThJJzBBKzpPVm+NVnKTVXCQWGuETmB3AEhwlT5efj5jhEx0mENoi0Vtk0l5ol1kdUNde0RkhFtaZ05ri05qilBph1BlgUdbdR1qnKOORXReAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/086.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/086.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/086.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/086.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -574,8 +574,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCBhIlkYmQcFBcPCxIpICQ8Ly8dExVxXl5mV1kkGxiDhFx8dTt5bE15cW5gXlZdWjkAiIyQfHx+GBIXMCcqg3BtX1BRWkxNiHh4W09UUjgdkm82h2gwfGUngWUvVl9nY1tRAJSZnGtpaxQNEUY6OpuHgamWlJWDfqKSkJWFg4t6ap6MeZmNepOOepWKeYeHjH9+fgCXmpyBgYIoISQ/MjJ5ZWGfiYWMeXePe3qkkY+cn6Sjqq+ip6yhpaqfo6eZnJyOkZMAkZGSp6incG5wTT48emZfemhlfWtqgm1sj4OCoKCgnp2cn56dn56dnp2bmJiZjo6PAI6Qkp2foYaIi0U4OmNMTGtYV496eJN+fJGMi5mampiYmJqampmZmZiYmJKSk4aHiABrcXh6foJ0bW1dMy9fSUlZPj9mTU6JWVGNb2yFkp6Di5Z3go51fopzeoNvdn9ocHkAZmpxcnN3ZF9geS4ig1RMb1pac1tbnk09i0xCdoOReoWTZm14Ymp3WWZ2VGJyUFtqAGttc2txeGlWWG0kHH8zKYFCOog/NZo3KZI1JmFTV2lzfnh4fXBcTGdTQEhGSjY1PMH7umwsqENLAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/087.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/087.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/087.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/087.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -587,8 +587,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBwfYl1go57iJWGlqSEdnuEZmdyYGBCOjYwKygvKigvKyorJiQ/PTx5f4h8hZB2f4oAeYaSg5CdjJmlmqe2m6W1j5qpdXh+UkI9cl9aU0ZDJSIgKSYlGRcVXV1gkJmkgImUAIWOmZCapJqjrKGst6WxwpWisZKcqaCGgpt8d2xWUhoZFxgZGQ4NDFBQUaKnro2SmgCNlJ6Yn6ifp6+iqbKkq7WkrLanrbeQgH9fR0N9WlVBMzAkHh0MCQhdX2GvsbaYmZ4AkpqknKWuoqqzpKy0pq20p660q7G3qIyJnnhyeVVQTjk1Tjo2QjEte3V3p6ermpugAJOdqJ6osqSvt6awuaewuKewuLC5w3l2eGJMR1pIRCUfHDguK29WUHVeWJF7dm5rawCIlKCWoaygrLWotL2qtr+rt7+xu8SgqbNVTEo8NDIZGBg0LixiT0p3aGRqZWVMVVcAX3F/aXqHcoORfY2ahZWhiZmlkJ+rgIyTUlZXIyYnFRweIScpLzY3Mjs9PUxPSFhbAFNicFZlclpqdmBvfGRzf2h4g2d2gFhkZk1ZWikzNhwmKS86PENOUElSVEpUVkZSVFZSv7+EZWsQAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/090.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/090.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/090.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/090.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -600,8 +600,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAyMDtrbXmOkZyNkpuTl6GanqiOkJp8cnVgUVBOSUg6S2gvR20vQ2QzQl89TGpvc4EAMTVDa296pKmzoaavp6u0qa+5bWlvm4J9vaGZU05bCRk7FiNBFSE+FB03Exozc3eDAGZmcIWIkrK4v660u6+1vKettX1wcYJvbYt0cFtWXihIczFPejRReyhDbBkuU4GIlwCTmqalqrO1u8GzuMG1usG1u8KVhYWUfHmQd3JgY3QwWYkqUYEpTn04XYomRnOJkqEAnqOusLW8uLvCuLzDr7S6cHV+SkFEcVpWZFFPKio0TWB6comkbYOeepGqYniUlZynAIWXq6ywt7a6wGlrdCQlLg4QFkxFPj80NTw0MyEhIAwLEWxtdaywt6aqsKaqsZmepgCPmqinrLSmq7IwMj8MDRciJChbY0tHRzxKTjw1OzELCxYfIi5+goqhpauXm6GPk5oAgIqYi5aka3SDHR8rHiArGhwiZnZRcH9TdYRZOT80FhcmGBolSEtXhYuWeoCLdHmDAF1rfV5sfjY9TRgZJRocKRcZHYJvT5lrT5WEW0NGNw8QHRocJiYqOFJcblJcbFBXZff3s4P+crXxAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/092.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/092.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/092.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/092.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -613,8 +613,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAcGBhUV1+Voq+Woa2cqLSjr7ucprGXioivn5ymlJGGdG8wLTAPGjIQGzgQHDkRHTsAJB4eZWlxprO/p7O+rbjDsb3IprG7dGZki3ZyaltZc2VhRTw8MkJfLE57Lkt1LEl0AC8nJX98gbG8x7G7xLK7xbK7xq+3wX1vbY14c3RkYYl6eHZgWkxadiJRhytSgChNegAzKymRkJW3wsuzvMWxusOwucK1vMaklJF9ZmGbhH+QenNqXFkmTXhIbpglTXs/XoMATERFrrjDtsPOt8POvsrUws7Zo664aV5dXkVBaVNPa1lTMystEB41YXiWYH6iZX6dAF5NSqSpsrvM17PCzoSQmmFpcx8iLCklJmJSTkY5NjgtLE1HPxAPEgkLFklPWHJ6hQBYS0qcprG+z9qMmaUVGCMGBg0ICRJCSjdHRDkrIiJEOjheZUs0PjALCxcHBw8XGSIATURFkpyor73JXWVxExYgFRcgFRcfTlo/VmFBRkg0S1Q7WGtIMjouERMfFxoiGRwlAEY/P4yXpI+apzE1QRcZIhwfKRQVHkdQOGV1UGByTl1tS2FyTyctJg0OGRoeJhcZIoFpqWxsyz97AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/096.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/096.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/096.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/096.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -626,8 +626,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAYFRobGB0oIiRyd3+grbiirrmdprGfkY+tnZuij4t4Z2MmJCkQGTIQGzkQHToRHjsAGBUZHBgbMi0wnKWvsLvGsbzIpK65dmZkg29rX1JRd2hlRDk5NUNfLE58Lkx3LUt1ABkWGh0aHTw2N6qwuLS9yLK8xqy1voJyb496d4FwbpCBf3NdWE5deyJQhixSgidMegAVEhYdGhw5Ly6lp661vsivt8G1vceejox9ZWGchYF/amRmWVolTXtLb5kjS3lEYocAExEVGhUXUU1QucTOvcnUws7YpK+6Y1pbXUE/aFNPZVNNMyotEiE4ZXuYX32hZ4CdAC0fITomJW5rb7zM2IaRnGNrdR8kLiYhJGZQTUw8OD4yMU9HQA8PEQsNF01TXHZ+iQBKMTFVQD2DfX+Vo68YGiUFBQ0GBxE8QzNNSD0vJSVEOjlfZEwzPC4KChUGBw8YGiQATDQ0VEJAfnyBaXOAExYgFhcgEhQdR1A5VmFBQ0QySlE5WWtHMzwvEBIeFxkiGRwlAEEvL0Y4N3ByeD1EUBQWHxsfKBIUHjlBLmBuSlxrSVhoR15vTCkvJwwOGRkdJhcYIrN7kJsi61wnAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/097.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/097.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/097.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/097.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -639,8 +639,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCVmlqdH1pc3tmam5mc31peYWFkpx6h5NzgIloe4pQY3hJRUhUW2B7gopaYWpiaXEATGR6ipObZm1yMy8vVElIYmtyaHR8aHV+eYeQjZiieGhnQDEsHRsdeH+GXWFmY2lwAF14kKissDo7PiQdHGlQTG9kZFRdY1dbX3p4eZKHh2BMSFNAPDErLHqDiXZ7gmtyegBkgJq4t7lSVVlOPTpsUk1kWlxhZmtIPTtiT0yBbmpBPD5DNzQeGBsmKi9rc3xtdX0AcIKQqa+6pLDAnqCrWlRWS1FXZ2pvSD06X1BLdGZhOj9DHx8jEhIZBQQMFxgfXWRqAI2Nh4iZsZeluqGtwKStu4yZpXt9hX5pYYBqZElAPBcWFw0MExQVHRERGQ8NEz5BRgB7g5N9iZ94hJmEj6SJlqtqh6docIGDaWCBa2ZLOjUKCQwMCxISEhkODRQGBQoyNj0AaXOJbnaLWGJ2S1VnO0hbRFx1ZW59emxqcl5YLScpCgsQCQgNEhEYCQgOFRMWLzE3AGBqgGNsgmpxhmVug1BXZV1reE9baSs1QxgbJA4RGAgHDAoJDw8PFQUDBzEwMi8wMwlYlglkiCdyAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/099.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/099.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/099.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/099.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -652,8 +652,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAlSWpOXWxtd31mbXNpcXlufIdzgY2Dj5lwfop9iJBbb4EzV3dnc312fYRrcXhUWmMAMFd4W3CDi5WdhI6VdXyBanV7ZHF7gYuUbXmCaG9zYXmMO2SHb32JfoSJc3h+VlthADRkinKIm7G3vXZ6fjo1Njo3OFVbX1ZgZ2tjZCMaGCIuOk15nniHk4CGjHd9gmJmbAA2a5eCmKusq6wrKCkgHBwgGBhVWmBqbXJmU1BeSUYjHR4eKTZFTlh1fYSIkpdyfIYAQG+TiJilo6SpRTo6X0hFUT8+Z3B7dHJ1VERCVUZDPjU1CQkOCQkQKi0zjZSYd4CJAIqIdaarsba/zYWGkEw7OGVdXmpyeGh5h2twdzk1NRYVGxYZIRUXHxkaIXF1eXl+hAB+g4qKlaqZobKCkaVLVWF0f4hve4ZseINZYmpYVFYREBUQERgWFx8NDRQ2NjpHSk4AanOJeICTiZGkh4ycV2h6UV1qeWdld2RfamFiZ1VSCAUKDQwSFhUcCwwSGxYZMCoqAFNecGtzh3J6jnd8j19kblJHRmdTT0lMVVlVWTIpKQYGDAkIDhIRFwsLEQcEBzg1NvHRnbpMiQzHAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/100.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/100.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/100.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/100.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -665,8 +665,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBWYm1wd39pbnNhZ2xkbXVlcHuKkppwfIaCfX9RW2g1WnlzfYaFipB0eoBcY2pobngAaXmHjpmhfIaPdHyCZGtwZmZnY212cXh9gGpmWktKSWuIeIeTgIOId3l+YmVqbHJ6AHuOnq21u4qTnISOl2p7iHWRq154kFJSVWVTT2BNSjZGWGZ0f4+XnYaNk3V9hXV8gwCElKO8v8OYo6uSoKplfZBtj7FxcXc/MCxFNzUlHyANDBARERhQVl2TnKN9iJJ5gIcAgIWHlJukf4mQYW12YXKBV3yeYnKDdHJzPz0+FhgfFRcgERIbGx0kjpedh5GZeYKJAIiGgJWdpoaOlGVscX2Llk10lV54jmxyd0NHTQwNFBIUHBMUHBcYIF5jZ2dudHF5gACHiYaZpK54hY9SXWdXaXhYcIZRXmtVVFlTSUsEBAsUFh4QERgJCA8uKy03ODxGTlcAdXp5dImaZoWcVXqWVnyXZ3aGaGdwbmNmMykpBAQKEhIZCgkPAwIHGxUWQDs5ODxCAGBwfGB9lV6AmlyBnXOWr1pwgxsjMRkgKxIVHRUXHwsLEgYFCgIBBhYQEUNCQy8uMf5PoxpL0pp8AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/105.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/105.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/105.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/105.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -678,8 +678,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAJ1JREFUeJx9j+EOgzAIhDucAg0K2gRtfP/3XFaj00b3/QJyF+7C60rTNO+dtm0BoBKE8wIAXdcRkaoOwxBjRMTK8zMgYt/3IhJjTAVmlgIi3higgIgiknOe5/mQwulJHYmZVXVd15yzqjLzY6TvEgIAENGWbSsQwlVzTERkZtM0uXsuuHtKyczuOxDRVnEcx2VZ3N3M/pUOO1XI6vIB+H4JzXm/nR0AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E43_brefJeSuisAlleAuxUrgences/109.mp4",
-        "thumbnailPath": "thumbnails/S01E43_brefJeSuisAlleAuxUrgences/109.png",
+        "previewPath": "S01E43_brefJeSuisAlleAuxUrgences/previews/109.mp4",
+        "thumbnailPath": "S01E43_brefJeSuisAlleAuxUrgences/thumbnails/109.png",
         "width": 1920
       },
       "mostReplayedScore": 4,

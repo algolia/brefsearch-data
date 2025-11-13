@@ -4,9 +4,10 @@
     "duration": "1:45",
     "id": "vrbqkwd6Zi8",
     "index": 48,
+    "isAgeRestricted": true,
     "name": "Bref. Ma copine travaille dans un sex-shop.",
     "slug": "brefMaCopineTravailleDansUnSexShop",
-    "viewCount": 3725975
+    "viewCount": 3728551
   },
   "subtitles": [
     {
@@ -15,8 +16,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaJJREFUeJwFwclu00AAAFBfkEpRFseu17Fnxst4xlvieJy6jkOJE5yGCg5IQXBABQREQFtaOLSiB8QfICHxBdy4IPhB3hPQroR2ZS6CDSCv3eSBTXNIIxTsdHWqIapavgxiFTHZmkJWWIFwDEO3o5US/JTmL8iwtdkEsQDS2z3T012k4lxFT5xwqsAD0ysAEa75POiDRkHbdDiQAJBhgSNgEgbpOsoSSLnmPHOi+8DnustNImz8jA1AObCRaNy1cY3J07xqSPyurq/WTU2TUIaHKi40nJv+zKJC3NdIXxd7+q2uOrOcMfDO5kcfjx4u4iEGKEFhBqkkQ2kPlTZd2kxodYR6mnBH2elq/h5+k9W/Plz8u/k68kfUolWQxZBJqqto3tj09w1XuKDxaRCeh8kGk9b2Lxerv1c331++hRre8uk1LzeTqqu4mu4dsMyRLOFzmv6YFL/vzd6PeWqRx3l5fthup40h2yfDyc+m/bNcn1QzF7LCi8SOKryqq8vV4ku7OFvO9z3KUTAycIFYYngrknw7fnQa8+csqUiUO0zsqP8Bo+ZRszzZx9kAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/000.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/000.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/000.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/000.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -28,8 +29,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZ1JREFUeJwVyztv00AAAGCLkaTkgc/PO5/vnHv47eZh2bWTNpSmrQI4BFBAEMEQIWVjQAgGFhYQTJ0QMMAEv4T/hfj2T6FtlbbAhU6fuv4G+6XNK56YunuGGOjDQR9CgHt9O1CdExJy1VEucYCugw2RE0i0HhzZXCKBIM9FxrAoRWxb7AbAroZzxJmKlYYmpKVVmrvPYt/C9SCeyqzk8Yvjk/2sqkVkmAxZ3DG9ggT/Q2FQ78CwO1bDONHgjCXP8modpQ8no4oJDWDbZrbpha7f8DTWqZL1jG4LXGtrrY7lG/Tl0fzPq9dvHjzp3ITCkUMSMShcyAXid72Iaa6yISIFKDFcH6A1T64eb/9++vL89nKMg+1heT/LExpJJAqZ1TQcQap8jtKfef6jPEp1vAyH71frX7t9JbMJ8T+Us9+ni3dni4EjqmAYYml2TOXj8uJqcfq1Wa7GeYRFTf07weF0ECem9/bW+ffz5lsx2xbl1M+E7XXbujKXwSKOV2l2KeSjcX7PD0HXmBBZU7ErprviODXJELE5jyBA6oH+D7/0UY9oHvPCAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/002.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/002.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/002.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/002.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -41,8 +42,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY9JREFUeJwFwVmP0kAAAOB50ARC73Z6zvQ+6MW0QA8QWlzWZgFFVo1kTTTRRLM86ZO/w5/s94Hv/dPX7ZcKk3f5MEdk65V/h9vWr01OTiS0j7LOn76JyFO5Htz4GNfgx+7jtTn0/qJxisosa5yHUD8VcWM5RME/2/ZY1LsgG9zgIVusvBRcSPd2tns/64Zkc5kNn/LDfRL8e+x617Z4tUJOF5F9Un5r71476dZOwK+q/t33n4v1dX44k12guPvQ/bMmHC2ksuGKemuFKys6x8tzWJ78Obitmtu6PeZ1bsRLZ4oldYNRi9CLMZ9BLZA0S7ZcaF6y4hSTD9kCPM5Kg5F4XhnTgq/ZjozuXTszME2JlYEL1YhV/Mq0nzebK5k9hxhgQR5POEXUOBa6qhmqZqLbMXJVFpaa2eDIh6bEyasg7sMpolgAWYlnRGYi3Pn2EmFbxinyprojslDilFj3aAaOKGFECQWyS8MEoaT4okJk/ehZpYFEVnFkZEoGRUmqqDykERgxLyfsmOIFmg9F+B/EL0WxbS1AAgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/003.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/003.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/003.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/003.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -54,8 +55,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY1JREFUeJwFwVlv0zAAAOC8IsSyHvERJ7Zz2HHOOk2adms29VKLum6iA7pJ09AqARMPPAFCGrzzt/k+o3XCCWDSxHEXb51g44jSEU6f8B5OIN/6aqd0RJO3zWZdzw+LvTFzZQvFBLHPTflF6+OgHgeJDamwWWgHn8ri23Q5K6Zt2mhZXqRjY4aDBQhvlN6o5Kjrn9v9uUiGTKSIFlyVhOeYYcgKLgtX3mRj46UY/h1N7pt2roqrrNw3l89ZNecSdFDkhppKCmjM1K/l4ffs9s/qvTFi4UJlD9XZx7yee9HTaPpjffW1vVyrhCI+8uOcRSmN/j19/1AvHoYz43ZQPxbVOyZ2jn9w/GeVP1bjl9XqLh8Qy02dwMNce8lxfa29NMHCaHx1htwtcJcW2UCys90L2y4tmGKaM4mA8+rE8pF3HmtphwqHhgZwCGADUQFgYsGoj0QPxcApmKyC1Oxi43WXIR5TGWKf9qkRW3Zi2dS0iAmIidwOYR0S9qjAniL+m1Nwcgo5YhmVIeSexf4DEzNK77SLaMwAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/004.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/004.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/004.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/004.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -67,8 +68,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZZJREFUeJwFwVtvk1AAAGCMSd2gAw5wgHLpgXO4FaTAgFFoAVdG1tZMs3mpZt5iTExmfPTRRP+Av9nvowoz+lK9X9sNpAXMqy0JWyd65sT3WXdwk71X/dzuP7SdpyEbyKU6oxBv9GhZoXOREWPVPharmkQtjkYS7OKqJvHbbFW7kcKrEgsBA6jbcPcq7Dd2Cadyhb1dmnxtL8q5e18OVyTtreRF2DROyJ1BZirRDKBG7/J7/XljNRjqsY4exvW/u6E20LWb3Xj5iLJjsvmx7fauM6GFxyccFQgklxYuwE91+9y0/r68/HPoVyZqkLMPkhs//VZ1v56Pr6MFfwoePeGoBTB6kr3pxpq4Ogcf+vL3Ve3D2SGIj2n+CWkfF8G7ohh8v8ck10yKcGBMi216ESh6pOi3SVRhLE7FwfaGINZYOBcUFajLuX2XZ7vAozAvL5FnQRNLmiOpS9U4pQWdkxGY5chdWw7glQkjAlbhWWVCC5R+BjA0DcnwFcMCMuRkkYWOqGpAYRlhzklEVGWgsKx8wog0A/4D/9ZFMxnoVccAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/005.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/005.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/005.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/005.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -80,8 +81,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY5JREFUeJwFwUtzk0AAAOD1UB+jEMgGAuzCssAuu7BAQiFAUmwaO0102ozjIyd70tFxvPgjdLx7dPpj/T7w6KlhaTNLszTNjqE3YJ7Mwi9C/t6Nv24PH877jteH5atDc51isV9egonhQIgpiolHqUtLn4cw+Nat/x13D59uI+htVP+2v9qWmyFr19kKXEmVR3KVlnWiFpHc8SK1w/vV9s/d/u/7mzc8HRf9XTd2Yhk6NHAIUIQPomp4IUPBMDvysnCpYaJT09zXi3dC7nNFEFOBoFZYEQbqJD9P8pYpFUmGk2sqM5faU6xDnEy9k8ynNj6bzLFNDBMjLwEnoT42jeIqQnGXLdtE1Sg6pCXQncrGtY2BZj823Wemd6Y7cOaD73n1sL74OY5ZIntZqVA+f+FcUtWzQhAR+wy7kQl96kQmRE8mc/B52Pwo2q9cbfOyE9Uizg3NHYJ8zYrXZfuSV8Sh+hSROUEQa5oFjlk1RKkFEXOim1RiK7B0r0aiCsVFUuQ+8+fEgtid+T7EzKP/ASZxRf2JGR6wAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/007.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/007.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/007.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/007.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -93,8 +94,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwU1v0mAAAODelrgMo+iormX9Yn379rtvS6FftEMKHbYV1g1kg5i4zUjcUCMKN72Y7Lrojh686Ml48f/5PJjPqj2pkaphjuI2Layi5Ha2uk5Gl/vZ90FxM56sp/PLYva2mM66gwPkYcdG+2Uz/nVysQ4PP9et37Piz8Xyx+D5eTP6ORy/86PKve1yqXxiGkfNbl/QsKEanrm9pet/i9r/ivy63/47Pb9N0lOpftMfp6K5eedB6e62QoMXUXaIPGysh13Y2NrCBYJ+hdBENL640brufbCiuRP3OBHhVZ+tPZHUuR+2gI6N1ADg7Mbm/Y3SQ4tkv3aGn6x4AbwrGBzRenOHn0L9DJk5MieO21NMrEHLIaXwjxiGYDWGf9/pvQk6H51wYfsLu3VqOrlg9KGSGWaKUGHbmEKChFGfCsiHWiRqNgNWSfy6FaWiPLKsY8XIBSXkhQNNzwzkAwG7ssKIlgMKOrxk1aBZEzNFe6abgOS0KuuSnM/wUpXWaS4AUCQpbIm8IbRVnBYIRqX2IMlqOJGKskzQFkHt7+6Bx7s7ZZypEBxOEOXKf5TwZ4evWfWRAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/009.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/009.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/009.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -106,8 +107,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAoHCJUNkBRNUCJaHNvTFZLOUc/OEUzIiuHVlmSYV1fT15lTl1XPUhDLjcyHiNQOUIAFxAXPDE7Vjc/fVNZcz0/ZjQvTCIiXCgnj1BK5pqBZFBWLSo3KCQxOicwQxweclVeABgZIlE/S1Y5QiAWHzwhJEgmKHY8OatbT6hiVXlSTSUnMistPCciMR8cJxsOEz4vNgBOQ1ZZQFxAKTQ2IyZSOThfNzuyYVXNfmjhlnyAWlIGERwPFh8cGyo4MkIZHSgjHiUACw0VSCw6YUJQVS41aj45Zjc0TCMmdj45r2pav4BsOjU/HSIuDBEfSEBQW0ROZ1FaAFM6QYNZYYFbY0cgLCwQHVMsMHlCPy4cIlUzM6FqXEg8RywrOA4SIjcqNntJT4ZZWwCRamqHXl6Ta2s3GiVZLzSpUUa1WUmFUUgqGyFQLzE7ND41ND8YHCdHNkB3REp7Tk0Af1xdkmdqkW5zQiowklZNTigny4RxiVxTKhggRi0wLCozLi03LC44Picvbz5Da0VFAEw2PGpIS3JUWH1LRzglJCEUHaxsXzEiJzAdJDQpMDEvOjMwOjg2QUUoL2Y4PUssMJdedem/pBuOAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/011.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/011.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/011.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/011.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -119,8 +120,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAGAwQIBQcfFBQgExRBIx6OTD1bMiskGRx6a3eShJiMe4+Hc31yVVdnLylFHh0iExMATEJCSEJFNyAfIRISdUI1smFKklBFNiImXlJZnpGkkoKajXqGb1JTg0U4ZSsnPB0cAKKYlnpxdS8YFyMUE0goJIJFOGY5MzonLGheZp2QnZeHmVBDS0IkH55WRnUzLVImIwCgoqhXT1IUBwUyHBuRTj6jWUeIS0FOLi5PR0+ck5+Hd4EfGBsxGxmRUUJzNi5jMSoAkZqlOS4xDQUFLRgWo1ZDk0c7bDIuPyQlMSQnjlJVbklKNSQlTSkmZTgwe0A0hEc4AE1FSSQTExUMDRILDHtDNqFSQX5BPh8aHzgSE3UcG14yLlAqKFYvMEInJ2g6MY5OPgAvHh4SCQkZDg4RCwtfMyp5QTVZMCwmERNdFRdeJCVFMTQ5IyY5GRshERM5IR97QzcAIxUWFwwLHBAQEwsLXjIpdjwxWy8sZjU2cCsqUisrIBcbJxsfPRocIg0OFw8PRCkoABIKCRQMCxUMDA0ICDAZFmw1LWw2LW5AOHhLQopMPWVBQCQaIDgXGSgPERIPEx4ZIC2GacTfss9wAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/014.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/014.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/014.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/014.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -132,8 +133,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCRdGKWeGWJWk2DSD9vSEWDPkumTF6xWGyxUmiWRlZ7YGGTc2qWX1NwQDJgPC5mQTEAmn5qn3xpdj0umVwnp2k7ajkxaiw8ekRddkFJgjlEdiw6bjxEbUJFeTwwZkAxaUAxAKSGcJ52aKFcMvCxRs9/KptPGTQgJm1GbmhHXGZiXxoWHCgZIF46O3k3LnBFNGxCMgCpiXSufWtaJBvBhDWsVSN6NhVMOjxLTGptPGJfU11teHYZGh47KixtLih9RjVuQjMAqYhzrXlmRQkOvXo2j1IpMRMdjElUJTVGXTxeRSpATlJSVVRVHBkeaisngEQzb0M0AKB+aqBrWi0MEDMhFzElG6lUXL5ZZCMuPUgzTGM6WRQRF3Fwbz00N3AyMHpCMmxBMQCWdGCSW0srDxIFDRUWFRqdSlLLU1w4OkokHShQN0s3JC9PLC0nISZjMjBvPC5lOiwAiWhVf0s+MQwQFxMXKykrfWVkTisxOztLHSAqGxUdRiApXS8xHBshSiQhajcqXTYoAHJQQGo6ME4YGSEUFxUbJS4yQAwWIiMtPCUhKzISFGwnKWMnKSsaHkYfHF8yJVkyJoZogAUlkgeDAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/016.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/016.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/016.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/016.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -145,8 +146,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwVtv0lAAAOC+UtoKbTntKaezlEK5uAK9cDoc0JVLNxGCy1DkokkL4jJZaogme1r0xReNDybO+OY/9fsIA8EURcs8lxcBR1OrjvPwfr4w9bWV/xd632et2wB3NFlkaPERDRmKqCGxCvmqLJUhsGXx/tXo2/zitm1Mq49/r72f8/bnyWnkVhogJaaYdJIkTlQUNHH9KKum6ahrPezmhwF+aeSHRdmVuNd26fD86achvlSFBhIAQxFt08bdsZhOu5CN27Ufi1HsO5GtX5QVA/Lj4/w+wHfjdmgV+1pWy7CEqZcFVDAl/m+Z/uVV7qZ+aBUXNa2lQAuB8XH+etD8+Kz1odt48SRXlzJEp24LqjGQ2T9a8r5ZWrWMWU2biakJR3uQHVZyO9/eB3h/Zr51Sr0CImbYYrOFM4n9IlOHLLNvaKsiCjnyDZdcseS0mtv0nF3fuRm6W8+aVBTivFHnUaElsDGkYkB+PWJiSG94cgeod1wi1GDUa257ze3gJOq7V6ZO9NxTgDTMMRtALdnEUhU2SmbDJa5B8iZDhoAKdCWol5ddZ+3jaOT/B6HBW20xkNBAAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/019.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/019.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/019.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/019.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -158,8 +159,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwVy0lz0lAAAOBcCy8NSV5e9oUUkrAEktK8QkKL1JBQW4aiVotDqV0AERkPoj3U8eTFgzOd0ZNX/6jjd/8Ii4cUAAZkDAQlOucqYlWTy5Jw4e/8Hoc/XkaTsGZCGpFAypGQBITDwyJiSopUkQWTpaua4ihSYMi3uPyQeI/jzuYkPLEUnabQNpkDWeLANnsYl0XOE1hPhIOS2XfyT3bUVVie+IW3oXs/PFwEdleFBmTg/4APbLcl0pQvoaOC+u1Ze9X2lu36HXb6RXXk25vT9pdk/3VJa+miTFNEzXFpXuto3C8H/D3v/Lw6m7cqm25jjp3YlEa79jptfj4O75qV1NJckSP23L1twbzIM3/Mrcck+NSPnlfzU1wa22okwdN68X2M18n+6tB7s2vFBYUYelWA9KEKvyvZe53+EDivDH7EUxOOfMGRA99axMG7Hl6nrZuoPizpRFqrkbyeCPRHBB5k8FUll4i8ZTJLLjtjti5dc9Zrzo7wIg2vu8F5wyHiRpBD0lOUu4HZOcrODXYqs9dMZoXAks1MVSZ2rUGjctnFV71ofnb8DyIPVm85k1/WAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/021.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/021.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/021.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/021.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -171,8 +172,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY1JREFUeJwFwetu0lAAAOD+MqUtvZzTc+tpT+mVXii07FAY4CIw5wzbYLpkyUxMTNRkj2DiU/jHJ/H9/D7l39/f3+52bPDmtLn48+v1dl4k0EL64CTL8zzrBfIMLbGMxNTFUEcDVXl92I2RnSOHG9pukj4uSmEbCQZfD70UpPNAiUyka9zQma5hTVU2edgGZBXzZexNGWwY2Kf0bkwTYPUCf+nEfU4sTUdDg5pDS1WV9/XovsvOXXpu4+MkvODwqeY/Or9G5oKDn1K8NHzlA9825wFOXVtZjuhV6n0sxUMTnqbRsRKSOZfcmRG7wvZjyb5LcRXhCXP3Oa8ZUKQgy5DsMn6sww9lcFuJpSAlcnoOCmi9i/Dz1I+gJQXufGSoqtIFZJ14i5DIAG9itgrJNvEuI7aN6Fagm5SuAzeDVo5ATiG1hsoYO62PGs+tqdtytI7ZasSkIFKQTUT3Cb2OybHwDind1+HbIlAy5GTIqRjsAlIQUGIwYahhqKGwH9HWg58b/jIXn2b+oRLXs+Q/ogg/rFwaNT0AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/023.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/023.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/023.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/023.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -184,8 +185,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZFJREFUeJwdzUtum0AAAFCWTcDDb4YZBoaZARvCzwEHYmOomjh17PRjJancKOl/012lbip10RP0AL1IL1ilB3h6yt8/v35//1R6TgDUb3evfrzfzQLHPjxoQm/fFRWFmWMKoEZAFUCl6qHyc/+si0WCjJTAGJm7Nl9IN7ZHZ2W0m8XnAk0dnQLNB6pz8OQR3HbVZRndtOnbRXaesMjU9nX4tZVjQ5379peKXUiINM3TR9I2yEhV7ofp63pymYtNxrYZ7yTZjPF9TgoEBmZ9PvY+Hvs1MXxD70O38pBykfI+on3krtNgk/GrnHccJxZILFC55vURuStpBI1OuKvYW0qizBheSHcZ0j6iq4Rt8+BFIYaQVtjMbX07xqeexU39hDlD5PoGUAoXzoXbctKFdCnpOg2ucv6yFOsj9nxMthMyMHhKrdSxJsiCI03JCJxSdBLgsyRoAtz/rx69pENIVyF+U/jv6uCm8IfY72NfmSBzbBsNJ3NJWk6mFDYcz5hTUlj7qOP4oWIfGv7QiKextyrkPwxaQ3HpcnthAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/027.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/027.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/027.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/027.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -197,8 +198,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBJJiZVMS4sICUvHiQpHSQqICgtJSw1JiwyISY5JCg6IyY4ICI7ISM9ISODUlGMXVwAUyooZjYxPCAhgEM0ekAwYC8lLhkaGhceQDA3NCElMyAlOSUpJhMXLxYYm2xrnmVjAGMhHFEhIW06L8BtTb90V5dHL0QiHzcjKHRJR1o/Qkg2O2pRVlA4PTwhI39KSIZRTgBBDg49IiNlMSqZUjq5aEhFJCASEBlFIR54NSlOKiwvHiJHMTZNNDhCJCZsLimBPDcADQYLKh4eUiwpaTkslUo0XCcgHRcbOSAfgUEyKB0jLh4lKRsjPBkcTxsaaDUyeTk0AAAEDCoYGEQhH10sI4U+LXxBMg0QGDIcG59UPTQbHBQNFh4RGUEgHloeGW05NIZMQgBFFhVbGxgtHCE+Hh9LJSJVMisFEBgZFBmRSDRHJCMJCRMlGByobVGRRS+QS0KkY1EAQwAAWR4foIeKoImMqZOXo4+UnY2Sn4uPsYWDnnV1mYiOlX+CtIV2l2JbaD49dTs2AKJzfY9PUkAsMUY1O1U+Q2BFSGlISmRGSFE9QT42PEM/REM9Qj42PkkuMkMnKkgvMwnobrNPADjAAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/030.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/030.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/030.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/030.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -210,8 +211,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbBJREFUeJwFwUtvmnAAAHAOS5OlMgVRdFQRtPKS118REBR8BVpn8YHW0pS2zgxNl3ZZsuyyy3ZptsOyXfcVluwz7veDJpW6iBEqTvIY8WRZDx1nRLH2yelas0PNvuwOHybzxLu46Z+FhtMs16CPzY6QK0l50iarc5apozmPVT843p3R2xnOz+TpeXfYn10sDTdQ9cZrGtqDdlDnOKzEYgSNFgyCnDGiz8k9mrvrL/9++f68ur9xvKXWiXvD2HKhLccnPBBx8nHUvTXAoyLdS2K/2ojbg4Ue/Nl//jqNIt2Ou8OJ0XV5GVozwqzaYIrUp5n373C5leQpK+kVfiaYO338+3rvq525LMa6mbTtFadAFFJA0nkkg2eQ4kpojE85scx6YisERqiaB9tnCEqr1Dagfc1J4xINnWTwzKscms6haCGXzvcoxpfAG6U1lUGgthLX31qDgGVDUVkowKIZKA9jMJx9CWdfwOhRCrMrjC9IA054Nzr/9fb9ApgRMK4UsFRa5zVWK5JQ9hg5TqFHKQSGs2W0MCKZW0n8sbn6Fm035kAhaIfmIs1cS02Xqot4+T/gOl9/MPbtOAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/032.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/032.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/032.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/032.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -223,8 +224,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBnRkI3KSpXTVBXUFRfW2BlYmlpZ3BtbHRvb3hvcXtvb3liYmqBe4Cgk5aQgYOHdncATzUzUDo4Xk5ONh8cTTApYEY+gGtagWpQgGZNel5JdFM/YTsoinRxsqqylImOjn6BAHpiYZV/gKOBeYNJLHM+LYlTRLR5XciPacySaLJvTKpvUZlWO72RgqKdpHFtdIBvcgCyqbDIztq3l5G6aTinZkCBSTl+UkWZZlK8f1qNTjSOUjqmXUC5m5LQ2OPEwsu0r7cAtq+3y9LdtZiSm04wu3FLfks4bkg+VT05cEo8dDwpoF8qw3xKupaTtrCzt7O0ubS9ALCpscjN2auOiIM6IqlgPYZUPEYwLDMmJ1REP5JeRpFPJ41SLbWNhZuYoamorrm0vQCnnKLAwcyjhoFoLBqtXDV2RjQwJik5JCORdmjCmIWoZi3BaCKxkIe0tsGupaypn6YAkIKFraKpdmptHRQUVzgrNCknHyEmJyIlVktGYFhUQzImWTQbgHBuqaCnloeLkYKFAIh3eJGBgol+gn14fn9/iYqIkpKPmJOSm4qLlYeGkIiHknx+i3x0enBVUXFbWX9ubpqoxiVw8O8MAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/034.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/034.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/034.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/034.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -236,8 +237,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwVGPknAAAPD/knU39LwhoRcCKopiooCAiCAeKMfd5XnQwBtnXg7rduZca6vVPbRbWw+t9dJtPbfbemjrsfUV+lz9fsDASzya57IUksIWpvUtmvpM3SAqc90+U81z2914wcuxvzg4mRqWWqqBc5ZnM0QjS+XSuZvj/X83y7v5eN23VgNn1R/ebt5+Xb/aTPywbwcdvUWUwUbpjgrlh+k9sUj/iJ/8ugo/jvRpsz3mO0sn+Pv5++1i/cIZR/rg2WC4tBywEviQ4ZIwqjHsn9dPf18F14byuCrEmnMkT36++fQliGNzGFvOqWYeiAp4zkuXnIwieBEvvD80PlhqVGvojLDQ3JXh3q2vI92ZyeKl2Y810+dEcEHXevnS9s4DOIXKOGljWTKDO5zkC0okG+8Ow2KWaBGFmaJecIJXqoIRVQHb6cT9ncTWLgIj9i6yBcGepM51M1S7G+ckNoenj2qRKE1lxWYbIJPGAARDUDIBpe5BSRRGKhjuNgW3KRzxbU9Sl/r+vC14gjipNzSSBs08VcvlSSRbwfAWTvF4sVcoq+WqxrAazYgkPapys27vrN1xq3Vhj/oPXb1jYwo7nzEAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/035.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/035.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/035.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/035.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -249,8 +250,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwVtv0mAAANAvMegC7aAtUBiOS90AS5WChRZoubalaw2jlIXbYBKmMqtkItGRzVuqLxrdyOIeTGZMjI/+R88Bj2XV1ActQUqH4nFfWE3L12f/zo+uPnXffmy85ML3NzFvAMFRCHU5EB/kBgYjHAgKv031+Ozqyd7lsPl7cXk+/TYXx5a+UKlsyOMPujd8CA5BqNOBgH229lTYyYWip+3639ePfh0ap9LDd+3ZmNWKEVpNkIMURfpve1zedRhbcyDALDXm1d0uw5zooqVLX7vad0N/UW2ZgkGHk5UE+VkrKkRkA8Vh2G2zu8BUUKcFzWrpF+Pmn+fdH6OGJdV6sVLzTg6DAlw0dlbnhymSIwjYjt5YcwI1znRoYZJVFkrdrGaWUu4kn9NCjBx5UE9mG3RyymeWqvCsnCkSESYQAB7EW4ll5krnpzkw5UIvee+QKaQwYsSLV8ezaX1HS5BLrWjp5Tcy+0FkgcZVUvFdTTxazQ6+9OX3lfw+Nwp65GFJeWW0fN4tyh8pbUdF6i67ReSJMODoYYLqhWN7cnmymvSvzVG7NqeiMz593BH7QXwTWcdv2TFw0wlsMLBB/wFLwW7eQ5MlTQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/037.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/037.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/037.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/037.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -262,8 +263,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwVyktv0nAAAPBePHmYlLX0Xfpif2jpY6UtYWtpKa8VWoowRVI2YENNzJwxPjEaNVF38LhE42HxE/gB/HTG3/kHZX4/87oPSk67IPRRMS0wZzzYms5M1vugGqvaWrVWslWECRomsnAMrbtJYnuxbI6q6sswmGvWyk0+DdMvg/j69HR7FFh4cVoxSwgjIHSNA9Dr+4tNOIgV9etx9Hszi2v+w2h5NRr8GnZ/zGc3WRJXynPNbNAikSOwXRq6HM/OTefVof1zPb2K2zYHHGH/Xaf1PfQv3aOnrnOdjS4OmgpSpHepCiNA00brXr33582Tt1FTw5hABC1OEvPYeW/wKD3uCXtd3SALRSRHkCgdKxpkMHtp8GyTvt+OH7ugIVOMwfATr3Pz4ePfby+arIjAZC5P3NpBYRi3uRJ0ALzO4fPQuVi0Pw9rix0Yo1Bm7Hi9urv0PR9oAsXfQcjbMM4iRJ2ToEj2LX0FpMgAdwN5IqEEB6OBJPcr+xPVTnTHkxS/XNVZiYaxNsdDIQ2qIOVYn2FdXeiLjIPhxtLtntj1/xWoJlvyJEWjeDKPlzH6HzBBZE6krDWHAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/039.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/039.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/039.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/039.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -275,8 +276,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJxjSHEPCLJySnYL7CnoinKIdNCwS3ZJa42saw+qSDIPVhaXlBeVFOcXEeYRluUVVeIXZ4ix9Yjz8C9JSPO3com0NKoKcg41Ns+0j+4Iri51TdCQlFWRlJUTlRLkExEE62GINnGItbQrjE5wUNOcmBKypS5rdUZCvq2/hpiak4petLGhrbKyopiMuJC4AB/IHoYcO68IU+vGpPj+xJCpqSE13o7V7vaJJm7iYqqKoopV7o65loa6UrISguJcvELc3IIM6dae8eYuha7+M9Mj52WHz08N7vJ1j1SzFOOT4+cWLXG1LbQ3izDRU5eQFuQT4eEQYAg1sEkwdUm39msJ9y92t2z1tk/TMfCUN/Y2sHLU0g420KvwtGkOcU22MQ7Q1YjU02YwV9SIMXFtDg2ZUxCd42aTa23uo6jlrmE8tSCvwC/AXdsgxlS/N9qzI9ylLdB+UpALg76SubVhVEF04tSswHIPy0xjOz35QDtNu9b4GGVZLQ1JZWs5dV9DPU9DHXsNNSslZQZj3VhNrWhVnfB0v/CJER6tUYnGOnkG6lkR7plB9s5SwjISgtKsnMIM7PwMbDwMrNwAkfhuOHWg0qIAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/040.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/040.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/040.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/040.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -288,8 +289,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwd9TmgAAAGBeNxVJYJfUJJ14nkAsQfyBTRBRURQzDFw1NVtq/sgtaTcvyt3tbre6267d7vbe2972uJf9b/s+AIcxjckWyYSZyptMciiqF6plJnJTudrPpE/FxiSrj4XKqNyo0XwhRgGIG/KDsLRF9relBa8theY7Xl0pxvdm5ffl0aIqtYLsB7U9r7cP6MSVvgeEfCgG+sRQbJasfC21Z7uNdkKZpHZ/Hmp/lsNVs2LSyblyMFVNKy586XaAKOonEH8AhOzq27+T2485oSMa5+n8TOTu66UfVb0b5z6fOHcjZy/GDqQCQD7DCGQ9hqJX6vG/8eUnrXxb793kS7acehyYjy3LydVutBOn1jtl5b5iAPgaktzYfLNDXuf0b+Xhgzro78hSIHjG8Xf75etMeirI57zkFM33JcvuzAHwqXc/HLKznJ0t/9IHF0INhzF8DTZIZimLU5Y1onSLevnQm8y0wyOlCWyAvlY0ckyTY07RonHQBXrcEAGjr18EF2LhvlhaZQSLYrgtgtsk5DAFvAoEDDLKYc8ZLOh64vG4IdANoaBvhPu7kchZPLXg+Fo44nV5US/SoJj/EAJ0RnFRAu0AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/044.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/044.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/044.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/044.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -301,8 +302,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJwFwd9TmgAAAGBenSGCEkJio/AHIYP1QxhgAUkmokmu2Y6JhrNzO1srTeu63WV1e3F7aFcve9hdd3vYQ3vc/7fvA8hQlMUpLSlYnFzjJe+lcry521uveKJ+lH/l5lbqgubzWt/c9bTtQooD6AiKgeFYCNmi+JO18oVUu5CdsVJ92Gs8nb77++UwT9EtNj+w37ZUc58XgVVibmkWT8BRkUxdam+mdssTi23ZOjfUe995HHaGuuavrA+qfkstumsqwMUIHicYDJ+Hoj8OLv91ex9kqWd6o01t6lZ+HXu/3cZNsXY/fuhbjSqzDGTQWDZGsBguYPi3+uFT+/35du3W9k4V6Wf39Z+zgzvbemx2JxX/k2L7UgmYBZEoiGgkOZRz15p7V+p/NzsKmdETiZGuXu2Ur0vGUNE+SoXxlvO52gSgYBgJhuuL1JksTozGtNzcoHl4BubxuL5If7XLN0Wjw7ywU5mrnbpvOAAUAJMRtC1k91m+u1xIY3OBwEwIRFZR7CRLD1R1Ylq3iuJz2fwCnYvTgEnN7zFph0kpzzNJNP4sAMIhJBiESCgyWohv4EQlzR3xQnOJJeEIAaP/AaDMb6mRpscVAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/045.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/045.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/045.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/045.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -314,8 +315,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwUtv0gAAAOCeNA5KX7ajPErHw8IC7YDSrlRKWwoN0A7Gy4yHgChoJFuqiHOKYYdtiW43Dh6NF/+AP9DvAw69NAmiFVbuSpVp+aRfrAxF2Tl92eaVblbqCNJQqzj1F29EY6ZVmxkJCMEYBaFRnFTCSTvGzzljlbO2av9Kq93UCwOepSDYCMSXx/VP3clAVIE06WNJP0PsF8PMLF3aKp2N1nsvWTem/s8ZbVvVbJCqJrjFsTnX7TNBAzhfQAiGWK8/fxAyE+ndYPWrNWinMv1kfFMr3vVq63JhIQoj2X5wbjt8AXiGexmCrMUiH4q5Rib3Z3H5d3i6UI1r2/5siL/nvd2oMeGki3zzdvBxklYBHET2Pcg0ydw31HXZ+GlMd9a7O318IaurIn9taff9k69Ny6BTrzjV0TsA7kKiGL7MZzem/EWv/jBn3/W+GEgEITxPUVo08jBuf+tZsBuO+unz5hAohelWMn5pKi2WGXPPN1o3ivsePd5zu5EIhL6O0W+FIwLGYRDFPKgPIoArXViXxKUiKnRMpOKHRAh84kFBFHTBNIydH/hTKO5ywagbeerBwD3oP/YvaeNE6Bz2AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/049.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/049.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/049.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/049.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -327,8 +328,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwVtvmmAAAFBe9rAmc5WozQdoEcRakBX4hAFeoMomIIo477G21msbs5uJc92Srcm2pMselqXZkr3sr+4cpFmp3fj1pT+7NIJ5wZvp1b4s7jzzlaW/M9W5qLc5s80Zblr1jtQyxSB1nvs18b/1nbtO/WWpNtOcH4Pgz2Xr/sL/Ow4+6EaQ1GxCUmJMKoSd53PIxvN+jp1PVX1naTX+yVAsvTa9G7e8s/PvC8qYEWwCLsv+7aDXldVJXkbc0vCLX9ia6uBpUTrWbNj7fL7+PW2eySdbQ3XoLIcmPna76+CFlOIVnEYoridmSquiOassnhW3ojAtGeu71fy2pr+BkpNtUdHcptOeNVoUwQiARgBlReL572azny5nxQ0UlunjkZJb3F9M/y0XRXHN0teN0+u533ouKfg+QB5GMgcAfpWtAiZRqTMuPcmkRhQ5UvhJRblimSuYfcszK4U+4eMkgQIkBITHKFsA8DAC0ZiWwF0cVBOYjQMHB/UjcsimpsxhR0oKkKRYjET2UHrvER0Ow3CYeRBK7EdykaiKHZwmgBUHFom7SaIRi+YzGMuBeDqK/wfOs2pq8GRWrwAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/051.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/051.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/051.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/051.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -340,8 +341,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwc9v0lAAAODehEL7Xvva0va1OicZbgUpo6Vr5+qgTAhzUDbZuo46isS5RVlQ/MFlF53Gg8kyvSycTUw8+Ff4f/l9BE9BFSIMEEqBZtE6tDf7hjPZCeON1qmzcdFcH7jOgd0cGd5JvdOruIQEmLwgFkVZgRymuZNifWb7M2f3U31vHvr/LsfXo14BSc9L1Xd7x0drNeIuy+uSXMbKsoAVwL8wvK/NMF5rxVbtw6Z5/ax7Ndg9LK+OLO+07odWjcjxGV1WdFl5IGKJZmfb0e/+cWA4k63gJmrPR70/0/hzeys0vR8fr4LKI0ICaAEJWV5c4kRbVedHw19R8KbZeet1p67x97z/c9ANC9bryvZlcD4s1wiKBDANAcksscJZafmi6t+0J1PbLwhqpGtnrvkleBI/tC0lN1qtvn8cEEwasmmGSoLandvDfG663hqUG4sIsxRrYmVH175HvpdfSSQoTc2OO31Cz4iGJJsyjvX80/srjayeTFJ0CgKK9VX8zSk2svfIBORpjgccTyHipZmfOPq4UtzXtBJeFAFPk5BNs7dI6GYyrxawQCOYZjiaQxQCKeY/aqdhbEVDZZIAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/055.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/055.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/055.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/055.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -353,8 +354,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwdtummAAAGDutnVa1E4FfhSF3wPFAyiK1lZEUBBPRXRa43GJo2aHmmVLduqydtnStRfLdren6MVecN+HfBgm5kf0z036Ux8yHh8RwNx7qNPK3P+Z/Ps7vXvfkvloLQled7ldL2tLceR6friuML8c/uMAamz821A3IZF37990IldtcODyoftPXC5vEPVW2YgtJZHbDe8oyd8Of32Wel4Rf1jKkgUWFbgy4bpA5xkGBHCvz//wMZoMUacii9yO47tW+mZV3E2t8475xTy2I/46JLe1wwtFeFeXMgB3o75He+56sTxXy8hn+ODylL9c9Vb9p2dN460qaSG/nBVmqnphVO5Gja1WiVEMCIIiZAyBQ7IEWYKRidZYdi1blr925W1Tnpj9UcNYaMrLfnva7quV+lGGT5Eg7PEgGBElAHwzHjhtfdwwznudF4vN0Fq2dVtXe8qJXpXkk3xJ5NIcRaVIHMECJKTg97nlGGqT59d6czZ7VZN7TW1QyB1LuXJJKCeisQgRCgfxKIYjIIDHSHJaTKWwYCIaX4yetVoTUVTEXJVjhYJQzrBZGoSZME2HaPzA/x9orGZzCYieowAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/057.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/057.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/057.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/057.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -366,8 +367,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaxJREFUeJwFwd1TmgAAAHDec4fS1WbKN8iHmB9RKYiYJDrTlBkSIl5qaqiUZsNr3fmwh+32sNu/vN8PWA07rp43xMTgKudq4nPvemWUenJqfYG9y+Qih06ypISc8NGj+wxyw8aB16k1vS25avrF1LqXvF3KBY4+b0g7lfld43YKYyaxTpIoo1+6XFyjY8Bu4fh3mneT3w2bvqmvLT3o62+WtpS5QCLmImkw6EikbQHr8KiWQICPpbOxqstmYT/79ieY/PT7Qb+2vqv8Ms7/1plJlhoI+NMl+5jnntTTQSEJfHj21ta9lvzQUBb3jb1nvdn61ta/t6UfZcYVMJNFR2eJsSR4WvZBOQXep+amV1m1i/Ucfy2QW7u2c+sv3bKe5WUSdZmTWwrWSHgqC1WeyGAwsB22Vm15rPJzle1nYkYa78qZIgWLGFygcJOFq3isxeG9FElAEHgAAr79ddaSHYl9vErOinTiCKqz8L5ET4T4BRyVcFijYAVH8MNj8CB8+CkMzNvKqJJyzpGZQnTSSBSM+DL9r5nanKFjPl4jYp/Dx5EQBIUi4RAYCYH/AezWbb4wltxqAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/058.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/058.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/058.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/058.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -379,8 +380,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwcly0mAAAODctJaQTRKyNSGZZPhDSZomJM2PZV9KtYJSp4UwAlVxIdbWDmCqHLz04HhzfBB9AQ++gCcfxpPfh4ya3mNoloCiE1iRp8KC9jls//jU/PvN/XkziHv7oS1NTMFlKRHDGRRDXvSqfWhBjhoCNgTs1FVvRu1fX/v//qx+f59+fBj0AX/uy2GeO1TojpJCzged+NXJsaNHu9xlkHkXqO87XtRxZvvql7CyONgd+9kPJW0B5Te2ENkCEp2019Ho+qwXV7RrKM13hHGQ21NlLcWEvhHf9962vHlp+6IgTra5qCAhgaG3PHP9+nQ5aC2gfOkKy4a1fPpIY2hT5Lt29mXNeV62j3NSV6UneR45haBnimcNZ/GkOi/qV760gso6PNB5Hr2d5Mm7Q2jN6oVmXpdJqqGkkfE9feBu+VtMDWRmZfMiUFZVED/wLJEjEiSVJI/s3LOyCzg2jRMKTSPTinFkZ6gEtnELzfLsVT2/bFqrbhFw6c0NLLmJ1wxtCHc4gmJxQqfTyDTgD3M0mUiSKE6ieN3INIC0p4iASekci97BAk3uOgaF4hxOZhnmP43RY19kSKsTAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/061.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/061.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/061.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/061.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -392,8 +393,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb5JREFUeJwFwU1v0mAAAOCeNOl3337QFzpgSKBQWNtUB50to9DhEMoYOGBMQGBscygbmTHLpnGJX8sSjAcPmuywxJvx6v/zeZAgwwdIINGCFoqNi9VeYbNn2qfb/ZFTn+byZ4VsSUntP20f25WhVWoYa0iQ5tI+GAE8j1NZKXagFd+sVi7tnety626w9e/tsK4pYYLppa2L7qSbdZAo5zP8Ad0vRTlBh8sfcs2rYuvIrL028+euefeyM7YebSYTA2P9yPH2Vh1EEaHml/TAkiKIDzi4aJ/c7vSbavZzu/u1mvt9vPtr1Hi3YbcNZzH/0s7kkWVWiPKiLMAVH6zK8t/Z5Z/+s5n75LRYvvGs22H9+3PvIGMdPix/m1y9MAoIhdEsztAY4wSXzjLqdWn3hze92RiOdaujxkdr+qK39alVc8Opsbp+kqsjAGcEEvAE04hFJ2rivdP86A6soAIpXhZgORn/ediZ11wSIyMwNK10EJnjdRGakjQx1EZcPre9lUD43n0UxxlT8F3o8p6eIjFAEwCQrAREZN9Q5o/1WUbfTsSTgqTBCIVSgGBQlEoD7lXIH6RYHKMBwXAki6PUf2sUZJomPeK8AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/063.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/063.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/063.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/063.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -405,8 +406,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJwFwdtummAAAGAeYMumSV3FziIHcViFKL8CP4WJiMQVq4JF1DLbWa2LdQc3q2VNuyY7pjdu2UWvdrVHWLLH2/chHtQbvFpMsZ7ZOu/OlgfB3erPtbt8a4y+ty8vK6fvJO+q1N7ncuF7odD9MKJSGe7x9n6B28vsTGve1/H1t6MPQWPisuWDTGmhDea77m2zKxBUNBSJPNhA+Hiyt1v4+2n672L8e/zydhbc9GevK52hZJ1r/ZXWE+PEQpWMNENG0Fg4ggCMPlTAetj62KoGZW0AzBNg9RjNzxjPSLFGAivNjkRhAIHHMvJ2HFnt6V/8+t3QXvesX559kq20KaWdgHWsWMXZ3Cau4fQphGdl+F4X7SSBQIa5coz18/rPbi1Q5S4jWUTRiLJzy/0xGflqCaCpDieflcQ3mtBIEogti6um3he4pS7MiyJM5PMoSYe2LhzH12tYlFIwpsmIL8SCx2f8Qha5OfY++2ZH4GSM5jFAb1U43ExtJKa2+8rzc3Q2h1IWLVapHQXHDgUOeQpbC0efKEB+Un+EVmNRhcI9QDtmXrAVTWJY9OEmH0tZaR6SlJYk/gMWrnY7RQ2ThAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/065.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/065.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/065.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/065.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -418,8 +419,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAATdJREFUeJxNkMFu2zAQRAXE4nKXS3JJ0SQlSpbjOHBjF3CQg3Popf//VYVttCjwboPBG0yHWgzFfgNqQ2qDGqz3k3WjBgvKQE93gFSP0BuN0mntNTiigNqBIpG2X2+n429jBg2sgUHRXwyidOoFtDIhroQetY1xl8tpv35v0xsoenjoH4jhbkDtvW/W5mchyDwM++PhF5sI/xk0GKTYkR2RM9vsXNVgRFrO7yLz3K5peCWuiAIKn5Ocb89CtbYwJ1CGOYW4kzDvlq+aT/foIffSRFpKbx3aimbLNhszqB41GOey83W/3qZ6sX7K9WNsP8t4zuXHkA4dy0oUvSxsC3FBDEQS4lLrRx3Pbb625bPU8zC8SliYtx27higxHdhNxja21fsxpWMqpzJd6nhJ23cv8+Nlq3r8A40fHGBYRIRmAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/069.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/069.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/069.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/069.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -431,8 +432,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBeMD5gLzddMkJUM0JTMT9jP05cNEBUKyxsNzByPTRtQzlyTEGRZVNlQzgnFRU8JSgAbzlHhUdTdkRcTS04SS9CjF52f0pWLhQZbj02cD81MRcZaUE5m2hWglpMWTkxekxAAJpghYxNW5RQV2AuMEctRYNnm5pgc3I3NqRoXLh+aHxGO6JrWcOLdY9jVHxOP4xdXADJhKafSTiZWUdsQjtePU2SbZaETFmFREKsbl+vcl2iYk6ucVy5gGqMXk2MXEqGXW8AvXB+pFNJmWZjdExLc0lcmGB4eD5DZTAyYDUvjlNEmlpIq3BbqHBbflNEeUdIZjNGAIpGXYhHX4hMaX0+V4VDYJBNYHY8RUkiJUsjIWk7MXtJPJtkUZJhT3hRRHE7SmoyRgB6OlaDPlyHP1yKQl+PRWNtNEw7HSdSJilSJSN6Qzh3RDh6Sz5pQzh6VEdLLTEyGicAZDNHfEBaf0ReekJYgkVfSic2DgoQPh0jUikmeUc5ZjwyUjIsUTIrhWBPgFtKJRQUAF4uOoRGVX5DT0wnLigVHhgPFhANEyoWHSoVGCUWGCUXGDYgHlw7M4hmVIFYSDIZGUJ6jPBXs0qyAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/071.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/071.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/071.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/071.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -444,8 +445,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBfMTthMDdaMkFQMT9QMT5nQlJdNkJJJCZnNS5tOTBmPTRjQDeGXEyAWEk0Hx0uGx0Adz5JhEhYc0NaSSo1TDFGjWB4h1BdMhcdYTQug0xAMxYXWjgzi1pLm21bUjQtd05AAJNYeItMV5JOVVcpK0kxTINon5thd3Y6OZhdU8CGb4VOQZNdTb6Icad2Y3BIPYpXSQC6cIGaRzSXWkpkOzVjQVSTbZiETVuEQkCnaFu0dmKiYk+qa1e6f2mbaVeCVkWLXVkAumhqoFJHl2lkbkdFdk1glV93dT1CajM1XTIsjFREl1dFp2pWrnVeiltKd0xEazhGAIxHWolLYodOaHo8VYVGYpNRYXs/SU0lKEYgH2s7MnhHO5dgTp1oVH5WRXRFSWoxRgB6OleBPluHPluKQF+MQmFzNk9EIS5SJypQJCFvOjJ2Qjd8Sz12Sz5vSz5iPz45HCsAbjdOfD9afUJce0Jai0plVCw9EAoRQB4kUSYke0Y5eEc5WjcvUDAqbks+hGBONSEeAGQxP4FGWXlCT1ctNjofKx8SGhALEigVHTEZGzQeHTEdHTQfHkksKHhWR45qVl41LZq+jajFNvoBAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/073.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/073.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/073.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/073.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -457,8 +458,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwVy8tv0nAAAOBe146+fm0pP6BQ1C6jnTxWx6s8OqhdByVBAbd2TDrmsnQQHBgz49w0Rg6LxixRLx48qQcTY+LJ/87su38IR1AgQERIzl6511MKzprmpTcHdzU/X3qqZV+ZpYtOY7HX0qRbWT7um9tIkKQ5ggri1H7F9pujadN93vNOdGtHTg/SyVlZndRyn4+6Y6vcz6ROWm0E0iyk2QhgntmHV/uXbwbzD/PXi73hebW+aJu/ZsOPu9a/d9NPo84wrz6xbEQAHE8xmTCcVLfmm/2fL7/8vf7xotO7rOlvm43vfv/31PlzdnDltneyxZooI4CgGZw2BHiQVUZG70jvTO73uunC41TGEGPTqnq9a3097vpl3UvVx7aLYCjBk8CKhY43Mudtb5JvPljJxShoJqRWQpxX1DOzdGppXk2T2ZiV0xEUJSDJVMJBN5lc6M5F5VExriyhZFG4bSREZ2NtW5bGLf3bqbvKscsoeRNCJFBDfCOe2JLWBToMcBYPMDIfTYdglAJ2Vnl/+NApZCDNUQRAMBSPUqB+R0xBiC4FMIxkCAbDaIHiDCHSV6SZWXLWZQ4HOE4vY/h//F5naNSjUt0AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/075.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/075.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/075.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/075.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -470,8 +471,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwctv0nAAAOBeZ9/9taOjWFgDHdnsaAsVyqOsUNYJhWwUBcZryMLAhC1RZ1YzhRk348WYJVyWJV40XtSTZ/82vw+iUYKEiU021NXtgdlopuzTfPlDqeSZ2rL95Nf58NusU4iGVV4sRmK5kAjRKEEgRACwXq1/05svum9emPtDVT3Pxa/Kxryxdz9tDg3tMKXtbci59Q2IwUgaJWmcGe8O3tqD5cni6/NXRiB4ajwep9W2FvvjHd+O6tcHJVuUs8Eo5COADwcs6XOkVEszL9zpcjB7Z2S/Tzp/L0b3R7V/12d3k8a86vS2d9xHaciHU2skWMPpliRf1kejTG0az7/U056dv+s7P8bu79f9j27V26mfKFZbKUAAo1Yxygiws6RxYw3eG82mlHUiUYPjprr8qV68HVZnlvU0VjyMF1qJIoQgRJCgnJC/JUmfd3tHigUQkOUFVwwv7PRZIdnPqF8mzyrKFoBJRdiEHqxgIkGZfrYshitRJczwKELJnJDmg/mIoAuh41Lm5+W4m4xhMAkIGoJX0HWcVGla5zgGo3AEYCjFAzbhfximVvfj0lWn4ia2GYwmcRqB8f9oWWnloRBWSwAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/079.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/079.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/079.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/079.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -483,8 +484,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAatJREFUeJwFwdlv0nAAAOA+aKIZg1p6Uejxo9CWXitl9OJHR69RdjlwB2HBkQyGxpg54oNRH0wMTz74oD4b/1O/D4nr2iTMZp0oZ5UDqjGixNOa+MHpLz0YSnoga0eKvtAdT1B3d7ChlyFvR+PY6L6U905UI2oZD7B35R++y6+34+EqGv9azWeuFfKKL6g4Shu8jFz1ojlMFlJLobn3Kfx0nKV2fBOEP/LeYzb9s7z5ORutAjcVVbREkziLXMMoN90pLyxjb3s5vLAsmWQ3ef/3OH/tHF840UPirbNIIQUCYwADkLP9wBZat4eLf583d/2uzfAWw6579maYfVwvJ/tdu1pHy7XnJaqA0n5DRUy2adatV0fb6ej7Kr1v8xpRxENRdET179c3c+iCSqOAVZ6g1A5KaVwD8VgAjZNB/GXgP14efJNBnyi+ABQnEgxkuURtJ2bXVUwDyDWc2eNE5BwAqKSWfc+JqS6dy2BQKJbxcm0XJe0qmHT8QDET3e4ABUcpnxeQlKu3OUOSThkWciBp8OHTIlHAKs9KlMlLidb2Jd1tak2apzAakNX/rgxatApPAk4AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/081.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/081.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/081.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/081.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -496,8 +497,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAIhJREFUeJyNz8EOAjEIBNDSWkgpLnCg3f//UpMaTYy6u+8Kk8yk9CnnXEq5vQBAOlZrJaL70lqrtV4KuLuZ4ZIOAAARiUgsIoKIR60AQES2bXsGVLX3fjIj58zMZqaqrbVSyt9XIlJVd4+Ifd/nnBHh7qr6ewkiMnPv3czmnGMMM+PlfPrb9/kB1LMHul2EnjcAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/085.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/085.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/085.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/085.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -509,8 +510,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwdy99P00AAwPG+umuv7a279tpet7Zr13UbXcvcRgeD/QirG7IoBKhmolEDEVggyNs0xheVxGiMJr5oog/+nQaS7+P3wyg85MGdLMdiHhIkOFlhA/M9iww9mjZL8+324lH3ZBwsdquL3fB43WXE21sReRUJNIdMOddXRVdk03rhy0Hyenvj5F7Q82nPN/qe3vcNRoYZCQKZ59SsqCK+gKVQV5aJuOXKb7bWzkadzZqRBIWdlrPuko5DGMIDInBE4BQBYgHqEnIVaVjIPm+YF73odBTHjjYKzIfNYqdIAopvgAKBcgtkkc9LaMXJj8vafkV7FVemodfOKyuOntQtX8WRgZkcB26CLOJYG8Gxa7y4P76en02Xq7M4nKfpoGJ1S3RQM6uU1KjCyBCIAECQgSDTltGThr/T7f79/OP3p68fzi//ff91MJlqomCq1KamZdjMXh23qWAj9q4uzRrlYdl2Zfz+dP7n4/W3q8ufb99dPH5mqEY/ilbDhmWWmKOOctjAs6b5ci04jKPA0BwZJ0vO8SB62vLSVv0o2ZxUi+eT1av9B67l/Qe3JVK2fHjifQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/087.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/087.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/087.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/087.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -522,8 +523,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa9JREFUeJwFwdFu0lAAANC+du29vb33lnalLdBSkNLCWC2tsyiFMowytskCZswEFWfIalATI5IY4osmvpm4F//B7/Ab/BvPYX68jKe+abFsC0GPoIKEZcB/X6X//qz//n5+HpVlCByFRKaWepWGvs/cZsnyQa3KciEWTQRfJOG7tJ0Uc98m/iJ2CQ91IioCkDi2ItOmoTK3WX/V81weHGHU0fc3p8lmGF22Sp/7zqhRzhNRI2JOABTyigCcvML8ukmz41YTgmMijk3j00l3+zg+sdWndwqzoP6kXq5IGAOOAq6UIwcFjfn5Jt2exy0qVilWEbyKD9eJX5OQDPjrh3c/DqKBpSkIIm7PoNjVFOZ1v3F55BkUQ46jELzqtt8O7ikCL3B7Q6+S9cJ1Pxo6Vi2HC4jPI8g4mlqiOLRL0/u+BMHZoXPVCSTANw1t0m7MAncz6q7TcO5XTuslWyaMa5oqIT3X3ox6Vo5aMvV0NbSKX6ejL9NxNpm8fxTvLobb+fTDxVlg6oxTKCpY7FTNxC5ijhU4No/RxK8/C9ztYrFb3Wzms91yeT0ejdsHvqH8BxGQVYNilwH3AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E48_brefMaCopineTravailleDansUnSexShop/089.mp4",
-        "thumbnailPath": "thumbnails/S01E48_brefMaCopineTravailleDansUnSexShop/089.png",
+        "previewPath": "S01E48_brefMaCopineTravailleDansUnSexShop/previews/089.mp4",
+        "thumbnailPath": "S01E48_brefMaCopineTravailleDansUnSexShop/thumbnails/089.png",
         "width": 1920
       },
       "mostReplayedScore": 5,

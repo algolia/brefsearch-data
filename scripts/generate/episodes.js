@@ -2,7 +2,7 @@
  * Reads input and computed data, merges them, and creates episode.json files in
  * output/
  */
-import { absolute, readJson, writeJson } from 'firost';
+import { absolute, readJson, spinner, writeJson } from 'firost';
 import { _ } from 'golgoth';
 import {
   forEachEpisode,
@@ -13,7 +13,9 @@ import {
 import { convertVtt } from '../../lib/convertVtt.js';
 import { setMostReplayedScore } from '../../lib/setMostReplayedScore.js';
 
+const progress = spinner();
 await forEachEpisode(async (episode) => {
+  progress.tick(`Processing media for "${episode.name}"`);
   const basename = getBasename(episode);
 
   const data = {};
@@ -54,3 +56,5 @@ await forEachEpisode(async (episode) => {
 
   await writeJson(data, outputFilepath);
 }, 10);
+
+progress.success('Media updated for all episodes');

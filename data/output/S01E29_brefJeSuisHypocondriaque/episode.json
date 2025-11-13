@@ -6,7 +6,7 @@
     "index": 29,
     "name": "Bref. Je suis hypocondriaque.",
     "slug": "brefJeSuisHypocondriaque",
-    "viewCount": 4523442
+    "viewCount": 4526654
   },
   "subtitles": [
     {
@@ -15,8 +15,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBnWFaIcmarkXOfjYBzX1aai4W1qKDEvLbFr6OhbFhZOC5nXVizpZ6pnJWXioSDdXAAbV9ad2ZfhXRrjn53eWljlYZ8s6aey7y0rYJxkF5MQSwlHBQTopaPv7KqpZaNlIR8AJaIhZ+Sj6mdmaGUkKCTjpiMhrqfkpp0Z5toV49iUlY2LTglIKOZk8GzqqiXi5yKfwC3rKi3q6bDtrGrnpqqnpeqlYm7kH1lQztXOi9aPTRRLyZ0ZmHLwLi5q6Gol4qkkoUA0MfBx724wbeysqagioCBZVFLbVRSOy0uQTEtUjctVj01ODI1Z15eqJmQqpiMopGGAM7FwM/GwdjPyJeNjS0mMBwWHRcRGS4qMLWgl5x2aEAyMxgSGRUPFk1DQ6mXjKOSiAC3q6XAta+xp6RAOUEaExsXERYVDhQuJyySfXe/jXeIXk40KCkkHiYgGiBtX1mIdGoAWktIfXBsVk1SGBIbCwcKKSUnkoiGiIGANi8ygGFVg2FVJBwhIBkfHRccFw8RRzUtABQKB0E1MjoxNBINEVhQTZ6YlczIxMW6speOiSYgJBgTFxoUGxkTGBgSFBALDTguLOM8tb7aJkqIAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/004.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/004.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/004.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/004.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -28,11 +28,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCBcWp2aGWSe266oICfjIByYFejlo+rnZV7Zl1jUUqckInCt6+vo5ykl5CajYaGeXQAdWZfeGplfGxmiXlwjX94emtlnI+Hr4h2f089HxMQKCAfurCpyb+3sqadqpyTmYuDAKCTj6GUkaicl6yhnaOXk52Qi6KTjLWDb3tQQDQkICwdGrSrpNjOxbWpoa2dk6GQhgDNxL/BtbGxoZzAtLCsoJqglY6ompOZdGd5TT1XNyxYOTB7cm6gl5O2qZ+unZCjkocA08zH2ci9d1hcj359sKagpJeRlYiDqId6oG5bVjguVDsyLSIkGRMaWU9OsJ+So5GHAM7GwdLDvVI4OYp/es3EvpKIhkdARGJRTqV4ZX1ZSy0kJSAaICQdIx0WHWxfWqSTiACRfHHCt7I5Mzg2MjJ3b24oISYWDxcUDxZ0YFpIOjwbFR0aFRgfGR4iGyIdFhh3ZV0ASjYuXE5JRTs8CQYKCAUJEw4SNjE0lI6MzcbAeHV4MCkwJR4kGxUZIBkfGhQWJxYQABwSEhUKCEY6NzYtLSwjIod7dmxfXra2tsW8trqup1ZOTx0WHSIbIRwWHCEXGDIcF6EStAufskXwAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/006.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/006.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/006.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/006.png",
         "width": 1920
       },
-      "mostReplayedScore": 4,
+      "mostReplayedScore": 3,
       "start": 6
     },
     {
@@ -41,8 +41,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAeFBMSCgpqXFmpnJevoJmHd3B8bmi/r6bJt6zLua3DtKu6sKuzqaaqoqCgmZmRi4sAIBQTFAsLdmdiuKmhiHlyTjgyXj0zp5OK2ci718S2z7+0yLq0vLGsu7Kvt7GwrKanADgrKS0jIo17dMGuo39uaFtAOYlaS56Fe3xzcnVraYuBf4B6e3ZydIB6fJuXmZuXmwBnXFx5a2mBcm6JeHKRe3J7XFFrRTuliXw9NTgUDhUyLjQxMzlMTFM6OT09PEFCQkgADQgKFA8RFQ8SGRIVKCAhemJaSy4mW0tGLSUnIRoeLCgrKSoxMC82JCEjKycpKikvACMcHSIcHhcSFBcSFBsWGJiLi6mTjy8qKw4JChQQERQQEhkXHB4cIi0mJj40NCEiKQAmHh8kHB4bFhgVEBIVDxFMSExraW05MzUTDQ4tIyJFOTVGOTVCNjRGOzo2Li5QQUAAJBscGxQXGRMVFA8RGxYZIR8kDwwOFxQVHBcZQDQxemdhkX55k4B6pZSLopKLe2JZABkTFRgSFRcRExQPECQfIyAeIRIQEBQSExUTFBIQEiEcHjozNGVYV4l5dX5uajwuLClPhmxjGd3gAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/007.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/007.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/007.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/007.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -54,8 +54,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4aGN9b2uvlHm1oYZ+a2SMfHOzpZ69sqqejYZ5Y1uLfni4rKSuopupnJSajIaGeHMAemtmfmxjmYBsoI9+dmRci3xzt6qht6ednWtXd0MzMiAcpp6Xxbiwt6qiqp2UmIqCAIR2cYl8eI2BfpGEgJOGgZCBeq+imrWhl6NwXXNJOzkiHJqOh8m/t7mso66ek6GQhgCwpaGzpqK9sKyvoZ2rnpmbjYazpp/ArKCOYFJwRjpZOS+3qaDSx7+6rKOrmo6kkoYAzcS+wLaxwLSws6eiqZ2XnI+IrqGap5iRgVlMWDIoRzIrXFRSg3l2tqmfrJuOpZOIANLJw9XMxsrBu7euqq2fmrGck1JHSYNuZriHc2FBOCogIBgRFRMNFGNZVqybj5+OgwDBtrDLwrzLwbvIwLy2n5KXb2grHyg/MjG4iXaEXEwoHR8fGSAiGyEbFRh5a2OfjYIAhXRtmY6Kp5qWwrizmYqEa05HZFRdSkNFUkI/Tzk0IBgbGxUaHRYbGBMXLSIfUjsxACodGj4yL4N2cZ2Oh0Y8P0VBRbavrr2yrHFqaDYwMxYRFhkUFxYRExYSFCYYFTciGV5szAu/dtZ8AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/010.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/010.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/010.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/010.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -67,8 +67,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4aGN9b2uvlHm1oYZ+a2SMfHOzpZ69sqqejYZ5Y1uLfni4rKSuopupnJSajIaGeHMAemtmfmxjmYBsoI9+dmRci3xzt6qht6ednWtXd0MzMiAcpp6Xxbiwt6qiqp2UmIqCAIR2cYl8eI2BfpGEgJOGgZCBeq+imrWhl6NwXXNJOzkiHJqOh8m/t7mso66ek6GQhgCwpaGzpqK9sKyvoZ2rnpmbjYazpp/ArKCOYFJwRjpZOS+3qaDSx7+6rKOrmo6kkoYAzcS+wLaxwLSws6eiqZ2XnI+IrqGap5iRgVlMWDIoRzIrXFRSg3l2tqmfrJuOpZOIANLJw9XMxsrBu7euqq2fmrGck1JHSYNuZriHc2FBOCogIBgRFRMNFGNZVqybj5+OgwDBtrDLwrzLwbvIwLy2n5KXb2grHyg/MjG4iXaEXEwoHR8fGSAiGyEbFRh5a2OfjYIAhXRtmY6Kp5qWwrizmYqEa05HZFRdSkNFUkI/Tzk0IBgbGxUaHRYbGBMXLSIfUjsxACodGj4yL4N2cZ2Oh0Y8P0VBRbavrr2yrHFqaDYwMxYRFhkUFxYRExYSFCYYFTciGV5szAu/dtZ8AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/010.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/010.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/010.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/010.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -80,8 +80,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJxjCHJ1igvwSY8IyU+ILkqJD3RxTPZxrU2KLE9LqMxKrclJTwoNsrGws7G0Nze2NNI3YciIDC1IjC1JTajNy4z29dRTkm9PDt/TU7+0vboyJ7WhICM20M/GysHN2cvWysHUyJyhPj+7t7aiv756ekdzTXxMuodDZ1pMY3z4kuby2tzUxvz0CF8fUyOLjKzimoZeb49Ahpq8gqiAUE872wAP9wwfj6Yo/yU1BZOyE9tyU5tLC5qLcwM9PM2MrTKTsidOW9LcNpnBRNdKQVpTRkxcgIffWVsl2c2mJSGsIsRnemNVb311S0mBm72jtYW9k61LRHhCaUUzw/yZsyNCIkT4BGUlpM3UlBy0VYOsTIKtzAqSE6e21NTnZ9maW4E8bWFnYmhmbGDCcHL3yj0bFvs42kgIiYoKCMkIC0kJCcmKS1oZmZan+GdH+1mZWdlY2Fqb21iYWulo6DBMKYjYNrMhxNVWmF9cSlRSRkxSSlRCQUpeTlw2zNUo3t/BQNvQ3MTC0szKWN9EXVmdYUJ1+dzWulAfPx0ltdwAv87UOF8rSzlJOV9ry8IIvwR/d2sTc3NjC30tPQ1ldQUZOQAyc4h53c1nJgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/012.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/012.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/012.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/012.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -93,8 +93,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYJJREFUeJwVxMlymzAAAFA+uqdemy7THtpOY7eTyfSQabynGezEkCAkFiEJCSGZxSAI2PmTTt/hWd8uPtxMptv5Eu7deO8Qx+UIyRjLhIggTCFKfAh3D7vV5uZy8v3ivbW5uob3Nvf8grAyoWWclBEuUVAltICoSogGvkJB6gGwWK4uJ5Y3X4owUiRVmHZK93luMmn+n/VKd1obIWohCyY4DOGDYz2+eVubgcFQeADIwcbNnhkgOiC6R9o6tH3ipmyGxgxVbXgqLe/z16YbiAu0yHnRh6LBWUvylipDtaGqo6rr+9M4jG1jpMgtf3p1PLbDeH4ZzqdhfB1Pp2E8j2NxaHJZtcdjWVQu4M4zi2OOY2Jt332UXCY4S4litCCkyLK2ql656GnaUfLief1scbidq/VKrleRZa/vQxTTROSy1pnQDJU5rxVrDsIcqE4Zj5iIU/zkOZvt/Pet9evHz+WfhX1nIxAwHEqC8hRrgSWNOIZZ4rPQDZ53zt/Z7Ho6+fLpHxbJSe64SSaoAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/015.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/015.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/015.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/015.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -106,8 +106,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYFJREFUeJwVwttO2zAAANB87aT9xLSnSUMweOKhArTRUUEZbcOaRs3NiZ3YsR3n7ku6Lg18ybSjY519+Hh/ceXtvOebm+Vs9uvuewYQCgGKEhTDJACB67n263K+uL2efftyZs0/ffYeHktRReu183PhPL4Ueckx50TwXBS5oFlBYB7twW6zfbpfWL/PL4ntGGNohKMNCDYoTzVLJU0VgZqmhmNNU5klbY5ouA+tdLVucvZnGCgakv0Q7w0CE47HLD7BcMLJieGR47Fkx65RjHCLASB7ddA6i4/Am1A0xd4JhqPvHmDwjuE7y944nupilP0gisoivi+73ihD4BFFJxSNMPzf2ymOp4q9NWLq68mov7LXnBYWcJxKVH0rS96XXAumSiYFVRksVKeNHHR/OOjR6KEqGwiQtX5YIIAY4SSlgtVl0ZRFVfGG4Vy2terbrqnbuuNUgDBePb1Y1+eXz4vlzt669jb2QwwRgZAgTCCkKcIwSYLAc3179Tq/+3H19eIfeq1JO1oM0jUAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/017.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/017.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/017.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/017.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -119,8 +119,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXSkdkVVJtXlp2ZmF3aGNVR0R1V06FZ15+bWeAcWuBcWxuYFxAO0FBPUM6Nz01MjgAbF1adWVheWljhXRuX1FNQS4qpnpryJmKpYuAfnFqiHZvbF5aQT5ES0hPREBHNzQ5AIJzb5KCfJmIg52NiH9gWnlWS4lmWpZvZKSIfIBvaYl3cGdaWDs3PWNkbImPnFhYYQCOf314bG5wZGFyZ2Z2WlORaFunfXGQal6SfneKe3aOfXdhVlU5Nz1jXGSZnKqMkZ8AWk9YJyI3IRobGxUYQislb05DjWhdo3lsqIyEk4WBkYF8WE5OPDpARUBFWFZecXN+AImDhVhUXBkTFSIcHjAfHFk9Na6Ddn1aUHxiXZuKhY5+eE9HSDw5P0E+RDk1OzUxNwDSyLjEvLNLQj8UEBQQCgxmST+sgHJZQTwkICV0Y1F8aVhIQUU8Oj4/PEE8OT4yLTIAn31kxKyTmoJxUz04e1tRkWtdYEdDKh8iVkVEl3dhc2BONzI4OTU6PTk+ODM4LCYsAI9xZp9/cp6Bdpp3bIZlWlVAPSIbIUM3N4dnW6J6bHhiWEI7PTo2OjQvMywnKiQeIrIcnf/Rd+tVAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/020.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/020.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/020.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/020.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -132,8 +132,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXSUdkVVJtXlp1ZGB/bmlpW1heSEKGY1iAaGGAcGp+b2qAb2pWS0o7OUA6Nz01MTYAbl5bd2dje2tmf25qhHNuSzw6eVZLwZGBwJmKh3ZugXJrhXNsVkxMPz1ETEpRPDpAAIFyb5CAe5uKhZ2NiZeBfHpVS4pnWn9dU6iDdIt4cIJxaod2cFNKSz06QHh7h32BjgCXhHyHen5rX2BsYF9rXFl/W0+ofW+Yb2KOb2WPfnqKeXSIeHRKQ0Y/PEJ1cXmRl6YAnot7NjFHIBokGxYXJxsaWT00fVpPlGpdn3tvl4R+koN/h3dyQjxAQD1FREBGWFhgAKSViZWRlzgzOBgTFScdHTUhHJlyZZZwZFE8Oo9/e5SDfIFxbTw3O0A+RT47QTQxNgC6qJLk3MynnpQ0LSsLCAwxIR6VbmCSbGFALi1MQz59aVB1Z2U5NDlAPUI8OT43MjcAmmdJspF1zrSYgWZabE9Hlm9hfl5VNSkvOSwsimtgk3hhY1dUMSwwPDg9OjU6MiswAJJ9d6SIfK2QhaaKgZZyZmpRSjInKC4nKnFbVJlzZ5R2a2NXUzw1ODcyOC8oLCYgIxW1o4/9ZhoOAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/022.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/022.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/022.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/022.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -145,8 +145,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXSUdkVVJtXll2ZmF4aWROQT5rTkaNbGCAbmeAcGyAcGt1ZWFBPEBAPkQ6Njs2MTgAbF1ZdWVhemlkg3NuZ1hTOCglj2ldw5SFtJWHgXNthXVudWVgQj1CSEZNSEVMNzM4AIJzb5GBe5mIgpuNiIxuanlUSpJvY4NhV55/c4R0bYZ0bXJjYD45PlVUW42ToGNkbgCOf3x/cnRwZGJzaGZzW1aAWU6tg3aacWSTenGLfHiNfXdsYF07OD1VUFaSk6CMkaAAcGRmKCM7JB0eGBQYQSwnXD81flxSe1dOm4Z/loeDlIR/ZFhXOjg+Qz9EUE1UZ2dyAJWMimZjbRsUFxwYGzkqJ0IrJEQwK0k1MV1RUZ2NiJKBeVxRUTk2PEI/RTo3PTQwNQDKvq7VzsVjWFMgGhsWERMiFxcVDg4XEhYkHyRsXU59alVUS045NzxAPUE8OD00LzQAnXhewqiOn4t4HRYaHhgeFxEUHBYeHhojTDw8lHRhfmlTQDg8NjI3PTg+OTQ5LicsAI1xaKaFd3hkXh8bHyMcJBwXHC4kKGJIQXlZTo5rYIRsYUlAQDk1OTUwNSwmKiQeIbrDlBYcwLddAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/023.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/023.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/023.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/023.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -158,11 +158,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwU1v0mAAAOCeJ6Os0Le09rXflH7AWwZ2pV1b1hbGyiaEOVzR2ZnAIokHdnLGxaiJMTHRi17MTnpT/4AHT/4Cf5LPg6VN+dTWFzvypA46Jhki1kf1bNf8upr//fLx37ebN+eZxkOd59gK0TcJbNJSHnbNVdjMmnC6a61mk8jrp0h5Nx/9fP3i9/uXj/qhY+rnsfw4JPOgjKUGd4z43NHOOtKs544Dl8U38vDuqweHy/3w1/V6PR1dDKJhS+yKRZvHsT2FOdKZEwSnlsgUC1TxllYl3s7HP66efb9c/vlwfXO5Okv6ENBSqaCWcSxR2aFKjzWqCwmysCGQZQlsJZr4tB+uR+Hni9Or+Wzg9kZBFKEGoglsYkn3LfFAqXgCaXIMXwV0afPYRp+WT/LEWw6DLIm3NSOy3ZP9exFqYIcNfuHWclvaq9FI5DhAUvimTANPl2NUf55NHUMzBN5vdVI/PgoirH17K1XBwhGHJtcQBZ4CsFKmcBwS+GDbDC0kMbRQBS1V67Wd1I8xCwLEEB5X8cXqjqYoEEoMXWNZiWF0QeQoiqcAQ5RUeKddNzyr8x9+p1+2N21F3gAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/024.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/024.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/024.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/024.png",
         "width": 1920
       },
-      "mostReplayedScore": 3,
+      "mostReplayedScore": 4,
       "start": 24
     },
     {
@@ -171,11 +171,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwU1v0mAAAOD3osbEtbTQ8ral9KX0u7SUtnQILRudbhhwMNin2oVtOgYmM3LYnHGJITEmHlyMnvSgiT9giSbevfujfB7Q0sVhRX7kFp76+Z0S9GS65hCBnG1awuVg5ff8/N/3rz8uZr4qlQoCk86Cnqsld61Jy30ZO0cO2zCKu/e88f6kXQ+fr/ifp6Nf799enSSBaTzwzXWPBkNX2XKlw9A+XqocV1FsiINmXUViVS6+GrZn/bWrycHP16ez/vp4NVq1KfCkZq5puc2ysONKz+q6lMEhji3cvrVYYL6dHv55d/H34/x6fvZpOlb5PFzAwFHDjBW2a3B9gxnYKHXzBoPfYQjc4uGGa34YbV+/efFlOjrodkN3MbRskHhC10Idk++odIgyIp3SeS5HEihDJFFwubtx0onP9wadMFr2a+3GMuiZsO8Uk0B5qGUjMVNVBB0hjiSyOFbKszWlMIyqZ3ubnmb4mrnkBaApUvdVdt9Dk1BryUxFkQyEBJpi0yRMYY7APo7DqGyLDGMIyNdLQKcwk8brPNnTYazmfF0ry4qc41SeL3KMyvMGEhGEeYri0qSGxP8Z3WFAnQTW3gAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/026.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/026.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/026.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/026.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 3,
       "start": 26
     },
     {
@@ -184,8 +184,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0bG2JgIKckZWpn6Svp62jmp6AcnCOe3i3r7DBt7CyoZmqkISlg3SbfWmFcl90Z2YAi4KGnpWZp56hp5ydkIF8UEA4YToopGxVmHJclHNenXdmh19OrYd8s5d9lIFwhHVwAI58c5F6bZd+c5BxYWlKNkYrH147LI1eS6J0Y5t6aIRiR5hyZMaklrigf6eQdqCEZABxUD2Vbl6gdmWFYVBdQC5VNiZjPSx5TDufb1qypKG7rK6+mY2xjHTDrYW1lm23nXgAYkc1hWBSp39wkm9aa085VDklUTcpVDEhgWNaubG8zcvcwKuuoHlXzbiRuZ52t554AIxyVWxPOIBdT6V+cbCdnZSHhntsZnhwbaKgpMS8w8nFzsnAxrmZc8SrgriddrSadQCKcVeghmeRc1d8WEOWgoGgk5OWkI6wr7avs7WtoaLHwtTLw8jApHvApn60mHKegV8AhW1Un4VptZl4mHtehnJqkH90mIyJlY+Ql5WWpqOqx8LU1dXoybihvaZ8oIRihGdLAHBZRoZuV5Z7YJl9X3dbQoNwaH5xbJKKf56blqagqqOcqLm1ysG5vaKJZ5F4XXhgSrXd4kPuHyXxAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/028.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/028.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/028.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/028.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -197,8 +197,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBmWVyShIW0qKXHv7qSfnVXNyhvUEGVdWWMbF2MZVdvWlSLdHB4X1R/bGdOQD56bm8AemxvpJWYxLe1yMO+kH5yXz0tc1NDjGxchmZXhlVGTy0lUDQqalVPiXRuWElHj4ODAIZ3fJ+SkLmvstDFyZN9cl8+Lm1NPntcTY1uYGxXT4M9NbksK5RRTX1waVhHRZyQkQCJeX2klZe7rqbEt7OIcWlhQzNuT0B7XVCGal2CcWmNJSicAAODQD9zZV5RQD6ilpcAiXp9m4uQqZ2ZvK2qf2ZeZEc4blFBd1pMoYV5l25hcRMVbAsLilpUYlNNTj47opWWAIBxdJGBhZyPl62eondeVWNHOWVKP2FIPnpfVYBVSWIpI2I0KYltY11MSFBBPp2RkgBgWFWFd3ShkZOhkJJyWlFmSj1nT0ZyXFVxYFhtQT1FDQw8GxZ4YFtWREBTREGTh4gAVE5LdmlckoJylIOGcFhNZ0xBgWhdln5zinRocUY/SgIDMgYHWUM/TTw1ZVVUgHV3AFRHSmtcWn1vboV1dm5VSVA7M29XSIFmUmdKOlEwK00hKSwREEo5N0w9QGVXVWtfYW9rrjas+SrGAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/030.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/030.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/030.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/030.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -210,8 +210,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCPgoSflJGemJJfQjdgQDJuTz+Obl5sU0hVPTR8YViAbGKIc2R2ZWB9aWVFNzV1aWoAl4yNtaetu6uraEo8ZkY3bU09gmNUXkA3TSkii11QrVhQtU1Ji2ZhgnFrRzg0i3+AAKCTlLirrLenpWdJO2hIOWxMPX9hVIVkV3JMQk8oIqMWGqsECpJRTnpuaEQzMJiMjQCmlpG4qpirmJhmSjpqTT5vUEF5W054W097ZlmAQTxkCQt6Dg+hZWFjVlBDMy+ckZEAhHmAtKWqn4yKZUg6a05AbVBCblBCqIl9gmJVaiQeVwMHRxMSkXpyW0lERDUxnZCRAI+Bh6aXnZR/fWJFOGhMP19GPVpCOYx3b6mMhH88NHw3MVsuJ4p0blNCPUk5NpiMjACIeXeejpKHc29mSz9lST1tVE1+Z2BtWFCHbGVsODJEHho8HhyCbWlQPjlNPjuQhIYAd2hSjn6DfGdibFFFa1FGinJmmoJ3j3ZrgmdcVhoZOwAAOhYWYk9KSTcyYlJRgHR2AGRVUXZpbG9aVFY/NUo2MHhfTX5kUWxQP1k+MFgsMEcWGykREFhHREg5OmVWVWlcXu8moyRZMzzdAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/033.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/033.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/033.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/033.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -223,8 +223,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gATDg09MS1oVU5eTUZiSD+Ma2GdjZGnkW68oWO/sbqzlZF5V0k8MC1kU05TREBDNjMAFhEQRjk2d2RdaFdQe2dhn42IppORr5mJsZ2IuJ2YoXJgaExDJBkXU0ZCcF5ZUkM/ABgSEU1APYVxanVlXnZkXXxqY4NuZ5F3bn5oYoNdT5FlV21JPjslIE5DQH5qZWJRTAAYExJOQkCLenWCc21tXFZaTUhuVk6fa1RrRjdJNS47KiNrSDxPOzR2ZmJ3ZF9rWlQAGRMSTUJAj397inx4cWFbXU5KXExISzUtc0s9aFNNUT42Z0lGRTI8ZFVXeWhiallVABkTEUtBP5KDgJGDf3NkXlpLRl5QS0o5PUwzNkEsM0QzNiweLyYaKzEkL25fXWhYVQAYEhBHPTuRg4CThoN2Z2NeT0lTRUY7KzovIiwwHyksHispHSonGycaEBlOQkNnWVYAFxEQQDc1inx5j4J/emFZj2lcd1dPWT09Y0U+YkNCJhonJRkkJBkjEwwSOC4vX1NQABQPDTUsKnZpZ4B0cmZRS1g9NGdRSGBEOXdRQ001NRgQGiYZIyQYIhAJDi8nJlBEQjdriKSS4EqtAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/036.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/036.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/036.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/036.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -236,8 +236,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gATDw8qIR9mUktcSkNsU0uiiIWsm6CmkXmpjm6hg3xoU0tuWlNyX1phUEtQQDxDNTIAFxIRLyYjblpSZ1VOclhQnYN8pZSVt6B7rIJXWURCLCIeSDcxemZfeGVfYlFMUUI+ABkTEzMqJ3llX29eVoJwapqIg5+KhKuMgn5WSj4rJSQbGBoUEnBdWINvaHRhXF5OSAAZFRM2LSqBb2l+bmhmVU1cS0RzXlNzWE1kRThcOjEhEw8pIh+Cb2h9amV5ZWFqWFIAGhUUNy4shnZyh3dyeGtmaV1dYU5GYFFNPS0oSTEnSjIrSzg2eGVjgnBrd2RgbVtVABoWFDYtK4l7d41/eYJ2dGVWSn5ydWJYbkg0NEMuNEMtPzMjNC8hLWBQU3hmYmlZVQAZFBM0KyqKfXqQhICKe3ZhXF97cnV4bG00Iy8vIDQuIDItHy4lGSUpHSVsXFtlVlIAGBMSLycmhHd0j4F+iXx2PlyFQk11a1ZTMCItJRolJRokJRkkIRYeGhIWVEhIXlFPABQQDighIHVoZ4N2dIJ2b3V1eHNudGNPSycaJCIXIhoRGBYPExcPFBELDkI4NlFFQu1kh0j2onCZAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/037.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/037.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/037.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/037.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -249,8 +249,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVwn9T0mAAAOCdhiZIeIqZGoGDTd5tto3BwDm292Xya24CAxyI/AioEPLE7rI/7LruuPKkDu/yr75EfcXO5x4MxohUPHbeV9r6jkL7Dyhi2rbuWoXhoTg0qe/vI9+67Jc2c10Hl2WyBn2YJrFqTFASdCPHS+GtfFz49/Xq783F7MwcH3E/Btx0FLkd8JO3r29aNGK2MTnCwbhgINQqmUluN0LsTBqFh3f1q+x+QwG/LoT7sTi7jP78ELkbcW80gCUAHqdImQWUfysZxjtIum1bvfTB2IB9yE/6zO+P/MNjrpYOScCHuRbmva6FtSWHZ3EeX3P3MnDaqfw5b8y6Jy2Zl6iArTHNVLAo4+7lZytuD7YPAlWFEYMbMo3rSWhl9LYmfbbSXZQQ/JtcCE/FEpXsca1gF3MmRe5ioY0V5qU3RuKdSq1ZshtFW9kLQ4bIsmH/qlvi+N7JmaFCE8HTklXO69iq86nHMWegzKgzsPOmbVjRMJFiSTrwConxVvn0evgpJ8siIIHvRXB7E1tfdq47HQbU8goyVFTVCwJFRQEu7dFHaqpp1av5Y11RA8+9zidzrqXF/1J9bdjJGVJDAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/041.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/041.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/041.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/041.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -262,8 +262,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBZQzdhSDlrTz1wUj5vUDxyU0BtTzxwUDxzVD95WEJ/X0uCZlR7YVByWk1uXFdmVlMAcFhKfGBOg2VRgmNOelpFeVpFblFAaU4+a1JFemJVf2JNhWpYgGVTeF5OemJXg2NWAHlfToV0cJJ6cIZlUH9gS3RWQXVbTX1jVINpVZV8dbCDb7KHc7CFcraEb7R7ZJ5mUQBnUkV3aGVzXlSNbVh/YEtrTz53YliheGbJm3e4e2SjZFKRV0WYXUyGU0FlOytVMSMAa1VIc2Rge2ZclHVggGRRZk5AfGlhoHdnqW5XmVZEt3hlxIl2o2dUazwrVzMjUzEhAIpxYnVmY2lbWId1caWSjoBtZ35rZXpmWoVYSJJSQYxTQoNMO3RDMmY7Kl01JFYxIQCPfXmJe3paT1JjVly3p6W4q6y5q6urmZOVa1yKTTyGTz95RzduQjF3UEBoRDRUMSAASz5FYFRbd2twem53y8LHw7W3uaWeqpWNs5yTpoJ1nG9gkmdYpIJ0vaSYtJ+Vk310ADYqMlFFTHptc39zfca8wbOgnKCFeqqPhK2UiragmLSelLeek7mimbaim7CgnaSVlRAPu9DP0eAhAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/044.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/044.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/044.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/044.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -275,8 +275,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCCe4KKgYenoquknaCooKbCw9fBw9e8vc+xrbawqrG6rq+7i2bAi1q4n4yhoLKTjZgAmpOdn5Wduba9tK+xr6aryc3ix8rfwsTWtrO8v7m/x7i2sYNfdU8rq5eLvLzPq6ezAKiirqmgpr+7wbu3ua6lqMzR5srP5cTG2r27xYN8fW1gXXNTQjUbFI5/gcvL27i0wgCup7Oroae9uL65tbinnZ7JzN3DxdfFxteHgogXDgslHhxhSUFhNyOolY/Kytu9uskArqexqZ+jubS3ubW4nZCQw8TXwsTYwMDPSENFEwwJIxsYIRkXDAUBjoWFzcnYu7nIAKmhqameorOtsLq3u52PjMLC0sXJ3Le3xkc2MSQYFBENDSgaEk4zG4aAhMnE0LezwQChmKClmp2mn6G7t7ybjIe+vszN0uScnKdFLiRdPjBFLymCWDu6fkqfkpK7tsGtqLQAk4uSkoeHmY+PuLa/koF6t7K7yMfTgHl8EQsJFhANRzAnj1w/kF0uoJGRq6WtnJWfAHRpbHVpaH5xb5aFfXtVOIdjRollSmdLOTEqKSEcHDMmHrKCSK58OJeEfY6Gi4J5gAI57+vF6W23AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/045.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/045.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/045.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/045.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -288,8 +288,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJxjyIgKr8zO7KmvaSjKry3Iq8tLSQtSjvVRKfCznxQXeKivet+UJncL46LU+MqslIyoMAYrXa2E4IC5/d1z+7umd7WlRoRGukgl+6uXBHn2x/od6qvZO6Eu1MmmoSi7s6qoOjuVobm0cGJz/cLJ/YunTVw4ua84PSXM3Sre1z7M1jzf3booyH1tS0lXYuiU8vwJjZXtZXkMc/u7F07qXTi5f9HUibN6OiqzkouSoqoyEsuC3FdW5y4rSTs0qWFVXdGsluqJDRU9VUUMs3u7508CqZ4/qX9GV3tzaUF7We7E+rJ0T4cCb8cVJalbmgp7ijImN1fPaK3prQZp6FowecLCKRPnTuid0dVWW5AT4etlpKNjqqaYaG+a7+tcEuazobUkwtsrJzGhszyfYUp785z+nnkT++b29zSWFJnqG0pJSIkIiyhISXoZaTvoqrenR08sytDW0NHXNvJwdGFoKy+Z2Nwwvat9YnODk7WttIS0nIysjJS0jJS0rpK8j5l+vJerka6xppqWioKymrIGQ2FyYmV2RmlGcpi3l7yMnIyUtLSkFJSUllVWUFZWUNVS11ZRVJESl5CWkAIAiYmmbjuivsAAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/048.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/048.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/048.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/048.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -301,11 +301,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB0Y2F/b21MQD9POhpcSDBtX19XRECBU0emb2Dep5SbdGd1ZWKSfnmFcWx7aGRuXVkAh3VzkH58aVpXXEpAYU9HaldUZEhDe1BGpG1e2Z+MlW5ihXNunIeBk395jHhygm5oAJF/fpOBf3tmYX5pY4NwaYdya25MRVs7M3lNQ5ZrYJxuYpN6dJ2IgZmEfJWAeYx3cgCWhIKYhoSBdHGNfXaWgHiHZWB4S0OAU0ixfnC2g3Osh3qXgnuchn+ahX6XgnqRfHUAmYaGl4mIiWBdjTg1YyIhURAQXzkzWDcxiV1TtHVmmGxkmIuDmYR8mIJ6loB4kHtzAJSIh5FWVIgMDX0ICk8KC2IlJkkzLU4xLGVJQZxYVqcfIZBUUJmEfJaCepR9dox3bwCIdnV6HBt8CQqCEhNjBQV9TFJ0W1xJKyVdQDq/mKC4JCeLBQetOjiNdW2IcWmCbWUAZ1FNZBUVcg0Ofw8QfgsLayAkj2hug11Vfi0pqlZdlCIkpQsMtgkNijgwZFFBX0U6AE42L00UFGsNDnQOD4gQEn4DBHQwMH5bV3MREXsJCnMOD40PEaALDogfG1A8L1M5LqDkpMrffk2QAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/049.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/049.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/049.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/049.png",
         "width": 1920
       },
-      "mostReplayedScore": 3,
+      "mostReplayedScore": 2,
       "start": 49
     },
     {
@@ -314,8 +314,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4cZCJg6SMh6eYlLuRh6Y3JiRZNSp1Sj6CV0yJW1BdOi9uZXyQiq9jXHNMRVhCO0oATEJRU0laTkRSW1JlZFFiQicgTzIpcEc8f1NHfFNIYkE3TDM0LiYrMyouLycrJh4gAE1FU0xETj82P0Q6QFVKVVI2MUovJ1EzK2hBOFE3MGVGPTYpKSQdHyggIiMbHSIaHABzaoOemLSrp8mOhapiWGpQOzlxRjltRDt9U0mDWEthQjkhGhsnICIoICQqISYsJCgALyUoOjE3PzY6WE9kSkBNNyklVjUqTS4kZkE3d05BU0RHQDhDMygtWk9jYlduSD9LACkfHyEZGyMbHywmKUdKW1xbblhGSWFLUGNJSlQ9OIducZaYumdqgmFgeVNRYTApLwAvJytlaoqcrdemt+KJkbd+epOOgZeWjK6XhZqSfo6sj4uOlrhhbJeRodRweZ5MTm0AYWeJcnymnarXp5OanXp2kGhhgmFidFlcf1ZPjmZhqYeEk3p9e3+naHKfNzRPSUtrADw8UTQ1TFFEUG5KQXNPSYNcVm1KR0c1PWFCO4NdV4ZgXJBjWnRneDk6VjY0SComNIsvlpB7KGPbAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/051.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/051.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/051.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/051.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -327,8 +327,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCAbF2Uhn6onpqzqKS7sKzAtbHBt7SfkYujjIO/sqyil5JeVlZ4bmyMgHuOgn2FeXYAlHpgpJGEvbOvwriyxry50cfEpJqXZUU8s4iJ0sHAjISAJiIoKyktLCcpOjU2UUtJAKKGarammsO5taCSibSnotLJxa6blYliXbWTpNPBxnJrZyMhJCsnKRoXGQgHCAAAAQCYi4a7tLnc1+CXiYOnmZPLxdGtoq2JZF+mg5PLub9XUlIWExYeGx0gHR45NjonJioAUU1SfXV35d3mqp+bta24wL7bsbHNemp1fGZ0rpmnMzAzCgkMGhYWTkI/g4CKa2p1AEE6O1pTVt3U2r6wsb660aOlx5qdvYOHqHl3k3ZgahIQEywrL2RgYmldWGhja2ZlcgBCOjdzbG7Z0tmYcmSegYGWjqJtcIVbV22OeIRkUlAAAAJdWVvb2eWbmaJOSExTUFkAFQ8OaGBixbu+iWhbjWtfiW1neV1RZ0tBaUlBPi4qAAEEWFNUz83YlZKcRkBBMCwuABIPDx0ZGSklJSslJDcvMSUgIjg2NkdERUtERUlCQgsICWBaWby6xIaEjTw4OS8sLmCMv7S3nMb6AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/054.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/054.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/054.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/054.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -340,8 +340,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAaFRcTERUaERIwGxcwHBhGKCBJLSVeNy2Vd2zj39nUycOwnY79/farnJhPRk5aVFUAZ0pAZ0tBZUo/YUY8bk1BcE1BXUE4b0o9oH9xnX5xdU9CZz4zn42HqpuUe2tmUEVCAIRhVIxnWZNtXotnWYBeUXhWSWhHPFM2LlQxJlYzKE4xKUUqIzAYElM7NWpZVEg8OABsTUNvUEZqTENXPTZFLyk8KCMyIR1SQj54amVjVVJjV1Q9My8sHRlNODNTRUBHOzkATTUuRDAqNCQhJhoYJhoYMSIfLx4bh3hy2tLK08vC3NPJqZySPTIvOi4rSj47LSMiADIjIRgRDxQODRgRDyAVEyodGiodG09CPod3boR0bHtoX0w9OS0kI0U7Ok5EQyYdHAAgFxYlHRwzKScmHhweFxYsJCM2LCpRREFkV1NdT0tkV1J1amZ2a2h3cG9uZ2cxKioAKiEgOzAvNSooLCMiNy4tRTo5TEA+XFBMa11YdWdig3Zxh3t3enBsgnx7fHZ1TkhJACMbGisiIjMpJzUrKTQoKDEmJTcsKkg7OHZnYaKRhaGMgHhoYn52dJKLioV+fXJrat8ihhKcUqkoAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/057.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/057.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/057.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/057.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -353,8 +353,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXVJREFUeJwdy81umzAAAGAOk6qSYAy2sfE/tiFAGjANWqKqU9p106ZqLzD1tDeodtmp50l76mn77l/y8On1fH6Zwxr9Ett1CccY1papXri+bgTAxVWWv7vStLu7vB7Xl2QZLwc7Hsw4+zmGGMN6251cJXVZWVRXm+J/uK626P7p193lZ7JX3cHuexlGvYs+zi4u7WoQ56CwiNUA0U3BNpmi3cdvfz58fksG1Y165yvhqY5+ntxhdpPICU2zegPqbW7KSuXlGNbHr28Pz7+TQLWrpEG0IWKQ3dTc9MK3Ikz7+9FNXnYsBTLHBmHL3Pvzj0RCwrOCbYCEpGVmkMHheqf7y9P39fbRMWNLGqiSEAtYKkQTvoXVNWhq7+vGEbHjjSlJw9Tp9GV0g4bIE25LylJgEDWYJyovLdHH5dlgqSFumbGIqqzodXcT9hYxBREHhYTY12qwbUJTIP4dbhHTOXZEKIhVmrdMBSYVxLogqqw810EYS8VfBq84X5hNV6QAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/059.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/059.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/059.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/059.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -366,8 +366,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAXVJREFUeJwVwttu0zAAANBIMNLEiR07vsTXJI5z7apmrRjbmMZWpEmo2i/wBWgPwBs8wn8jjk50tX2+7I6jDqNqFhMu3bj3u31Y9/3hsL5sw/vD+nLz8O3j6eftp9fj9dfIl9X/VHVcd1z1lZtNP5uwuHE33HrZD92Hu8fXp/Ofx/Pfu9OPqC21xVxBbAvalFUQpuPGYe6ZmrTvRc0S0Nr16cvv+8/fH55/RRpSmRUO8yDcqNqhqnmKSJwaxDw1nmqWwFZN++mm4dLrORIpNKj0VDosVE5YksO3cRkDneOGCIuYgnR2U00rXxmNy4htMpVhmWH05h252PAkl6CoSz03u5ZqnmQ1EUFoBYklTEEcsRgE1Ryvztvpft2dghlUChe3rOP1Ug9B1QbhhgoBoITEUhnxTVYjOuhxMsPiFo8rB4pRukGZwFSQ1mKiEalAEXS7+CmiF4mMMxWnJgZmA2wCW0QbWpmitKDQAGqIVI5rKrw0lop/xn00bBaDchsAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/061.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/061.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/061.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/061.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -379,8 +379,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCHdnGaiYGtnJK5qJ7EsqfOvbLPwbfPv7TJuK7JuK7Gtay+rqWyoZiol4+ejomMfXsAn46HsJ+Vwa6kzruvxrSolHtxm3twuaee0sK4z7600L+0zLqwwa+muqmgpJSNopOPAKyakr+qnMm1p9jFuZiEfJ9sWbBwWo9lV8q6sNLBtsm6ssG2sMa2q7ypoJ+Oh62emQCqmJGkjXq2kHGsjH+JZ16cZ1e4dmCWalGTjIvPvLO7rqeQXV+bZl7AsKWLeneYiocAcGJfPDAwnnhqo3Vkl2xZgFZGg09FjHZeqaOZyK2huZaFrIuFpoyHrZ+Zinx6mImFAC8hIndaUp9uYIhURrR7V8uZdcy6strLwuHSx9rLwtrMxN7TzuDUzs/Buse5s8e4sgBwTkVkRj4qFxUbDw6gj4vq18/j183m2M7l187o29Lr39bo29Xf0s3Yy8XUx8G9sa0AHxMSBgIEEQwNHhUWSUBBrqGiuKurwLSzx7u4zsC+08bE0MTCxrq5uKuqqJyblYmKAAYEBQkGBw8JCj0wLzAlJUo9PmxdX2FTWGBTWGFVWmNXXGVZXWRYXGBUWFZLTU1CQ26X8/up6LccAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/064.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/064.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/064.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/064.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -392,8 +392,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCLenWYh4Ctm5K6qJ7GtKnHtqzGt67QwLbKua/It67Gtay+rqazopmmlY2cjIaLfHoAo5KKsJ6VwK6jzrywwK+kgmhdkGhcpY+G0cK3zr60z7+0zr2ywrKpuaifo5OMl4aCAK2ck7mlmMuzoNbAspB+d5RkU8B/Z5NfT76to9LCuMu9trWpqcGsocCto6SSi5yNiACvnZWGc2iVcVSee2t+XVWHWE2nZ1acbE+Bf3bGsqzAq52VaGaRU0+0oZecioR3aWoAYVNQGxIWXkhEo3Zop3NdlmZHilxOmYJwuLGhzrivv6CPu56WsZuXs6Oem42KlYaEAB0TFkw4NJFqXm9COJVtXNupitbAsuDUzOLUyt/RyeHW0OLX0uLW0NrNxc/Bu8u9tgBkRj15V0w7JiIMAgJjW1vl3Nnf08vl2M7n2dDr3NPt4Nfr39jj19HXysXRxL6/sa4ANiMhCQQGDAcILSIhJx0deGpsoZKUoZWYqJyer6Okt6uruq2utKeoqZ2emo6PiXx+AAYEBggFBxYPEEg6OUQ4NykfIF9PUFxOUlZJTVVJTVZKTlhMUVhMUVdMUFBFR0g8PgZz6+V7dUyTAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/065.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/065.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/065.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/065.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -405,8 +405,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCFdW+bioKtm5G8q6DCsqi+rqXNvbPLurDKua/JuK7Ftay9rKSyoZeqmpOej4uMfnsAnYyDsqCWxbOnwa+khmxjmGxdo4V6zr610MC1z7+10cC0yrqvwa+mtKObpJSOp5iVAKqXjb6omMu1pZaGf3NNQs2Lca9yW7mjlc6/t9LCtrywsL2qpcWyprGfl6OTjrSloABzZGGYfGTJnoKUb2d0SUKJV0qhaVOFgGKonZ7PuKinjomMTUunh32rmpF9bm6unpcASTg2hmVcrHhqtHtmnGxSi15PpHtuq6OMxriwyaycu56RtqCcsqCapZeSl4mHrZ6XAH1cUksuKTUaGGpDNsiNZNi4oeDTzeLSyuDSyN/TzOHW0eLW0eDSzNbIwdfJw8i5swAVDAwTDA4VDQ0zLC3Nu7rg0cnk187n2c/p3NLt4Nfu4drn29be0c3ZzMbOwb69sa4ABwUHCQYHIxoZJRobYVZYoZOVoZSXp5qcraGitKipuKystqqrrqGiopWWlomLhXl6AAcEBgoFBy4jJEw/PSgdHlFDRGBRVFZITVZJTVZKTllNUVtPU1xQVFlNUFJGSEo/P7qD7+4qBBjcAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/066.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/066.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/066.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/066.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -418,8 +418,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCOYiqhci+xfjK7hzTCjjXFkTbGkTXDjzKRYiyTYy29hzCfdDaTbTaoeDGfcC6JXScAq3s0v446zZo90qA81qI81aI52aM4zJY2jVpMgU9AvIcvZlA6RDtCpngzvoo1p3cxALOANMKPOMyZOc6aOc6aN8+aNcSTNJNrM5NgVHlKMphfHmVILjgsMpFlK7+HMaFyMgBoOiduPSdxPiVxPiVxOyFlNyE8KygrICZIMS4mGho8JR9dLhxVKRdYKBVgNR9XOy8AZj02az80az4yaTwvaDcnSSwnIhshLiIjV0FBTjo6JiAlTC4lXjMjSiISVDEkW0M6AGQ7Mmo9MWs+L2k7LGU1JT0pJ15GRIBdVZRuZYdeVEg0Mj8tK2I7LEkjFF41J3pLOwBcNSthOCxjOCtjNyhhNCRCKyZnS0VaPjaYaF6MYFR1TUJGLihPKRpOJhZJKyJIKiIAUjAkWDIiXTQjYjYkXTMgRSkgKx4eUzQrXzsyPCUgRywlSS0lUDMpRCUaNB4XHRMTADojHEMnH0QnHTgfFi8aFSocGikmKh4bHw4KChgQECkbGSsdGyIWFBoPDhIJCCAYGi8LfyDaEu7hAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/072.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/072.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/072.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/072.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -431,8 +431,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBmPitlRDppQi2ndDbBi0DBjD/GkUK9ikJXOSJTNxywfje/iTq1gjeseTKdbS2KXigAglU9i1Y2cEImqnY10JpGy5dD1Z9DoXMxOCQiNB8fhlsn1JtAxZA8vYg4s4A1o3MwAHdbUpNlR3NCIZhjJ9CbStGeRNWnV8ihbotdToNSQKNkJbh4KMuUPtCaQciSPbyINwA6JSBbOytTLBOVYynVn0PVq2bd0MrXycmbdGiRc2q9o5eeaz98SBuTYS+NWimJViYAGQ4ONx0SRSIOglIhilYivKGN5uDl2M7N0sTC29LR49zejW1bVDEna0dDYDcxXTMsAHFRPU0uHzMZD2Q6FmBAOMCysszBv8atpr6dk9XLyuDV1JF8c08wJ3FLQmg/NWQ7MACRaE1lQi8sFQxeNhNmST7IvLvMwL+ZeG9tSTy7qqfWyMaYhoJEKCFpQzthOjFbNCsAOSEcQCUaMhwQWTMXZkEvj3t3oZGPdV1Ya1RPfmhji3FqdFxWTDMtWzctVjInTSwiADIfGzIeGDEcFUkuJFo6LVlAOFlBPFA2LzMfGTkiHEkuJzAeGEEpIz8kHD0jGkEnHw49qxculnDWAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/075.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/075.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/075.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/075.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -444,8 +444,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAbExIbExJ+cW6pnJeikophT0lxYVvDsqnMu6/Kua3Etq28sq20q6iqoqGfmZmQiosAFw0MGhAPjX53tKScaVtXVTkxckxBsaCXzb2y0cC0xbWtvbCrs6ikubCturO0r6mqAExAPlFFQqiVjbypnXpnYGxKQYlcTaWQhktFSFdPUG1naGtobF1bYGxoa4OAhIaChwBTSkljV1VjVVNrXFh+aGF6Wk9lQzmfiX4gGx8cFhwrKS8uMThGRkstLDAzMzc+PEEACwgJDwoNDwoNEQsPJh8hjHFpSzEqRjs5GxUXKCIkJSImKysyLSwyKSMjNDAyMC40ACUcHiYdHxgTFRcSFCYgI6yhoqeXliIdHw8KChEODxcSFBoVGRsYHC0jIzIrLSopLgAlHB4hGhwZExUVERIXEhQ+O0A8OT4oIiQZEhJFNzNhUEtgUUxcTkpiVlRRR0VwWVEAIRkbGhQWFxIUFQ8RIh0hHx0hEA0OFxUXHRgaPTIwcGBdinl1moiCsaCXo5KKaVBHABgSFBgSFBgSExUQESYjKBkWGBEODxMSExQSExAOEBYUFSgjJFtPT4Z2cmhYVTcpJ9LigooYWu2GAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/077.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/077.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/077.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/077.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -457,8 +457,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCAcWmAc2+UhHy4nXysmYiBbWKZi4S3qqK+tK2jkop4Zl6XiYK1qaGkl5CbjoiIenUAiXhvgHJtkHtsrZZ7oI6CcF5Vm4yEuq+ov6WYoGhSRiggIxoYoJWPvbGpraGZm4yFAIBxbIh5dIh6d4t+epCDfY1+eZWFfbaro6+NfopXREkyKxEHB3duacq+trOmnqGRhwC6r6uzp6O1qKW8sKyonZemmpSdj4i4q6OeeGmOXUxZOS5UNS6zqKHNwbmzpZyjkYUA1czGzsS/vrSvwbWwrKCappqTno+HrqOckG5hfFBBRiwjTzkyX1hYloyItaacoZCEAM/Gwd3UztLJw8i+uayhna6inIp/eYFqYrKEcHBMPkIwKjImJxQNFSAaH4l7dKWTiAC7r6nRyMLPxsDSycS3rafLwbpfVleCXlGXZ1NbPzU6MDIZEhkkHiMbFBszKimNfXMAfGJWoZONpZqVuq+ptqymtqynMCoyd2JdcV1eFQ4TFA4TFxIVGxMZHRUaEg0POS4oAD0uKDQoJVhMSJyOiJOGf1dOUmNfZMC4s6unp2BYWjEpLRENEBcQFBcSFRcREigYFC4Sy4FK0URjAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E29_brefJeSuisHypocondriaque/079.mp4",
-        "thumbnailPath": "thumbnails/S01E29_brefJeSuisHypocondriaque/079.png",
+        "previewPath": "S01E29_brefJeSuisHypocondriaque/previews/079.mp4",
+        "thumbnailPath": "S01E29_brefJeSuisHypocondriaque/thumbnails/079.png",
         "width": 1920
       },
       "mostReplayedScore": 1,

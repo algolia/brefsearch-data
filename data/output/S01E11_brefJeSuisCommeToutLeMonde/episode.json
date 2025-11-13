@@ -6,7 +6,7 @@
     "index": 11,
     "name": "Bref. Je suis comme tout le monde.",
     "slug": "brefJeSuisCommeToutLeMonde",
-    "viewCount": 8694432
+    "viewCount": 8698636
   },
   "subtitles": [
     {
@@ -15,8 +15,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAvHhZdQzlqTUFbQDNJMys7KydKNzNZQjpWPzdXQDhZQTlbQzpcQzpYPzZROS9FLycAWj80i2pao39sl3FcfFxNVj83WURAZ1FMYkxGXklEZU5HblJKcFNKcVRJbE9FXUM5AHlZSs+6r97UzqSAbIpnVVI8NFpDPWdNRFM/Ok0zLE0xKHZbU39fVnxcUnlZTnFTSABVPDGQem/EuLGOblx1VEJNOTEvJyQwHhg+HBBAHxRXLx6BWkWZdGKOb2JxT0haPTQAGg4KLhkPQysfWD82UTEkNiMcISQmMCQfUCobbD4qfEkymWlKvqGNspB+e1RENh8ZACUWEDAeFjsnHDkiGUEgFUwtH00xIk0yJW9NOI5bP3hDKrGPfN7Rz4RkVUonEyoWEAAkEw0yHhU8Jhs5IxhAKBxCKRw7JRlRNidzSTKGVjuWbFW0loawk4MxHBUpFhAiEg0AHxALLx0VPigbPCQXPSUZPCQYQSoeUjMjb0YueVA4jWpZoX1sSzYrCgIBHhENDwgIABgMCRgMCR8RDCwbEjMgFkMrHk4xIlQ0JGA+Kl08Kn5bSmVIPBsKBx0LCBsOCxMLCkLsdhG3XcthAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/001.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/001.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/001.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/001.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -28,8 +28,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwVy09v0lAAAPCedAodW7f+bx99r49CW1tey1Y6YHQbbBWZDOYgRRybGpRwYFGMUS8ePPsRjBc/gJ/Am6dF734Dr8abJovxd/9R375f/vz1++vnjx/eTt/0m8/i8kUcLIbdae/OaH/7dsnuhqV+PTgM7NBQfChQPy6//L368+n9y/tBYbZNFjv+64PNYaU4iIJdG9WQODbBA4JjggMsOSpPvZg9evdqHrvoxIFdUxu68MzXEX1jQ8hEkGvm5QgLPVcLAVtGIsly1HXgKYISGfIOlgemvKgZEx+Ewgphl48dON0qdCylbQOQWkKrtC0x1LpVWctaRJNjC4y97PMqnm6AI8wnBHVM5WlgzCv5g5ygpJZwJrUFBYrOFq9xuqKiuw48L8F5WWupKwGTvqiaPQs0IXdKwC2WjrB0TND/AJDFiBqUlW5RP/O186LUAsy+wnQwPwsLI0d11tOEW0582PfRXk6ikr3yqFmJLP3QgQNXTWzRY2mcuenzmQbkG7pQy7KtvNT34OOq/bBqU0ehM24Gbd+o62LblE9sqa6uOmvpRk7qktw930g285PIfbLrTeruadn8B+GHYJQ1MMUIAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/003.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/003.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/003.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/003.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -41,8 +41,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwctS01AAANBsQCgzJX3eJjeP5t427xhvEpqmlCZpbYEKpJW2CKU8pkBlBnFGWbpy5S/4If6JW2dEF8640fELPIf6+fff4+P3L58/fno9uev6dzF5s1N/Nx3N9zqjVq1P9PGmd9h0QkPyEGPCPPXn968f374+TDrHjnIfkg/btbdtMqzbB74ZYNirMFd6eezIsVH2MGtyRep2fn550G6UwcyVk2ppF4G+KoippYDL9mQYVdmexu2oHIF5HzMGzFFLjG4JbKTy3Qo7s+DUgPsYNGHmWYm+aWjnDhpYwpYECk+WNZDRAE1lZa/E46DCDSzpxis/NPFELo51/shGicbdN7S5J9mA5tZWnpbolsxRKVZdLiAboyOCrjekawL9bGoPgfeh2RSLA4V5UQVqPv2S4G2NJzBPIazmgOBK/CsHXzjCsQ5CZr0n5E5M4dZXdlEBpVfbqHDi4cQSnyscNesGo5YbKeLQliYWHMhFlF5V6DUfZjsYhBJoY5CYwqmvLCL7ctOikrp5GjuRykcVdl9jhzoTsOs+m+kb4qErj1z5rKEtYrKIydWWNa2p/wGFV12UuhQzaQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/005.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/005.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/005.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/005.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -54,8 +54,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwd1P00AAAPAmuI3R9fvuete7tVvbjUK7ygpDJuvYBmEsfjBhJEwmA7KJ4INg4mdUEg2JMcFEH0zUBx5898V/0N+P09Mpn2aq09IsnkKppDwxYUmCz1Ds0idrS683m1+PD67fv/v9/ORuJVTEDLc+D7oxbC8AR02DZLIAZN/QAkOtuiwuZA9qYTea3a4tXQx65717d6KbXLeOV8sooIKeTqHJVNnUi1i7bZP75UKjSK8eDx/Gi+PO2p+LNx+P9k5Wm9x6pC46EhMmlcQNIvBUUQhgsZffrcwMluf+fvpw/ers14vzf18uv58eHu2OuHlbKzE+q8gUWlmc0xUIACmZxmZoby34l8P+t/Gjn8+Of5wOzvr79eYDzgZCYOI8zWFUlAWiShoEmomNuMDmGNyp3fo8Hl6N+i97G63Wjud1OFflpwlwHI8SS5GAKisCL6syiXJkxaLbYWm00Xq7t9UMvTCsO84yR6YSOaTZed9kLtYxgkDkNUkieQRihx42ak+7nf12o+Q4brHCDMplEgmGdZPlgUJ1CBECkqhKIpQyog3llaDQjoLqjAs1xLK2ga3/CdBSVGWJS1IAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/009.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/009.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/009.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -67,8 +67,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAlGBIpHBS7trniyZjaslTi3da1kYGZVzxcPC82MS5pWlKniHp+ZFd3U0OFTDh0NyIAKBwWIhUNoZuc6dOk06pU4t3Vu5mIm21Wlo2LkIuOm4Bztot4sol0f3Fsl5CJfmtfAC0gGTwtI5ONirenitGsXODWyNjGubB5dnNTV0dAPXNTRWxIOoZgUGdQRmpmWnZyaAAvIRpaQzi+urva3OPe3d/HytK1r7F1MzQ+IiAdGhl7WUuIYlKec2BfTERPSks7MjEALRwWTyogZFhVe3l8j42PaGdqSUVGNDUwLywpDg0ONychZEI1XkI3JyAeKiMfJB8dADIXEUwgGG1YTTcvKzUwLSYjIT41LzsxLR4ZGQkICgcGByQaFh0YFhwYGCEcHCAdHQBCIhlQKiBjUEVTQjtHNS1KOzRbSkAaFhUKCQsNDA4LCg0MDA8cGBgVEhMXFBUlHBkAUjElUzcreGRbg29lg25liXJnSj03BwcJCQgMCwkNFRIUEA8RHBcXHBcYBwcJPzAqAEUnHEMyKod4cJOCfJOCe5F9dTguKwQDCAcHCggHCxcUFQ8OEQ4MDxcTEwUGBywiHo+lhLOujmfXAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/014.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/014.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/014.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/014.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -80,8 +80,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAjGRMsIRorHxc7KyCFTjamVjWcTS2aX0WtopfDr6LEtqu5rqWxd1u1bU2qY0WXUDQADwoKJBoVOSsgNikeaj0qnE8vnkoolFQ5tZ+RzaKOqo5+m5WQqHFYsGJCnFc2j1s4AAkICBAMCygdFjIjGHRmXJqIeY1kT4pkT5l5aI5jUI5pV6iSgJtyWrNyU5RwSlttQQAHBgcJCAkYEQ44KB1oXEyIiHZpZ2JZVU+ScWGOZFGKYlGQcVe9lm+yi2eOe1BieUkABgYGCwkJGBIQNSAXYUc/UEpINSsnIhwcPy4nXz4wQzAoPzQujG5Ri2pMbVo/ZWxOAAYGBgoHCBoUEDkWEDwgGyckIi8oJRIQEgcHCh4XFBsWFRYVFjoxLXBbSm1aR1tUQgAHBwgLCgonGRRHIRg0KCYmJCQTEBIMCw8JBwsNCw4VFBUTERQREBJTQjh2W0pkTz4ACAcHDAkJOCQaUzcqNikiGBMUBQUJDAoODAoODQsOEQ8REQ4RBQYKVEA3jmlXgGRUAA0KCSoaFEUqH1tBNW1WSiggHgECBg0LDw4MEAwKDgoJDBAOEAUFCUYzK3BOPl9CNFqsbJ3pE7UHAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/015.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/015.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/015.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/015.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -93,8 +93,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAjGBQmGxUyJR1ALCKZWT6dUjKZTi+XSyuac2PEur3ZyMrJvcCnjoata06iX0GSUDUAIRYSLSEaLyMZPS0lpn5ym2hWkVQ6lUopj2lapZyeqJyckoN+g2thoHVhpGFFhFU2ABIMDCccFzMmHEk7MoZ/fZOOhY6EeX5lWo14bLmhkqCIeDcsJSUeGottYMCOd3ZtSAAPDA0eFhI3KB5iS0BmXllzbGNwamNeWlh4cXBgVE09Mis7KCJAKiJbPjGWa1ZzbkgAEg0MHRYSMhkUSykiPzo5OTMzKiMgLCUiPTQwOzIwGRcZTDQpXzwvdlBAg15MaF5IABALCyEXEjgTD0wpIywqKisnJy0pKB4bGjEpJi8nJQ0MDyAYFSkaFEszKWpTQ2JTQgAMCQorHBZMKB9HLSUjIB8lIB8dGRkpIyBBNjMuKCUWFBUKCQwKCgxIOTGEZ1Z1W00ADQkJMSAZXTosTDUqTTsyTDkxUj00STkzJyEeFxQUFhMUExESEhASSTkxhWJRd1lKAC4cFUEmHEstIldDOXRdU29ZT3RcUUQ3MBMREg0LDgoHDBEPERkVFVVANmpMP19CNTesclgUE+cJAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/017.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/017.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/017.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/017.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -106,8 +106,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3bG6Hfn+Sh4qaj5SbkJWXi5GRhI2NfoaKe4KLfIOOfH2GbmdwWEZuXFNnV1hTREIAiX6CmpCUoZaao5edn5OZl4ySlYiRg3R8gW9xknlviGhVfFhCeFZBfl5JaldQU0RAAJOIjaCVm6GXm52Sl5uRlZKGi2FVWyggJDwsKZh4cJx/fH5fVXNRPHlaR19LQ049OACWjJKckJWbkJOdkpWLgYNBODoaERQRCApSSE3FvMzAtsKehHKGaFNXRDxOPjdJOTMAjICDXlRXRz0+T0ZHZlRRJh0dEgwPLCIlsqi4zcPOr5eCl3hcWkE0STkzVEI6TTs1ACkfHRcSFB4WFRUODUQyOVlBUSgYG4R7hdTK17GbiK6UeodpUmRIOXJdVXJeVGxYTwAvJSNiUUtIOzYdFhZGN0B8XGmRdXS5rLO3oZCvl320n4iDZ1R8ZVyEb2h6Zl5zXlYARjg1fWdeU0M8XFNbvbTBi3Nvl3VqqZB8q5J4vKaQrpqNlYJ9k356iXRvgGtlbFdPABYRERkTFR8YGpWKkbuvt7SmrLGhpLiqq7amprusqrmssrGjpqGRkY17entpZWJQStILurq+LTHrAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/019.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/019.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/019.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/019.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -119,8 +119,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBwXD15ZUaBbU+JdFWOeVqRfV6VgF+dh2F1aV0TGzkzJiZTMSJDJBs6HhdBKh4gEg4AhHBNjnlVloJckHxek4BgmYVhmINhfG5fFR1AFRouaFdBTCgeOBcTNhsVUEAvJRYRAJuGW5qHXp6KYJ+LYJyIYJyHYJuIZC8ySRUZMHJlUIVrTE4jHUoeGVI3K0g5LSsYEgCTgFWZhVihjF2eil+kj2KmkWZCQk41NUGFc1WHdFiBb1V2WDxVOS5ZSkJIOjM1Ix0AnZKDmYx0lIRmmIZgoo1haVpDQzw6kH1dlYJfiXldl4Femn5RcFxFa1tPaltMXU5AAImFipuWmKihn6ihmqiekYyAcHZmU3hpVoBwV4JzV4FqTGc3LWQ1MWE9NVxANVg/NgA2NUNHRFJdWmV6dn6SjZGjn6Chmpedk4qTiX+ShXiYhFuEYDlPJRtjHxxgHhpaHhoAHiM2JCg5MzRCPDxNSUdWWVZhZ2Nsg3x+gHl5jYaFmI6EmYpvk4FjknddiWpTbVA0ABIaLxgiOB4nPiYuRSw0SiowQzM0Qzs7ST47R0ZBSlVNUlRMUVxUVmlfXGthW01DPbfFnPtzUH57AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/021.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/021.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/021.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/021.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -132,8 +132,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBuX1uBc22aioCnloqbioCXhXyWhXyOf3eOfnaUgnmEaFxBMi1qXViBc2tvYVljVEwARj88b2BbqZqSrJuQmYh+momBmYmBkIF5jn95kndthFlLJBEOJBsahXdxfnBocmJZADUfEmBGOamcl6WVjYJybHNkXWxcVWVVTWleWIlkV4ZaS1MvJzMnJIJ1cIR1bnlqYQBaOCBoTjyom5immJKIdnBqWFCBZl15VEtyWVVxWlFUNitOLiNTQj1/cWyAcWp9bmYAeGlkh3h0qZyao5WRjHt0bFRHhmJYkWBVgUQ9Rzk0UkA9h2ZcUEJDWk1Ke2xjfm9nAIZ6fJaLi6ecm5yPjHtsaGxWTG1WUGZSTmhPSFZKS7SrsHVnaEtAQkA1OGVYVYBxaQB/cnORhYelmpudkZCGenZyYFliUU1KQUUmHSCKg4fU0tdlXV5KQEIzKS5EOTx5a2YAd2xvjYKHopicm5CQjH97gG5nX01HSj9COTA0r6OqilRUbEpHQC0tMyotTUJFdWdjAEg7OWlcXpCFi4yBg3RoZ2ldW15RTVhGP3draK2Rl2INDFkpDiwRDSEaHko+QWtdWjgErp9WVOegAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/023.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/023.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/023.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/023.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -145,8 +145,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB8cmx7b2h0Z16ShX2RhX44LCh3TECTZ1mTf3SWiH2Wh32Ccl9lUziAc2xsVURRMSAAkIaCcWVfdmlgmo2HlYR8Zkc+dU9Eh11Rk31yV1BMRD89SkM7RzwvYlhRYVJGWkk+AHtsYnNnYIp9d3VrZ21jZHhVS4phVYJdU4BvZTMvLRwdHhgYGRkYGhsYFxwZGB8bGQCbj4yglZJ1cHU/QE9DQlBVOTFeOi5uUk1xbHYwLi4iISEdHRwaGRkaGBkZFhcXFhcAraOkhn6CLS4+NTZEQkJQin+HZlhWTUVJVldlJiUnHBscFRUVFhUVGxkaHBscHBkaAKGZm05PWygoNzc2Qy0tPJCPoLq3xldWZTk4Qx4dHUFBRGJhZ1taX1BLUFtPVD06QACNgoY2ITMgIjEwMD00NESVkaGmorJ1c4Q+PUkbGhpLRkpjY2pSUlk5NTs5LjQlJSoAWVhcOxAcRyoyIyUrQUBPiYeXiIaXTk1cLy83JCQjIR8gFhcYDxASCwsPBAUIBQMGAFJQVEQ8RKaWmXZzeVNSYYyKnH99jkFBTy8uNScmJigoKSQjIx8eHhYUFgwKDh8cHsa/gsaABCzXAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/026.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/026.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/026.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/026.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -158,11 +158,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxjaCgtqshOy4oNntJa52SgFWyq25cYOiUnfk5PU01+ZlZ8VH5ieLi7QUl6XE6kb4idEUNnbWV+Umx5dnp9WXmer3t1iGdpgGt9fFh7ZbGLnZWMnLyigoKygryehpqJroaFgQ5DW3lRdFCQo4OfuYWnq656qZ9zX1JoekBAfFyug421oqKinKycpISkpJiYuKiIsJAIQ3dLh421p6mpm6trWH5iqp+FkZuOsruds5d3pIaGtry8nJioqIiQiKiQsIiwsJiwCENaUra8oqGNtbuOjmVVZdfCOSsCfAKMjOwsLZxkZWS1tLTNTC1Mjc1Mjc2szCz1dfQZnOy9ddTM9QyddHVtE+Ly1q3a1d05PSAg3tLSRUxMzMfLr7qqqbCgIiwoMsY70MHOlUFeSdtJSs1UVldT2yQjvWLq5EVlJc02Np5aWqaysiBRfV0jJSUNcXFpQQERXl5BBgkZNSst05ak7KTElJDg5LravpSUEg0NUw0NQxUVZWUVFSkpaVFRcX4+QQ4OHl4eAQZHW/cAV+9NazZuXLmxqqwhJ7M0MjxZR9tEXU1LXV1dR1tLW1NdQ01VWUFBWlxSSlwKAERAdNXgTGdOAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/027.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/027.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/027.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/027.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 1,
       "start": 27
     },
     {
@@ -171,8 +171,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAkJjFpaHVycHlaWWN1a2R9cmpjV1BcTURuX1ZlWlAlJCUfICAZGRkVFBURDxEQDg8ARTY2X1NUMCwwfG5unJGMin5zem9mZ1tSemthX1NKIiEiGhoaEBEQDw8ODg0ODQwNAGVEOG5PQ3tWSZp4bJ6SjaCZk5+XkJmQh56ShlxTTBwcHT4+QUhHS0NBRD47Pz04PAApIiI2HyZeR0yedWieenGFZFaCXU18WkyTh3xTTUgZGRpnYWd6eYBra3JOSU5SQEcAEhgcLBYdVyIwZExEkmdbfVVJXTctWC4llIZ/RUI/HBwdKCYnHR8hFBQZEBAUDQ4SAAUGCSwsL4ttc5KLjohnXqKLiI+CempEQGlUWykpKSUlJiIjIhscGxYXFw4OEQkJDABGRUxTSlGloKHDv8OelJCup6ppWlJfRzxJPDgkIiEtLSstLCcoJiIiIB8aGBgZFhYAmZSfnJGEpZyVta+zrKWjsKyvOTs4ExMPKychIB4bISEgKyknPTk0UE1BZ2RYdHFxAGZhaGtlXpuSirCqrbCpqLKtrqaioHp7d1ddV2poZXx4eJeTla2nqq+ppLCpp46IjYAdjwroiIYYAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/029.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/029.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/029.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/029.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -184,8 +184,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAkJjFpaHVycHlaWWN1a2R9cmpjV1BcTURuX1ZlWlAlJCUfICAZGRkVFBURDxEQDg8ARTY2X1NUMCwwfG5unJGMin5zem9mZ1tSemthX1NKIiEiGhoaEBEQDw8ODg0ODQwNAGVEOG5PQ3tWSZp4bJ6SjaCZk5+XkJmQh56ShlxTTBwcHT4+QUhHS0NBRD47Pz04PAApIiI2HyZeR0yedWieenGFZFaCXU18WkyTh3xTTUgZGRpnYWd6eYBra3JOSU5SQEcAEhgcLBYdVyIwZExEkmdbfVVJXTctWC4llIZ/RUI/HBwdKCYnHR8hFBQZEBAUDQ4SAAUGCSwsL4ttc5KLjohnXqKLiI+CempEQGlUWykpKSUlJiIjIhscGxYXFw4OEQkJDABGRUxTSlGloKHDv8OelJCup6ppWlJfRzxJPDgkIiEtLSstLCcoJiIiIB8aGBgZFhYAmZSfnJGEpZyVta+zrKWjsKyvOTs4ExMPKychIB4bISEgKyknPTk0UE1BZ2RYdHFxAGZhaGtlXpuSirCqrbCpqLKtrqaioHp7d1ddV2poZXx4eJeTla2nqq+ppLCpp46IjYAdjwroiIYYAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/029.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/029.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/029.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/029.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -197,11 +197,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVFJREFUeJxdittq20AURSfSzDlz13WMxiPJjl05sRLbUayYkNa4bvsQAn0stP//I6V+CDSbBXvDXgT+DyLGcewrP2uaKIoQ8YNA2KXYOwwoY5Qxdjkug707gEAUouRCIU+FVICpVC7NMm0koOaiTBIrpATkgALQCk008ETpUptKGSd156efd9tl5XMKdZINN93+tlt5bykkQpbGEo28tHZidEHjStvHfrPv+yYvPMM7748P918fd+NyEYRct/l1lRDJ0CAPefn8dDoMLw/r9Zf9uF2samGGtj6sl4fVYtPWHkWwPOSKSEAJfDccz99//Xj9fT59G7e3bz//jMNT3y02n+rt3M+8m4fgOFrkJGNQADaZm+p0nrmuCtdGDf1w2I+beViW5czoxug6sZ4LB0hyynIaZ9FVFkdpdFXEkYtpmxdhUrZaOcocwIT9owKsAP8CSmwh0nlYARUAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/033.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/033.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/033.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/033.png",
         "width": 1920
       },
-      "mostReplayedScore": 1,
+      "mostReplayedScore": 2,
       "start": 33
     },
     {
@@ -210,8 +210,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVSEc2KCU/MjFyU050TUR7UUhfSEAwIBwsHRc9JBxIKiA8IxsiFhFKLyRFLSZePjYAdmdocGVjZk5MdlNMbUE5bk1DcFBFVTgsLBsWOCAYQiUaLRkRRy8oRC8qRDMvdUxBAIR4fI+EhXVWUG1IQWk/NmtPQ3tZRkc1LDEkIkAqIj8nHi4eGG5MQFwzKWtJQIBVRgBhU09zX1xvTUZrQTpnQjhuUkR8VkJCNTIqJCMsIR4+Mi4oIR96WESfcFRwTEOAVkYAMicoXUI+aEI6XzEoZUU6YEE0ako6eWtpLyYlHRgYIhwbJBkWmXBWlW5VeVdNfEw+AIyCjJmKkIpydXteXHJYUFYvKU0tH2M/K1g3J0YsHy8fF0w1K6V6Xpp5YqiOen1MPgCimKOvprW0rbu0rry0q7qonKePf4B9aGN+Zl1yVESKbl2njn+oj36rkX6VdWCfgW4Ak4iTn5Wgp5yorKKwsam3r6KkooyAqpaLqJaNqpqTqZSGppCCs6CVuaaarpiLt6OVAH9zfY2Di5uQm6edq6COip6EcZBxW4lnUH1UOo1tVp2Ec6OQhauakZqAbp2JfaOWkOH2o+wnaIdrAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/035.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/035.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/035.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/035.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -223,8 +223,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwftPEnEAAPDvsH5pa9NNDHLFzGytaDXmPLZQmI/WQ3eljQM8FNHkod5BHPdQp8BxDyHu/UoQ8KD/s88H0IU8R5EcxWTgpUJ8mSXpRrUSff8muwYJRHns2ENdH6ja3z8dlW1yFA14hrZEgaMZGHqbi4YL2RyeTiLhdz1sTyJOhqY5tsx/tj227L6qmYIAVJZ1Wi2pdn1Zwi+y+3gscrYewb6uUPBq94pyHcc19JFljS17ZJp3sgw0jjcFQeGaXP7o1O9LTTzYCviPv60WoBDz7Em/dn5vGq6mjQzD1Y2+ogCtUdfZhiyKRCyaAiA9422mEwp/c8uJteCCkUbc7u1AloaqOlDVXkcGHTyhVzNSnSY/rf+amsQ2Igp2UNz+0aQvFBTWs3FLuOqKjXtN7Umyc9MCcnlXJ/acy1w7j/CZ7dRyKBLw7cM7+XiC+L7mnJ8oDN6qFPnK2Z0k82QVSCVULu/KJRSDY0g4CD2dfunxHG/tINDHzdfPrw+RNonzv0/rWBHd/Lzy6gWg0S9kcoPL/YxHF0Pzcwte3+Lk9AevPzA1E5ybP0wkrXbHEjji6GD28aOHnon/APi0JioRWQwAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/038.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/038.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/038.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/038.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -236,8 +236,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBPNixSMSo2GxU8IhdhMCl4FBh2FRl8NTZnTESUjIzm5/CjmpuYjIyShoJpXmJSQz8AZj86RiwnUj41YE5BZCEefxAXeycncTk1dmVatq+x5+zxiHl0iHp3npSYcWZmTDswAGxZVZCDe2tdU1NJPlQ6MmoiIW0dGWVFP4J2b5F+dsC6vsC5vaedoJ+Um5iMj15PRwCUh4Z+cm1OQTdVSEJgVU9uYllSNS5DIA9LOzNKPThwZWKhlZSwpaWupa2qoKd/aGEAa2JjX1FLTDsvSkI/JCEjOS8sIR8eLhoSSCcQJR0aJB8fOC0pa2Bep52koZaYdFZEAEA1MDsrIToiDzkkECwcDhsUFCIbGicfGlMsElIsF0QrHjUnISQbF4J4eJ2QjWpPPgCXjI2TiopoXFdRPzJdSTs/NzQlHx03Jh5CHgtXJg5TKBNELB0+MSlpXFSPgHpgST8AhHp8opectayznpOUhnhzWlJPEhAQRjgxWkM2Vz0xNicgDQoIT0A2bVxTNiMeGAcFAIZ+hVVMTX92fqCWooR5fGVaVyMeHU1AOXZmXWpfWEc9OB8ZFllJQF5NSRMFBQwFBdATkFGrIpAPAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/039.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/039.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/039.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/039.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -249,8 +249,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBbOS9kPjRtQzhlPzRPLyQ/IhhJLiNQPDE/JB85FxJIJR2diH2WiIF2Z2JnVU13Z18APB4WTisiXTUrRCMbQSohVUI6c2BWalhLhXVyTywnVTMokH92oJSQh3hza1ZJno2EAF5MQ3ZgVWVNQldFOXFiWWBTTHtpYJeFe5mDd4lxabuvrbqvrbClpaGUkoV0a2hPPwB/al5yXFBwXFFmVEhuW09vX1VyYFaAb2ZkUERzZFqeko2llIvKwMOsoqKPfnd9YU4AdF9TXUc6YE5FZVhTSDkyOzAsJBwYEQwLGxUTLiIcMCQeQDMtcmZjnpGPiHNnhmhNAD4sIkUpFU82JCEVDjsqISEZFgMCAwsICB0VEzYqJTwwKjktJyMYEm9hWoRtYHdaQwBwYl1cTUVGMCA7IxI4JBhDNzEhGBUrIRw8Lyg9MChEOC9ENy49LydvX1SIdWmEbFkAq6GiubCyqqGgin13dGZfg3RsJR8cFxIQQzUsTT0zSDkwEQ0MOCsiemRXf2hecV1SAHxxcZCGh6ieoLCnqZWIhHhlWi4nIwwJCU08M2JQRVVDOCMaFks6MG1bT0w6Mz4zLCK5jQ7ZCpkIAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/041.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/041.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/041.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/041.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -262,8 +262,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAJEBoTHCQzNTlLQEE/LjA2JSZiQjpZSklwYF52Y2FtXFtTQDlJPE5QSHFYRkU7LSwADBYfERwkFR0kIycsOTg8ODEzTzQvYkU+aVRNZE9GXEY/NCgnNCpGPDd9TT9OLyMgAAoUHQ4XIA8YIBQdJSEmKzQ0N0A3N1c8NVA1L1I8N004NkM2N3BkbHJmdF9NSC0iJAAOERoEDxkKFR0LFR0WHSUlKC00MDJALy5CLClHMjE+MDJbTEyelJScjIynmJZDOj0ASS8sJB8lFxceDQ0VAwsWFhwiNCssPSspMSMiNCAeGRAWfnNzoZORe2VfqJqWa2FfAD8kImM+N3pVTWlJRUo/QHVucIB2eYV4eIZ4eX9xcGFTVlxPY4RydYl0aaKTjrOlngAMCQ8qGRpXNjF2TkZ9V0+fioaliHSUcFWbgmuqmYyll5aRgYKah4KpmI6qmpGdinwAAQEHDA0USjUxVDQvMx8gMBwdTTQrblVEeWJLe2RPgm5ipZOJr56Vrp2UsqSbsaSbAColKJCBeJyJfIp3bXdlXXBeVnBdVXVjWnxqYYh2a5+Mfqybj62dkq+glrGjmbGjmWAVi1f57/l1AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/042.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/042.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/042.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/042.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -275,8 +275,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCUhYKAbmd2Zl9oWlWPeG6Yh4CqnJi/srGvoqKpnZu8srGzqaixpqWtoaCilZKUhoIAkIN+gW9ocF9YYVBJgGZYhHFpsaOhw7e2kHJnOCchlIuLyb+/u7Gxuq+vtKmop5qXAJKGg31wbnRlYXNkX3xuan1taKCTkLuwrq+FdGJBNXNeV4J4dq+mpcG2tsO5ub2xsACTh4ePg4ahl6Glmp2vo6OShIGnmZasoaBgSUODV0mAXE8IBAQyLS2zp6WxnpmWe3MAkoWFkoOBlIeLpZqhraKljoF+rJ+dlYuLWUA7d1JFaU1DFQ8QCAgKh3p0jnFoc09EAGhaVnRhVlZDOlhLSI6Cg4FzcZeJh5+RjoxoWkg1MIBkXF5COTwoImlFO4lrYoRgVAAxJiQSCggUEhQjGhZnWVNvYV6Acm6Jb2hzTkEuIiFKPTt6VUhkOCtPHRJqSj5oSDwAKyEgGRQUKDY+LzI0TkA8ZVpUXVhUMSsqIxwbFxcYEBQWVEpFX0Y/QCEbVjwwRy8mABwVExQPDiMdHSMaFz0kG1pPSDk6OA4TFQwSFRIWFzA1N0NKS1ZZVj8xK1I5MEs1K+56rFMUisYsAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/044.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/044.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/044.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/044.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -288,8 +288,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCXiYWGdW58aWFgU0+Da16VgXmmmJW+sbCtoaChlJK8sbG1qqqvo6OrnpyjlZOWiYYAk4aBgXFrcWBYXUxGclpLfGpio5WTxbm4k3dtMyEchXx7xby8wre3ua+us6imqZyaAJmMiol8eX5wbn5va4Z5doN1cJSGgrirqrCGd2tJPHleVWVWU4R8fL2yssS6ur6zsgCWiouOgoSelZ+lmqG1qaqdkI2Yioa4rKxxXllwSj2GXlESCwoHBAWDenm4pqKJa2EAkoWGmYiEkoKBm4+Tr6WqlomHl4qHsaWkNS8wOS8ue1tQKBwZAwMGXlFNm4F4cE1CAGpeXGFPRVNBNz8vKoB0c4Z5eYJxbaeUkV5HPzMrLY1zbnRSRVQ7M2M6L4BgVoJfVABFOz0OBAETFRgaFxdcTkdwZGGBZ199XFM5JyE1KytMQ0VsT0RzSDlJFg5fPjJjRTkAOzEwGBAOKTI5KzA0Rzo2Xk1HZF5ZKiknEhUXHR8fGRsdOjk4alpURi0oUzgtSzMpACceHRALCx8ZGB4WFDQeFlFCO0tLRxQWFxAVFwkMDh8iJDtCRE1RT0A9OUoxKE03Lgojp6z6AuRoAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/047.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/047.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/047.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/047.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -301,8 +301,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBRQ0EzJCI+MzJzVE9zTUV1S0JcRT5vUUd2VEczFxA4IRojExAfFhVMLyZSNixaOTEAempraFxZYExKeldQb0Q8cE1Da0tBdlJGeFJGQyQaY0c7dU1GkGZbWjw0QzIvc0o/AIZ6fZOJiHdaVHBKQ25BOG5QRn1aSEg0KjInJj8xLSMaF0o0L4peUFYtJGVDOn9URQBxZGJ8amhxUEpwRj9rQjlxU0d+WEJFNzM8NTU7MzE4Ly4gGRl7WESXaE5yTkR/VEUALCIiWT88dVBHazszbEo/aEg6d1VDem5sMiopMSopNS0rJhwZn3Val29WeVZMf00/AH50fI9+g4hsbHxYU3NXTVYvKVAsHW1JNFw9LFM7Lj8wKllCNq+DZJ19Z6iNe31KOwCkmaSxqbixqbiyq7mvpbGikp2OfIB+ZV+DZll6VUKkjH/MvrfNvrXDr6GihHCigm0Ak4iToJahqJ6rraSxtK28tqyyrZuVsaCZrZ6ZsqSeuqqivK2nw7exyr24wrKrvqueAH9zfY6Di5qQmqeerKSSkaCGdJN1YI1sVYFZQJN0X6KLeqqXjq6ckqSOf6iZkaaZkxtrrzFHcZWVAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/049.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/049.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/049.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/049.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -314,8 +314,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLPiw2MB5BQSA0NRglJxEfHxEcHg0vLxk1NxlgW0CYgXQ3LSVFOjCvl4ypj4OAb2cAJyQWKyQcJCQSLi8ZVUw+hXBjOCsgKysdJyoYZlREuo+FVEA7V01GgXNrhnVvYFpZAHBnYk5DQG1lZYaIj41wZINZToBfVlxTTFxaWl1LQ5hpWWpVT01OV2pgWXhsZ3JsaQBsYmJQRkVwZWZmYGNYPDJtRDWceGqHe396dH5ENjlHMyw6LzBAOj1HQTY3MiIvLBoAcGVkWk5NdWhlcWRkgWlieUs4jmlfkIeQNyw3IxoiICcwJB4nMCQvKSYrKCgmLywlAHhqaFxOTJJ/fqOQkLGPiJhnUqFzZHdiZCEYIC8lLigbISAXGiwiKiUgJCEjJCYlIgCSfXttXVuLe3ufg3+fdW20hHbIopZzY2cZEBgsISkmGyFDMUMtISweGBwfHx4hIiAAlICAk39+kH6Alnh0nH56uaOjsJCKcVlYFAwVGxQbJyEuNi9EHRUeIRogFxUVGBgYAI57e4t4eId2dpyEgqB6cYFZSnpVS0kxLkAvLiIXHiYhLiQhKxgSGiQbIxkXGhIRE+snhROo1f+tAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/052.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/052.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/052.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/052.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -327,8 +327,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDMxcxFRUI9LCZ6T0l+gY5PTltya2uihma3n4V5dVJAPCtANC2PX1CmdGKhcFudZ04AioJ+ISQnMy07QDVEMTVGLzRRP0VjhXJlr5p+WFg7Rj4wQjQrf1JIrHppqXZhl2JMAGNXSTk5PzQ6VSIqRDAzRjI1Si41VEdEUIt6X1tXP1ZJPmpOP2VDPHRQRYdXSGZCOQAgISVTVWgwNVMtMU4tMUcnK0EuM0oxNUtRTUVdVjtMPjNzWEaCV0t8VUqJWkuBVEQAKi49Sk9wIihFHyU/KCs+NjlRNjQ8PzcxUEg8S0k0Mi0zJik1dVBInGhZjF5PkltHACkuQy00UiIkNTg3SyAfJ0A7Qk9IQlhLPjk2MhkdKREWJRAWJC0jJFk7M1QzLEwwJQAWGywXHTEZHCwxMD8dIC8pKCwQFhwIDRkECRUMERwRFR0MEhggHyg2KSYxIR0pISMAGh8zEBUlFBksJis+NThPJyo6DRETBgwRBQoQDhMYDxQgGBwsLTBJMDNLKzBGLzRLACMpQRMYKBAUJhQZKzc6UEVDRykmI1dHNTMrJQsQGRoeLS0wSjc7WDxBX0BEYywvR0uMbDigspV2AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/054.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/054.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/054.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/054.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -340,8 +340,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJxj2Lt/7669B3fvPbZi+ably9aevnj19MVr2ZGRFemZzRUtNvrq9sb6wW52vlbaelICztriDNNnTlu+Zu2y5Zs6GieW51Y21XU3VtY0x4ZOzkmviwmzVJW11FK11FLWlpXwc3JJDotiUJFRVJRRlBKTUlPRkJdR4OXmYWZiCnNzm15aVBfmqy0pwsnKwsHE6OPgXJCSFe4TyKClrKmqoCwqLMzLxcXDycnFycXIzCwnKVkeEZTr5RRoouqgIWakKBni7uHr7Gamo82gpaKpLKsoLCgkyMfPz8PHxcWtq2vg6eKaGx+fGRlhoiihI8FnqCTvYGJsZ2TsYATRIKcoKizCy8XNx8PLysoqJCjk7xNcXlJTkJKmKCygKilmqqlmpa3hYmpkpqnAoKmkoSAjJyQgyM3BxcnBycHOwczMzMHOoaWipiwqrCDIb6Qs72emPyknszIi2FJdgUFVXlVSVJyXmwesGgpYWNk4WVg4GJhUpWUNleWDrEwyfLzi/fwrUlIYhAWF+Hh4OTjgitlZ2dh4ONgFOblEODhUxIQNlOTEBfjlJCSlBPj9zA0AQ75bc9E8uy8AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/056.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/056.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/056.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/056.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -353,8 +353,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwdzdtu0gAAANCK9EbXDbtEXMbSrchKEUtZsYVSeqH3sg7alTGFNVDI3MIyM30yJsafWKJvGv/ANx/ckxo/y+gHnBwABSEMhCEIgkCQwPGr+eXr81eh1dcbtXa5uL2eqxS3FI7rCaIrq0cdFkBBCM5AhTzeLj2INfE6XYV2X3xSMZ7VhOpeu8YEmj40nKFhO1InGYQA/H/Y2cjxJDGyncVJcmx5vtx0pbrOMyPXiSw/icZ+V7Ulee6a/wAOI1jmXpOuXqdXsXcUe4HerNot1hRqZksIdOtFEA56RmS6tsADKASjWTiP5GLbS4Yj7YB/M534rbrM7psiWy9ToeWfuIcjLzgbxArPA3AWhrPgJrZxMV2+m01ub1YfZsl8OHibThd9Q6Qpv6u5sjo+jCLTbdA0gIEwmgW3ic1A62kscxn4Y6Wz9IyXjnIqcUtbTl3tZrY8n6THpkOTJIAhyH0gw+zu+mrXU7pSnWvs76lPHzOF/CMkQ66jIvkwlMW+2uNKJQJfA0AQItbQ5779fnXx9ePtz993v/7cff/x7fOXT4uzU88yWgdcZafIlsvUVoGmqL/r8mMWK6M21AAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/060.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/060.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/060.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/060.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -366,8 +366,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAvHRR7YE+4nZC/qaLGsazEsKu6opqXeGWUdWB2W0tFMyplU0+FcG13X1N4XEtyVkQAOCYbc1pKw6ufybWxzLi2yra0spqRaUw4d1lFeFlIbEMxbFFIfGdgg2hWiGpYg2ZUAEQwJGNKO7aeks25t8y5uc25upyDen5jVo5zaX5TQJFZRFw/MmxWSYVoVY5vXIxuWgBJMydaQjSagXXPu7jLurzKtraMcmiOdG6SfHyEX1algnx3YFlpTj2HaVeOcF2bfnIAPyUVTTIhfmJUxrGuzbu9wq2rdVdHVzgsZVpghnV0oY6Rgm1palA/j3Ffn4J3noR6AEInE1EyHG5SRKiTj867vbOblW1OO21EM4ZsZX5iWU4zKU47MoJlWJ6CeJl/cX1kUABIKxdfPypdRDaDa2PGsLCdg3ZvSjZ1STlZOS5zRzdEKR5XQjaWeWyUeWl8ZFBkTzwASy4bWTkjVzYgZkk3o4uGnoN0dlFATzEmDAoIVDQpZUU6hG5knYBtf2ZSZE49VUAwADwjFUInFlc3IV1DM3ReU6aKempUSDgpISsiHlE5MGxRRmpYU3ViW2ZRRlQ+Lz4sIfohsSQH6DOCAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/062.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/062.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/062.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/062.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -379,8 +379,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVRkJgUVFnWFhyYV6BcGiEcmyMe3mDc2+CbmWHdG6nmJWCb2sYBgYVCws6KiA/KRUAZ1ZUcWFidWZnemhnh3VuiHZxj4GAgGxoknxvl4J5pZeUjW5pbSEiUiYiQC8hSzcgAHRjYXlpanxsbntpaYh1cIVzb4hqYHdcUodzZ5mEeqeVkYx3c2dfXmJRSk8xJ2FDNQB5aWh+bnCBcnV4aGiKeXVvVEyNYUyJZVVzYFWTfXKllJGJa2VZKSlhNS9TIhl1QTMAcmFcc2Ngd2hoeGhme2hkhl9MqH5mZT0yeGNWjXZqopKNe15aOgAATSAdWS8kbj0wAHFfWHZkYHpnY4JxbWtPRJtqUZJuYHhhXnpkVoVuYaCNiZWIhkpDQ11TUWdPR1AzKACCb2iAbmiGdXFwXVh4TDmZaFCHdXKEdnN5YlJ6Y1Sfjom7ravEtrW/srKmmJaYhoIAdWRegG9pcl5Xckw8nWpPl2lTjHl0gG1ocVtPcVtRn4+Lu6+sr6CarZ2WsKCbsKGeAF5KRGFIP3NINp5sU69+YZhyXol5dYBtZ3FeVWtYUJ6Oiruuq7CgnKGPiJB7cX9pX7vItxKlqAjNAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/065.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/065.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/065.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/065.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -392,8 +392,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAblJREFUeJxjYAMBDjY2TnY2Lk42Lg42bk4ObnY2Ln5uvspA10p3ywwznXB1BQ8ZyTJvh7pQDwZ2iFIObi4OHk4IYudmYGCJsDOfHOsbq6ngKyfhIiFa7Gk7JSOyOdqPgYWZg4OVi5uTl59bQIBHSIRflItTwEZba3ZySLmtQZSKjL+SbG2I++LS5ClZ0a2JIQwqcsrqimrKskrSotIaCiomOvr2pmaTk8MnBDo3+zi0hXvMKYpfVps5LTeqJz28MtybIcDNLcTT093W1s/KPMLNpaqodGJD/arK7DWNRWvbihZXJc0tTZicE9mfGdGWGJTrYcMgISElIyMnJ6egJCenraIW7Bc4tbJoWXX+gsqchRXJPckBXUkBnSkhTbF+Bd52eZ62DMxMLEyMTIwMjAwMjMxM7AwMLAEWxhMTgnvjg6ZnRrZFejaHe2Tam3nJS8fY28WZGzDwCgnzigjziooIS0oKSUqLyCsoamjYaKomOlml2pkVBXh31jXYSEmbcHG1N7QHm1kw+Lm7B/v4RAYFFmSk5melhQQFeDk7ezo6p8bEZkZF5icmVZeUBdrZumhppoRFBDs5AQDBU25kUqNgbAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/068.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/068.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/068.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/068.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -405,8 +405,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZdJREFUeJwFwVlzmkAAAGBeWrTFyH0tCqy7EjkDikoxXkRRiVhNjJNMnZ7pdCad9iEz/f39PmJowVU//LKePpeL53L5fbv4urn5vJqf89khjQvbKLASAz5C5iz0E/uSyILO/ST5c1+8nsq/x+LnbnnOp4/Z6DbpZVj7EeN/s+B8ZfIV0jf0LPKJRegcp+nLPv+2Gj/OBpvYvXZMX5ejpnxraRtL+526OVJZ8o3K0LPAJdZdZ5eEq6idYNBHqqOxlsLpLLW39V996841XlIn0XixSjY5Ogs6xMkzt1086TRCQ/SaYltioMBA7mKosk+e8Tr2P0WtNVQmMv8Bqw8jl1hi2WJrAeAiU8Bi/VLmbMBj7iLTpcICB7txY4pbqGZYzUN8Sm1ijiSBJIVqxQesrbBBQ/SAYEm0Uac8vtaV63OdH0Np10dlDx+HmBiotPyugpj3A11MoBICHtI1k6EgTYUSve9o14AZIeVugD7GrX3cIkD1bQ+wW7dxpTAthrJFNgL8BCplgA4hOoZo55llADduc9xWhqbwH1vITVV4pxE1AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/071.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/071.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/071.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/071.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -418,8 +418,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwWlv0mAAAOB+N97RODKjyFQmkLAyoSn0sMdbRtOD0ha2QUvZwB6jHUWCOKd1LVsWdRKMX/y1ex5IpakmzTEVRCZxSxQMUW7gFF+t9kU+NM2FHSTTs3iy+DaefnHGxyIPDQTQ42oKiagM1WJBfuNZ+t6dD1ubQR2dd4Wwq8+O3cifDmVRxUroi8dQ4lrR0Jq1pfOefkBhSjZt7OYCGrExOJDweKS6WvOTdeS1tVrmaer+Xej/zFyf7Md6fdkGP1Q65KpGJf+ZRc3d7WkTXYeGr+95unK6L/comEDL0L9Tbe1ricnHOjiXiUhjwwZpIu8cDo2PxHjA9/DiWYuJOuz1SLhxZGjlSr8/CldDwQM7NpYLmdKIKNp12BdLfTJ7iGy5JBw1wXed+WVLN64CXVog6bNf20SjsMlnUx6W6+y8FAvPVTitlV533mddUL4w6smA/+m0/gaHkAPyc6XcrWbIVw/w9ENxe8Op5U9IeEgU5wq+tPYuLW7lyX/c1spTr0cSRL95QmQe8YVUt/Z2IlZ8AVnIaHzAJH2wNKmVK10NuAuDnWv4REbHAnILV62Mgeek4PcAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/076.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/076.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/076.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/076.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -431,8 +431,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJxjyI1JyItLSfQPyIyIrMsraiur6alpmVDfMbG+s7+2vbe6qaeqPsXLyVxGIFRPIdxQjqE6K7c+vzQ3JrYwPqGlqLyzsqG/rn1SY+ekxs7JjV21cZHlge4+WhL2SsJW0vy+OtIMrYWlk+o7SpJTc6JiGgvLYBq6JjV0TG7uqY4MTHSwCHR2iNCXDFPjSzaRYciLiUsJjUzw98+KCKtMT2sqKu+rbeuvbeuvaeqrqssJcPc0UG+IC8pzN7MyMnQPjGXQk5ZUEeYLMtSoDHWrSw0rT4ypzi5ozC9KD/INMlU1kxNRVFbLt9PpCXOycPYTDqxmSDDUTrDQq/Cyy3exqE/w6cyNLoqNrM/JK4iJdtaUEpVRYdVzUTexD7I0LHHQCHR3Z8iyN852NG4OcE211m1K8pxVnZ4f7l0aH1GTFJ4b7BwdFhwem2wQXsLtkqWha5JgJMtQHeSS42aVaq1bFOjcXxDRmuqX5W7REevXlRIwvTRmTmnkiqb0pa0F4RkV/G5ZgnJqDOm2Oon2+vn+ZmXh1tneBkl2mlX+Dp3Rft2pAZOLomZVJi9uzV/WnDW3JqUkL1vPzBYAHJ6bcULTKBkAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E11_brefJeSuisCommeToutLeMonde/079.mp4",
-        "thumbnailPath": "thumbnails/S01E11_brefJeSuisCommeToutLeMonde/079.png",
+        "previewPath": "S01E11_brefJeSuisCommeToutLeMonde/previews/079.mp4",
+        "thumbnailPath": "S01E11_brefJeSuisCommeToutLeMonde/thumbnails/079.png",
         "width": 1920
       },
       "mostReplayedScore": 4,

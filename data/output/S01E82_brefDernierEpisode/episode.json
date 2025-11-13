@@ -6,7 +6,7 @@
     "index": 82,
     "name": "Bref. Dernier épisode.",
     "slug": "brefDernierEpisode",
-    "viewCount": 7652817
+    "viewCount": 7655888
   },
   "subtitles": [
     {
@@ -15,8 +15,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAZEwweGA0yKxZBOiJUTS9YUTJLRS5YUDqqoJe0raeBc2mFdWJ9cFFfVy1fVSxdUyoAGhMMHhYNIBkPKSERTkYuU0o6PjMsTUMvlYuAnpWOlod4i35se25SaFw+TUIjSj4gAB4XECskFzYsHGBXSnhxbHlxa4uDf4qFfpGNiXBoYp2RhpWKfH5zWlJJMVFGK0xAIwA0LB9KQzJWT0CanaCKhYSJgXyio6WclZJ+dHGIh4qLiIlcV01yZlpnVjk/NRlEOCEALSYaUUgxXlhJWFdbWEpFVE5OgIGETERERzgzbmlodXBxT0xOWVBPXU02OjEXLiQUACghFDkyF09IJHx3cGZfX0dESE5HRjEpKjcxN1NNTGppbVxaXHp1dYN7c0lAJh0UCQAeFw4zLBVGPyiMhoJ3c3RmYmJUT086NjsuKzNMR0lJRklWUlNvaGV2bmhIQDYsJyIAJB0RLCUVRTsqioB7p56Zr6ijr6mmfnl3Uk1MoJuYl46Jem5la11RX1JEQDYrMywpACYdETgsH2pYSIl2ZpyMfaOVibKjlpmJfH5xZrWkk6iVhJmEcZB8aodzYW9dTlNGOC75lbWTRIJNAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/000.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/000.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/000.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/000.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -28,8 +28,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBvak5cWieKik99d2hqYluHgn1xaF5sYVaEfnpXSztLPx1OQyJCOBtNRiR4dT16djsAPDcTREIUbW0wi4d0dm5qc2JYm4h6jYeDko2HXlFAVkwsV08pY10uZ2I4aWQ7SUElAFBKK1BNI25pOJKMfXlvaV5EN4NtY6Kgn5uWkm1gU0tCJ01FJFhRKkY/JV9VSFNJOgBhV0ZVUCpoYjWCemBaS0FLQUNUTlKupp2vqaJ+c2pPRTdLQzdLRDNGQC89NC1GOzAARz8jNi8UTUocb2k9OywlMiQfSj03lYV2n5GCbmFWWlJQXFlXWFROVVFTTElLTEdEAD8zHTguGUg+J1pQODgoHzgvMkZIWoFtWZN8ZnliUGVZQ1xYPGRgQmJfVVNQTkpGRAB2aFNiVUeHem90amU1Jhw7O01LT2abiHWsloGkjHWZgmWKeVZ6bkhsZUBiXj1XUjUAW1I4X1RAoJKEf3RfRDgxKyEkHxsfjoR8wrCetqaUtKKQs5+Np5J+lYNogHJVcWZGAD81JmFTQnFlTF1WPWxiVTMsKD42NFpSULiombGik6+gkqqbjaSVhqCQgpeFdZF/bXITnlo8+rL0AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/002.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/002.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/002.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/002.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -41,8 +41,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBdV09fWFFzbWdaUjZIQRxPRiRQSCRmXjZ5cj96ejppZjaLiVV2dDmPjF2EgkxwbjsAZl5VZ15XfnhzVUk1U0gkV04oXFksg2ZMgGJFhoVBgII0aWkkY2ApXVomY18oTUkfAH9+e4iGhY2Igl9TQUtDJF9ZLWBbNWNCMGhMOGhkOltXKmpmN2FdOVdSNVBLMFlUNwCRkI2dm5ykoJt3bGFJQStIPis0JSBBOEI+MTE5KiFMRTtYUTpGPydIQixOSDFBOSkAmY+BpJqPqJ2RdWpgV1BMPzY0KRkSOjdCNi0wOSYdT0lCPjk1ODEtOzMvW1ZCUEs6AH5wXYRzYI56ZndiUGJYQjYsISUWEz8sJUM1MTQiHUtCL0pHO0hEPUdBN1NOO0xINwBmXEWQgHCkj3ukjnimkXZZSTshEw0xLzw2QF00JR9hVztybUtnY0RgXDtVUTBPRy0ATkkyjIBzsqSWsaOTwrOljX5xMSEcMzlUNEJnPS8snIp1pZZ+koJqhnldf3JYemtVACEbEnhvZauekqmdkbGlmq+kmVJDPCchJSgkK2haUbKlmK+hlaeZi6GRhJuMf5WGeGpImE36EauaAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/004.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/004.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/004.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/004.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -54,8 +54,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbhJREFUeJwFwdtummAAAGDu9wgzKt2QaQHl+IN4QLAUFH4QECXQGLvYdMbUdW23Sba1i4mZyw5Zmpg0WdeLHa66m17tcslebN+HLE6HaOaepeORm3fszCiqzafOfsT7VsE38T7Ejg7B6bE4SsqvXrrP5nXEb2Q8CmuVM56eM9QsNLGPZ+Fq7DfpzNDBj6byammeLxppyk8O8CTCEZHKztTKSC51FcIxmMgXL0+iX6+nT1wp7OGhS8SeEnt82CsmQ8qzSQStCE2RH1maomqgRts6tjyA10/jQ6e22wawo8Bd1dYVS1c7GhDpLeQhQVVqLUNvQoUhOcbXxb5aO9+DY2h0qkzs20kcDgJzGLTaiiwDDsk9QElZlargYkCadbLNbXd37PjxW6ulOlUy0PjFcS89gbOJsr+nJoM6wlFYAdQpQWqLpN6kLVD0Yd/y5l2p0gVUmy5evU//3t38vl5/+/ziw5sJonFYtiwQLCfSJYnOdwQiNJqzQLcAYfCEVMitns/+/bm9+3l1e3P5fbNGsvkcSgsllhMZahtHNfqR22DHg8AElR22xG7dn0bwx2b99dPF5l36ZXn2H1wrgqtzlimqAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/006.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/006.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/006.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/006.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -67,8 +67,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwctP03AAAOAeTbypLEOHwLp2K+26dV3f9Nf19VtLu77oBmxd0m0sEiAEpxEPxAPh5IH4NlyMkZh4UGKMR/84vw9xZDp2OI1aPT0I3lyd/v396fbH6zhAZaEw7tPDZGM/h/lQSgI09qqevYpghQcbK0tdpqJLj3ru43FW3p/Tvl7MFWLHQFN/Pc+k0TYVWeu2UurBCrIYuBpVMRtl2FnpWiVDu09W7/A8fuxwhz059OXJiJ8NxcjG0h7Wjwjk+vk0EesRaPoQM5SiBYqtdhXnVNMy92KPUdT5BL48zny75VmsJhHIU19ZpHbfErsdXBMKAvMQo0icrLGmuw2Fsc/Npv3FPPAdM0lgFHSRizx8dZAlupC5qsGhJLbEMESbIykAHVPJQwXajckud36Snh05R1MDefbkcG9L95XWLDQHOqdxKGCWIWhWJAN0wCAQHA0fpfa/2y9/vr27+XCBmGbPE6lQ43csOQGcK9fXlu8SDZoEtm7qOmiS2L3Y3/x18/nn14/fr68QtY4FoA15ym6TgcpuCXRtrUCwbJkRJFnclOp8o2QotfOT0fvLs7eXL/4DXmd4srXxge4AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E82_brefDernierEpisode/007.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/007.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/007.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/007.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -80,8 +80,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBSTylUUixua0h4c1g8LSNjWTd8ck6Sh2FrXCxSNChsYDtuazVYUyZmWzh8dV1MRiEASkgXV1MskIx4g3xpRDQtvLGfqJ95sah7aF88Zj4tYFZKXWVFcGg1hXlch3pnVEooADApEEVAHmpnNllQMUo8MZ2ZZoyHP1ZVLRYfKDc2NUBHSy8+R5GUc6eafYp7aXlwSAAxKhEqIgteXCNRRyI5LBpeWyZdWSpHSD8iJiclLjQ5RUswODg+RDl6a0l6ZlOJglwAKCEMLCIQMywVMyUcQzUoPzokPzclgn1iUE5EFx4kJzY+PEAzRTccfmlKbFlHfnVXAC0nHTIqGDs0G1xJLFpNNEhDMUg+L11XRUNBOhoiKCQzPDo/N3JiPHRjRVlDMndlTgA3MSIzLBc9NRlUTDNrdG59iotwdnFKRSg3OC0iMDkhMTlQV1WOcVeFbFWOeWWWg3AAJB0OJR4PNi4ZTUQ1dnZjfn5rg35mlIVmV1ZOKztCLzQ3TVVVmYFrmod0loVxjnxpABcRCh4YDzEoG1NMOn15YHx4XZWMdbijkVpbV0FMTUtKRkRLS5B9anhlUXVjTnJfS3E2h1+TcSppAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/011.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/011.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/011.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/011.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -93,8 +93,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAa1JREFUeJwFwW9PonAAAGA+xO3e3O1ulm6doRmpkBDTlIi/SqKBGvgDAxGSCANK8Zq3uXa1223tdrtXt90nveeBLsWq3EaULmYZrXEfBTJ6d8M/b64XPhXe1U2zNHfPoqCnXqBNIiOye5DvsqHPf03VNJBsCjOIUuLQqzW3XnNJTLke7ttk2KsbfM0BXaA0oWXc9aa0aZDOBdZH9l51ZpsIT9/YIMBvA9yellOff5sqg+PCcn5ljUhIHx5LQt4cNq95+qoG6ycHQCHC8HRmYROAYNV3plL7G5s+fbQwWK2HQsJ5UWTyCxdQ1YrWIlqH8GF2V20Tah+WpWydeD8Dp38i7dmRoomgMgWIOtnp0AUgSwe7GbIIjxiqktsp5XIyV5blL5K4/7Ia/3oAS7uzcqR2swzdPDx5QWKPFBIpVbKZPtWoFfZ/xjNLN630zUtfvidgGw6jiegpDQRrQMbmH3Ai0BXOiVqnjjM4Wvz8ydP1SyvRH38byev2fvw4lTbz/uisTKNHkBH/sIChCqwisBzNcTQHf/yANyXtdqs664F1v3KH7kAwerTGYmM8/x9wt5EVzraGpQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E82_brefDernierEpisode/015.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/015.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/015.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/015.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -106,8 +106,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbZJREFUeJwFwVtv0lAAAOC+++hMNErICTg6C2yBwg5Qetq1XGTSVWiB0m3Qrpe1lC6gjNuAjRGMUWNinFmi7/4A/6Dfh+kK3dfLegM6He6jJV+I+WtfvF9oN6NWrYqrctpQ2NZJyrWRa2eFShDr2cVLg51dtddjc64JGrU/lJjtnfZla46H4mggTIfiuMN5Mq2pZJkDWFuCXTVj6azTQSoVnQrUtIX6TtF3ed8pLGby13Xnm1F7TwCRfi3VIhhHhRgI9NPcqNeowYTPJ0oHkUI+VuFBs064JrOaiT8GTQfF1VIym3iOFSgQBU+kCtmqHqPY3imfI0MguRtBafxcSc2vRc89+uwJW1O4lJkqvYu9LUI2S5w1C4UsDD3bqeYzxzAVBYFcnKigpFInPYv7Oe0uXcmVUZUOY5PvfxeP/5afHrJxAuw8VUocFY/Ou7LEIRKdDDYP69Vk40sj/V3zaB8PA+xi+dtePrqGBWMED9M1HsVBsM7mkaCVuzPv/s9m4t725fMKzO8F8HAEOzNUs3flGDYDM5JilUtC5OUr8CLQdhcf7n6tFje3fdlTiw3moHH4hseD/wE5L4pIA3cZ7QAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E82_brefDernierEpisode/016.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/016.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/016.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/016.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -119,8 +119,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwW1TmgAAAGB+wna3LrPpVrYkPRMRwpeIIW8KYkr4hqiXqQg4OGWC5l1l1+lWq+2u25fdPu937nmARiGjltO6lvt2o3otrnMWU9JHloiL0KHZyn5/VFZ3lfX64m5VWYxKGo8BZQKr0Qmtx/x+nGhs0uFRV8BedUnFE2I29PLSvL7mZx5pGeT9FTfKw4CQgho0ZnT5B7tRjO398QY/RrVXs6qzSDbkW3kV2+ImNjt3y8+ObPAnQB6JyTiiFDC3T/GR4LPV/nerP12e6zSEftgettMXUuSLSXlzcePIOh0HqESkxkCDVsab5docUk4e/TLriwpBgwE4uCvS0KCfHZup5Y34YNNfZQqwG4ypF6d2fr0x7id65iC4bDJuKU2BgdDWuwQYVmVxPOJnLrtxyqtpB3iSPksVVR/2hr2+kqej/m2nzt0qLBM73Pdt5Um8QBJFivSm9ZkhNgUEuOz2WgNrNl+cJiECPo4F/NUCVTpFjz8GD3Z8RZpEoiAaDY+7QpWNC3gY6C5/jjZ/21daIryPw/Ho+51zhpBYAo9HYfBTLoX6375hcdjoMAIO5tC9/1VKh/ZH5HKmAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/019.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/019.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/019.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/019.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -132,8 +132,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwd1zkgAAAHDe9+Coq62l3lRmzXSCEwFFYFM+dCSICRjkDSbqpoR0+X1Zt4+rnXW2l673HvdP9vsBo151OZUmluK1KgZX1Bi8VcItMe91a39+TGQEmjbLS50fy9R5MZV8DgK2Vri0Ci061+apBpmVCVhnsHa5YCvkl1FFzUILnf83t68NwWUzh08DgNXMW0bGYFFTYEQckbC0RCAme2wr6OAK70qEjMTXndpSoRU4CoEBYGiwnslcaezUaly8PfVtzRRx1ylNRuXbO3u98qvp10MBm8lk+WAv9gQE7qcfvtlSp0mu/FZXlWy1pr8TVdP0OzXfHV5qCroftDniu8k30DdhcBu4mzr10zwriOPZ4KxUoLKwKNYv+u7D77VS5U4yKTQSkhhCZTA0th8MBIAcRsaCIcVy5vOBIpSODqJU6Wz48Di+2XB4hiWyOSgiFjGVp+l0IhEOAkPvo9N3Nj9X3fb7eBTa3QZxNNm7//tp9vXkOIUlXsV3nzFw8rxeoZEkEgkBv24+b649t2fhFMfqfZTTRwvvdr2wDP0w/BKGIjtbW/G9HV0s5xLxo9CL/x6sgZN3UnwaAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/020.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/020.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/020.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/020.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -145,11 +145,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBjX0NmZEFiXz1RTy5XVTFVVC4/OSEZEA0UDQsRCwsvKRlaWC9XUzFbWDlLSSlLSScAXls7W1g7U08zSUchU1EoZ2dCX1g/fF1OblRFVDotOy0idnZJa2pCRkQnPTsfPDocAEhFJiooEUhFLVlYMEpIJFZWMX5tT7ySfMKWfKZ1WmJNOGZmQ1hVMmRfRl1bN1JQKQBAOiY3NRtgXUBjYjpbWjQ4OBqFaVGsg22ZcFl6Uz93UjtCPiFIRSdqZEtSSzw9NiYAV080UkoxamZJbmxJYFw6TEwseGlSw5qDn3dhlWhQdl9CODcbIR8OTEUuT0U0ODEgAFJKLFZKMGtmQVRRMEhFIlxWREY8NopoVIpgS2FCMj03Jz88IiYjETctGzoxIkM8KABAPB89Mx9JRiJXVDNZVENUTUhDNS+Pa1V3Uj1PNCYqIiA8NDA2LyU5Mx0wLRU2MxoANy8bNi4ZQ0EmYVlQXFRSMSgldnBxx7SvknhslouKOjQxMyonLycmQDonPjkgLSsTAD01H0A4HkVBLVhQTUpCPi8nIoJ+g87Q3by7xaOiqToyLykiHy4nJEc/Ny0mFyEfDd5DfHNtDgg0AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/024.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/024.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/024.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/024.png",
         "width": 1920
       },
-      "mostReplayedScore": 5,
+      "mostReplayedScore": 4,
       "start": 24
     },
     {
@@ -158,8 +158,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwdz8tP03AAwPGyPn6vPtbSdivrg5autBt2D4ZsBsd0ug3HsgFDAc3MZiJBmK94EjWYGG/GmMhBL15NSPgP/N8MHD/J9/KlyvlUOTTLgZN1TNcylgK3shSUcr6V1tZXyycPe3f8uQVVZhjA0IBOAKrXKLXr4aATd1v55dg+fLp/ODro1ErdZrS3VTsatNuRk08pPEA0DSALqZvFoigItqnZlgoBgJDIkqKKkmkop693hvXKqpNec40wpRAAMyJPLbrmcjw/3q9Hvt2oroyG/Sc7/el479Pb48vf3zYKwYO814sXbhizGk8W1SQ17KwcjdqPBrcD12yuVY8nB9Nnj0+nk38Xfy5+fV/Pha1oflDwI13WBaLzmDp7NRnfq1WsdNYx3798/vHNi8DzNFX/8fnd3/OzDyfdRs6tehlLFnmIAQuorU7zVuTFlpFJp3Y3W9sb90M/CwFuVIvnX/o/vxZ27xZ0SYIcZK6mEcXQgGERy2GC+USCnZlhIcA8ETkWz8qSPadosoIA4VgMOAw4RAlEJJAgQAgmBPEECeiaGPLXES8KSUlIXpFBHIP+A3uOSMSXHEkwAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/026.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/026.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/026.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/026.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -171,8 +171,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAkIhwoJB88NyxFPChCOiRCPCA9Nx1JQSZeVTdTSDEzKyIsJSAmIR4fGxgpIyAlHxwAfG5khXZqfnNhbmpiUk85REQbUUkqZVlCa2Q+U0soUksqYlw3V1QuSkgkSUQ+KyYlAJeKdJ+TepaObI2HbIF6Wm9oQVdRPFhQP5CDX3luSVtQL0I5JUA4ITw1HxUTEgcGCAB4dkV8e0qJhVeEflSIgVd9dklFPi5IPy17cUR7c0NuaDtRSjFtYE5nWExPQTlfUEYAbWREcGZDeGtLdm1IeHJGenZESUEvTUQxk4xlnpR3r5iBgmxcZVdOjHlrdGFUg3JnAGxnO3BrO3h1QIR/TZOLYZuRc29lWn9zasa3rs/AuJFmWUEkHRAQEGJVTFRHQCgoKgB5cUiQhGSklH2unIy4pZqxnpSLe3GdjYGrm463pph1Z18vJiUXFhYlIiEzLiwfHR0AUUQ9XE9JXVBLQTgzOS8qNy4oNSsmLycjMCciLyYiGhgXDw4PDQwNCAYJCgkMBwUJACkiHioiHSkhHRENDQoICQ0KCgcGCA4LDRcSEg4LDBsPEBENDQcGCQgGCgYFCQUDBzSuflVyP4hZAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/028.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/028.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/028.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/028.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -184,8 +184,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAbGQw8Nx9CPCE2MhsgHg8dGw4fHQ4fHBE8OSBSUCE2MxZBPiMxMBYbGQweHAwfHQ4AEQ8IQjwmXVI0LyobCgkEJyIYWFJDPjEick89TEYdNzUTQDsiPTocKScWFRQLCwsGAFhTM2NaOGRZM1VMPFtSOWlgRFRNO1dMP4tqWldMK2BaIGFbG1RPH0U/GUpCEkM7EABwZ0B0ZkJxajePhVnSvaTizrNyZFYzLi9qam4mICBVTjFmXzVLSRxNTCVjXUNRTTgAaWI3cW06gXpHw66S3Mix48+3XVNIHxgURUA9EAwKaltOtJyBk4JeW1dFNzMzNTguAGhmNG5rN6+be9fBp9jEq9bDq0pANikhHRsUEDsyK2BVSdbCptS8oJWBbHJhTGlZOwBjYDCbimrNt57VwqngzbXBsJxQRz46MiwVDgtQRTxkWk7Itp3UwKPLtJi9pYmslHkAh3hXvKaPxbKa0L2n2sizzrynh3hrNC0oEgsIRjwznoRyyLObzLiewa2TuKOKrZh+AKSSe7OjjrmmkMOwmse1n9C9psi3ozUtJxIMCZSFc9G3nsGslb6rlLWiiqyXfaeReBcApcoPIKLqAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/029.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/029.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/029.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/029.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -197,8 +197,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA9OB8xLxkhIBAbGQ0gHg8gHhFGRCBTTSZANCg/OyEsKhQfHQ0lIxEgHw0cGwsWFQcAT0crNS8eDAoFJCAXWlFDIx8TOTkYYU4ui11MVUknOzodLCkVFRQHIiERJSMSHRgNAFlPLFBGNlZMN2ddQ2pgSVdPNEI7I2peSotqXFZKJU1JHVlRIV9TIFNNFVJKGFNKGgBnXzN8c0fJtZvWw6rXw6q+q5MtJSI6NTdyc3koISQ6NR5XVD9MTEVQTR9QQyg6LSAAa2k1qJZ02cWu2cWu5dG6tqaTJB0YJx8bWlRWIhwZNi4mWE1ES0QuY1s7XU5ERTk0AIR3Ucavl9PAp9bDq+bSupuMexsVESsjICkiHh0XEzcuJ7ihh7mfgId0XmRQQGlMPACynYTHs5vTwavYxrDs28WIe24uJSAvJyMVDwxOQzlMQTrArJTWwKO5o4mYgmtyWkcAtaKNwKyWy7mk0L6n4c+6cmddOTArLSUiFxEOQzkwZlpQnIt20bqew66UuqSKrJZ9AKyZhLWjjr6sl8Kwm8y7ppiFd1ZKQCkiHxIMCUA2LpqCcKGLd7+rkrGdhKuXf6WPdw4ynkoIpYZZAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/030.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/030.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/030.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/030.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -210,8 +210,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAmIhMkIRgqJhwpJRw7ORtJSB00MxRAPChAPyEqKBQgHg0kIhAnJQ8jIQwcGwoQDwYALyoaSkMzNjEhHx0NNjEVTUoZSkUbSkYeX08zSTUoIx8NGxoIKyoUIh8QFRIKDAwFAIJ2VZ6OdpuNcpWHa4BzVm1iPlxUNFdVGn5kPm9IOGdQKWVcK1lSIE5IFE5GGEM7EgB2ckG/rI/gzLXhzbbgzLTItaG3poyikXRDOi88KBxtTjdTS0NBQydRTCFcTzhHOigAaGg0gntLy7aa18Ss2cev38214s623sqxRDkwHBUQRzUnhXBWdGlGamBBTj0yTj41AHhxQnBtOKeYcNvHr9vKst3LtePTvcKynjQrJCggGiskH8OwmNvDprGcgoVxW21WQQBvZjtvajh4c0C+q4zey7TdzLXn18HBsZ40KiMvJyJLQTjOu6TYxKrSvaLJs5mznoUAXVktZWEzaGUzhntPyLCU2MSs38622MiyW1FIQjo2mIh44Muxy7efxbCXuqaNr5uDAFNPJ1ZTKFtYK2BcLZiDYMqzmdK/qMu4oVlORj42MXZqXsq1nb+rkrikjLGdhauXf4GKsfBlJxbKAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/032.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/032.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/032.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/032.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -223,8 +223,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxj4OdllRLjlZHgkxDlEhXhVJTj93LWdLbTc7fRV5YTMTIU9fSQc3WVMTIUNTNW1FATYdBSlzHSUdFSk9BQEVeQFXC20spNcEwNsA200LLXljUxErO0EHGwFzXQE3SyVbG2lGEoL3arLPGrrfRoqw9sqvLNT7YpSnNcVh3bEukYYaWWHW4eG64XHSoXG6Lp46Hg4SbIUFRiWV1t19jk1NzqMrk3tK3BrbzQMSXIPsHJIM5GrSc78OS22duXdvc35TaURqbHWTEUF1tVV9vX1dvX19s2NjjO6I+oKXc30lWRFxcKs1KvCLNcP7tk27LGCQ1xG2Y0XNi1mCE336y0zKayyraqxra8yrqtxbWhNFhNXlJOTFBfXTHQSqunxKul1D3OT68k023tvFqGtHSjPJAe67IKq4oq25o624w0M2VpMRUZMU0lWTsTrbYir96qgJosl7JUu+p0Z4akRKO0VOPsbJPcXLP8AouqavvocDN1eRlVeUklaTEzPc3ocKP8bLOcVKucZOv8RFuGmEjdhFiDxDiDpDjD9GTjrHRTFxtdHWUFHVV5NQVpTUV5Yx25mHDdxpK46T2Vk9vLAKqwhTP42JAfAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/035.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/035.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/035.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/035.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -236,8 +236,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAqKRgtLBk3Nh48OiI1Mx0sKhgxMB+Cb16NcWBBOykrKRgtKxsqKBgzMhwpJxQrKhMAFBMIGhgLKCcTLi0VJiUQFBUFYlRE3bKd0aCKcltKExUGFRUKExIIIyIPExIHFhYIACspGTIwIU9JPD87Kzc1Ji0pHJJ0YsOUfql5YoNgTSUhFSokGBoWDSUiFxcUDAkJAgAoJxI3NBw4NSInJBo9ODJuZ2KWemuyg2umdl1qTDsREAkiHBMUEgsTEQwMDAcHBwQAIh8WLiofJyQbHRoVRD88mJOQhHFni2FKf1lEVUpDRkdHPDo1GRgQExUQEBMPEhMNABgVERgXFQsLCg0LBjczL7exrYJ4cWxNOWFGNXFrapGRlLu9wlVVN0FDFURFHUBAHAAnHxhoQidVRTcdHh0AAABWVlV/d3NPQTVbT0aEf39UU1JCQD2AeVaRi12Ohl6IflwAjHpym2ZFsXZHi2RFZkkve2FKb2NdVEg/dWtkYFtZHRsZFRMKgIJIhYdKfX5DdXc+AIVlVLeShJRiQKptPMOEUtKQWWtNNj41MHVsZkE9OxgXFzAvHW5yNWtvM2hsMmZpMX7ac2/uY2aYAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/037.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/037.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/037.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/037.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -249,8 +249,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBBOSBBNyFSRDVJPSVBNyFfUEA7MhlDOSpQRjNKQSdIPiVhUzs4MRcpJQo0MBEwLhQAX1FCaFpLZldBU0YmVkgralk/UD4sTzMlbFE9RDsiU0kuWUw0XU42YVE5TEAoQjcdAGlbSGtZR1xLNVdJLkw+I1NAJkMqG0gyJoZmTTUuFzUsFz0zHUM4IF1KNXxmU3xoUgBxXkdwXEVxWkZzXkllUj9cRDJLOC0dHR48LyNbSzVaSDRnVDxgTTVpUjtoUTdhTzMAj35mkoFskoFqj35mkH9mcFU+LSUhNDIxPjYvmINtmoVujXdgj3hgkXxklH9qk35qAHJoUZGGZ56UcaCWdZqPbktBMx0ZGDw4NS0oJXpsVJaFaZSDa5eGbpyMdaaVgrammAAjHBlANi1tX1GRgnGikYE4Mi8hHhwrJSMtKCWVh3vTwK7LuanNvKzLuqrBsJ+2pJQAGBMSGxYVGRMSIBkXNi0pMCkmLSYkLSYiLycjg3Vrva2fwK+iv6+itqWZrp6SppaKABMPDRURDw8LChENCxcSESEbGCQeGykjICkjIDQrJzoxLFpORpeHebKhkq2djaiYiaf6jVosVNzHAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/039.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/039.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/039.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/039.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -262,8 +262,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA6ORgzMhVBPxVGQSFCPR89OSMpKBQkIhRCPTE5NSY0Lx4dGw4aGA0qKBsjIhQnJQ0ALi8ONDIVQz8VUU4pY146WlU0MS4fSkYqXlo+YltKYFtNVlA8VkY4OioiQTInPDcuAGpmU2llTHVwSHh0UHJqTycjFjsnInpnR15cMnd5P4KFSIeKTn1mQk8uIFVAKnJoQwC/sqPEt6fKvqzWybiekoQdEQthNyKHZE+NgXWglnebk2uXj2ZzVDlJKRtVOylRRjkAv7Kkyr2wz8G028y9r6igMyYhTiIOWUY80se508S23M3AloqBTjEiUDEhUjIiRjgxAL2wosa5rNDCsse7r2Z3iFJNUWE+LiwzQJCXnMu7qMy+r1VOSDogE0AkF0EmGi0iGwC1p5e8r6DOvqyknphFUWBCSVUyMD1FSld7gYbVxrO6rJw5NDBCMiggEgohFRAyLisAq52MsKOTwrOhmJKNRE9cQEVSLy07Oz5MY2tzzr+unpCCKSQgLSkkEQ4MGBMQMi4rAKOVhKWYh7WlkoaBfDhEUzk8RywqNzQ1QVlhariqmLurl41/cDArJh0cGiAdHDQxMU4/nlyslYNoAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/043.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/043.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/043.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/043.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -275,8 +275,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbNJREFUeJwFwf1T0mAAAOD9EV2e8SFKYHrekYokgjlGGB9BzrExBvuCse192cZ8tyFhQad3k1CT9Oq86of+1J4HA3pE1dZoIVEXdk/FJCWnSTn9UcpUxcOKcFQR8GIrd9zMddU4BAGghjEIAx1tY5ek3rRbhT4gHYcdndPnHjv2qKHNfxkXjd52g2or22gQNvRVzDSDoP8qxZA1W/f/PJqzif+0uLj30fySdoF7c8WNra0myesHYy9s9yOYgyL22XqWo3FVPDbk8kA5QYBCQBqjU1uru1CauCUL1rv4dBRD5ipmD0IOiu4zJ+7t7Me/3/O/Pz8tZt6d7z89KNOh5U9Gd359iN7zxBCtWGYQG5jLphnKMDUCKCVTITS+bHXLlpqHUtmQGRcyHkxKbF6oIDtqGCuYrr2AMJClS2lZ4C8c9+Zq9P368te9fT2dLL59fbz9/DDf7zSzXK0PYqAXxHj+GVRDOP1uh2Ortl5F4FAT8lDMa3xW5lJSK9lqJGgy8aEkimu9TgBrcUsCv5Qu7q0T+Tieffk2s5k7iKWT0b3EDvE6RWxlCpsZIn5UiLKN5Tb7/D+qI5haN7IjEAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E82_brefDernierEpisode/045.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/045.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/045.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/045.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -288,8 +288,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAiHRYfGhYgHBMfHBMvKxsrJxwsJxtCOi48MiVCNydDOy44MSUvKSBDOixYTjpYTjsAUkg1aGNHZmFJXlpBLikiSjcvZEpBUUs5b2pHbmhEdW9LcGpPbWhRZ2JJaWNIaGFJAElFLoSCTI+JWmBWPTEhGHFLOXZPP2FTPqGYb6yhfqeeeqCXcaiefJiOa4d8W3VuRwCBdWrGuKe+saUuKSg8IRV6TDZ6Tz5KOCl5dEWAfEmAfkd9fUN7fUB3eTlydDdtbzQAuq2fyr2vybuueHBoJRoWWC4cVDEjX1U+hIJOeXs+eHw7eX06e4A9fYJAe31Ac3U5ALqsnMW1ob61qXJ/jTs1OmIyGysXDz8+PtDAr8W3obGmiJ6Yb4iHVHl6QnN1PHZ4RAC0pJK9rp9teIVJYHdMU19pRjdHMzBOVmPSxbXVxbTWxrfTw7TJuqi6q5WYjXWOhnkAr5+MmZOMNkBQSVZoRFFhMzM8MjA8UFZiv7So0sKvy7yqxrejwLGeuamXqpqJfm1cAKqZh3x5dSMrOTc5Qz5BSjg6RScmMkJDTbarncS0obysmramlLKikKmaiJ2Oe5GBcJvns5qqkQfAAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/049.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/049.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/049.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/049.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -301,8 +301,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwFwetzkgAAAHC+d33oIludntv5SB2KD3ygDqGB+AIcgogOPDuUWUgXm/PRNKdp55xereuv6J/c7weocnpssZNOSc3BUsrXxmMV2NO9QA8HdbNubR+Ex0Nzc9c0a4R6HqklvYBQRhZjxaxifSJ4U0R+dzmjkv0YdBz20mYtLu7Ly/vqg3Fxy6cVDGLCJ4BURCc6x0bcu7600+sHnf/GoIgDnA7oH3PJ+JJbzMV/I3nWIpmopwQ5AS4THsgYF3H91MT/K3Ov16Z8FrK96jczbTXxqY0uV/LfeWcmETD4EnnzAhAK4f5VWilAbNT/NGgsZKqe9AWPbFUyIjeivW78dpL/M5fG/JmAo5clArDUzHrIbpdGPuj7ymF3dYL22b02EHa7lDprGsxwRO2GlafZ58df19dXVWDCZqdtRZMbEaddK2b3GiOioWMQJNAkQ5EMRY4sefv90uzQLTbeKMcA62ZI4Vgy4IXs70pnKR5LIF6XE3xdPseJVDzm/2DpQk/OSQU4n/SgkBPQRis0HIyf+gOO93gixpG5dCgQ8rhoLHPy1oYhp1avLOZDDOanU274+OgZbuqFqthcshQAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E82_brefDernierEpisode/051.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/051.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/051.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/051.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -314,11 +314,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwW1zkgAAAGC+9a3dte62daZ7wRRRhogvMG4COkUBGQzMhhMM53RD8JrmWWeZSyfnrM76H/3FPQ+gKxn7Nv9wr7ZKhEEjF6mQfhovo+By9n7pGfOFulypj/PauCU2i8kqBQNy7rhvny8+1U0qfF/GJwq1sTVyf2doM+vf+nQqzBbSz4H0Tc9ZeUTBQUBmsEFXvuYzHY7cuLrXkmf1MxbyV3PQyms4Njsai95YW99W9CzCRQOARMSbCtkuY1c0/n81/Ne/+mXx+bCPSxw5d2xNQ798lb2ZselrPBKAtl4Aau7YaqRdK3MW8T9Y56u2YnM4+mY7n4BUBTUNzHbIx3n1qc2pmahE4UDHIp0e87TqWJViJRGaN4XLdBDe3Q779oo05dxduH1mOubWjrxejCZDA6gpdMtQezc3HI5lY8E/XcXlScS3B4MHlWKey9KWIS2/1yc9xdROagIOuJ9H1kczGYWS4H4KDjV4hkUjgdev0mhMLORiwSO1zAy6cq0Ul5hIOvIWuP7xVxQEJHiIh0AseChzbIHA4QP/aSqRjEI7Wy+tDwVTJsQsVDp5R8C+Z72XhkCRcNQuAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/052.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/052.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/052.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/052.png",
         "width": 1920
       },
-      "mostReplayedScore": 4,
+      "mostReplayedScore": 5,
       "start": 52
     },
     {
@@ -327,8 +327,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwW1zkgAAAGC+9KGXc1dzxvKlxAzdUmcIDdBgvGwKMtAQQTQD1Hm5XAuXMq1td7tc1/Wy1fVttz71D/oB/bOeB+g6pK4hLRNz94v9Ht3t4rKUEtjU9mbOUBHLxJStbJGDnhFhLLeYXl0AdC1jtXMdB309oL2J1LHwQ511awyFJS0TV7bWuEKspSHtZrbZWGELMcB4nq9IiPuWkiVY0xIDA/vVl0/1jRqZ3bHp7+fly6sXV7+tnxfDix/ax7kAQJHgMhgm8MTd29egR1CJZ7864ocqqW2gHIPypVWS8NfkdEdvGCq3LYWBdr0ibPK2rjha2W4aFLH+qVc9s0Vu/YnE56UyGYd8GJEhSGolCYegh8DpbPLSNI69g7Mjr0Th8TA4suuf3/VFlk5C0U5DPp+PVVXBicLjVBYMxoBBr+fuDU9mU6dlhpb8Qf9io6ZOJ14eQ5cWfCyJ/fv75/Lbyahb1wUagSPAwd7u4ejN/HhaKfEPwAB0DzSqyvvJOA3H79y6mUnEvxy57o5pSIxEozyeBmajobc/GA/7BLIWCvjvg4EiQ7u7r+BoxHfjejS4bGuiLtKOJohUjnma+g9pMIDPZzOhKAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E82_brefDernierEpisode/056.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/056.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/056.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/056.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -340,8 +340,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXVjJiYTtjYjlbWjNtbERubERrbEBRUCxRSzRPSi1aUjM/OCFGQiBDPiAzMBErJRIAZmU5W1c2a2g9Z2Q4a2o6bmw+gnVUrp6IYFVJTUQyeXJFcnA8e3dGgX9PeHg+UEwuAEpKIDc0KD4+MS4qIC0sEkA+JHNMN7SLdJF4akpBNmxtP3V3O4OBUX93Z3RzQ1lZJQBJQDM5NTAwMTcpJCQxKSRJQ0J/Uz1/VD16VUE/NS5GSDseGwQ6OChGP0ExLCQeHxYAsaafi4SBaWVjZ2Fdh311gHZsjmlVf1E5Y1JHXFBHfnFea2JTRUdDNTg7IiQqFRsiAHVwcHJtbHJtbHx3dZCKhnJta3VcS5huU5iJgJyVk56Ti8m8r5SFd2hbUEg+NSsgGQBya2iFfnuQiYWKgn5lXFkkHh1HOzR6al90a2ZkXFpiWlaHem5xY1deUENQQjZBNCkAamFce3Jrgnlzhnx2Jh4aDwkIRD47dnBwY1tYLygkHxkXdGhdaVtOV0o+Sz80TkM3AImAeJ2TjLqwqse/uDQsKRUODEc/PGFZVEU8ORYQEBINDW9lXIh7bpaLf3dqXXlrXRwkkoZ1z3MQAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/057.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/057.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/057.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/057.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -353,8 +353,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAnIxMgGg8YEw4TEQsZEw41KhpvcDN0cTRSSyJDQRNMTBxubzJdXClXVSlDQhYtLA8AGhcOIhoUGxYTEQ8MHxkTLyUcOjUjTzkuZ0ZBZFU8WlseZ2YpSEUhaWc8UlEpKigLAAUFBhgVExkUEgoJBx8YEiQZExsVFXxaS6V3Z4x3WDU2D0dEG1VTKmloO2xsPC4sDwAgIB1ANzE5NzJFRUVQTk5qYlxaTUBtSzmXa1mJck1jXitfXjJAQBc5NxY4NiE8NSEAh4VTQkA8S007tLV/q6uOkoFnjmhAeFc6dF1Qj2xJlnJNdmE8NDIRJSAOIBwJNC0fAF9fWjExK1RVN6eoYbK3aYpzRXhNJ5RxS5Z8YodhOYFZNnNcLDczDy8oDy4kDiojDAArTmo5WWhKam1MaW9nemuTdk2HY0OsjnqujXV+WjaOaUSIcUg8Qi83OS8uLCcsJxkAIUdkH0doHUZoET9nP0dOj3lie2dehGBTkXBjkoR4k3BKb1pFNVh1N1l1OFp5OExaACVFXiFEXCFDXB8/Vy07RUY7M0QvI2JDMWNHNE1CPGZHLVRQSCdQcTNTbjNScDhMVTb2egj+vTsiAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/062.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/062.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/062.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/062.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -366,8 +366,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBfXTw+PCYpJRcmIxUpIxYeGBMYFBAYEw1BMSdXRzBkYStVVhpGRBlucC5bWyZXVikAQkAkJSMQHx4PGRcNHxkUIxwYEA8LKSAbXkI3gltTeWlQb3IqVVUgTEwYPz0aQj8iABcSChAMBiAaFAQDBxUTEh4ZGAoLDCIfHYdhUal7aWhSQ1lZM1laJjw6Fk5NIzw7GQBfXjJiYVpbUEU4NiNMRD9IST1lYVVvWkZrSjaHZFSBZUeEbViBeklbWyFNSygoJwcAlZVHfH51dHVymJZnKCguZmlIm4ZUhlkxgmJDf2tckGxDiWE7ln9Sd3o9NjYNLSsTAGJvVE5aTlNeak5TWj1ENXF2UIdsP4FbOKSDYqKBYH9ZMn5YNqybZra3bFlSGTAoCwAlSmsyW3ouWXgqU3MuWXZVZWeZe1yae2yqin6ninWNcFCXcEV7blFlfnBQYVgxQEMALUpiLE1oKE1qJ09vHEZqUFJTaFlQWj4zeldFeWVef3Rpf1UsS0lJF0RtKU9wMFNyADtUaTBPaStNaCVHYiFBWyA4TToqIU4wIGlKN19DMUozJW1HJFZNQiJCWSZBViU/VaWMfw6ae5xIAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/064.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/064.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/064.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/064.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -379,8 +379,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABuElEQVR4nAXBAXPZYAAA0O/W2+52O3c7aZTWolXXE65GFUVCzFpNCFmMoExIxTRIpUZqkTI5tzm37dY/vPfA4dGrPRs4D0FC29cbunsy0mwfX5KWTArlIt57iuhQiXjUWuJOPtEnGeIY4PjBqc90ETEXyMPvi+RswUv3t6OJ3GzxR3tQEnXhPk8suk/RuyXWQWccIBZFqKwbDyFECNGNab0tl+stcSA/TB+9Xs/Oix2a4WRFkYZlPGEJBcwAhl8H/AfnHlurUdFWm0pDIPN5imEanZ7f9x51uabz1fr3s7F9rjU4xP4SOBCTPwARF+ijpvfHGlUofby+bn+9Y7kbKwQF/Weqvpwtjaf1Zm5saOYKhIOn6Q/ugXQjiHdkjorE8XKt+qDqJJnbNb3BsMTc+DkcTxR1kWXr1aYIerf8QlVWS31mbPpjLRiOdAejjjTxut3vYCiOpdQfW0XVyrWaHXHyHAcwPKl96zzp2q/15s/27+fqF0EaXGayNshst8DJFCH0+3VBTOcY1BvosgXgdNr0eUXki2Ih82824orFBEHsW2HY/NZsMkVjMb7bp9nKWTKPhq9wLP0f49yCJnJHBKcAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E82_brefDernierEpisode/070.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/070.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/070.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/070.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -392,8 +392,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gDExsvR1Nm3urm7vb6wsbCcm5a5u7yPjomfnZJWTztBOiVhXURTTjI9NyZKRyo9Oh8AhYODhYB+qqqry83R5urx5enw1NfbiYh9bGREKR8YGhQSTEYwSkUpOjUaUU8nPDggAIB6b0wxI3ZqYJCLea2so7u9tqOknKqrnmBOMTkcGUMyH0JAIUQ/IkhEIlVTJzw5HgB3a1FaTUI+OTZAPSdJRylDQSVLSy+EcF1PMCdeJiJpRy9BQh9HRCNYWChMTCA1MxoAQjgsPDg6HhwdGRYVOTcmPDooRz0qPjAkMhgXaCQgYEAwRkUnT00sV1YwTUwpLiwZACMhEzQwLC0pKBkWFTo3KTw4K0AwKSAjIUYbGYMqJV9CL1NGLTs8Ijo4Ijg2ICgkGABFQCUvKyMqJSQTEBEqKCE5MyotJCIYFRMvHSFcLi5aTzdeTDdKPyM+OyJXTzo0LiIAVUE0KSAaDQwLKSEdQzo2QTYuMCIeKSAdKCovJzA3UUg8U087SDwrPTkpSUcxKCQaAFtGNUI0KBEPDVlTQGxlVF9NPUU2LDMpJDUvLiAhKispKkhGLz8/Jzk4Izk4IygkGvoye6nQZVT7AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/075.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/075.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/075.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/075.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -405,8 +405,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAPEQkPEQkODwYUFQsQEAk6Ny5fV0pWRz5GNy5/dGqfi38/Ni4BBAIICggaGRMJCgcAFBYLEhQJERMIDhAJBwkDQD41XktBXUE2jGZWWEI5hm5hOTQvAAADBgQIHRsVCQkHABUYChIUCQ8TCQ0RCRIUCxkcEldCNqd0YKx5Y2hLP3dkWEI+OQABAwcICCAeFgsMCAANEAgQFAsNDwoGDAoTFQ8WGhBTRTWdblmRY1FmTTw5OSwfIRcFCgcKDggkIRoTFQ8AExYKHB4QGRwPCA4JODk3VFNVTkpMmnRml2xbZmFgJyolICMaDRMQBw0LJCIaGx0XABsbER8fFCAfEi8wKlZVWUpITExMUnBqbYF5e4+SnEVDRlNRVT48MTs4JDYxJTczIgBYSz1YSzxcVExoZ2pLSk5GRUhXVlpdX2WcoKyYmqRAPkBGRExNSzdZVyQ9OCdLSCQAbmBRXldRXFxfWlldSEdKaWluzc/YpZaSv7i9p6q0PTo+NDI2Q0E2XVkzQDwrTUsnAH9xYkZDQzc2OTk2OTAtMEdGSIuKjoVlWbGKf42ChDIxNiYkJTo1NHJlVkY+MlpTQq/+aGEaKxY0AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/077.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/077.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/077.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/077.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -418,11 +418,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBNTCNISCBPSSpJQjJGQyxtaFR9dFNdVTM6NiYqKB4sKiM4NSspJx4kIxolJBYeHRUAZV44ZV46b2w2WVcsXFsxWVcxXFovaF9AX1o4UE4tUlAtXVk3WFQxR0YnOjkhMjAaAGFdSmRhSVxcP0VFHUVFIU5OI0JBF2FENlZNJj8/GUJBI09QJ1VVKlZVKk1LIkdGHgBdXlRKSkA6OzI+Oho3MxM7ORiSlIOelI6qpptoaVIzLxVNSh9OSxo+OxlDQCBJSR4AV1ZHS1NVRVlkQFFWNUdOgYaE0sK95N3Z2s7Juba0SFdYQlNUV2ZeUV1cOjslOzkWAExJME5aYE9thENjej5fdnaEkIF9gHx9gp6eoaGholBqfkNkfEhnf05pfjQ4KjIwEQBLQjhbW1laXWA3Rk4wOjctNz4cKDoHESEyPU04PkYxODgwPkI2RUk5Pz8xMycsKhUAfnBgfnpzdnZzW2Jlent3HiMuRD89W1RNGx0mT1JXh4mFcnh4Z25xgYKAc2xkbFtIAJSAaZuEa5J9Z2BUSZN+aB4gJ49+a6mUeyYnLoBxYq+We4h2Y3FjVKaOc56IcJ2IcUmajbbhz91DAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/079.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/079.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/079.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/079.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 3,
       "start": 79
     },
     {
@@ -431,8 +431,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBVUylPTSdXVChdVjZZVTdgWz5lYEFqYT1SSzQ7OCY4NiRGQjJJQzAvLB8lJBodHBQAX1k4Z2BBb2xAXFwqRUUeVFMrTE0hW1UwZFM9UlAoTEwmTEslV1UvW1otTk0mRkUhAGJfTVxbTlJRQ0NBJ0RCHEE/HEhJIV1SPG9XTVNSMTUzG0dGJE5NIURCHD47HkNCHABWVUVRUk07Pjw6PC41NSEuLxmVk4jg29zRy8nMycZQUEE3OCJNTixMTS48OyRAPx0AS0k2Wl5US2d8TGuBP2B4Y3uOta2ttaahw7q4yLq1jZ2pQWR8UG+EWnmRRlZcLisQADs3KEhFOlhkbEJVYjFGUjxNU1lkcT9GVE5YZ32DjEpQVDNGTzNJVTpLVjU+OiopEgBkVEdpZWNscHJWYWlKWV04PkIZHy0UFyIXGyciKTZETVNPWlxJWWJUXmJPVVlHPzIAj3tlkYJvnpB+aGNfjoR5WlZWNDI2qpV+XVVQMTE4pJiIqJuLcGpkkod6no9+lYJtAJSBa5R/aZmDbGpeU31rWkhAPT05OaWNdUtEQkQ/P5mDa5B7ZWdbT4p2YpiDbJeDbdZektm66fotAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/081.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/081.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/081.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/081.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -444,8 +444,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCgtL2sx9Kxy9a61+LE4OrP6fLT7fTX8PfY8Pja8fjW7fTU6vDS5+zK4ea/1da2yMoAiYR4s769pq+uj42Ah4tpm5yKqailqKehsrWvt7axvr67wsPAvL66rK2mnaCbfX1yADYvIX1xY394ZV5TLUNAE1hRLHZoV2JVQkA5IntqVn9rUVJLM2BaNmVgLnp1WVdUNQAxLxdDPilLRzU8OCk0MCNQSzhKRDVJRDRBPStUTTdJQypIQzJCPikyLxo6NyIsKRcATEoac2xJbGVDaWk1c3M6hIJOentBdXc5e3tAjIdamY9ynJRthIJObGs9cm5IY15CAJeMb7GlhJSOXp6eYKCfZJaTYI2OTY+MUbCofayifYB7RHF2JHmBKYCHMoGEOXl8NQC6s6HAuqnKxLPSy7vMxLTUzrrUzbrWzrnXzre+tpetqHycmWKEhUJwdCpkZyBlaSEAmZR/o56Ir6mVv7mourOkxsCwy8W1uKyby8Sv1M2108mzzsSvwbedqJ98gXtRYV4tAHhzSIF8VYaBW4mDXqKcgb+5qcC5qLqzo7y2p8C6qb21nrarkLKmjaqehoh+Ym5lRwFi5OBnMeICAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E82_brefDernierEpisode/102.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/102.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/102.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/102.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -457,8 +457,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nAXB227SYAAA4L7BblZgoAiSjK6Wnk9/W3qgpaV0pQVcppRsDpxukTgNkSUywTAiOm7UZcSxzBjjhTG6KxNfz++DxqPX55/mi89nl8vF/Gxy2N0KXDX0FDyftIq4SCI8Az854DwXleWUrmWgL9ffbv7++/nn92x68vX64ubX96vRy1eduqMhlpp92OCODkwCX6GJGM/CAMDQfn/Q3nvcP3o+GR9ffHw/ezOYt8x2RZF0zfarT6Pgx2mn7FiUQBmOrJk8tB1FFIbuhv5yuTifT1rhZiCpJlD8oMECSwdAQbMYRnCqA0yXU1To8MVQIvFed/dqefmo6YaWLNv7ZbXUsHjAUEjmdnJ1NQ7HKcUmZbPACtBOt6dKctSszd4Oqwqj0xt1oxjookoihkDnUmu5VCKTWuOKZVJxCrwEmU7A09zgWbe319JZLPK0drPpl0sas8Gi6wSyLpCFfDZNsoqguaSoQ6YkeBr4MJuOjvtVVagAatjZeWCbBo8bIkvfQ9DcndytJMmIFChhFIBKsnC/5o1HJ++mp1ubzl14JV9wYgnUKYq1ip1OxNMJOJuMbYflet0nWPk/NHR/Dh4rstsAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E82_brefDernierEpisode/107.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/107.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/107.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/107.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -470,11 +470,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbdJREFUeJwVy1tP2lAAAOD+jT3MbA8sE51cW2htOeeU0h5KT1tu5SIFaalYCJlmzmCim3ODTGGLJkvmm06yaZzZyHzy35l97x91sPfmePTubDo6/fq5pPNZEO61NJ5+Ti8/9Z0SHQwYZNHrJNfqsVYz0WlD6tfN9f2/v/P57c317O726mJ6cHc8tPWUyAUNHMuiJdt+5TrxnBJUMs8kcYH6fvFz9nv+4+ry/d7Ww8P9n/OTL05+vON1bdS2kb+ZsyrM8uITEQbU7EssByjb9Uha/LA/nF2en04++vWKLQkGZCe7bn/DUUtNvdaRcgXVzJtlCxNCEd2QOeZof3g2HW/W1Hr3CKiuwixZWFhlYlBvyeWugIu8nIeKlhAQte74GTZ+Mjr0qibhw/VSxbPbhAthNiQmwhKp4lqPxxavFJJIZQSJImVXhqmBu6aw4Wo25RaU106DABrRKzARAZKqFNeRVgZqic/o/0N0JdooaL12NZ2MNggsmpbhjAlgYCKCWHpn4HZ7fYCLnKjx6RwjyFQmGdnqb/hu05RBQwOS5kH7m4oAH3qB4eqnXW9yOHi77eEcSQIlzqFHFz6T+2PaUusAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E82_brefDernierEpisode/109.mp4",
-        "thumbnailPath": "thumbnails/S01E82_brefDernierEpisode/109.png",
+        "previewPath": "S01E82_brefDernierEpisode/previews/109.mp4",
+        "thumbnailPath": "S01E82_brefDernierEpisode/thumbnails/109.png",
         "width": 1920
       },
-      "mostReplayedScore": 3,
+      "mostReplayedScore": 2,
       "start": 109
     }
   ]

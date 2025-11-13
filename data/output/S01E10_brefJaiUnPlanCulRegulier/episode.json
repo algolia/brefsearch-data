@@ -4,9 +4,10 @@
     "duration": "1:48",
     "id": "9zk0TrOU_cI",
     "index": 10,
+    "isAgeRestricted": true,
     "name": "Bref. J'ai un plan cul régulier.",
     "slug": "brefJaiUnPlanCulRegulier",
-    "viewCount": 4075487
+    "viewCount": 4079835
   },
   "subtitles": [
     {
@@ -15,8 +16,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWtJREFUeJwVz4tu0zAUANCodfyIH7F9bceO2zqPdm3aCiExaQgxtKHBhBio8P8fgzh/cCrYPobxuT+8bk+/yvnWz88pLQ72qT8Ht6cMuN4RkRA1rR98flf54Uu5/BnOtzS/lMttOP30MFtdWrURMrl0lDCwNlMZMTMQhyqOT2F8Mvle+KXxl37+3vlzKzeUOgUlbJZG91QlpntEW2VzNV7/5rvXBg7MzKl8Kodvqh0ETwi1Ph1dfxQ2U9URFevGNDJUbve4XX778nm6+zpNDy6ctB4ItoRBHh+gPwubMIda+JoZQvX/g4z30/K2272viSTEWjMyFqCb8/QR+otym7oBzB1VHmFVTdcfw/GlCzOleoXEum4xNqLdQTzYuDfxqEOhMuAGhI6EQ7XdP3tXOAdUt5h3a2zWSBIWhM0+XyEtNs5UetIYaRMVrmqYwViskSDE1VivkVqtOKqVsLkrH0w3QzwQDpgo0hjC7T/Ldiey446YlAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/002.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/002.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/002.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/002.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -28,8 +29,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAW9JREFUeJwVytuK1DAAANDMJe1mmiZN0tybpNfp2JkOs7MisiArvgiC4MOigg/q//+EeJ4PoHKQ4erHZ9vfub8Sc+H+zt3tUCUqT3Z8Sedv/fq9W3/G5bWZvwLVnFQz67SE6cnEi3KLblbMu/2ebEGOiLfjp379MT/9Pd7/TI+/gU0XHU+1n8Jw03GR+uj9SlmAD6yoDDxw7i7t+fNwfT0+/urmL8DExXUXZnrXrdLPTLRav8Gl3UGcFTxDTMeV2amUvaCJQgqYaWs3VrqVzVSprqri/71FcF/u9hgRw91UCF+wgHOebRFARFYqYuGIClSEApsccZgRRDQREYtAVCplU/A2y8lmswGVTirMwg7CDZi4AtsDNqg0zE3cz5XtSxlzzAsxcHvdbSEohWUq2nap/QhzAjMCEc+RQAeJqSNVQ0UqeGJ2tcNHGd6BB6KIHOpm1enGzYnyRFhDRMfMWYe3yt+Vv7nxgxtfVHqu4/t/LkIr3e30NfYAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/007.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/007.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/007.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/007.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -41,8 +42,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX1JREFUeJwVy9tu0zAAANAkXXNp7Nix49iJL7mnTZqVJl2DhBDSJBDihRckpCGmDQGD//8CxHk/FkyHxFyIuo2yW5idiLqL+IDzV3L/oTh+bs4P/fLUL8/d+bGaHvThi5WqIa9n1S2pPtFsStSM8wmQBrGO12+b87fD5cdw/Tmsv4frr35+skjWpPogu1mYKZNHIScY65tN6DgeILUZP/XL93H9M64vx9d/x/XFYrJP8lY1cyJ7wmqpTpgUbkg9yMJYye7KyyXXqyB7mV2G41eLqR4xk5VjnFaEVJTWvh+7Ltp6OEoKLFpANA74zg7wLiNRZWFuIJWYmyhWEOauhx3b9f04jESUaMxLQJV3Aza269hb29n+D4DmmOkI6RAI18MBZET2VO1RWiBmAiS8kDnWxrYc308smtWpOSBmXC/2Q+4DESIFE4NYgVkJiHIBZ+YOkQZAJdv3VhClMa9Cknk+DnbE25GtTwEqYtpiXBIxivpN3r7L23u9/yia+3/VXS8Gw5B8QgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/008.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/008.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/008.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/008.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -54,8 +55,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAWtJREFUeJwVzttumzAAgGG0YGx8PgAG44AhgzSQQJK20rSDqt2vUpSrXnV7/6eYIn33/x9B7gEtkWi4W0i+hzIkVKn6LMsjJMqG793x3jy9h/neHG5u+BNhFXh1km6V9ZnaCao2IZLlAyRZDKl2azO9m+1LN9/Hy+du+YhS1RG9E259qBYkPNeeMAsgB0ginGHusQqufzs8/9tf/kZYt0Q1olrEozAz02fliGlBWAkSBqDYfEExYKa+dvNtf/2MRHWS9cqrhduZFgc//rTNRESZ4gwiEQMCEo5opf3Vhh/dfItYeWL2yOzE7ETyvetfbZixrOKExQCn2GBqkWiVv+bbV9e/RbR4ovZAigfbPjfDN131kBiAZEoLoRrCKyRbVZ/z5qXsfkWJDGk2kGLIt6fd/Nt1Z111iOhNTFKSYWpBqlLpVb0afxHZEBEdTH3M6tH1lzIsxu2M+8qMT6CARAOsE6whKx4j+Rhv0H/Y2yrOlRyGNwAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/009.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/009.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/009.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -67,8 +68,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAAAABEQEWxrLqxrbw/OTcAAAA9NjWKgX+FfYGHgIiRi5aOhIhzYVlgUUqJgoiDfIQAAAAALCcrsq/Bw7/QWVNSAgAAPjg2h35+hHyDhn+HkoyYjIaNYlVOeW1pm5Wgk42ZACIdG1RMTZKKkYJ6g1ZRUi0tIkY+NoB2dIB4fH13fY6IlJqVoYqDjYqEiqOgsKOfrwBvZWWCdnNnWE8uJyU8NjklHx1fTkdoV1BkWFBpYFtuZmhUSklpZGmRg4loUU9oYWYAa2JlW1FNTEE8W0pCUT84HxoeQjMtWUc6OSkeOyYXQDImLCgnRjImcEtDgGNZTy8mADUlGDcqISghIB8VDxEKBiwoKm1maoyAgYN1d5CChGpfXEg0L3EvFIJINohyb04uJQA6IA40IxYVDQkJBQQQBQB+cnTJxdSxq7WxqbSyscWXhZBdJBdRGg1fJhA4DwcqEQwAQCILPB8KOx0JQB0DSzQjhHl7lY+cq6e1rKe0mZKZalNPWDEidU1EYUY8NSUYJA4DADweCUwoDVYwE3JWQ4yAfo2HkpqUnpyWnYV7e2BPQkIlGEkzJ2VYSoR2bHhqYVFBNu9Kl4W+6Ea0AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/010.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/010.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/010.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/010.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -80,8 +81,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYxJREFUeJwVz9tOE0EAANB1d+7XZWZ2dttOa5d2e6HbYmuBgG2QUKEkaAI8EN/QoCEmJvoHPpgYn/wLv9N4/uBETongXBWada9cjIfr+YvLV8enL+cXi/rH04df3798fHd5uj+pGj5lShAdtX026LSm/XI5GhzP6tcHy6v16mBUTQr7dHP18+vnv39+35+dfHt82K5OKGBRr1WMu2HaL+fDatrfrXvlej4btXKDQUj5JOSfbq8frzfbo8XmcL7DZVS1G3tlZ1y2u3mWa2U5txSrOPYMe44zyXYLe3E4u1nuPRcMAhgNOs1eq2iaNJPCcaYwws9iHicOg4LjjJNCi7oMd+er27MVTJIoZNZrZaW0UigEeRyzBNAYpBAWHBWCOE6C0cNQbI/2H96+iQznVslMCcepYSTFeAcBlQAJgKfQM+Q47nrT9abM3fvNOtKU5Frkmueat60OVqcQpggZgjKKHIWGoo7VVcN5yTSGEUfIMKoJNpx69f8gALQEZhQaDC0BGgNNIAOJgDCk8h/upTDsinHibgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/014.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/014.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/014.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/014.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -93,8 +94,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB6eH17d3p5cW5pZGhaT1A1HxZfVV6Ni5aUkpqSj5drX1hvanJhXW1mX19LRUMuJRwAiYePjIqPjIiMcGluUEpUGRchFhgtcG98n56mkI+YfXR1lJGOiYN6em5md2RTYkYyAJKRm5ORl5COk3Bqby8sNgULIAAFIGJkdKCfp5eUmp6copyYlI13X35eQn9hR3ZZQwCWlqGUkZiOi45ZUlYwJSIwMT5JSliBd3WVemWMa1GMbFSPdV91TTNbMxxEKhpALSMAlpakk5KZjIqPVVFSdmtlopSIo4hvmHNSkWlKk25RlHBSi2dLckw2bUYvXUAsX0g5AJiWnJyanpuQip2EbqCAZJZwTpZwTotiRoJYQXxVP3tSOoljTIlvYnVRP2A9LUksHQCknZimnpiUc1qIWzmFWTqAUjNzQydxQSdzSDNkOyhiNh9/Vj6LalxaPC9JLCBHJRcAnZeVopyYm4l+nYl5lXhhhmJHcEwyg2BKiWlVelU/bkYudEgybUExe1ZGYzwuWjcnAJKNjJqVlKKfoJ+amJyTiqCUiqSalKCXnZiSm56cqpydr5CBhIp0coZsZIJtaYeAhixitjvLqk5KAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/016.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/016.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/016.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/016.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -106,8 +107,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwW1T0gAAAOB9qO9dh10J6WXp1U65Cu+6IK8IbowQhWDjRTcGCzc2gvEyB8S1DZkIYwKbDhy+dJx39TN7HqDMMHTmgEwh2WQcDcH7rg08GqsVjhWxP+6fnatjgeN6ndOjHBkJeANuF9AWmtVCnskcUniaTH7/trlCIol2TR50RxSBomi8Ua+2fzUta5HHMefqM6ArynWWKmSwXDr51RtdcThfg74kUhypU027VFWjXsxTWfInK1UYej8IAYrUKR/9oIk05I/bngdXN3yP7V7Hq7Asnt/e3E8vbhslbqyedaVWvSLk8AygSCdsFicPUM8HGHzj3nF7l1/4t0FXs9Kw5vem+ce6/nc1s6yZeWOautIC5LZIEzgWj2y+XLcv2exPnj54+Mi1tiSUKvP5wtQG02HP0sdTtfsb87ZSO0CLP84kkTDk/7S9ZbOtLTu2CAxTFeXOGBgCoVHwkAqqhb0Twkd/Xo867QDHsFgCQfZ2ycNUi+fvLod/DXlxWpzxMb24OynFLqropBztZoNF+D35BQSatWq/I5qjwcLSrxq4UQrrbGDCQFoekhBPM/KRg9/xobe9QoJPhzAP+B/t5qpiRaSy8gAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/017.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/017.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/017.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/017.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -119,8 +120,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBiXFtqY2JYTEdVRDx6c3eHgIuTkKGRkJtlYFeAfoCNi42BfX2Jh4pmYV9SS0dDPToAbmlpenVzYE1DSy0fgHh9jYeTmJWnkpGdfHh2jY2TdW5senNxYl9eU0tBTUU8SUI/AHdyc3Fuc0I8QzcqKoJ8hpCKl5mXqpWToGNbUVlZWGxpZ4GAf4qJi1ZPSTkpIkI6OABwbnknNWIgJkYaIT0wOFSLiJidm7CYmahxcndvcXZsaWJcWllzc4FnYV9AOTQ9NS0AVFhyJChJOiomGiI/FyNEfH2So6G2lJSkkpWfjo+ZX1RTeXV2aGZnZWJiU09KS0dAAFlPUTAfGRAYMRMkTyMnP4B5hKKiuZWWpouOl42QnIyNmI2NiI2Nho6Pl3Ryc2ZaVABeVlU5MzkVJ1klK0hKOTJvW054cHCAf4aSk5qNioyQjY2Sj5CYlpeQiYRhSzxDKBcAWlVaPDpDFSRNWFJYm4x8nJiUmpaSmpeVe2JSd1M6fFtCgmNMiXNhblI9VzUfbE07AGNiaGFgY39+f6Gfm6CfnaSjoqKblZV/bYVgQ41oTIxnTIdhRm5IMHRTQF1FOlE2KM4PsC4z6knJAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/018.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/018.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/018.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/018.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -132,8 +133,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAVBJREFUeJwVjclyqzAUBQUCcTVc0CwkcGwcPMR25my8eP//W6+o6jqrrtME41snU9NiC175k/Rnykynip3/4v4pw7WR2U7fQ7pjunV6IeXlc7f/yuWa8yWm1fhFuaOKd7/7sdOX8hcdLzqsss8tdy044sPBupdeT7JPnbAMNBcO3asuH6a8h3wz4Sj7UWCiLdZVRxiYmoq6AlJ1FWF1xWoquPTaLanc8nTHoYAKm9ZI2iKhVHDhJEbgmrWqqYHWwKW3fr9lVezA1lRs941sQRMcsvWHOJ7Gco357OM66FmoyKWvKtigklawQTkDTWgjW9YDN8BNB5qBYd22XAYhnMLEZWAMWwoVoTUVxOWPIVzQrb1bB39Cu6BZFI6qzwKTxNGENZRHnB5ufNjxnejyGQ/P8fgvHZ5u/nXzj59/lVl4P/NhBzipeBnSG4Yz+lXo/X8NeR5DPthDfAAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/019.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/019.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/019.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/019.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -145,8 +146,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb9JREFUeJwFwd1O01AAAOC+iCbqjYARJHFlDAx1MyFQZMUBjkK2tWs3Vtpu687Wv5yedm1Zy7Y6dTNGMkVEURMM3vgCmpjghY/E92GSbPVfnjEsXczTfJrIEVManQRbiWppP0NSMstrilbYZXM06xgWEHns9Oufw85I4sohcsT0nEQlTDolreKexIvrqzIjnJ78BFVDYCtHyLQbAnb2/W8YHnuoM/BsaT0mPsX1rSWemMkl7r7gMtwG+YRIZSmKTCUDywqhjn369vv8x78vF1euIinP4qXl2Ro5/1rYycze2YtP2FxWramhO4iCUd/1ZY7Hxh9+nV/+d7V2cWlSTsep+zeKj+4FhR2d3CQnbrILk0daaxi9HfZGEIBKfhvrd8efL67sJqLxW3uLM7uxaX1jobGy1s8qbfaASeIgtxk67Z4bIqAcQg5zrKjXfW8ZQYmYLi0+qDyORYXtkJYGeTAU9QAhV2v6ptFBboC8DnQxFbim6lswkjJp5uFtsIZ388U3AjxR/XflZghUD5oBcnzYtlqaUVewElcT9kGjjqoHrefzU/XlOTvLHNfRx5Y3ruivGtBWgQ8tpBrVcllgmGstk7t5pp7kOgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/023.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/023.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/023.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/023.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -158,8 +159,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBfYGtgXWJnZnJaUlZMQUFaU1drYmN0amyDfIR3bW9bUThqYlWBfIp6cHNeNxBTLAYAhouhf36MgoCJZWFpXlVWbWVrbGNkaGBglY6SYU1DOysYU0M/bGd3iYSQgnV1e2dcAI6Urpidt5OUqIaDkoB6hIF7hXx2fG9hU19LQVIzKVY+PXZsfHVveY6KmI+NoY2OpQCPlrGPlK2JiZt7d4JURDxvWk98bnB1bXFPPzVJMyiUkaa1vOGOiZWLh5WQjZ+RkKMAi4+miIyhgYKSZFtgYkYxfl9IaUo+c11Tg3VvbmBWk4iWqqvKmJesjYmWkY+ikpGnAHBveXl5hnt8hFI9OWNEMWhIPl0/NnNcSJiFdHBURHlWR5aSo62w0JaUopSSpZCOoABQSUdJQEFDMThMLihkRD1pTEhYOy5wW0eMe2R7ZVRkUUhjX2V7eYiIfoCSiZKMiJQAKSIcMiUhGwAaNxcoWjcxdWBWmIhzk4NugnBdYU1AZEg/SjoybGFdh3t5iXt5hX+EAAwKBxgOEigIKSkJKj4eI2tURZuKc6aZhqedkYZ7goR1e4N1d4BqYoZ8fYSBhndxdBxHtborxOlkAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/024.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/024.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/024.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/024.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -171,8 +172,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBZV2VUTlRGPD5ORUhYUFR2bW1fVFN2bXZtZWdWSSh7c3WFg5J0WkRaNQ1rSCNybXgAb2x0aGRuT0hLYFlha2VuZFpZTDMkZU1FamJjTT0lZlxidmpwgHBrgV8+hmlPhYOUAIuNoYaGmX16iH54hHdhYV0/NE4vHlM0JWpfXFZDQlI3MzknIWBZY5STrJOSqZOQpQCGiJ58eop2c4BwanNqVE1vSk1sQkRbODJqX1xtXVhwVU2ZlqyfnbWVkaWambCYl64Ad3aGc297cGx4cnF/fGRxgFRed0tXWj03VkpEdWxxb2NklJChqanFlJGlmpqxmpivAHd2hGxocWdjbmlYV4BXU4hWam9JTWNSQ2VVS2thYnNrb6Kgt5yZrI+LmJqYqpaTowBTSU9YSERjTkNZPi5aPSxfOj16XFmAdWtoVlFpVESGf4WnqMOQi5OTj5yYlqOPi5UAIAUdJwohOBsmYk1AjH1pfW1copiFkoFpgnFdloZumIp2jYWImJSbnJmilpKdhoGJAB4EISUHLCAAKEsyNod2YIZ3aKqjkpGDb4d2YZeIc5eGbY2CdZOPlJaTmYmFinNtcCPLt0Um1RdbAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/026.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/026.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/026.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/026.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -184,8 +185,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwe9T0mAAAOD9A3ZdeicQChtwYzDaL7Yx2Q/YYMhovAzf0RomBILneUZ5ha407brMjs47Lf3QRfapT/6RPQ9CrS6t4VGLTzrFrGcwvXphF1aGTa1Ko77BeDrfrcqwzPeflrdd4AOAmFLe5HArjzly1tNpqJKdMmtQmJRcVomIjIU2VV5MxRoCPumC/Z6H9DsbQ891q/I6iynp8JPIg1x4gQwtyHjEFokaie5Y5bbAGhQajLwPezvI9vNnY9/bAnVLorjYEhd9VMSWqchDLRkaV0QRDXcrRZsjOiV6fjG9Op8hI9/bajXaRsFWOAEL8dFFyGcgnWqTKwcVpk0nBrroMfHAr/36ejj7eIr0NoBrKk2JaeQy2uMVLb5o4tEXheyomDm2+cuuflhnPwF+/tb/+/3k6uIHYiv5Op210riTI1s4sx5P+FJ6UGJtNqUTqzadfNfSfk+H97Pg/ubL/OYfIqMxSDH9NQVS9FjWhkLptWG5DAM4HCpcQ8jt2saf08nt0d7tyf7l+U+kRmRembX3DhyrpQA4Pse/FKRmLrGpUhOgXb8Z3H2eHkDzyG9enx2fBd/+AwlmfAcXMTmCAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/027.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/027.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/027.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/027.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -197,8 +198,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJwFwVlP2gAAAOD+AJPNZNU5GEVLtbRdq/SiQOlBkR5crZTWVjxSVsJUnMucyxQN0SxbdsS4DBN92IOve9hP3PcBFAQKyws6A9slzK+s7ppc7Cj7brVGZzbK+KbGBFrBVbjNdSFyjLBpAXWpaAqkycBOEfXVVVciOhJlsii7CMp4kk+DPk8aOaKEvRzY6rs9H4i8zmArCOvrBrus4Akq8eTV8xlifoZbmrNY1KDgUGJjvVJGk0NXn4z6QBz6ceDt2FZb5vKZhVxyVoTnuTRIJ57GGqtikMHg26pQpdI3nwZ3X66B14HXa+lutWDLXBFN0S9mndxKwKzoMHisrfl0pifSAYscWvx0Mvp1fQHsubanl9slukHhShKSoGdVZK5LpiIBPamt/dxSzxr8aY26GzYfv328ufoMtOW8lSPq2WwLz24QtJFCPBYZaHSHxzQcqlNLB3p+ehT+/frh3+/Jn9t7QIQXWxjRF2WHpPqFUsTJR6re4wSLzHTLtMngvYpwf37wcD6anr35fnkFKAgyVNTLjt8XpdNGcztfiLiiQ6G+gL1tyz/2w4fx8STqHjaU2/H78cnFf0uFepxfcTxxAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/031.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/031.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/031.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/031.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -210,8 +211,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwetu0mAAANC+wIyJy0DBjZau62g7+OCDUnrj0iqspba0ay0dcwjdjDMsLDjHZkRMZpzBzITFZHEhxv/zGT0HAYllgYxrLG6JVFvJdrXi0Y4ammU1g/q1jFvJBUrJknKdhhg6esc0kHop/xySegGzxVSgALfMuNWsksE5PCKnYjwafSXlBRJTs8mBrw27L5Ge54Rtz3smbUO8TMVA/OFWdImKLPHEY4PdrDNYWJfbYrFKr512ncnxG+Qg8N/uBfstzRBAAV2BTx/J6084NCJhK4cqy+Mxr8zaXNriU3dfR7++XSGHu37ftTy1ZMl5bj2WjjwwwUbA0i6TOFHADki+rhR8gH7wareXo+vpJ6Tntdpa1RZgM01X4qs1bFnBozYgDgTqow5/BJWxBicGvBu6f2cX86ufiFXh9Byjb5IthrY2so0E5rNErwwsSCqp1WYmedIUf7/v/pud38+/LG7+IFJyzaToDlty0uk+J/agPFQaPsw3AWHzYBtSYUNeTI5vLwY350ez6XdEIYh3NXX8wu7z4qlu7Bf5sCiaW8SuyAwM6Xqwt5iOznx95DTmk/Hns8v/8Jd8jItCMA8AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/032.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/032.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/032.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/032.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -223,8 +224,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcBJREFUeJwFwe1PEnEAAOCfNdGQlwI6vFfWCXfxlrBT5lkHiJwXv4PDAw6KA08uUFqDJo6YIGZZNsbWXLnVx766+Uf2PCAt7NQqjV5/PJ7Of/z8Vy6qHEPoqY2mnGmocD/7sqZIZr0qJl+JO2K1pAOYlZr11ujs+ubP/fz2zshLLUloZRL1zNbxQeNNXnp/2ByfftKUYkGCRv0d2IdF0zg6m8x6g6scVD+39cuDspneyG/HxSQvcKHUZnRPSOzyXAnCo8MuKBXKrWYnD1UCR50rS9Xk5pYfS4fX2oY5HF4YeqNSgJVCTtcqmqJ0zS5QZTWfU4LPQxSB2VesTx02ywIIrDGDwfns1/3s5u7L97+T83n/w2lNLZ30hkCVi3yCJwmSxFG7ddlmtT1YeIgiSEfJTsfX06+3k4v55dXv0ehbray9TW0DIRGPRtZ9JEWRpNNhZ/2MZXEpSnjMXOrYaBOrXu7FuvJa1tSqKPBCLAgY2u+nAwSG+zA0RK0GCYTzIUU+/vFkqusdtwV4bMuuRYA7HsWYZ2JmD/go2ot43S4P5n5ST3Iw5k+zBEvh4XAkxAZIz2PU5YywNI15GcTZ1+T/cCByrbElh5gAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/036.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/036.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/036.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/036.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -236,8 +237,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcJJREFUeJwFwVlv0gAAAOBGcHNm+jCThQmETR/sNDGZDR4M2dYAHsjRsaNl0HMttJ1QoGMMCVcNbS200BWNcYlm6vybfh9QrSmyrPSVi6H+XTd+TJ0/zUYnBHpLSEQpoRp30MYz20/XQO89lmHhUBBoNT/3OoYxujStX5b1c+pcKYPR+2erEhK5tvSrfsOpMknoYeTlC9u5DIE+QFVnmvbVdv7ZzvXE/j2Z/W23emR0A4WDX3iMS0RysVdsdOM4hxrjWRj0A916o1nizouMTGISlqwgMPF6fUCkzSo3lWhDIJxTsZ4KSyyjamYwsARQgXl6bY70u6hVN/3gJh1wUeDip4OoQmVHQr6bT5liQULgQbvbPGs/Xr4DUN5blG+BXJmjPDdon5vw38bBJX57XUbgHoFWUjE+DlHI27FhfuSYLfAugPsWCh4XCd5n3sSPE0kBPWqjO+fZTb2YdWq8JeBcDNrbCXI0ecKSEr0LoCvzOY+7xjbEM5stq2X+dFxKT8Q9nU0OiITw7vlh6BG+9eQISYvlPrqfBxKLwCEESa1vQlktyxO5NrROsIsKNipmhlSik4tL6bCc2ayTBaGipT5k/wOCdZ57AZnWvQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/037.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/037.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/037.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/037.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -249,8 +250,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCno6jFwsKuqqOfl5C8tbLHxMl4cnEKCAcEAQIIBwhrZmR4cW1fWVNDPjg+OTFQSEEArKalsq2kt7SsW0xDXkExu7KxiIKBEg8NHRcWGxUUa2dle3VwPTo1Cg4OLywnXVZOAJeOipGJg6CZlmRQR21KOZeLhoB2cFFGPmhSR2tRRHVpYHRpYTAvKwoNDTw1MGBZUwBYSkF3amJ3b2pXRDlhQC1YQzdtUkI5MSo3KSE2Jh9DOTFiUkZMRD0yNSxOSz5ZVUwAPS4lQTEnVUtEYVJMb0k3dFxJcFVFHxsYGx0bQD47ExIQPDIqQzUoS0c0TE47NzcqADUlHSMVDjgiFU4wJUYkImA2ODceIRkTD0c5MVtMRUc7NFBFP0M4LlNDOWJXTVBFOwAuIB1HODZDMCk/HxRkODN7RkVvREEuIR1YVVI3OzsdIB8YGxoZHyA1OzptZVxpWk8ARjw1cGReZVhRNCIbRykZTDIiXkAvTTs1MDQyOkBBJiYnLCosKCotNjw7V05GSz0zADQpIEQ5LlhMQUg7Ml5IPG1gWW9jXm5lYmpoaXZwbZ2WlJCKj4WAhZuWlaymo4+Hg5Vug6ksHhocAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/040.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/040.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/040.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/040.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -262,8 +263,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCNiIzCv8O9urKloJu5sazKxsiloKMiHh0EAgEAAABDQD+BenZkXlhCPzkzLyhDPjUAkoyLs6ynt7SpkYqFSy8fmoN4rqmpMiwpGBMRJx4aSENBg317WFJMDxMRGRoXS0U9AIV9eJeNiJmQjIF3cVQ2J4lsXIqCf2leVlVFO3FTRWxbUXltY1NLRAkODykmIlFKRABGOC1oWlB6b2lnYF1MMCFuTjplWlNZQzYtJSA2Jh8wJyJTRjtcT0U3Ny9ISTtTUEQASj0zMSMYUUA1aWFealJCaUk4V0ZBbEk1NisjNzg2KCYiJB8aRjYsQjgnT007OjssAEk8NSoaEmJENFg9L1Q6L0wmJFUtKzwpHz0tJFtMRUo/OFFEPkU+OEc6MWRYUFtPRgBCODNALytINSthPjpAGhZZOCxrSTtFMSk5NDFGSkocISIQExIPFRUfJyhSUk1vYFUARz00XVFIZ11Ua1pUOR4UUzUiLRkQakw+KiglQkdFNjg5NzU2NTQ2NTs8U1BKUUQ5ACkfGTovJkxANVNJPl5PRYBwZHVvanpva3l1dnl0cpWPi56XmIiDiY+IiLCrqKagnq/LheBSOlCSAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/043.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/043.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/043.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/043.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -275,8 +276,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCwrLPAvbijn5qzrajKycu/vL9MR0QAAAADAQEfHR16dXJvaGRRS0Y2MyxCOzNaU0wAsquotK+lqaSbPS0dXEo/v7m5XFZTCAMCGBMSPDIve3Vya2VgIyQhDA8PQDs0Z2BaAJiPiZSMh5aOikAtInZWRZSKhXlvaVRHP15ORXVXSnJkWmdeVhseGxcXFkhAOm5nYQBrX1aJfXZqYVpFLCB1UT93bmpxYlpGNSlURj5RPTVANSxgUEVAPDU+QTRRT0JaVk0AOSkfVEQ6OzEoQikcZkItb1tQZUo6cEw3UUU+LConGBURQzYtPzIjSUUyOzwrOzcrADMgFj4kGDMiGUw8NEMwJ18+M0UxKTAhGjAsKy8wL0pAOj47NzkyLVBIQVxQRldLQQAwIBtVPjFILiZPLiVmRz1ILCdgQzYxLStNVFUsNDUQFRQJDQ0OFRY2PTtuYVdfUUUATEM7YU5CW0U7PiQZVjknCgAAVDQkOTAqO0A8Mzc3NjM1ODY4MDM0R0pIW09GTD81ADkuJEg9M0g+NTgoH3JdUWljX3VoYW9qa3d1dYB6eKCZl46Kj4yGiKynpbm1tJeRjforg7uur2JNAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/046.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/046.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/046.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/046.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -288,8 +289,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCwrLPAvbijn5qzrajKycu/vL9MR0QAAAADAQEfHR16dXJvaGRRS0Y2MyxCOzNaU0wAsquotK+lqaSbPS0dXEo/v7m5XFZTCAMCGBMSPDIve3Vya2VgIyQhDA8PQDs0Z2BaAJiPiZSMh5aOikAtInZWRZSKhXlvaVRHP15ORXVXSnJkWmdeVhseGxcXFkhAOm5nYQBrX1aJfXZqYVpFLCB1UT93bmpxYlpGNSlURj5RPTVANSxgUEVAPDU+QTRRT0JaVk0AOSkfVEQ6OzEoQikcZkItb1tQZUo6cEw3UUU+LConGBURQzYtPzIjSUUyOzwrOzcrADMgFj4kGDMiGUw8NEMwJ18+M0UxKTAhGjAsKy8wL0pAOj47NzkyLVBIQVxQRldLQQAwIBtVPjFILiZPLiVmRz1ILCdgQzYxLStNVFUsNDUQFRQJDQ0OFRY2PTtuYVdfUUUATEM7YU5CW0U7PiQZVjknCgAAVDQkOTAqO0A8Mzc3NjM1ODY4MDM0R0pIW09GTD81ADkuJEg9M0g+NTgoH3JdUWljX3VoYW9qa3d1dYB6eKCZl46Kj4yGiKynpbm1tJeRjforg7uur2JNAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/046.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/046.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/046.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/046.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -301,8 +302,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAdGBI4MzBNSklTTUd5cWaGeWeDemOim4l2bGJaQTBuYVWdlIGrnYmnmoibj3iKgGYANi4oNC0qgXlxlod4iHtlcmxZmpN/i4R7ZVdIgmZPclhDqqCRzcfBzcbDzMO4sKaPAFpNOWtnZXRrXoh9cZ2Ui5ePhJuUhGFJNnFbOop8VIp0VquorJylvJWWoJGLjY+LiwCLf2iKhoSdm6GYmKGEgX2TjoSck4hnSDV6XEJ/bEKWhmfQz9m2tLmOi4uFhYaNh38Aqau8ubfFjoiXhXd4jId/n5qVpJmKcUw4dUw4XEcnlYdsv7rHzMrYub/Vp7HKlZOSAJKTpVxYXExDQn1waaikqKqimpuQhF8/LF87JmdRMKKPa6SRk6+qscjL37vC2qqnqgAlHxcyKRFvYk+QiH+XkH2poJSrnpA8LB01IBB0XDd2bl1ufZGVjpKag3uCf39oZ2gARTssYU08e1lGYVRMoJiEubKnfXZsLiAVQigVT0U7TElIPVRze4WZimdRcmlcYFdOAG1cPYRzW392biApOXd8iaCYkzAxOjQfEUQsGTE8UUJARiMxSj9agIZ9ebSll401MKrXx6+EU6e2AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/048.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/048.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/048.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/048.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -314,8 +315,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLPjx4ZmRwXFltWVRxXViGcm+ahH6eiIOWgHyWgX2Xg4BQTjxPUjhlZE1oZU9ua1QAVEdGi3h3inZyoIqGnI6Nn4+OmYWCm4aDmYSBoY2Ko5GPTUk7XVNDamBNVFQ9SEkyAFVIRo16eI55d5aCf3lfWnZjYKSVlrOio6aTlK2doKiVmIdnYFZDQks/PTczLDEsJABcT06bhoZuZ2eaUVB5NjFhPDSLdn15e4FqZGlnYGs2MjYzJCIbGBwODxRMRk52bHUAWE1OTkhLUTg4sTk7pV9bmVNMbzQ1SEhNXVBRW01PV05RBwgLBAUIioWTwbjKuK7BAKijrnN3gWhCRZ9RS6N3a4NFPopMSVxQUlhMT4R0d39zeQkJDBAPEsG6zc7H2r20xgDDu83OxthnVFluMCmYcFueVUxiOjg7MzJSR0ilk5RkaoAaIzROT13IwtTJwNHBtsUAtaa0pJyofVdcbi4rmnxtpnJiTh8dUUZFlH58joKHUVdsUlVmdHmPz8fYxr3OvbLAAHNqckE+Q0UwMC4dHXF7lktHU3dNSZaCgZmEhIp6fFJOVnV0hISEl8/E1MC1xbmtuK4jumFGyfjdAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/051.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/051.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/051.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/051.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -327,8 +328,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCOa2ZCMi8+NzakkI6YhYNaTlCPgIG3pKKrlpOciYehkpOpmp2llJSgjIqZhYOWg4EATzo2Tj89OzQzoo2MoZCRg3iAsqOlopufqZiWo5CNr6Ciu6yvq5ucmoiGkX58kn9+ADwvLlJKS0lBQaaVlJCBhXhyfGRXVnlhXpR5dnNmZ4+ChoV6f45+gZaCgYl3d417egAAAgVRUFeRkpisq6/FxsmKeYBPOjd2U0ptV1VwZ21bUVdEP0KZfn2bgoKIe4CQfoAAAAQGHSEkODs4V11g17/EsmpnlFJPjlZSR0hKW1tjKS0yXlJVm3Z0inp9iHqAi3t9AAAAACoqLoJ9hZmapq95f4o7Npg7O7VERK9veI6CkYJhZp9DQ49KSW5landpbnxtbgADBQYCBAZQS0+CeoJuNjNyJiJZFhNjHRqZNTOmRUajQD+DOTdMNDVCODxRR0tVSEsAAQMCDxASTj08XlZYc0ZHdCAdcCEeXhgVWyQifUlEYjo4Rj5BRz5CRjo9Oy8yQDU5AAUHBxQVFzwyMzUzNGQvLpQwL4QsKostK4ExLWJQRj46O1FIS2FUVlZLT4iDirm5wjEmpzW05XGLAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/053.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/053.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/053.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/053.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -340,8 +341,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCLeHd5ZmR/bWuHdnWJeHeLdXSrlZSwn6CtnZ6rmZeQfXyOfX2IeHd2ZmWaiIdlVVQAl4SEg3BvbF1cinx+h3V0iWdjqYqIvrO3wLa8q6OsmomLmoaFmoWEaFpalIKBc2NjAJB9fY17fGdYWXpzfYp8gG9STnpmZ6qeo46BhZiXp6qip4+Jk4R8g2VVV5mGh21fYAB4amxxZGdnW15lWlwqKjEnICOBd3t9X1t+XFd1am6Vf397fYtzcXuwq6+gnKV0b3wANTE0e21wiHh5UUlLAQMJAQYLWkBDjFBLpomLpZugknFucm12V1BWysfPpKi1T09ZAEQ8PI99fJiEg01FSQIECAADBl87O8FpaL54fLlydZNQT5CJkod/jMLAzdPY43p9hwB5Z2d/bGyNenk7NTgDBQkHCQ88MjSNWlaaODeYS0p3YGOGeoCBeYOIanKaeoC9rbMAeGdmgG9ulIGAaFtbAgIBAAICOBUUgCgmdSQhsJicj4iMSkJFYllecVNYdEtRhlpjAHhmZoBubol3dnRlZx0dIgoOE1cfHZU2NIEtK6B/gqqdn05DRVVMUpmXobG0vZibqlUCvJ1fxcrPAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/055.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/055.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/055.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/055.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -353,8 +354,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbpJREFUeJwFwVtP01AAAOC+GhNe1MgLGpSyRR1j7ArdCrXd2i07nK5QurO2W13bdWUdPY4Cu8mMcVFilIhh3tiDJv4Hfp7fR7TMg2+X1wPsM9FlMbemCSmjvOUh7n1gfBy2j82yuUdJPOVbVRtBBFhictqff7+ZBJhPhpqlzb7CsevkGcpf9dRPo3YT0PtMgk1FLbmMbc1SAHHiefPZrzf4kI09dUtpGCcf3r3TKSR+97SLY4PfIK183BV3ejJ3ju2OLhEj7P24vBp2HT5BBpWtzJNFmH5+MzD/jlv/ptgEdB9xX3F1au8OD/XXhkycuOZ0PPYMVH8Zfatsz4LG7c93t/OLDyYc7dNfcN1vVCyl6Nag31T8hky4dfW06x0ZVWnjcbeU+exIM6z9OXevfd0uULvxMKQSfGYNbKfaaqWFREKBRc80HCRSK4tMeEnLRQIxN6kVBwrvS0UhFqqX6a4OnSqwkWgqgIBCXt8DqMyx8XBs6UE+smww64h6UaNjrwSGiYSQkO3oklxIqyKvVniCozYBm2WS0XTo0cq9BfL+gphcRdmImHp2QCdrQmGAj868lqMBucRAjvoPKvmSNxiPBk0AAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/059.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/059.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/059.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/059.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -366,8 +367,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxjSIuJ6G3vyEuMjve2jXI3j/cwSXA1LI1wbMsKmtmUP29i46TatLIYN297y8xQ12hPS4bc5ITulpa8uJDMUJdEH0sfYwUXHRlfQ/m2eLeF9VlzOsuL4gOC9WVDnS1DLbVCbY0YirMyelubsyK8M0NdkrwtXLWldST4XbRlSv0tC31tajOi2vJj85x1qsMdS3zMCj1NGCrycroa6tJDPbPD3ZP9bX2NlWR52NVFeYONFH11FUsjPRf0Vs1uK5nVlDe9Ia+3IJohLzWluaIsNcg1M8yjNt67JcbdW0s60kRxQppna5zr/Pqs+bUpmSEuMb5OcYFucSG+DOlxcZX52cmBrun+9sV+llHWWlHGcqlWShVe+gXOWvGORi0xbq1x7jmRPlmRPqlhIA2x+akJiQHOYVaalgqiJjJCbqoinhpiHupidooirtoKfhZaOSEuDXkJFenRkR52DFFBgbnJKUkBTraqkqoivHoS/JZyghaygibS/ObyIt4mmonh4UVZOS1leSnhThYGMgxejvqxIY4R7lam8iLqovy6EvymMgJmMgJGknzGssL2uqrzZy9asWTVjIkTOhurMhOiAG38iaY2YMeQAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/063.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/063.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/063.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/063.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -379,8 +380,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBkaXBiZGlSTUlnZ2iIi5KCg4trXEqCgn2Yl5OFazqgnJedpLlkXHGVnrabqsmOnb0AipSli5SjgYWQj5SfiY6TemRdnnxzamNii46ToaCdp668q7PKrLfQrLnXqLbVnq3OAJemwKSzzq2716izyjM0MWNJP76dlWZWUT9BQ6Osu6ewv6y2zKy406y41au516Wz0gChsdCktNKrvdtvd4YHBgI7LCaPcWg+ODMqKimDgHePinqkqLinqr+pts+nss+irsoAZm6EdnqCjYF/ODIvDQwIHhoYOzU1IB8gJCEdiYJslY5wmJGPdmpygYeSnqrBm6W8ABMSEklFQFxFOCAYExMRDiopK1ZXZCwrMB4bFqiqqL/Bt1tWSzkvKWNSTY19h4SJmQApKicpKSY3LikcGBULCgcnJyhVWGgpKCwoJiOJjZR9hZI6O0IuJSEwKilpZXd8g5YAIB4YIiAbEQ0HZE1Fc2JedWZmjnx/IyAcLCsoT09QZGZvWFpfMC0rEhINFRQQTlFVAGhxhYOPqX2Fmot/g7KquLyzvnBxciEjHT0/SJWbrFxcWz09OWp2fIqXrkZJTT9CQZkpuTuN5mpNAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/066.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/066.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/066.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/066.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -392,8 +393,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcFJREFUeJxjmNeaneBrJyUsLCMmKichZmWonRNqmxriMamv29bMWFVaQldRTl1WSl5CVEJYUJBfgKEiKVBdStxUXak3xb80zE1aXComNqK1u3PWnNkB7s4GitI6CnIaslJKUuJSIsL8fPwMzsZaajKSXqY6i4qjulODrQz1w+MSlmzZMWvx0qrc9FwXC0cdNSVJMTFBAQE+fm4uPgYdeSlVKXElCdEUN4tcX3sTdVVDA6MpS5bPWrG6tam+Idy9ys/RVV9dUUJMUlhIgI+fQUlSVFpEyM9MZ2JaYG9acJC1qbS0fPv8JZNXru3vaZ+aE9Yb65vubO6sr64A9gaDEB8vNye3m4F6U4R7ro+jtqy0nZdf744DrY1NTV5OU3PC2qK98zysaiLdrbWU1WUkGaSEBbk4eaSEhevCXVtjfI01NZKbu3u27Clxc42Tl8n3tS8KcuqI91lQElMX7RnrbMogLy7Mw8nLxcHrYagRamVgpqYU4+00uyG/zs/VV0PNVlvVQU+tLspjTmHk7IKIpnhvkA1CvALcHLwR1gZFfnZJHrZVYS4LiyOmF8VEO9ipiIqKCIl4muj0pAb0pgV62lgAAArddZlIO55vAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/068.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/068.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/068.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/068.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -405,8 +406,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwd9TmnAAAHD20NOstz1st1t31XTpNNv8Oak8vSUQUk1WKSji/EFCAgpDEL+gQLPbtM2r7nrYy27/x/61fT4Qxw+vpPFX/dowZ5o6sADo18kWATMlos2wfIef2Ddj0x1qltRTWw0O0sbzkbWwnaU9vfW8O3Pkocm3CoXP1J4xNHtcS+42beB57twCniJrkP3t0fLuwfSXad9O3KXACWjUb9XIpTEQLzm2lK2fwIpwqck9XdGAOYWAe6+ojm44Ei8IVaqNZPDoFo/Bi/bZgCIqxQ/cRV6g0W4l1+/QU+BA+QCeepFBw8invQP2Y2LGECKalJCEhMT1MtomD2UaEWuoXMfkDjPSDCjsC4dXoxtP3mTWd0X6aEJhD/bkxnTVc3x0XgAsSeVSoVfPC+8CNIFYpgVF1mLbq4HA09ehtU08nVRKuTsA+GpdONoXi/B1lzlN76TWn5HxYLdKyT0JCq6kYr6D9z7YvxJMvNz6nA7V9iIn0Y3GfsQsY3OxM3MWcrOjNBv6QEHyOagQz7LHF8UYcprEyocZZGeT2PVT2RiP54zK8ff+1e+//378/APMyRemGt32/wd8g50mA0IUOgAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/069.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/069.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/069.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/069.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -418,8 +419,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbxJREFUeJwFwd1zkgAAAHDeetrbVutux67T1WxL0WxqpDICdWokiKEChqB8GOiEbam1nB94rY1idjb7eqv3/Yn7/QBD71lHw8FgNhpdzmz30vlZeJmMbd2XSWR6KPTV8tQUTo9NuS4IDFHNxYB+3x6NHNu+Oj9fuO5fQ33nB1cD4BoS8Bq1wolSvfm3dGenzSrRKCEiCQPDoTOx5zN7bttfx5MLNPr04d0Vz+oKtHmPjvt5PHQ9PTZlTq1gahkViwjQPznrt9uGJEhUuopFsmEfBK7B3vX97Q0lE/vSkX58NFsspVRwncWaJQSwJEYrYiUkLO4H3wQf4I/B+PYGGfGRoS05A/8avl8eKZ+VYp2Kswd7BocDZ11+2K3ViWQnszcgEwTkSe1ssskgAXn4BNQr58cMNtcZjaebZULn0sDcNq6m7UM+r6fCC63YSj+jQl4m6pMSuy3Uzz/fUdCA03jdZg4s9pVVzQJvcxl3bPQUWnixu9BoMx8T4UcqGtBT4W42WoGfmLmI0yh0aPxDrTDTOAC8s26JhNWgqKD3u0pNG/REE5YX89+L/0v3j1HJfmLQb0pRzsI9nhwr3C1RYZorGAva3QAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/072.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/072.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/072.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/072.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -431,8 +432,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbJJREFUeJwFwW1zkgAAAGB+RB+66/pgeae3pktdstbaCBhzqJMtXkVARUDkTU0XDmnCNtBdrK1ud1nd9a3f2fMAtuVOpwt/voyXj0Nz2Nh9NZbqI6kxFqpdArm5WnnuhdnXx7alt9meJAKzWbRYfI1uHpK7X3Qd38k842sHlvTx3/r2z+pz5Hvz2dyQBUOsaeQef3oEBMG3KPqRJL/j+Pve62zu+RMc3Ghh5WgorsPphW0MdbnfxFQGMjhEY1EgCJLgMp67/ti0Kzv53fTTFlT4IlO3o/46cGcjW24SRgtTGVihYUvEAVtgOgTGQ4VGMY1spurbGRrcWOrSw8T4G57fOZLK1TUG0qh9q3U06RGARqPch+InvMyCGTSXIt5ka1upNlK+6jaXKvXTYrzeKXdyINTfO1LFkSrAYiJ1j9+uRDySqiSYJYrps+JLBS54DGZX3yWdaqBQukA6ImGxhwMaAcLzroiVL2n4cUAqaEmFtyw458CbJpxnwew1h3h8xSYP/fbZtcqZBAL4I55FtxUof6+TOloKWdgVqbAvT0VSRkv3vROveTwg4Njs+B0Ky734D45PnmzUM/uMAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/074.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/074.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/074.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/074.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -444,8 +445,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbFJREFUeJwFwW1zknAAAHC+Q696UVc3t3PNyzE1bE8KCuJOJgkKgpAPIH8B5SHGhueGLM5Rum517XZXb3rR9Tn7/SBreulfLMNwHd4kHeJI53B3QFsCyZZzy0UYRyvLMDzH8yxjCjTLdKEgiKNo83X95Fqf0P0trnZkDzp/H+8el9N4fhF/TqwJMIcdU8LlVsWZzqDo9j5Jfj78+DMUxezLZ/V3b+RacTWTft16c12Z+z7oURqP6QIGONQ1xlAUbZbX8SK4kZnm4fZz4RR2ubMIfPwe2IEx1tWhxlcnQnXEooaI20ob0rimVDtkkTS5n6rDqTaylwD5mwP+baIHp2/KHZWv6F0U8JirNN0RBfFYAVRgEdmpZl41cjvU29dsMbPosXeg+2TyscbKrTJHImaPsPt1p38GqS30qnn8ZUC1kV0K3mpkXnSLaY9GdRJJJHI94XS5bUgtU6gZPGaKODSiyyaR/20LgMgPS1mttDc+SY9Pdpnctk+9j/sNg6leSeeRyl2KlIjloT5dYg5S90oT4IWQOZ41Tn3hQyAzQgleiUQ8OJ/QaKjwG1vtoYV6NvUf4H6c4JbC5SwAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/076.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/076.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/076.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/076.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -457,8 +458,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAadJREFUeJwFwW1zknAAAHA+RK+68oVd9LCbc+bEacYgQGTiBEMehPhv40Hkr6g87LwojSau3eyqd93tw/b7IcEitTSZOioeFZ9SFfSSw+DoItvkcbRaf/uxyx9uogR6kySMpmPL93zkS7pzdEmmT9jTEllBNa4l09jXJAqX8ff19ufdfhXf+DYIrgXr0wegSshm8yCc1fjqK4vHZeZ0QGEyjc08O4xW+e19tslmrulqzFghfYVwR10ky/bDDiliB1ORNpg68w79TJYjo58l0Xw6S8LI1nhfpyyJcGUS6h1kDlTQJXS66fepe1cJes29IzwujcfE2lriEvqW2p1oxFgmoM6GtoDIzcNBFb1sv3fPz34HVxngf/nDv1N1ey3+g/LtRLM1Vu1gQGgtrrg54BDq9bP2QYEuFcVGWcOrLltf61xm9pw2thJaf7wB1Ps+UKDegyrlKR+R6vMn1NvCRQVV6m/EcsFsoB5ZWnRODPxYqb28M9j5kFlq5ykQUiA6PI5IdM3TuF7jOFa4fGKmjhkbUh7AxAUGfrgd0bHCBlJ7B0EKBmzpxX+ka5f2pyCeOQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/078.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/078.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/078.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/078.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -470,8 +471,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB+f4pmY2JydYCGiZx9gY95fYiJjZ1raG5XUFBkX2FXU1RqZmZdV1V1cnZtanBOST4AjZKkk5WjoKfAjJGmoqzJk5epfX+MdXaBWFJSXFZZYV1geHFucm5uhIGIa2lxWlNAAJqiuaawzau21I6TqJ2mwaStyp2js4aIlXRye39+iIB9hGtlYHRydI6NmX9/ik5GOACcpsCjrcqmsdCJjqOcpsOjrsyaor2Pk6eNjJ2KiZqJiJWEgYKHh4yLi5qDg45qZmoAnKfDoq3MqbXWipCnnKbDoqzLlp63io2ihYWVhIWVhoaUioqZioqZiIiUgYGLd3Z8AJijvqCryqey1IyTqpulwqOwzpqmu4uRoISIlIGFlIGElYODj4J+h4KAh2xkZGhdWwCRnLWdqcWksNGLkqmfq8eJiqpqW35aSWZgUWJ5cXKAfHlzaV5wXkxeSjxAKh5LNSgAcXqNh5GolqG8eHyJZWBpRyFKOww/Og08Ngw2OxU4aFBMh3hcgXFXaFRAaFJBWkU4ACUjJzEwNT09RDAwMCoTIDkMQD0RR0IXRUEVSjIGPFg5SJuPco+BZ31tU52QcoJwWHY80MgafOiKAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/080.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/080.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/080.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/080.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -483,8 +484,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZRJREFUeJwFwetv0kAAAPAaGJURRwe9Pri7vrzSu16ftMU+KFA3NubYIj7iIzEmM0ajn9TPxn/d308ouLXK6K5OujKqU8odrIMJmEhYAwRr11X8bt++aJJV6G2rrKtzYZ16+zJ81UShDcWBeCqKlq4eu+quDOqA/P3x+VBF25QufW9d8Df7tXBTxne5t3F1PBk/6p30ev3AnD1cNzt3FsDpt5eXGZSaYE6wXsUuJ1goCG59p3RRAKfgbNTvn9jTJ4kmMTBe+uRtFR4Td+W7DgTMgan/VOgYvt8si2DeRt6xSTbMXNhwm8V/vn/59/vn19vNMec+hgQDgpQqJMKWoUNXtym7qBavu6qLyGU8f3/T/Xr4+Omi2FK0wNr56JTbekJg5GhCjOQu423KE8/yzZlnIW7OdsvoKnL86TBQx7GpuUjJPINbqm8qApSlfG4wGxk6kKUzJJ9fVcmHw/N14kW2VlCjDu06dDKKmaFQCARxMBiK4kh8LI2GGEihrRYM59R4Ftg5M0JH802FYkCRTLSJq0r/AXjUR8xjxYkyAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/096.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/096.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/096.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/096.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -496,8 +497,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAZRJREFUeJwFwclum0AAAFBUsmCMCMEsNjAMgzHrDJghOCyBmFghVe2miRJFliL10vbSUz+gvfQH+st9j8l9UK/9XZONbT6UpKNxEaKFpmiypMmXS1Mf6/T1vhmrtMV+TVOmjJzxGj81aYc9YcpPuHNdFCJoIssAc21s6e+fX597epv5bRoVicccx+6xDBtXcxXxA3vCsicxst93VQbUwFD2Hf113FNTarEfOOCaLJmPRThi2IcAW6rIczNReGnXh3yVyHzmmN+OT281eUzd2yREhoo9wOxzb4isL9uq8J3N0ugDu7SUlSKa4rQtsn9//3zf9y+bhNjAAyrUZaZbatsIHO7aivgV8Q8bvI1RnwYPN+WPt8/vQ7GLbQp0RRAitCCuwcCLyRooA01u8oSGCCMrQlbmWg/1ek9XROWxJmZQRwuFBiBxdOaUZW1tVgYwckx7oSoXoqle3lfZ8dPQpT6B+lUIGoKa1C1C4Jsz5uz0jD/nphwnTDhpOrFViaD5JoZlZFfEvYph6s4TqAWWsjJkR5P+A4LIRZQR5oMCAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E10_brefJaiUnPlanCulRegulier/098.mp4",
-        "thumbnailPath": "thumbnails/S01E10_brefJaiUnPlanCulRegulier/098.png",
+        "previewPath": "S01E10_brefJaiUnPlanCulRegulier/previews/098.mp4",
+        "thumbnailPath": "S01E10_brefJaiUnPlanCulRegulier/thumbnails/098.png",
         "width": 1920
       },
       "mostReplayedScore": 5,

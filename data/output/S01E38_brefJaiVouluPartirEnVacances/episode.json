@@ -6,7 +6,7 @@
     "index": 38,
     "name": "Bref. J'ai voulu partir en vacances.",
     "slug": "brefJaiVouluPartirEnVacances",
-    "viewCount": 8588183
+    "viewCount": 8591613
   },
   "subtitles": [
     {
@@ -15,8 +15,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCOjpKQEFPQ0NVSUl0Z2SekpF4aF6DbmKhlZCGZEGUcVCrn5yjlZKdkI+ckpGSiooAbGJjd21scWZleWxri311c2tpZEdDjGpimpCNoop2rJqOtqqou7Gtu7Kxtqyrp56gAH51eZCHiZ+VlquioZeMiBsWGCUXFi0hIYyEhbSsrbavrr60ssC0ssa7u8S6urSqqwCKgoeakZWimpumnZ6ql5JZQTwAAAVUQj64no2cin6pl4y2qqO3mZefjY2bkpOsoqIAj4eLppeSsZyNrpeDinltTD4/Vz05cVFNj390yLWdtZ2CrpuOhHJuSTUybVxZk4mIAGZeYnhqZ5uQkb2xsVdTVj5ARm5VS1NEQERJUO3n2uPVv7yxsUEsJ0cvJSwcGE89OQA3MTtIQkmCfIKvp6xQTldXUVCXfGesmYU9PEDUzLnMuZ9USklYTUxRQj4PAQAwGREANzE7KSQtW1Zbm5KXR0VOQDxAim9dq5mINTI1xa6bmHVkTS4oemRfTDw6Lx4XPCwlACsmLRAMEA8MECQgJSAdIz0zNGpKP2tLQC8lJYZeU6JrXJxmW4laT3RMQ1M2LTorIcOsvQkiMZewAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/001.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/001.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/001.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/001.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -28,8 +28,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gA+NjZMQkRMQUBWS0p3amaflZRvXFGRfHKekouGXDCdfWGupaSpnJennJqglpaVjIwAa2FidGpqcWZlf3Nwh3lyZ2BgaEZAi29pnJOOqJKBsqWeua+rvrazv7W1uK+vp56fAH51eJGHiaCWlq6kpIJ4dBENECMWFjEpKaGYl7OsrbuzscC3tcCzscS7ur61tbGnpwCJgoaakpWimZqpoJ6hi4RJNTIEAwh4YFe1nImejH6olom0qKCwkpCNfHyWjo6roZ8AkIeKppaOsZyLqpN/fG5mRDc5ZEZBa09Llop9z7yjt6CFrZyRbFxWRTEsbmBcj4SDAGhfYnhqZqOZnbOoqUZFS0hGSXJXS0g/PVxeZPDp2uDSv5+UlDwoIEcwJiESDU05NAA3MTlOSE6Nhoynn6RBQkxlW1edgWujkYBFREjh18C1ootBNzdmXFtENjMZCgc3HxcANS86KCQsaGNolIyROjpDSUJDkHRhmIl8PTk6yayXhmFTWTkyfGJdQzAtNSQbOCwlACgjKg0KDRENESYhJBwaH0c5OG1JP2NDOi8kJI1jVqZvX51pXY1cUn1USVo7M0MvJd7OvKvw+my9AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/002.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/002.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/002.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/002.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -41,8 +41,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAX5JREFUeJwV0NtumzAAAFAUgmkDARIuNgbb2JhrAS2kLblAsiTttEXaQ6U+7Gna/3/F1A84L0ex3HxhEQc2Lt4EZI/4CYtDSFrHZR7KomQTsj4gL4ZNVVXX5g+K6QjDpj7ZwWRC/BzJG076tcfcIA1wheInIp5p9csJalWZAe1RUVXdsGLEzzi9RsU9lpco6T0o1z5HpPkC2THp/vh0rwFT0wzFtALLFTCZsLxheV3DEkY1L46imvJvP1m+D8VR9P+guOgL/3EZKabtO34J+QnxI0mHlcd8JHk5lv29fv0IaYv5XvR/w/QGgAG0hWI6ZIUaJL4j9pqUI5UvmLYs24nqlOSHWGwx63j3iYu7DkygPSi2V6xgg8WI4pqkz2lz5dXEi0PW/Ujrc1KOohp5+xvnd123vpZ0fWn7FWIDiivMOtm+i2qicpDtG8uGKNmwbKDlDcs3AMz5DCjzGVjBzos2HpIwrkV94dVE0i3NhlhsUVyH5AmnU0B2ACznKvgPFhY3EJ/7U3sAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/004.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/004.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/004.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/004.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -54,8 +54,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCPiYyclZWZjoufk42jl5Cjl5ByZmBsWlKOfHNvXz6GeGmZjIeGZ0t1US2CcGd4bWsAkYmKjoeFm46JhHdzjYB8Y1pXMBwYYjgxmnt3d2dGhHVjnI6Ji3Neg189mIJzkIOAAKymrJqTk42Cf4R4dYN2cmZWUlI2MHROSZd4eX1pST00JiooKzQqIjsqGkhAP09ISgC9uL+9t72tpaCelJB4bmxkS0ZyTEVqS0qGaGhoVkMfGxUJCQsPERIQEhcTERcUExYAvrrCwbzDsKmqXVNTJB4gOyckbEhAck5LfF9dTEFDGxkaERAQFRUVFhUWGhcbGxgbAL25w8jEzGNbXhUNERoUFx8XGTEhIEUxMTUoKhsWGRMSExERERQUExMSExMTFBAQEADBv8mcmKEiGhwYEhYTDhATDRAUDhEaFBcWEBMSDhASEhISEhIVFBUZGBkdGx0fHiEApqKpVU5SIBgZGhUXDgoMFxIXHRYYHBUZKiQnLSkqDg4OMjI3VVVfWFhiWlljOjhBAEI5NzsyL0Q5NkM6Nx8ZGx8ZHR8YGhcQFGZeX0E9PBMSE0tGTV5eaUdHUDk4QCEfJHbFgXyNujpEAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/006.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/006.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/006.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/006.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -67,8 +67,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbtJREFUeJxjqC4qWThz5oye9pndzXP72+ZP7MiJCU33dZ5SV1abE5gb4zyptaElJyLHz7Qk2qM0M42hqbJqQkfrlPamjqqSpuK8lKhQY3nJbHuTJc11vVWJ2VG2U9qbukuS68KNu7L8OmurGCZ29Gxava6rvrKztqKpJD8rIjjKxizdw7U9M7M6M0FRRlJPU8tEW8NCVdTZ3MDTyYVhQnvXycMnNi5fsnTmxMK0lGgX+1I/t5IAn5kVxZkxUcwsbLy8vHx8AoJCYkKCYkL8IgxtdY2Xzl1ZtWhxoJursoycgYJckqNlhptjQWCAlaExNw+PMBiIiohIiElIiEkwtNU3Htl/1M3OQVxASFpUXEZEXEtWxkVf19fKSkZSio+PTxAGBAQF+Pj4GCoLi8IDQ0V5+WXFJIV4+YW4+YS4+ZVl5PTVtcRERPn4+YQEBUVFRSXFJeRk5eXllRi8rSx0lJSVpWWFePi52TmF+IWkhMUMNXWMNLWFBYXExcVdXLyDg2Oio5JDQ2IszGwYzLQ1rQx0nS1M1eUVeDm4ZcWlxASFjTW1fa0sJMXFVZVV4iKTgkNiXJy9jQzN5eUUAT97d1SS8nuxAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/007.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/007.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/007.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/007.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -80,8 +80,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCIZ02IdWkoISAmHBkpHxwjGRYlGxdjWlqWiorIwbvSzMjGv7rCubGRiIAWEBEOCgsAl3FVm4Z5LiYhQyohcUk+MCIaJx0XZFpal4yMy8S+2tbR0svG1czEmYh9HxYUFA8OAKJ5W6iSgywkH0orIZNdTzMiGSUaFGRZWZiMjbuxpLSkkcS8tayimpqIfVJBOxwRDwCnfF6pk4VGPTlbTUeIbGJaTkUtIRuMhoi1r7TOxcKKh35aYFielI2uppqAal9FJB0ApHpcrZiKXllcamRma2RnamFiNywpbFhSs6Gi09HRycfDuLWyv7itfnhkc2NZXzcvAJpxVLShlWJfZVFITGJbXmJbX0A3NWhWUYx7ecC6tt3Z1t7Z15iMhZSDeJCGgFA1LQCSbVKpinlqW1xHQUZaU1dcVVlHQUJwaWiFfH3AubXa2NXSzsvFvrnAtq60qIhuXUwAeVxIiW9lcldQSERIYVldY1xgPTMxXFBNh3x9wLq219PQ0czJzMbCvratraKVk4Z8AFtDNVlUWFNJSDw1Ol9ZXHhxc05EQFFHRH91db64tdnW08vGw7+4tKyjnZmPiIh9dTq6yD1cYmK/AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/009.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/009.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/009.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -93,8 +93,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCIZ02IdWkoISAmHBkpHxwjGRYlGxdjWlqWiorIwbvSzMjGv7rCubGRiIAWEBEOCgsAl3FVm4Z5LiYhQyohcUk+MCIaJx0XZFpal4yMy8S+2tbR0svG1czEmYh9HxYUFA8OAKJ5W6iSgywkH0orIZNdTzMiGSUaFGRZWZiMjbuxpLSkkcS8tayimpqIfVJBOxwRDwCnfF6pk4VGPTlbTUeIbGJaTkUtIRuMhoi1r7TOxcKKh35aYFielI2uppqAal9FJB0ApHpcrZiKXllcamRma2RnamFiNywpbFhSs6Gi09HRycfDuLWyv7itfnhkc2NZXzcvAJpxVLShlWJfZVFITGJbXmJbX0A3NWhWUYx7ecC6tt3Z1t7Z15iMhZSDeJCGgFA1LQCSbVKpinlqW1xHQUZaU1dcVVlHQUJwaWiFfH3AubXa2NXSzsvFvrnAtq60qIhuXUwAeVxIiW9lcldQSERIYVldY1xgPTMxXFBNh3x9wLq219PQ0czJzMbCvratraKVk4Z8AFtDNVlUWFNJSDw1Ol9ZXHhxc05EQFFHRH91db64tdnW08vGw7+4tKyjnZmPiIh9dTq6yD1cYmK/AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/009.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/009.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/009.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/009.png",
         "width": 1920
       },
       "mostReplayedScore": 5,
@@ -106,8 +106,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAOCgsRDAsUDgx0bXC4tbewr62opaifnaGqqKazrayknp/CwcEuJygDAAAfGhtOR0YACQUGIRgYNCQgdmdmp6GhnJWTl4+OqqOii4WDhW9pdFZPmJSTU0pKIxwbKSIjU0tMAD4sKGhRSzclIGNAOoBmYXxpYnxnX4FsZY1+en9samZKRmJWV3RhXGxaVVNEQT00NQBoVFFoUUwhFxc6JSJZPzdFOTZUQz5rVU2mnaGllJSJbWiwqrFxYF1aRT1cSEM6NDEAZFJdfm5wOC4tKB0cQzc3PDAwOSckNickblBJg25rhm5rlXp1Z01GVkE6QjMuPT02AFVDTWBPU3txcoKAiYGAi4Ftbn9nYz45QVdSX2BidFdXaFZOWFVNWFROVEE8NDw6MwAjFhVTRkqWlJ+hoq2DfYJoYGSgoKddXmonLEEsLT8uKzcmJzEdICw1OEVBPzc5NS0AXlVZiIWOl5WfX1lgYlNRYVZUf3R0eHF0SEhVR0FIOjEyLCMmIh4pLyYqKx4ZIxsXAHx1e2xmbFxUVikgIWReYNjY2LOnpMm+u9vd3J6BhJZtcoV/fmRfWXVrZ1JAOz4tKkPKm5RDs31jAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/011.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/011.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/011.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/011.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -119,8 +119,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBrZGZqY2SWj5SelpiimZqnnp+JgYFoXVyDdnR+cmaJf36MgHuIc2KQh4VvYmpFOEIAXVdZeHF0m5OWmZKUjYaIlYyPQjw9SzErnXRmc2RLkIeGj3prf148oZWQdmt0RzhHAHNtcYmDh5uWm4iChpONk4+EiGhMRnhVTJlwYnpoTGtmaWtcUXBTNI+FhJOKjI+DhACFgomLhouwrLK/u8TKxtnGwNF5WlJ4T0KKa2JdU0YiISclJi4uLTMzMzo8O0JCP0QAhIOKh4OIsK2zxL3HxcLWxcHWkIOIbllWx73Ccm5xHBwjKCkxJygxKCgvIyEnGRcbAIaGjoeEi4h0c6B3aquYn5ydrKCgq7CrvMC6y21qcBYXHysrMywtNS8vNyAgJiMfIgBaVVhZVVdSQT+JW0umjIuPlapzeImRjJOdi4QyKy5DR1Ftc4BlanZYU149PUcpIyMAKSUlMjAyRj49eldLi2xlgW5yc2FhoYZ9mIF1JyctSktVU1diQkVOJiQrFRMXExETABoXGSYkKDs4PFxIQ1M+PVVBQFA9N0k0LzkqKTI0PDIyOi8vNi0tNB4eIyglKDczNbyWquZij8WeAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/013.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/013.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/013.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/013.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -132,8 +132,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBlX2BuaGqYkZWclZelm56dlphdT01+X1iUhX95bmCLgoOLe3CIcmCTiolgU15LQEoAWVRWgXp+l5CTmJCTjoWIfnR2XkI7o3Fkpo6Ca2BJmY6OinNfhWZIp5uWbV9qWElWAHZxdY6JjZmUmYZ/g5KNlIx8fYhgVZVsYJB8c2VbQ2BbX1tMQGlSO4J7fYyEho+GiACEgYeQio+yrrS+ucLNyd62rb1kR0CifXC8rKVSSkAcHCMjJS4pLDQtLjUyMjgvLjIAhIKJjIiOsq62wrrDwrvOv7zTe2dmk3Rr2tHdd3V8GBgfKSkxJyguKCguHh0jIB0gAIKCi4iDiXtmY5JtYrWVjpSKkIxvZoR1f5iNm01HTB8gKDAxOTEyOjQ0PCQkKiwnKQBRTE5STU9MOzl4V06HYlWKaWBvXmCSi5Cum44lICRSV2J2fYtscn9TTVgvLTYnICEAJyMlMC0uVE5QkH16e1lQh21nd2Znm4J6dGFaLC00RUZPRUdRMzU8Hx0jFxUYFxUXABoXGSMhJUA9Q2RaWltLTGZWVmNRT0s+Py8qLjIzOzMzOzEyOS0tNBsbIDEuMUA7PKraqPNck/6sAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/017.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/017.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/017.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/017.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -145,8 +145,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBXUVN2b3SWkJSclZihmp2Uj5FOQ0J4WlSOfXRwZVKSiYmFblqDaFCUi4lSRlRMQUwAWlVYh4GFjIaKhX6BfXZ5cGZnTDUwm21hoYZ3cGZRi4GBemRThGpTopeVe251dGduAH14fZSOk6ejqJeQla+rt5GAhYJcUYtjWoVuY2NZRDY0Oy8tMUA6OlFOVGRfY2tlZwB/fIORjJK5t7/JxtPMyeC2rb1dQDh/XFSqnpxRR0QhISgnKTEoKzUnKTAiIikaGR4Ag4OLko2Tr6Onv7bFurjQt7TEj4OIo5qk2NXgVFBTGxwjIyMqIiIqJCUsHR0iIh8iAHBuc3FtcYBfV6mFfJWSoJaaq6Oks6CaqrKho0hCQy8yPFRYYlRXYk5MVjMzPCklJgA6NDQ5NzhdSkenhHiJhJCGiJp9fIi0pp6HamAtKS1TVV9uc4BaX2o+OkMlJCsgGxwAIBwfMC8zQzo7dFRNcFpab1VWmnVtr5CFZVdUKisyOTlBNTY+Ly82GhofHBkcHxweABgWFiIfJCsmLT0wLjYxNDo0Nk85NkIvLjIvMzI0OzM0Oy0tNSoqMSMiKUZESFpVV43ZpS+HoIGxAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/020.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/020.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/020.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/020.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -158,8 +158,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAY5JREFUeJwdxm1vmkAAwHG++V70zbIla7J0T0kz17QWrKkz2kyYPTlBeea48+AQ8RCKB6aZdh9hWZN/fvlLZxe9d5ejC1n/PvavNXwzxbeAyoAqMOnNWXdKuoBeTdDX++WHK/XNeVc6v3n8NnSvH+mtnsiQyTBRjFSGrL/Mf3rl4LW+zRUj76jkozKXJm5hrGodlwbdm/EekgqScr6qIXlyN88BPwXbo5//CfnRzZ6Bz6UoqSI70NUZ1OBsMgO/AJgAc2pYuoVsRDwcOQhZYUbWNa+r3V6im7ZYrVOfZmHMXJL6lHmEuTgNaGJHsY12cS7Wu5rxelNVhZAiVj9VLeeiKAQvGs5FWR6EOAlxbJrTfn9s25e2fTkc/jbtKWdc8vDWt3wIzDlYQLAAGnQWPo3YCiUkjHEQ44CSkFLMPAd5NpJ6WjgEeGwmUy/X3Ex11q/+H9VZ//Y2qptN7PTBTPpaoDxY0tnn+/cd9cvA7qj4brkdBvUwqEdIjKNmhMQwqAdupRj5D3X16c58ezn+BzkwUxhWdFH8AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/022.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/022.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/022.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/022.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -171,8 +171,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBeVl5yanGYkJSBh5xHYY5Sa5hcc55kfadrgql1jLF7kLKBlbaEl7aBlLKAj6uPlKYATVVyX19zpJudm6Cxa4CoaH2laIGtdHuUrYFwfX6Rh5/Ei5/BjqPFlKjIm6vEoKm7AFNkh296l4iQqYqJkIF8eIKUsnWSun96h7l4WpmRmpWszaizyLXB0r7I1cHBxsTGywBiaHVsgaV4jK14eYhzcXeUorqPo79nYG2GVECwn6PDx8y/w8zCyNLS193M0tq+x9MAaF5Vfnh/jGFdoGJdkH+EoJufeF16TS9KhVthiVuDmn+iyc3QzNLWwsPGysnKx8rPAKGAZsClibqdhLWXf8OnjJd2bFcySXFCa3lNendQgH9Qf5B7d6OXiKupnaKjmJiXjQC9n4bBq5K2iHrDi3yikXyBU0ZlQkVXLUt6UX12THlzTmy2mYi8noXErprEsZ2nlYIAwKiPyrOYy6qQ0KmPu6SLjm9agV9iYD9ne013d06BkWVto35np4NuxaeMvKCGsJV/AK2Xgr2ljdC7n9nEpt/GqN/Gpn9haFg3WnBDZnNEbp5/e6KGb7eeh8aulLKbhZ+HdE3T8tg+P1aEAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/026.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/026.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/026.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/026.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -184,8 +184,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBpX16EfX2YkpKlnp2up6WyrKm1r625sq+rpKFkVlNjWlmsqaq4tLetqKqgm52QjI4AhH19lIuJoZeRppyWraOfsaeisKWfvre1nYuGTzQuTjw6j3t4dnBxvLe5rqqrl5GTAIuAfIZzX4x2XIZwV496ZZaBaY94XZuLfKydlYJcU2hEPI5vZUI4OVlTVqqjpJuVlgCzn4e0oYm5q5SXhnOYhnKciXOYhnKWhXWlmY9TREFMOjh0amwlHyEgGh2HgIGelZcA2Mu35d3M49nE3tXE3Nrb1tXav7u+nJOSV1BQDAgJeXV5kYySEw0PHBYZSj8+gXZ1ANLItd/XxdvRvNPHrtnV087S2q6dnl4pKRAJDAkJCnNtboJ7fBUQEhkTFUEyLnVrbAC2pozSx67QxKvJvKHT0M/Ew8qSjY9pLTBuPzw4LSpUT1BmXl8VEBEaFRc+LipgT0gAmodxtKSLwbKWo5N9kY6SW1hhKycvGBYaNSosLiEhEQ4QEw8RDgkJFA8RKSIhNicgAG9bTXtpWVpQSy4oMCUgLBcTHhYTHBENEhYUHCYlNhIPFRYVHSYqOyEhKigiHjw2LwZEvpki3NljAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/029.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/029.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/029.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/029.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -197,8 +197,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB3bm6JgYGYj46kmpispKKxqaa0qqa6s7Cch393UEZSPzx+b22RjIyyrKygmpuPiYsAf3V0hXRmkHtnkHxpmId5nIp4nIhzsqadqJeQelFGgFtShWlhQTk7gXt8raemlo2NAJ6MeKGMcqSQd4VuVox0WpZ+Y3ZhTXxrXWVcVzIhHlg9NnppZy0nKSQeIZGKip6VlADTxK3i2MXh18TQx7nNx8VzbGotKS5MRkkrJSUHBQVpZGmVjpobFhkhGx9kWlqNgoAA3tbH5N3N3dK/6N7MyMfKIB0hIBgaMSorDgsNFRESbmtwkoyRLCYnGxcaQTY1e3BvAMa4n9nQutHGrdnPusC+wWlmalVOTxcSEhEPEBAPEVhUVkU/QCokJRoWGTsvLXFkYAC4p47JvKPJuZvCtZ+Yl5tlYmhLSE0cGBpDNDB7XlVENTMNCQwWEBIZFBY3KCZDLiUAppR9qJd/bF9VRT1DMi05FBEaAwQKLSIihGJaUUBAJCMoISAmGRccFA8RMzEsPDUuAFtJPk1CPhYTGyIeKTYvRj85UjEtQDEnMCwlLRwdLRkZJCgtPEBPbR0gLDEjG046Loqbpj27uw/iAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/031.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/031.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/031.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/031.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -210,8 +210,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBtY2KFfHyakZCnnpywpqS0q6i2rqq7sa2lmpZWRkJgVlSsp6e2r7CwqamgmpyRjI0Ahn19lIqGn5OLpJePqp6asKWeraCXvbe0m4V+TDApW0ZClYB6amNjuLGxrqinl5CRAI6CfIh0X453XIVtU413X5J8Y4tzWJWDcqyakYBbUWZEOoxvZTwyNE1HSqifn5yTkwC5po27qI/BsZufjnudinmjkH6ejHqainykl49PQj9OPj12bXAgGh4hGx6DenubkZAA2Mu25d3M49jD4NXD397f19jfwLvBm5GSUUtLCwYIfHl9jYmPEQwOGxYZRzk2fHBtAM/Dr97VwtrQu9HEq9XSz8zQ2Kydn2MqKBcNDgwKC2xoaYF5eRUQEhgTFkQyLXRpaQCzoojQxa7QxKvJu5/Sz8/BwcmNio1iLC9wQz1DMi9GQUJcVFUVEBIZFBg7KihbRz8AlIFtqpqEvq6Tmop2g4CFTk1WIyEqFhccLSYpJRscDQkKDQkKDQkIEw8QJyEgMyYhAGdVSm1cUFBHRCslLyMgLxkXJBcWHw8NEBUSGSwqPxUUGxsaJC41SiUmMycgHD42LtPVu/gO2dEjAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/032.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/032.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/032.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/032.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -223,8 +223,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gChkYC5rJvBtqOlmYyrn5Wsn5Osn5RxZ2IMCAkjHh5/cnZRSlAKBQc5NDd/d3Z4cXIAyMC018/A3NK/5N3O5+ju0dLaxMPMZWBkBAACGxkbpqOvV1JaCwcHJyIjRzcya2BgAMa6ptjPu9jOudbPwNbW2769xKmkqE9ISh0UFS8oKXt2fmNcYhYQEiYfIkUzLHNpawDAsZjQxKvTxqrY0L/S0tmtq7F4cnUvJyd9XldXQ0AYExYhGhwaFBcdFxlGMClfS0QAx7icq5l/fnBieXFwZmRpLCgsEg8REw4PJBwlGBMbEw8RDAkKCQQFHRUWPTUwOywnAId1YmZWSiwlLSchNzIrQzArPywmNBYSFi0pPkE7WCEdKR8hLjE7VRkYJTYwJlJGNwAvIiAeGRwmICgsJTM4Mkc7NU45M0woIzEuKTUwKkAeGiY8Rl5dd6gsNEpTNy54VkoAGRUVGRUZHxkiGxccHhoeFRIbHhkkIx8pJyMwIx8oKSc4OUJcQE91QE5xUVd0VVZyABMOERgTGhIOFBIQERYTGSchMiokNDs0TUM9WzAqN0dEYC8wRSkuQy00TikzUSw5W6psiRyU7tnaAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/034.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/034.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/034.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/034.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -236,8 +236,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAYBJREFUeJwtx9tumzAAgGHef9OupklbNXVStFZrk65haQgQG2xjjDkZN2kCKYFwctYu7TNMnSZ9F/+vfRwZusmmZjBbxha5B+zB4RvIN6YnId/YdGVh6SUl4rluBd/HpvbDiLarHbERthGxkWNAOAfekrgLiEzHhx5z/dgLOWLYQpOLsTb3H7vDUTi+cAPhsNjGoY2Fy1JIU0Az6AvEBaSJiUILpYBqy7RRw5+ufWqb31333HXPbfvUdW9bV6quVV0Nh1o1h2NdqUOtNJB1fX9ar0spCyG2Msv/hyz6/qTU6zC8KPWihtehP+3LQQNJ8yC3GBDq+q7tYkDAAoIFxIAEhMcsiVkcEB7SiOEAA6LptKSydsKcpHuaVZ7YQ5670Q7FOxQ/Qr5xwsKNCifMl2yj27F2dsvPDXlFywmrJqz+GTZ60v8zTKN2lh1vo/aXUGO/unCKT9dUe/d19uGb8eXGH1n3l3B9hfO7TM3l8U2m7oSahu2EViNz9fnGf38+/wtk6FTDvIJmLQAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/037.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/037.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/037.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/037.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -249,8 +249,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gB4b26GfHqKgYGgl5aooJ2wp6W0q6m4sK57bGhSQT97cnGejo2zq6qln56dl5iRjY8AlYuGlYyLjIB5lYNymIV1l4d5pJeNnYt9a0pCMCIhUT07NywuYllacmdmkoyMpJ6eAMu8psa5qKCMdJuIbYp0WYVuU5uCZ5d/YYNfT1c4MlpAOysjJioiJ2VYWY2FhZyUlADl2cbFtaGXgHW6m5DZx7iplolqW1JaTURXSEJALi0kHR8uJiowKC09MjReUU2LgYAAhHltNS80Ujs+iF1VlXx3Y1NSEw0RCgUKEAsPHhkcJyAiGxUXFRASIBodJBkYNCUhACIeISYhKyMdISkfHxgSHBYRHk1JT2xoajgyMxIOED41NSIbHA4LDRgTFhoSFCAQDAAtJjImIS0eGyAfHCEWExoUDxk7OT+JholLRkcIBgcRDw89MjQeFxodFxokHSEzIx0AHxsjHBkgGRUZJiIwIh4sFRIbDw0RFQ0LGQ4NCggJBgYHNSwuLiYnGxUZJx8kOS0pABgVHBMREh8bJSwmOC0oOhsYJBcTGSAaHyMhKx8hLhcYIhMSGBoaJBYXHxkVGS8kItmBfL/vkHnwAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/038.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/038.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/038.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/038.png",
         "width": 1920
       },
       "mostReplayedScore": 1,
@@ -262,11 +262,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBCOTpsXFqBdXOilZKmkpC5op+6rKexo6Ghj4yhjIdXTEpCNjKFe3y6s7Oup6aknJwANiIlUjY4c1tYhXdyZ1VSsqalkIiIQDc4fVNNhmBac2tuW1BNc2pqwLi4vLW0raamADwmISgTD0o1LkUyLT4vKi0kIhsVFyQbG1w8NVVFRZ+bnZqSkYuDg721tczEw721tAA+KiEsHBUfDwkZDAljUksnISEUDhA3MC9iWFgLCQpPR0xrY2tYUVl9dn1+dXmFfH0Ah3l0YlFJHQ8MEgQAOywoHxobFQ8RJR8gNjAyLCAgHhcZeHSGmpiwg4CTcm18X1llAM3Hx9TPz6qlpXRsalNIRh8bHR8aHE1HR2ZgYYByek1HTCcjJ5qWp6ilvJiWrY2KngDAubnY09Pt6+38/v/e2NO+tq7UzMLl3tT+9+xwdH0hJjkQEBdJOznSt661p6eXjZgAurS20cvL3tfS1ce5xauWzbWe3s66xK6X072ihnhvKic0JyY4LCUxl3pyzKeVs4t+AKiclbmtosCsmcKpkrichbugh9C9qbqgh6+Qdd3PvtfQyJWOlT05QykmMlBLVXhgYGoBxkMBZduwAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/041.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/041.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/041.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/041.png",
         "width": 1920
       },
-      "mostReplayedScore": 2,
+      "mostReplayedScore": 1,
       "start": 41
     },
     {
@@ -275,8 +275,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCPi4igm5iyrqy+uLW0rafHwr+/uLSyqqeBc3CCbGaYi4exp6KonJedkpBvYUteUT4AqKWivbm2ysXCrqijuLGuuri3saqojIKALSAgOSwrYVNQfG9tpJiSrqOifnFZZFc/ALy5uM/Ny8vFv7iyqsbDwsG+vKWfmpyVlGFCP1o+Ok5AQDctMUtBRHJpa3poW2BEOgDIxsTW1NHb2tfd3NrY19TRz83CvrvCvbp/b2xHMS4xKSs4LzM4LjNFPkCTh4SDc3AAzcvJ2tnW3t7d3Nzc1tbW09LRzsnDy8S8xL25OjU2HxkcMiouNCsvTEJGnZSRmo2FAMzLydra2d7c2t7b1tvX0N7YyeLXv+vew5WMgRsVGCMdHyYgIiUfIS0kKGhdXZiGeQDGxsTNxLfXyLLazLbRwqrm2cDe1L9za2QYExYXFBYaFhgQDg8XExUoISQ+NjmTi44AqZ+WqZaCuaqWybihuqaOkYJySUI+CgcKEA4PEQ8QHhocJiAjHRgaJB8hKSMlYFldAEg/PjAqNjMtOlJIS1ZKRBINEAYEByAdHzgyMAgHByIdHzMqLigiJSIdICEbHjkzNXuEzFtcJSr0AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/042.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/042.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/042.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/042.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -288,8 +288,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCel5W1sa96cG1tXltwY2BzaGVSR0NUSUZ7cHB4bm+zra3h4N3PzcvAvbutq6mcmZcAsK2rysfEmpGOjIF+gHRxXVBNSjEpXT00XE1JgHZ4urSz6Ojl397c3NrYxsTCpJ+dALe0sdPRzaGYlp6WlJqSkVtMSH9VS6NwZVlFP352eL24t+rq59HQzri6uKempIV7ewC1rqjW1NGknZqim5iqpKGGfHl5VEqXZ1x9bGl/eHu+urjv7+yOlZBDVE94gX++ubcAwru019XSp6CdqKGeg358cmhng1xTe1lRfnd3hH1/wL287Ozpu7y6oKKgv7++v723ANbTz9HPzK+opX13dTAqLDMrLkM2NzkvMkI8QLKvstDOzefn4+fm4+fl4t3b2bGtqgDW1NHLyMappKFVTk8xKSw/NzhRSC9SSDQ4LiKOi47f3dzk5OHf3tza2dfRz855bWcAxsTCwr+8i4aEPTQ2MCksNS0uWlE8WVA5OjEiKyIgvLaz6uro3d3a1tXSxsTCko+NALKwrqekooiAfotoXj40NC8pLGNdWV1ZV0ZFR0MyL7iwrOPj4dHPzcPBv6+trKCenQpg9bhWFT9GAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/043.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/043.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/043.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/043.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -301,8 +301,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCKg4CYkIynn5qKf3tuYFxLOzVTQTx0Z2R6b218cnJ3bG2po6Lb2tfEwsCwrq2fm5kAnZaSrqahurOtqqKgbF5ZcElAiFtQVkU+fnRzf3Z2e3Fysayr5+fk29nX0c/Mt7OyAK2mormzrsC7tbGqpndoY5FhV7aAdG5RSXhwcIJ5eXxzdbOtrezs6dPS0LGysJ2dnAC1r6u9uLPDvrmxqqiWjoqHY1qlb2OVf3mFfn+DeXl/dnizr6/29PKeo55DU05ibWsAuLKuv7m0xsG8sqyolI+NjW5oi19WeGtof3l4h318e3J0tLCw8PDtw8TBoqSjsLCvALawrcC7tsXAu2ZeXzkxNEM3OUU6PjgwNj01OHRtbZ6Zm8jExOjn5efm4+bk4tPRzgCsp6TDvrqemZc3LjM8NDtQRjhaUDVfUzlJPixnYmXl5eng4OHl5OHh4N7W1dPEwsAAnpiWtK+rZl9hMSgtNi4zU0k8ZFo/WlM8UEk6SkRHs6+yxsC+6Ojm29rXzMrItrOzAI+KiY+Jhj41ODMsMDMrME9HSnFrZ15dXU1MTk9DQnxkYK6hnd/f3cfFw7WzsaKfnz2D7//YZ6juAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/045.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/045.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/045.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/045.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -314,8 +314,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gCCeneEe3hUR0VNQUB/dXbJw8K9tbOyqKV/dHJ+aGKPgHyroJumm5abkI5sX0pbTjwAkImEm5OQdWllWUA9ioGCtrOzqqOik4qINScmNikpWkxJdmponZGNq6Cee21XXlI7AKCZlKmhnnVqakk4NYh/f8XBwaaem6Sfn21QTF5AO1FDQTcuMkY8QGdeYHRiWV1BOgCrpaCtp6RoW1lVPTeckZDb2NnBvbvAu7qMgH9LNTI0Kiw2LjI7MDZBODuMgH2EdXMAqaSfrKakXVRVUEBBopaY2NfXzsjCysO5z8jCTEZHGhQXMiouNCsvRTs/lIuKmIqCAKahnaqlpX5zbpuTjbGoouDZyuXZwuvdxKGXiSEcHSEbHSYgIiUgISwjKF5SVZiFegCalJC9saPYyLDh0rrVxazk1r3c0b10bGUYFBcWFBUYFhcSDxAUERInICM3LzSNhooAjH51oY99raCPwLGbuaSOgXJkQjo4CgcIEg8PDw0OHRkbKSMlIBsdJR8iKCEkWlJWAEI5OyokNC0nOE9DSVFFQQ8LDQYFByYlKkdCRQ0MDR8bHTEpLigiJiMeISEbHjkyNL+VsZUSvBJ5AAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/047.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/047.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/047.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/047.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -327,8 +327,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAaFJREFUeJw1z2tP01AcgPF+WmN8ZTRBXuhCEI04NxAo7bRjY4FpyCKi2xypysVtbisb1JX1fj09/3NO1yofwWBi8nv/5OEO3u3Lx+2xMjD1aeBZunrROjronZ+0DhuSKOYeLRq6Nruedn+cfvr4obZT5k6/y9fTqzBwAaJ5ys5O5E6rMR71CY5qO5Wnj58EvovjKHCdiTIsCwKnqZMo9ICg3ynpDgfru/uMQo3fMPXpXrX6LLeEUWCYs1f8+uLyUjGf5xxbJwRRiqe9Y4nP5QsLlqltrq0apr5XqbxYXiGAxlcXd+7fu/vwwbevMud7FmVAafylLta3c5ejjqIMhLWC73u7UrnwfBVFPsaRY5u2of9SLznftRgDRpExOQtMlUHMEpKl85ubTBJKr18WYxQAxAgFYeDJnTZn6BoAShKa/cnSbM4SkvyTZkzaLvHFDYxCgMj3HdexGu/r3KDfdRwL4HbjNvXfPGVv+dKbLRHHIcaRbZtjZdRuNrnPR4f93rmmqZ7nxHEIgAiJKcWUQWlTLAuS7zmmMRv+7LebzVq1+hfF/1B52uTx8AAAAABJRU5ErkJggg==",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/053.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/053.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/053.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/053.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -340,11 +340,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbVJREFUeJwFwVtv0lAAAOD+Ph98MfpmYmL2MKKoZAYfiCGL8UXnZT5oFsKyOawLw1U7Cra00EJp6eXAaelZTy+0hYHQsZn5C/w+4vFmPr+1nc3kNzdyTzIvctlCLlt4/qz44W3p29czWbS985WhBiyjnZ4I+6UacfvW3Xt37mc2cltPX74qvi/vVRlaBnqEnTQObjy0NAfYHPiSMOKaOkP3iYcPHr3e3q0c0AILDDUcwzmyF0MjUrqIZVS15wRu6rsraIYiP1R6mKhVealtKz1XEmyBBZIAedY8KJ9++XR0RkmSABw4HRmhA6fYWQJtQpCVxslxq/5LFgUoi0hXPK6pk0f1NgegGWFnMfHXF8m/WXwT4ktoJsQx2aRqHZrq8qzZ+m22WyOt7yF7gVEa4nUSXifh3zi8joIr302BHhF7n0my0qCpbocfyaJjKCE0p9ZwhqwFRssJTuNgnYRXkX+J7HlfQsTuu/L3CtOoqx3ekiWkdjHQY2s4HcOZ68wD/CfyV5G/Oh9fDGTE/BSJYuHNx53y4T5F/ehwTUNqW6rsAS2yQOTAGNmJAydAw5Jg0jXusFT9DwT6QxhJE9rTAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/056.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/056.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/056.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/056.png",
         "width": 1920
       },
-      "mostReplayedScore": 4,
+      "mostReplayedScore": 3,
       "start": 56
     },
     {
@@ -353,8 +353,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAb1JREFUeJwFwdlP03AAAOD+kz7og4kmJIYYjSaEiA+MjBGnwhYF1OEOOs5uLAwcrMIOymRjbem6bj3W+9eLtbQbWdRXvg96/Oj51LNXr6dn382Elxbim8lcAUFZRveH/y3dF/rgokJm04eNeq9ydoPsotDTJy/C8ytbmWIDozXZN/UxTUpYjTw5qu9lj1KJ3M/vyHI0cV6+HnBurUJDcLrI0KbAuVeXvcP8eSqx/2lpbX4uGgnFV2OZjfWdAlKuV5qSACxw3+0A6Nvq9vpXOBpZWwzF3s9GIgvxD+Ev8c+Jg/2TRh3XZGvsT+6DiW14hupJggtNT71983JuMRRb+fgDTh2UfzW6lGKC0d3w78j7Z2i3AiuLgir0Za6naLIPhUOx7GYRq3fZnqOIPlBHqnTHMTqF87WzJtlmXMe/tT1lADoEL3I2hJ62SULrUIC4lvHW4AaXKFzc2zqGUzms2r7CCFUyBVbRFQcobq+jQOmNPLKLoqdtitQYCvB9q9Vg0NIlhXOqZA+dwHWCwJs4ZsD3AVYloPhyMpMsbMPH5VLzokq3/nAsYwDFt42xbfi24RuaJ/JWhxCqv5v5ndIDyNRE3EY1R4IAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/057.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/057.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/057.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/057.png",
         "width": 1920
       },
       "mostReplayedScore": 4,
@@ -366,11 +366,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gAoFxcaFxkSFRUiFhdOCg19DBDPmpK1opq1b2uaFBeNAgd/Cw5vCQw8BQc4DA1LBwoALxgYDg4PExcZVRoddQAA1Wpnwbevi4J+y5aR3JSOuT0+rAsRkAsPRQ0PchAUWQYKADweGwAHCDIWGHYIDKwgI+K9spyXkaB+fNp4edp2eOCwqMExM2wECIMaHaINEXEJDQAqFxgNExRkFhiHAALjjYaxrKSLf3zRhYTfjIvaf4DakYyYCQ9hFBa9FhurDBGHCw8APiMjRR8hcQAEvDo73ce8cm5tp3x64YWF1XBy36egvzo8YQEFnB0hwQ4Sqg0SjQsPAHk8OWoZHIAABOuon5eUjo+AfOCKiNqEgtyLitaDfogABGsYGsMUGLENEaMNEYEKDQBlJCROAAC3UlC9qqBnYmG7goDhhYXWcHPfp6C1JSlbBgqjGhyzDBCgDRGMCw5nCg4ANwgKVAAEoE1MpoqDiWtoyGxtzoB904aExGdjbwAAaBUYqg8TkAsPgAsOZggMUw4QACsEBVAHClYABHssLax3cahQUKhISrR7dHkQEkEHCXwQEnkIC2gJDFgGCkoJDEkKDHkekNmuLwMgAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/061.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/061.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/061.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/061.png",
         "width": 1920
       },
-      "mostReplayedScore": 3,
+      "mostReplayedScore": 4,
       "start": 61
     },
     {
@@ -379,8 +379,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBUSUpORUdsYl90Z2OajYedlo9mUEV0WkqXjoWblI6XhXJ0USxwQw9+Xjx8dHZtYV8AQDM0WU5OlIV5eWtjoJaOgnNuhldNw5CAmo+FopqSm4t6kGc5j25JkoBwjIOAe3BtAHlwb392cZaJfm1kYTQxNFxFQ59sXpt0aH12dJSMhZyTi5yUkJ2Xlp2Tj5WJhIZ7dwCck5CkmpaXjIA1MC8JCA9MOzp8WFA6Li85NTuPhYCdlIqbkYeckomckYuWi4WKf3oAmI+NppyXmZCKKCImFhMZcFlWkmlgQTExS0RHl42KmJCKnZSNm5KJmo+JlImDin55AJaPjaOamIl/fCciKC4kJ31cU49tZ2xeYK2qtYV1eJ+PlKaampKGfpSGfpCDfIh7dwCOhYSjk4eDcWMaFRkYERNNR0xsanODfIKtpq5sVld+WE9+ZlR6ZVR3YE1xXUx3aWIAhHBgi3ViNjAxJSgzISIsSElZMTA7Q0BJNzM7IBwiXk9KemJPd2BLbldEYUw8WUc9AHZiU3lmVz9BTldriEBScScuQxsgMBwlORohMhwnPoCOosbBva2moZSKiHtxcV5SUmMttVlqL7uPAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/063.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/063.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/063.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/063.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -392,8 +392,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBgVl91bXSZkpZ8hJpHYI5TbJhedaBjeqN+eoh/hJp6kbSDlraFl7eClLKBkKyRlaYATVVxY2J1p5+hmJ2xan+naH2la4KtaHmcsHhcqo2EfZW7jaHDjqTGlanInazFoqq8AFVmiHF8mIqRqomHjIJ+fYKUtnyTuHeGooNUQaOMi5auzam1yrXB07/H08PCx8THzQBiaHdug6h6jK14d4R1dHyOnLSmioNZQ0tcPTOidIOfja6+w8zDytPS193M0tm/yNQAaV9Zf3mAjmBbnmJdkIWMloeCaTxHYD1ie1Nuhl2KfU6Ataa40NfYwcHFzMvMw8fMAKKCZ8Cmibmdg7iZgbeagoBbSoVjYmMzT3dKd3NLemA8ZX5jc6mjk6almKejmLCtoAC4mYHCrJK2hnnDj4Clkn2IaljApo1YOFN7UXOldnp5TE2Wa1vErZXItJ/FtKDGuqgAv6ePyrOYy6iOzqiOw6yRz7SYs5mFTTFKSCk3Ti0oe11P0LGT1ryexaiLv6OJr5V/AK6Ygr2mjtG7n9vFp97EpubMqqmNf0cpQUUmOVgtVZZ3g+DIqMqxl8GpkLGag5+Hcxva8lPhev5oAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/067.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/067.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/067.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/067.png",
         "width": 1920
       },
       "mostReplayedScore": 3,
@@ -405,8 +405,8 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAbRJREFUeJwVzklu01AAAFCfATawRSx6BCTEGdh2jaC7LuiCIhZMQqJBIsUCNdDSQiFpiGlqHNdtvhPb8fQ9fdvf+Y6nOCOqhNRLoB7gSY9auXlt5cb1O7dv3b93d2119fWTp439H1JXxogQnLkw4Butncr2u1fbzzZerD96TK0/eLj38TM47SN7mI3mi9nlcn65nP9bTC/KYlHmc+wn0rlydPCL3tp5ufmGYhkh8PIoKJP4b55cjKJp5BcOxLKoGarNtQWW6TD1Y8CLrUOGrnyiGt8Y2yQhKmFPA38A1xZ5tnfCnJ51RKh7qgwtzfWs0DX9gaiyzRPqcLdumTFyM1O2ZWAMJMeBhOBpQsqEFHkySeOS4DRwh44ZSl2dqlVr+gCb+tCyEx/lUTCOo2lKlmm8yOJZFs9Gw6uk72amFgHBoOgtGpxBuefqxpXxvHEYTDAuIzyJwkkUlhiNfSd3YKz0XPZ3l6pWas2ffIfTAPBlJdbN3HYnDiqQX4QoC7wMOallEKXv8mz/+94RtbnxnH7/dX+33Wr2Oc7qglBREwOm0BpZMIY6ViUPCHq7JRx8qVfffvgPKYY50aJz7zYAAAAASUVORK5CYII=",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/072.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/072.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/072.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/072.png",
         "width": 1920
       },
       "mostReplayedScore": 2,
@@ -418,11 +418,11 @@
       "media": {
         "height": 1080,
         "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRDb21tZW50AG9yb3NoaV9jb21wcmVzc2VkJoea2wAAAcRJREFUeJwBuQFG/gBLQkRQRkZUSUhrX12IfHiLeHF8ak2fl5OXgWqKYTCplomqoJ2mmpWglZKUioiIfXwAdGpocWdmbmJhh3lzhXl0cE9EfWdLlIyJppWIqpeHsqWgtKijtaqnsaWip5yZl4yLAIuBgpqQkKuhoJ2TkTgxM5GGh1JKR46Eg6yjorKqqbitqrano7Sin7Sppa6hn5+UkQCRiY2fl5mroKGdk5MYEhOJh41OTFKHd2uumYWfjX+ikYSrmJKVeXd8cXCUiIWdkI0Ak4iGoZCEr5yNqZN+NDA2ZGZ3jXx7Rj9Eenl9xbOZr5mAl4iBTz03SjgycGNgiX17AHVmX4V0ariwsLGil2hbVzlDY4txcWBVVTI8VrayqdrJtGpeX0ItIzonHiITDVdEPAA/OT9kXGGUjZOblZyolYRva2stMEHLuZ92bWhQTE+JdWY9MjFwZWMsHxsoFxJFMCgAMi85Ozc/eHF0qKKpsJ6PhHFfGxYddWVfX1NPLCYrOCorV0FCdFlTPyolPi4hNy4mACMfJhAMECIfIkM/R29fVTkwMiMcKDMoLh4bJzczSSYlNEw9QpJiWYJZT2FEPFU9MYhhuZWMnNQEAAAAAElFTkSuQmCC",
-        "previewPath": "previews/S01E38_brefJaiVouluPartirEnVacances/074.mp4",
-        "thumbnailPath": "thumbnails/S01E38_brefJaiVouluPartirEnVacances/074.png",
+        "previewPath": "S01E38_brefJaiVouluPartirEnVacances/previews/074.mp4",
+        "thumbnailPath": "S01E38_brefJaiVouluPartirEnVacances/thumbnails/074.png",
         "width": 1920
       },
-      "mostReplayedScore": 1,
+      "mostReplayedScore": 2,
       "start": 74
     }
   ]
