@@ -28,8 +28,8 @@ Structure of a single Algolia record (one record per subtitle line):
   "media": {
     "height": 720,
     "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAA[…]XOfz/2JXQfoi2/FXAAAAAElFTkSuQmCC",
-    "previewPath": "previews/S01E65_brefJaiUnNouveauPote/035.mp4",
-    "thumbnailPath": "thumbnails/S01E65_brefJaiUnNouveauPote/035.png",
+    "previewPath": "S01E65_brefJaiUnNouveauPote/previews/035.mp4",
+    "thumbnailPath": "S01E65_brefJaiUnNouveauPote/thumbnails/035.png",
     "width": 1280
   }
 }
@@ -55,7 +55,7 @@ data/
 │
 ├── output/                         # Generated artifacts
 │   └── {episode}/
-│       └── episode.json            # Complete episode data ready for Algolia
+│       └── episode.json            # Complete episode data, including subtitles and media
 │
 └── tmp/                            # Temporary working files (not committed)
     └── {episode}/
@@ -81,24 +81,6 @@ data/
 yarn setup:download-videos
 ```
 
-### Update (weekly via cron)
-
-```bash
-# Fetch fresh popularity data from YouTube API
-yarn update:popularity
-
-# Regenerate episode JSON files with updated popularity
-yarn generate:episodes
-
-# Deploy to production
-yarn deploy:algolia
-
-# Commit and push changes
-git add data/computed/ data/output/
-git commit -m "chore: update popularity data"
-git push
-```
-
 ### Local Development (after editing subtitles or adding episodes)
 
 ```bash
@@ -118,26 +100,31 @@ yarn deploy:media            # Sync media assets to CDN
 
 Different scripts require different credentials:
 
-- **`yarn update:popularity`** (if using YouTube Data API): `YOUTUBE_API_KEY`
-- **`yarn deploy:algolia`**: `ALGOLIA_APP_ID`, `ALGOLIA_API_KEY`
-- **`yarn deploy:images`**: SSH access configured for rsync
+- **`yarn update:popularity`**: `YOUTUBE_API_KEY` (used as a fallback for age-restricted videos)
+- **`yarn deploy:algolia`**: `ALGOLIA_ADMIN_API_KEY` to push to the index
+- **`yarn deploy:media`**: SSH access configured for rsync
 
-Scripts validate their required environment variables and fail early with clear error messages if missing.
+### GitHub Actions (Automated Weekly Updates)
+
+This repository includes a GitHub Actions workflow that automatically:
+1. Fetches fresh popularity data from YouTube
+2. Regenerates episode JSON files
+3. Commits changes with timestamp
+4. Deploys to Algolia
+
+**Setup:**
+1. Configure repository secrets in GitHub Settings → Secrets and variables → Actions:
+   - `ALGOLIA_ADMIN_API_KEY`
+   - `YOUTUBE_API_KEY`
+
+2. The workflow runs automatically every Monday at 3:00 AM UTC
+
+3. You can also trigger it manually:
+   - Go to Actions tab → Weekly Data Update → Run workflow
+
+**Workflow file:** `.github/workflows/weekly-update.yml`
 
 ### Scripts Overview
-
-| Command | Input | Output | External Tools | Description |
-|---------|-------|--------|----------------|-------------|
-| **Setup** | | | | |
-| `setup:download-videos` | YouTube playlist | `tmp/{episode}/video.mp4` | yt-dlp (Docker) | Download source videos for FFmpeg processing |
-| **Update** (writes to `computed/`) | | | | |
-| `update:popularity` | YouTube API | `computed/{episode}/popularity.json` | yt-dlp (Docker) | Fetch view counts and heatmaps |
-| `update:media` | `tmp/` + `input/` | `computed/{episode}/media.json` + images | FFmpeg (Docker) | Generate thumbnails/previews + metadata (dimensions, LQIP) |
-| **Generate** (writes to `output/`) | | | | |
-| `generate:episodes` | `input/` + `computed/` | `output/{episode}/episode.json` | Node.js | Merge all data into complete episode files |
-| **Deploy** | | | | |
-| `deploy:algolia` | `output/{episode}/episode.json` | Algolia index | Algolia API | Transform and push records to search index |
-| `deploy:media` | `computed/{episode}/thumbnails/`, `previews/` | Remote CDN | rsync | Sync media assets to CDN |
 
 **Note:** All scripts using yt-dlp or FFmpeg run through Docker wrappers automatically (no local installation required).
 
