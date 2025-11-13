@@ -1,50 +1,56 @@
-#!/usr/bin/env node
 /**
- * Reads input and external data, merges them, and creates episode.json files in output/
- * This script combines metadata + subtitles + popularity + media info
+ * Reads input and computed data, merges them, and creates episode.json files in
+ * output/
  */
 import { absolute, readJson, writeJson } from 'firost';
-import { pMap } from 'golgoth';
+import { _ } from 'golgoth';
 import {
   forEachEpisode,
   getBasename,
-  getMediaData,
   getPopularityPath,
   getSubtitlePath,
 } from '../../lib/helper.js';
 import { convertVtt } from '../../lib/convertVtt.js';
 import { setMostReplayedScore } from '../../lib/setMostReplayedScore.js';
 
-await forEachEpisode(async function (episode) {
+await forEachEpisode(async (episode) => {
   const basename = getBasename(episode);
-  const outputFilepath = absolute(`<gitRoot>/data/output/${basename}/episode.json`);
-  episode.basename = basename;
+
+  const data = {};
+
+  // Add .episode key
+  data.episode = {
+    ...episode,
+    basename,
+  };
 
   // Popularity
   const popularityPath = await getPopularityPath(basename);
   const { viewCount, heatmap } = await readJson(popularityPath);
-  episode.viewCount = viewCount;
+  data.episode.viewCount = viewCount;
 
-  // Subtitles
+  // Get subtitles
   const subtitlePath = await getSubtitlePath(basename);
-  const subtitles = await convertVtt(subtitlePath);
-  const subtitlesWithPopularity = setMostReplayedScore(subtitles, heatmap);
+  const rawSubtitles = await convertVtt(subtitlePath);
+  const subtitles = setMostReplayedScore(rawSubtitles, heatmap);
 
-  // Media
-  const subtitlesWithMedia = await pMap(
-    subtitlesWithPopularity,
-    async (subtitle) => {
-      const media = await getMediaData(episode, subtitle);
-      return {
-        ...subtitle,
-        media,
-      };
-    },
+  // Add media to subtitles
+  const mediaPath = absolute('<gitRoot>/data/computed', basename, 'media.json');
+  const media = await readJson(mediaPath);
+  const subtitlesWithMedia = _.map(subtitles, (subtitle) => {
+    const key = _.padStart(subtitle.start, 3, '0');
+    return {
+      ...subtitle,
+      media: media[key],
+    };
+  });
+  data.subtitles = subtitlesWithMedia;
+
+  const outputFilepath = absolute(
+    '<gitRoot>/data/output',
+    basename,
+    'episode.json',
   );
 
-  const data = {
-    episode,
-    subtitles: subtitlesWithMedia,
-  };
   await writeJson(data, outputFilepath);
 }, 10);
