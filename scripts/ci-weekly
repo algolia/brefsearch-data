@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# CI script for weekly data updates
+# Fetches fresh popularity data, regenerates episodes, commits, and deploys
+
+set -e
+
+echo "WEEKLY UPDATE"
+
+echo "1/ Update Popularity"
+yarn update:popularity
+echo ""
+
+echo "2/ Generate episodes"
+yarn generate:episodes
+echo ""
+
+echo "3/ Commit changes"
+TIMESTAMP=$(date +"%Y-%m-%d")
+git add data/computed/ data/output/
+git commit -m "chore(auto): update data [${TIMESTAMP}]"
+echo ""
+
+# 4. Deploy to Algolia
+echo "4/ Deploy to Algolia"
+yarn deploy:algolia
+echo ""

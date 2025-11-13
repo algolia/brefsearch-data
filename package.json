@@ -29,6 +29,7 @@
     "deploy:media": "./scripts/deploy/media",
     "deploy:algolia": "node ./scripts/deploy/algolia.js",
     "ci": "./scripts/ci",
+    "ci:weekly": "./scripts/ci-weekly",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "test": "./scripts/test",
