@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # CI script for weekly data updates
 # Fetches fresh popularity data, regenerates episodes, commits, and deploys
-
 set -e
 
 echo "WEEKLY UPDATE"

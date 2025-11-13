@@ -24,7 +24,7 @@ await forEachEpisode(async function (episode) {
       : await getPopularityFromYtDlp(episode.id);
   } catch (err) {
     progress.failure(err.message);
-    process.exit();
+    process.exit(1);
   }
 
   // Save to file
