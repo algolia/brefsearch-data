@@ -72,7 +72,6 @@ await forEachEpisode(async (episode) => {
 
   const mediaJsonPath = absolute(computedDir, basename, 'media.json');
   await writeJson(media, mediaJsonPath);
-  // console.log(media);
 });
 
 /**
