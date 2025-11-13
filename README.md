@@ -46,7 +46,7 @@ data/
 │       ├── metadata.json           # Episode info (name, slug, YouTube ID, duration)
 │       └── subtitle.vtt            # WebVTT subtitle file with dialogue timestamps
 │
-├── external/                       # Fresh data fetched from external APIs
+├── computed/                       # Computed data from external sources
 │   └── {episode}/
 │       └── popularity.json         # View count and heatmap from YouTube API
 │
@@ -91,7 +91,7 @@ yarn update:popularity
 yarn generate:episodes
 
 # Commit and push changes
-git add data/external/ data/output/
+git add data/computed/ data/output/
 git commit -m "chore: update popularity data"
 git push
 ```
@@ -99,7 +99,7 @@ git push
 ### Generate (after editing subtitles)
 
 ```bash
-# Regenerate all outputs from input + external sources
+# Regenerate all outputs from input + computed sources
 yarn generate:episodes       # Merge metadata + subtitles + popularity
 yarn generate:images         # Extract thumbnails + previews via FFmpeg
 yarn generate:all            # Run both commands above
@@ -129,8 +129,8 @@ Scripts validate their required environment variables and fail early with clear 
 | Command | Input | Output | External Tools | Description |
 |---------|-------|--------|----------------|-------------|
 | `setup:download-videos` | YouTube playlist | `tmp/{episode}/video.mp4` | yt-dlp (Docker) | Download source videos for FFmpeg processing |
-| `update:popularity` | YouTube API | `external/{episode}/popularity.json` | yt-dlp (Docker) | Fetch view counts and heatmaps |
-| `generate:episodes` | `input/` + `external/` | `output/{episode}/episode.json` | Node.js | Merge all data into complete episode files |
+| `update:popularity` | YouTube API | `computed/{episode}/popularity.json` | yt-dlp (Docker) | Fetch view counts and heatmaps |
+| `generate:episodes` | `input/` + `computed/` | `output/{episode}/episode.json` | Node.js | Merge all data into complete episode files |
 | `generate:thumbnails` | `tmp/` + `input/` | `output/{episode}/images/thumbnails/` | FFmpeg (Docker) | Extract PNG frames at subtitle timestamps |
 | `generate:previews` | `tmp/` + `input/` | `output/{episode}/images/previews/` | FFmpeg (Docker) | Generate 2-second MP4 clips |
 | `generate:images` | - | - | - | Wrapper: runs thumbnails + previews |

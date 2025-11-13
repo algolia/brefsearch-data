@@ -10,7 +10,7 @@ import { getPopularity as getPopularityFromAPI } from '../../lib/youtube.js';
 
 await buildImage();
 
-const popularityFolder = absolute('<gitRoot>/data/external');
+const popularityFolder = absolute('<gitRoot>/data/computed');
 
 const progress = spinner();
 await forEachEpisode(async function (episode) {
