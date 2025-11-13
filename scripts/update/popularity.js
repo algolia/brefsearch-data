@@ -33,6 +33,6 @@ await forEachEpisode(async function (episode) {
     `${popularityFolder}/${basename}/popularity.json`,
   );
   await writeJson(data, outputFilepath, { sort: false });
-}, 1); // Concurrency 1 to process only first episode for testing
+});
 
 progress.success('Popularity updated for episode(s)');

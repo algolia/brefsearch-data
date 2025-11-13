@@ -1,30 +1,30 @@
 {
-  "viewCount": 8055134,
+  "viewCount": 8058250,
   "heatmap": [
     {
       "start": 0,
       "end": 2,
-      "value": 93
+      "value": 97
     },
     {
       "start": 1,
       "end": 3,
-      "value": 82
+      "value": 80
     },
     {
       "start": 2,
       "end": 4,
-      "value": 86
+      "value": 85
     },
     {
       "start": 3,
       "end": 5,
-      "value": 92
+      "value": 90
     },
     {
       "start": 4,
       "end": 7,
-      "value": 99
+      "value": 98
     },
     {
       "start": 6,
@@ -34,7 +34,7 @@
     {
       "start": 7,
       "end": 9,
-      "value": 93
+      "value": 94
     },
     {
       "start": 8,
@@ -49,27 +49,27 @@
     {
       "start": 10,
       "end": 13,
-      "value": 57
+      "value": 58
     },
     {
       "start": 12,
       "end": 14,
-      "value": 40
+      "value": 41
     },
     {
       "start": 13,
       "end": 15,
-      "value": 32
+      "value": 33
     },
     {
       "start": 14,
       "end": 16,
-      "value": 28
+      "value": 29
     },
     {
       "start": 15,
       "end": 17,
-      "value": 23
+      "value": 24
     },
     {
       "start": 16,
@@ -79,7 +79,7 @@
     {
       "start": 18,
       "end": 20,
-      "value": 16
+      "value": 17
     },
     {
       "start": 19,
@@ -94,12 +94,12 @@
     {
       "start": 21,
       "end": 23,
-      "value": 13
+      "value": 14
     },
     {
       "start": 22,
       "end": 25,
-      "value": 12
+      "value": 13
     },
     {
       "start": 24,
@@ -109,7 +109,7 @@
     {
       "start": 25,
       "end": 27,
-      "value": 12
+      "value": 13
     },
     {
       "start": 26,
@@ -119,7 +119,7 @@
     {
       "start": 27,
       "end": 30,
-      "value": 11
+      "value": 12
     },
     {
       "start": 29,
@@ -129,12 +129,12 @@
     {
       "start": 30,
       "end": 32,
-      "value": 9
+      "value": 10
     },
     {
       "start": 31,
       "end": 33,
-      "value": 7
+      "value": 8
     },
     {
       "start": 32,
@@ -154,7 +154,7 @@
     {
       "start": 36,
       "end": 38,
-      "value": 4
+      "value": 5
     },
     {
       "start": 37,
@@ -169,17 +169,17 @@
     {
       "start": 39,
       "end": 42,
-      "value": 4
+      "value": 5
     },
     {
       "start": 41,
       "end": 43,
-      "value": 4
+      "value": 5
     },
     {
       "start": 42,
       "end": 44,
-      "value": 21
+      "value": 17
     },
     {
       "start": 43,
@@ -199,12 +199,12 @@
     {
       "start": 47,
       "end": 49,
-      "value": 4
+      "value": 5
     },
     {
       "start": 48,
       "end": 50,
-      "value": 4
+      "value": 7
     },
     {
       "start": 49,
@@ -214,17 +214,17 @@
     {
       "start": 50,
       "end": 53,
-      "value": 4
+      "value": 5
     },
     {
       "start": 52,
       "end": 54,
-      "value": 4
+      "value": 5
     },
     {
       "start": 53,
       "end": 55,
-      "value": 4
+      "value": 5
     },
     {
       "start": 54,
@@ -239,7 +239,7 @@
     {
       "start": 56,
       "end": 59,
-      "value": 3
+      "value": 4
     },
     {
       "start": 58,
@@ -264,7 +264,7 @@
     {
       "start": 62,
       "end": 65,
-      "value": 2
+      "value": 3
     },
     {
       "start": 64,
@@ -324,7 +324,7 @@
     {
       "start": 77,
       "end": 79,
-      "value": 7
+      "value": 8
     },
     {
       "start": 78,
@@ -394,12 +394,12 @@
     {
       "start": 94,
       "end": 96,
-      "value": 13
+      "value": 12
     },
     {
       "start": 95,
       "end": 97,
-      "value": 13
+      "value": 12
     },
     {
       "start": 96,
@@ -414,7 +414,7 @@
     {
       "start": 99,
       "end": 101,
-      "value": 16
+      "value": 15
     },
     {
       "start": 100,
@@ -469,12 +469,12 @@
     {
       "start": 112,
       "end": 114,
-      "value": 12
+      "value": 13
     },
     {
       "start": 113,
       "end": 115,
-      "value": 9
+      "value": 10
     },
     {
       "start": 114,
@@ -484,7 +484,7 @@
     {
       "start": 116,
       "end": 118,
-      "value": 3
+      "value": 4
     },
     {
       "start": 117,
@@ -499,7 +499,7 @@
     {
       "start": 119,
       "end": 121,
-      "value": 13
+      "value": 18
     }
   ]
 }

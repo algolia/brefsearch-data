@@ -1,20 +1,20 @@
 {
-  "viewCount": 5454448,
+  "viewCount": 5457400,
   "heatmap": [
     {
       "start": 0,
       "end": 1,
-      "value": 87
+      "value": 92
     },
     {
       "start": 0,
       "end": 2,
-      "value": 74
+      "value": 73
     },
     {
       "start": 1,
       "end": 3,
-      "value": 75
+      "value": 74
     },
     {
       "start": 2,
@@ -24,12 +24,12 @@
     {
       "start": 3,
       "end": 5,
-      "value": 82
+      "value": 83
     },
     {
       "start": 4,
       "end": 5,
-      "value": 85
+      "value": 86
     },
     {
       "start": 4,
@@ -54,17 +54,17 @@
     {
       "start": 8,
       "end": 10,
-      "value": 82
+      "value": 83
     },
     {
       "start": 9,
       "end": 10,
-      "value": 59
+      "value": 60
     },
     {
       "start": 9,
       "end": 11,
-      "value": 47
+      "value": 46
     },
     {
       "start": 10,
@@ -99,7 +99,7 @@
     {
       "start": 15,
       "end": 17,
-      "value": 12
+      "value": 13
     },
     {
       "start": 16,
@@ -119,7 +119,7 @@
     {
       "start": 19,
       "end": 20,
-      "value": 8
+      "value": 9
     },
     {
       "start": 19,
@@ -144,7 +144,7 @@
     {
       "start": 23,
       "end": 25,
-      "value": 6
+      "value": 7
     },
     {
       "start": 24,
@@ -164,7 +164,7 @@
     {
       "start": 26,
       "end": 28,
-      "value": 5
+      "value": 6
     },
     {
       "start": 27,
@@ -184,7 +184,7 @@
     {
       "start": 29,
       "end": 31,
-      "value": 4
+      "value": 5
     },
     {
       "start": 30,
@@ -194,7 +194,7 @@
     {
       "start": 31,
       "end": 33,
-      "value": 4
+      "value": 5
     },
     {
       "start": 32,
@@ -214,7 +214,7 @@
     {
       "start": 34,
       "end": 36,
-      "value": 3
+      "value": 4
     },
     {
       "start": 35,
@@ -229,7 +229,7 @@
     {
       "start": 37,
       "end": 39,
-      "value": 3
+      "value": 4
     },
     {
       "start": 38,
@@ -244,7 +244,7 @@
     {
       "start": 39,
       "end": 41,
-      "value": 3
+      "value": 4
     },
     {
       "start": 40,
@@ -259,17 +259,17 @@
     {
       "start": 42,
       "end": 44,
-      "value": 4
+      "value": 5
     },
     {
       "start": 43,
       "end": 44,
-      "value": 4
+      "value": 5
     },
     {
       "start": 43,
       "end": 45,
-      "value": 4
+      "value": 5
     },
     {
       "start": 44,
@@ -279,7 +279,7 @@
     {
       "start": 45,
       "end": 47,
-      "value": 4
+      "value": 5
     },
     {
       "start": 46,
@@ -289,7 +289,7 @@
     {
       "start": 47,
       "end": 49,
-      "value": 3
+      "value": 4
     },
     {
       "start": 48,
@@ -399,7 +399,7 @@
     {
       "start": 65,
       "end": 67,
-      "value": 2
+      "value": 3
     },
     {
       "start": 66,
@@ -484,7 +484,7 @@
     {
       "start": 79,
       "end": 81,
-      "value": 1
+      "value": 2
     },
     {
       "start": 80,
@@ -499,7 +499,7 @@
     {
       "start": 82,
       "end": 83,
-      "value": 0
+      "value": 6
     }
   ]
 }

@@ -1,180 +1,180 @@
 {
-  "viewCount": 9659540,
+  "viewCount": 9664229,
   "heatmap": [
     {
       "start": 0,
       "end": 2,
-      "value": 74
+      "value": 93
     },
     {
       "start": 1,
       "end": 4,
-      "value": 40
+      "value": 43
     },
     {
       "start": 3,
       "end": 5,
-      "value": 36
+      "value": 39
     },
     {
       "start": 4,
       "end": 7,
-      "value": 34
+      "value": 37
     },
     {
       "start": 6,
       "end": 8,
-      "value": 26
+      "value": 28
     },
     {
       "start": 7,
       "end": 10,
-      "value": 20
+      "value": 22
     },
     {
       "start": 9,
       "end": 11,
-      "value": 20
+      "value": 22
     },
     {
       "start": 10,
       "end": 13,
-      "value": 18
+      "value": 19
     },
     {
       "start": 12,
       "end": 14,
-      "value": 13
+      "value": 14
     },
     {
       "start": 13,
       "end": 16,
-      "value": 11
+      "value": 12
     },
     {
       "start": 15,
       "end": 17,
-      "value": 11
+      "value": 12
     },
     {
       "start": 16,
       "end": 19,
-      "value": 10
+      "value": 11
     },
     {
       "start": 18,
       "end": 20,
-      "value": 9
+      "value": 10
     },
     {
       "start": 19,
       "end": 22,
-      "value": 11
+      "value": 13
     },
     {
       "start": 21,
       "end": 23,
-      "value": 8
+      "value": 10
     },
     {
       "start": 22,
       "end": 25,
-      "value": 7
+      "value": 9
     },
     {
       "start": 24,
       "end": 26,
-      "value": 10
+      "value": 12
     },
     {
       "start": 25,
       "end": 28,
-      "value": 11
+      "value": 13
     },
     {
       "start": 27,
       "end": 29,
-      "value": 12
+      "value": 13
     },
     {
       "start": 28,
       "end": 31,
-      "value": 15
+      "value": 17
     },
     {
       "start": 30,
       "end": 32,
-      "value": 15
+      "value": 18
     },
     {
       "start": 31,
       "end": 34,
-      "value": 15
+      "value": 17
     },
     {
       "start": 33,
       "end": 35,
-      "value": 12
+      "value": 14
     },
     {
       "start": 34,
       "end": 37,
-      "value": 12
+      "value": 14
     },
     {
       "start": 36,
       "end": 38,
-      "value": 10
+      "value": 12
     },
     {
       "start": 37,
       "end": 40,
-      "value": 8
+      "value": 10
     },
     {
       "start": 39,
       "end": 41,
-      "value": 9
+      "value": 11
     },
     {
       "start": 40,
       "end": 43,
-      "value": 8
+      "value": 10
     },
     {
       "start": 42,
       "end": 44,
-      "value": 6
+      "value": 7
     },
     {
       "start": 43,
       "end": 46,
-      "value": 5
+      "value": 6
     },
     {
       "start": 45,
       "end": 47,
-      "value": 6
+      "value": 7
     },
     {
       "start": 46,
       "end": 49,
-      "value": 5
+      "value": 6
     },
     {
       "start": 48,
       "end": 50,
-      "value": 4
+      "value": 5
     },
     {
       "start": 49,
       "end": 52,
-      "value": 5
+      "value": 6
     },
     {
       "start": 51,
       "end": 53,
-      "value": 3
+      "value": 4
     },
     {
       "start": 52,
@@ -184,12 +184,12 @@
     {
       "start": 54,
       "end": 56,
-      "value": 1
+      "value": 2
     },
     {
       "start": 55,
       "end": 58,
-      "value": 1
+      "value": 2
     },
     {
       "start": 57,
@@ -204,7 +204,7 @@
     {
       "start": 60,
       "end": 62,
-      "value": 2
+      "value": 3
     },
     {
       "start": 61,
@@ -219,7 +219,7 @@
     {
       "start": 64,
       "end": 67,
-      "value": 35
+      "value": 26
     },
     {
       "start": 66,
@@ -234,97 +234,97 @@
     {
       "start": 69,
       "end": 71,
-      "value": 2
+      "value": 3
     },
     {
       "start": 70,
       "end": 73,
-      "value": 36
+      "value": 28
     },
     {
       "start": 72,
       "end": 74,
-      "value": 1
+      "value": 2
     },
     {
       "start": 73,
       "end": 76,
-      "value": 3
+      "value": 4
     },
     {
       "start": 75,
       "end": 78,
-      "value": 5
+      "value": 6
     },
     {
       "start": 77,
       "end": 79,
-      "value": 5
+      "value": 6
     },
     {
       "start": 78,
       "end": 81,
-      "value": 7
+      "value": 8
     },
     {
       "start": 80,
       "end": 82,
-      "value": 9
+      "value": 10
     },
     {
       "start": 81,
       "end": 84,
-      "value": 9
+      "value": 10
     },
     {
       "start": 83,
       "end": 85,
-      "value": 9
+      "value": 10
     },
     {
       "start": 84,
       "end": 87,
-      "value": 11
+      "value": 12
     },
     {
       "start": 86,
       "end": 88,
-      "value": 11
+      "value": 12
     },
     {
       "start": 87,
       "end": 90,
-      "value": 10
+      "value": 11
     },
     {
       "start": 89,
       "end": 91,
-      "value": 10
+      "value": 11
     },
     {
       "start": 90,
       "end": 93,
-      "value": 11
+      "value": 12
     },
     {
       "start": 92,
       "end": 94,
-      "value": 10
+      "value": 11
     },
     {
       "start": 93,
       "end": 96,
-      "value": 10
+      "value": 11
     },
     {
       "start": 95,
       "end": 97,
-      "value": 11
+      "value": 12
     },
     {
       "start": 96,
       "end": 99,
-      "value": 11
+      "value": 12
     },
     {
       "start": 98,
@@ -334,87 +334,87 @@
     {
       "start": 99,
       "end": 102,
-      "value": 12
+      "value": 13
     },
     {
       "start": 101,
       "end": 103,
-      "value": 11
+      "value": 12
     },
     {
       "start": 102,
       "end": 105,
-      "value": 11
+      "value": 12
     },
     {
       "start": 104,
       "end": 106,
-      "value": 12
+      "value": 14
     },
     {
       "start": 105,
       "end": 108,
-      "value": 24
+      "value": 28
     },
     {
       "start": 107,
       "end": 109,
-      "value": 43
+      "value": 44
     },
     {
       "start": 108,
       "end": 111,
-      "value": 55
+      "value": 56
     },
     {
       "start": 110,
       "end": 112,
-      "value": 65
+      "value": 68
     },
     {
       "start": 111,
       "end": 114,
-      "value": 75
+      "value": 78
     },
     {
       "start": 113,
       "end": 115,
-      "value": 80
+      "value": 86
     },
     {
       "start": 114,
       "end": 117,
-      "value": 83
+      "value": 88
     },
     {
       "start": 116,
       "end": 118,
-      "value": 81
+      "value": 87
     },
     {
       "start": 117,
       "end": 120,
-      "value": 61
+      "value": 67
     },
     {
       "start": 119,
       "end": 121,
-      "value": 27
+      "value": 31
     },
     {
       "start": 120,
       "end": 123,
-      "value": 17
+      "value": 19
     },
     {
       "start": 122,
       "end": 124,
-      "value": 12
+      "value": 13
     },
     {
       "start": 123,
       "end": 126,
-      "value": 11
+      "value": 12
     },
     {
       "start": 125,
@@ -424,32 +424,32 @@
     {
       "start": 126,
       "end": 129,
-      "value": 15
+      "value": 16
     },
     {
       "start": 128,
       "end": 130,
-      "value": 15
+      "value": 16
     },
     {
       "start": 129,
       "end": 132,
-      "value": 17
+      "value": 18
     },
     {
       "start": 131,
       "end": 133,
-      "value": 19
+      "value": 20
     },
     {
       "start": 132,
       "end": 135,
-      "value": 22
+      "value": 23
     },
     {
       "start": 134,
       "end": 136,
-      "value": 37
+      "value": 38
     },
     {
       "start": 135,
@@ -464,7 +464,7 @@
     {
       "start": 138,
       "end": 141,
-      "value": 84
+      "value": 83
     },
     {
       "start": 140,
@@ -484,12 +484,12 @@
     {
       "start": 144,
       "end": 147,
-      "value": 64
+      "value": 65
     },
     {
       "start": 146,
       "end": 148,
-      "value": 30
+      "value": 31
     },
     {
       "start": 147,
@@ -499,7 +499,7 @@
     {
       "start": 149,
       "end": 151,
-      "value": 99
+      "value": 94
     }
   ]
 }
