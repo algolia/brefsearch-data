@@ -28,7 +28,6 @@
     "generate:episodes": "node ./scripts/generate/episodes.js",
     "deploy:algolia": "node ./scripts/deploy/algolia.js",
     "deploy:images": "./scripts/deploy/images",
-    "deploy:all": "./scripts/deploy/all",
     "ci": "./scripts/ci",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",

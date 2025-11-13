@@ -1,26 +1,20 @@
-#!/usr/bin/env node
 /**
  * Push episode data to Algolia index
- * Reads output/{episode}/episode.json and transforms into Algolia records
  */
 import indexing from 'algolia-indexing';
-import { absolute, glob, readJson } from 'firost';
+import { absolute, consoleError, glob, readJson } from 'firost';
 import { _, pMap } from 'golgoth';
 import config from '../../lib/config.js';
 
 // Validate required environment variables
-if (!config.algolia.appId || !config.algolia.apiKey) {
-  console.error('Missing required environment variables:');
-  if (!config.algolia.appId) console.error('  - ALGOLIA_APP_ID');
-  if (!config.algolia.apiKey) console.error('  - ALGOLIA_API_KEY');
-  console.error('\nDefine them in .envrc or CI environment. See README.');
+if (!config.algolia.apiKey) {
+  consoleError('Missing ALGOLIA_API_KEY');
   process.exit(1);
 }
 
 // Generate all records from output files
-const outputSources = await glob('./data/output/*/episode.json', {
-  cwd: absolute('<gitRoot>'),
-});
+const outputDir = absolute('<gitRoot>/data/output');
+const outputSources = await glob('*/episode.json', { cwd: outputDir });
 
 const records = [];
 await pMap(outputSources, async (filepath) => {
