@@ -48,14 +48,14 @@ data/
 │
 ├── computed/                       # Computed data from external sources
 │   └── {episode}/
-│       └── popularity.json         # View count and heatmap from YouTube API
+│       ├── popularity.json         # View count and heatmap from YouTube API
+│       ├── media.json              # Media metadata (dimensions, LQIP, paths)
+│       ├── thumbnails/             # Symlink → ../brefsearch-media/media/{episode}/thumbnails/
+│       └── previews/               # Symlink → ../brefsearch-media/media/{episode}/previews/
 │
 ├── output/                         # Generated artifacts
 │   └── {episode}/
-│       ├── episode.json            # Complete episode data ready for Algolia
-│       └── images/                 # Symlink to ../brefsearch-images/
-│           ├── thumbnails/         # PNG frame captures (via FFmpeg)
-│           └── previews/           # Short MP4 clips (via FFmpeg)
+│       └── episode.json            # Complete episode data ready for Algolia
 │
 └── tmp/                            # Temporary working files (not committed)
     └── {episode}/
@@ -90,28 +90,28 @@ yarn update:popularity
 # Regenerate episode JSON files with updated popularity
 yarn generate:episodes
 
+# Deploy to production
+yarn deploy:algolia
+
 # Commit and push changes
 git add data/computed/ data/output/
 git commit -m "chore: update popularity data"
 git push
 ```
 
-### Generate (after editing subtitles)
+### Local Development (after editing subtitles or adding episodes)
 
 ```bash
-# Regenerate all outputs from input + computed sources
-yarn generate:episodes       # Merge metadata + subtitles + popularity
-yarn generate:images         # Extract thumbnails + previews via FFmpeg
-yarn generate:all            # Run both commands above
-```
+# Update computed data
+yarn update:media            # Generate thumbnails/previews + media.json
+yarn update:popularity       # Fetch view counts (if needed)
 
-### Deploy (manual or automated)
+# Generate final output
+yarn generate:episodes       # Merge input + computed → output
 
-```bash
-# Push data to production services
+# Deploy to production
 yarn deploy:algolia          # Push records to Algolia index
-yarn deploy:images           # Sync images to CDN via rsync
-yarn deploy:all              # Run both deploys
+yarn deploy:media            # Sync media assets to CDN
 ```
 
 ### Environment Variables
@@ -128,16 +128,16 @@ Scripts validate their required environment variables and fail early with clear 
 
 | Command | Input | Output | External Tools | Description |
 |---------|-------|--------|----------------|-------------|
+| **Setup** | | | | |
 | `setup:download-videos` | YouTube playlist | `tmp/{episode}/video.mp4` | yt-dlp (Docker) | Download source videos for FFmpeg processing |
+| **Update** (writes to `computed/`) | | | | |
 | `update:popularity` | YouTube API | `computed/{episode}/popularity.json` | yt-dlp (Docker) | Fetch view counts and heatmaps |
+| `update:media` | `tmp/` + `input/` | `computed/{episode}/media.json` + images | FFmpeg (Docker) | Generate thumbnails/previews + metadata (dimensions, LQIP) |
+| **Generate** (writes to `output/`) | | | | |
 | `generate:episodes` | `input/` + `computed/` | `output/{episode}/episode.json` | Node.js | Merge all data into complete episode files |
-| `generate:thumbnails` | `tmp/` + `input/` | `output/{episode}/images/thumbnails/` | FFmpeg (Docker) | Extract PNG frames at subtitle timestamps |
-| `generate:previews` | `tmp/` + `input/` | `output/{episode}/images/previews/` | FFmpeg (Docker) | Generate 2-second MP4 clips |
-| `generate:images` | - | - | - | Wrapper: runs thumbnails + previews |
-| `generate:all` | - | - | - | Wrapper: runs episodes + images |
-| `deploy:algolia` | `output/{episode}/episode.json` | Algolia index | Algolia API | Transform and push records |
-| `deploy:images` | `output/{episode}/images/` | Remote CDN | rsync | Sync media assets |
-| `deploy:all` | - | - | - | Wrapper: runs algolia + images |
+| **Deploy** | | | | |
+| `deploy:algolia` | `output/{episode}/episode.json` | Algolia index | Algolia API | Transform and push records to search index |
+| `deploy:media` | `computed/{episode}/thumbnails/`, `previews/` | Remote CDN | rsync | Sync media assets to CDN |
 
 **Note:** All scripts using yt-dlp or FFmpeg run through Docker wrappers automatically (no local installation required).
 
@@ -162,7 +162,7 @@ I uploaded my `.mp3` files to [HappyScribe](https://www.happyscribe.com) to gene
 ## Related Repositories
 
 - [brefsearch](https://github.com/pixelastic/brefsearch) - Frontend website (Next.js)
-- [brefsearch-images](https://github.com/pixelastic/brefsearch-images) - Media assets repository
+- [brefsearch-media](https://github.com/pixelastic/brefsearch-media) - Media assets repository (thumbnails + previews)
 
 ## License
 
