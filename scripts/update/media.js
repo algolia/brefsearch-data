@@ -3,22 +3,26 @@
  * Creates media.json with dimensions/LQIP for each subtitle timestamp
  * Creates symlinks to brefsearch-media repository
  */
-import { absolute, exists, spinner, symlink, writeJson } from 'firost';
+import { exists, spinner, symlink, writeJson } from 'firost';
 import { _, pMap } from 'golgoth';
 import { dimensions, lqip } from 'imoen';
+import { forEachEpisode, getBasename } from '../../lib/helper.js';
 import {
-  forEachEpisode,
-  getBasename,
+  getMediaPath,
+  getMediaRepoDir,
+  getPreviewPath,
+  getPreviewsDir,
   getSubtitlePath,
-} from '../../lib/helper.js';
+  getThumbnailPath,
+  getThumbnailsDir,
+} from '../../lib/paths.js';
 import { convertVtt } from '../../lib/convertVtt.js';
 import { buildImage } from '../../lib/docker.js';
 import { extractPreview, extractThumbnail } from '../../lib/ffmpeg.js';
 
 await buildImage();
 
-const computedDir = absolute('<gitRoot>/data/computed/');
-const mediaDir = absolute('<gitRoot>/../brefsearch-media/media');
+const mediaRepoDir = getMediaRepoDir();
 
 const progress = spinner();
 await forEachEpisode(async (episode) => {
@@ -26,10 +30,10 @@ await forEachEpisode(async (episode) => {
   const basename = getBasename(episode);
 
   // Add symlinks to brefsearch-media
-  await createSymlinks(basename);
+  await createSymlinks(episode);
 
   // Get all timestamps that need a media
-  const subtitlePath = await getSubtitlePath(basename);
+  const subtitlePath = getSubtitlePath(episode);
   const subtitles = await convertVtt(subtitlePath);
   const timestamps = _.chain(subtitles).map('start').uniq().sortBy().value();
 
@@ -41,8 +45,7 @@ await forEachEpisode(async (episode) => {
       const key = _.padStart(timestamp, 3, '0');
 
       // extract thumbnail if missing
-      const thumbnailPrefixPath = `${basename}/thumbnails/${key}.png`;
-      const thumbnailPath = absolute(computedDir, thumbnailPrefixPath);
+      const thumbnailPath = getThumbnailPath(episode, timestamp);
       if (!(await exists(thumbnailPath))) {
         await extractThumbnail(episode, timestamp, thumbnailPath);
       }
@@ -52,11 +55,13 @@ await forEachEpisode(async (episode) => {
       const lqipValue = await lqip(thumbnailPath);
 
       // extract preview if missing
-      const previewPrefixPath = `${basename}/previews/${key}.mp4`;
-      const previewPath = absolute(computedDir, previewPrefixPath);
+      const previewPath = getPreviewPath(episode, timestamp);
       if (!(await exists(previewPath))) {
         await extractPreview(episode, timestamp, previewPath);
       }
+
+      const thumbnailPrefixPath = `${basename}/thumbnails/${key}.png`;
+      const previewPrefixPath = `${basename}/previews/${key}.mp4`;
 
       const value = {
         thumbnailPath: thumbnailPrefixPath,
@@ -70,20 +75,21 @@ await forEachEpisode(async (episode) => {
     { concurrency: 10 },
   );
 
-  const mediaJsonPath = absolute(computedDir, basename, 'media.json');
+  const mediaJsonPath = getMediaPath(episode);
   await writeJson(media, mediaJsonPath);
 });
 
 /**
- *
- * @param basename
+ * Create symlinks between computed/ and brefsearch-media repo
+ * @param episode
  */
-async function createSymlinks(basename) {
-  const computedThumbnails = absolute(computedDir, basename, 'thumbnails');
-  const computedPreviews = absolute(computedDir, basename, 'previews');
+async function createSymlinks(episode) {
+  const basename = getBasename(episode);
+  const computedThumbnails = getThumbnailsDir(episode);
+  const computedPreviews = getPreviewsDir(episode);
 
-  const mediaThumbnails = absolute(mediaDir, basename, 'thumbnails');
-  const mediaPreviews = absolute(mediaDir, basename, 'previews');
+  const mediaThumbnails = `${mediaRepoDir}/${basename}/thumbnails`;
+  const mediaPreviews = `${mediaRepoDir}/${basename}/previews`;
 
   await symlink(computedThumbnails, mediaThumbnails);
   await symlink(computedPreviews, mediaPreviews);

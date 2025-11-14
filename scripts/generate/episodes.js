@@ -2,15 +2,16 @@
  * Reads input and computed data, merges them, and creates episode.json files in
  * output/
  */
-import { absolute, readJson, spinner, writeJson } from 'firost';
+import { exists, firostError, readJson, spinner, writeJson } from 'firost';
 import { _ } from 'golgoth';
+import { forEachEpisode, getBasename } from '../../lib/helper.js';
 import {
-  forEachEpisode,
-  getBasename,
+  getEpisodePath,
   getHeatmapPath,
+  getMediaPath,
   getSubtitlePath,
-  getViewCountPath,
-} from '../../lib/helper.js';
+  getViewcountPath,
+} from '../../lib/paths.js';
 import { convertVtt } from '../../lib/convertVtt.js';
 import { setMostReplayedScore } from '../../lib/setMostReplayedScore.js';
 
@@ -27,22 +28,46 @@ await forEachEpisode(async (episode) => {
     basename,
   };
 
-  // View count
-  const viewCountPath = await getViewCountPath(basename);
-  const { viewCount } = await readJson(viewCountPath);
+  // View count (validate existence)
+  const viewcountPath = getViewcountPath(episode);
+  if (!(await exists(viewcountPath))) {
+    throw firostError(
+      'GENERATE_NO_VIEWCOUNT',
+      `View count file not found: ${viewcountPath}`,
+    );
+  }
+  const { viewCount } = await readJson(viewcountPath);
   data.episode.viewCount = viewCount;
 
-  // Heatmap
-  const heatmapPath = await getHeatmapPath(basename);
+  // Heatmap (validate existence)
+  const heatmapPath = getHeatmapPath(episode);
+  if (!(await exists(heatmapPath))) {
+    throw firostError(
+      'GENERATE_NO_HEATMAP',
+      `Heatmap file not found: ${heatmapPath}`,
+    );
+  }
   const { heatmap } = await readJson(heatmapPath);
 
-  // Get subtitles
-  const subtitlePath = await getSubtitlePath(basename);
+  // Get subtitles (validate existence)
+  const subtitlePath = getSubtitlePath(episode);
+  if (!(await exists(subtitlePath))) {
+    throw firostError(
+      'GENERATE_NO_SUBTITLES',
+      `Subtitle file not found: ${subtitlePath}`,
+    );
+  }
   const rawSubtitles = await convertVtt(subtitlePath);
   const subtitles = setMostReplayedScore(rawSubtitles, heatmap);
 
-  // Add media to subtitles
-  const mediaPath = absolute('<gitRoot>/data/computed', basename, 'media.json');
+  // Add media to subtitles (validate existence)
+  const mediaPath = getMediaPath(episode);
+  if (!(await exists(mediaPath))) {
+    throw firostError(
+      'GENERATE_NO_MEDIA',
+      `Media file not found: ${mediaPath}`,
+    );
+  }
   const media = await readJson(mediaPath);
   const subtitlesWithMedia = _.map(subtitles, (subtitle) => {
     const key = _.padStart(subtitle.start, 3, '0');
@@ -53,12 +78,7 @@ await forEachEpisode(async (episode) => {
   });
   data.subtitles = subtitlesWithMedia;
 
-  const outputFilepath = absolute(
-    '<gitRoot>/data/output',
-    basename,
-    'episode.json',
-  );
-
+  const outputFilepath = getEpisodePath(episode);
   await writeJson(data, outputFilepath);
 }, 10);
 
