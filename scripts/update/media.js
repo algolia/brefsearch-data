@@ -6,8 +6,9 @@
 import { exists, spinner, symlink, writeJson } from 'firost';
 import { _, pMap } from 'golgoth';
 import { dimensions, lqip } from 'imoen';
-import { forEachEpisode, getBasename } from '../../lib/helper.js';
+import { forEachEpisode } from '../../lib/helper.js';
 import {
+  getBasename,
   getMediaPath,
   getMediaRepoDir,
   getPreviewPath,

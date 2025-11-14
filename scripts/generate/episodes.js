@@ -4,8 +4,9 @@
  */
 import { exists, firostError, readJson, spinner, writeJson } from 'firost';
 import { _ } from 'golgoth';
-import { forEachEpisode, getBasename } from '../../lib/helper.js';
+import { forEachEpisode } from '../../lib/helper.js';
 import {
+  getBasename,
   getEpisodePath,
   getHeatmapPath,
   getMediaPath,
