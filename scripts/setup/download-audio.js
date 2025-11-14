@@ -18,12 +18,10 @@ await forEachEpisode(
     const audioPath = absolute(getTmpDir(episode), 'audio.mp3');
 
     if (await exists(audioPath)) {
-      console.log(`✓ Audio already exists for ${episode.name}`);
       return;
     }
 
     await downloadAudio(episode);
-    console.log(`✓ Downloaded audio for ${episode.name}`);
   },
   { files },
 );

@@ -3,8 +3,12 @@
 
 set -e
 
-# Run yt-dlp in Docker, passing all arguments
+# Get git root directory
+GIT_ROOT=$(git rev-parse --show-toplevel)
+
+# Run yt-dlp in Docker, mounting git root as /data
 docker run --rm \
-  -v "$(pwd):/data" \
+  -v "$GIT_ROOT:/data" \
+  -w /data \
   brefsearch-tools \
   "yt-dlp $*"
