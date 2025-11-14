@@ -13,8 +13,8 @@ import {
   getSubtitlePath,
   getViewcountPath,
 } from '../../lib/paths.js';
-import { convertVtt } from '../../lib/convertVtt.js';
-import { setMostReplayedScore } from '../../lib/setMostReplayedScore.js';
+import { getSubtitles } from '../../lib/subtitle.js';
+import { addMostReplayedScores } from '../../lib/heatmap.js';
 
 await forEachEpisode(async (episode) => {
   const basename = getBasename(episode);
@@ -56,8 +56,8 @@ await forEachEpisode(async (episode) => {
       `Subtitle file not found: ${subtitlePath}`,
     );
   }
-  const rawSubtitles = await convertVtt(subtitlePath);
-  const subtitles = setMostReplayedScore(rawSubtitles, heatmap);
+  const rawSubtitles = await getSubtitles(episode);
+  const subtitles = addMostReplayedScores(rawSubtitles, heatmap);
 
   // Add media to subtitles (validate existence)
   const mediaPath = getMediaPath(episode);

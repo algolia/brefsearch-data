@@ -14,12 +14,11 @@ import {
   getMediaRepoDir,
   getPreviewPath,
   getPreviewsDir,
-  getSubtitlePath,
   getThumbnailPath,
   getThumbnailsDir,
   getTimestampKey,
 } from '../../lib/paths.js';
-import { convertVtt } from '../../lib/convertVtt.js';
+import { getSubtitles } from '../../lib/subtitle.js';
 import { buildImage } from '../../lib/docker.js';
 import { extractPreview, extractThumbnail } from '../../lib/ffmpeg.js';
 
@@ -32,8 +31,7 @@ await forEachEpisode(async (episode) => {
   await createSymlinks(episode);
 
   // Get all timestamps that need a media
-  const subtitlePath = getSubtitlePath(episode);
-  const subtitles = await convertVtt(subtitlePath);
+  const subtitles = await getSubtitles(episode);
   const timestamps = _.chain(subtitles).map('start').uniq().sortBy().value();
 
   // Create media.json content

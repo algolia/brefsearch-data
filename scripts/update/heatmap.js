@@ -13,5 +13,5 @@ await buildImage();
 await forEachEpisode(async function (episode) {
   const heatmap = await getHeatmap(episode.id);
   const outputFilepath = getHeatmapPath(episode);
-  await writeJson({ heatmap }, outputFilepath);
+  await writeJson({ heatmap }, outputFilepath, { sort: false });
 });
