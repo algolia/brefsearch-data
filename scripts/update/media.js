@@ -3,7 +3,7 @@
  * Creates media.json with dimensions/LQIP for each subtitle timestamp
  * Creates symlinks to brefsearch-media repository
  */
-import { exists, spinner, symlink, writeJson } from 'firost';
+import { exists, symlink, writeJson } from 'firost';
 import { _, pMap } from 'golgoth';
 import { dimensions, lqip } from 'imoen';
 import { forEachEpisode } from '../../lib/helper.js';
@@ -25,9 +25,7 @@ await buildImage();
 
 const mediaRepoDir = getMediaRepoDir();
 
-const progress = spinner();
 await forEachEpisode(async (episode) => {
-  progress.tick(`Processing media for "${episode.name}"`);
   const basename = getBasename(episode);
 
   // Add symlinks to brefsearch-media
@@ -95,5 +93,3 @@ async function createSymlinks(episode) {
   await symlink(computedThumbnails, mediaThumbnails);
   await symlink(computedPreviews, mediaPreviews);
 }
-
-progress.success('Media updated for all episodes');
