@@ -5,8 +5,8 @@ set -e
 
 echo "WEEKLY UPDATE"
 
-echo "1/ Update Popularity"
-yarn update:popularity
+echo "1/ Update View Counts"
+yarn update:viewcount
 echo ""
 
 echo "2/ Generate episodes"

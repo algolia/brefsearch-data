@@ -7,8 +7,9 @@ import { _ } from 'golgoth';
 import {
   forEachEpisode,
   getBasename,
-  getPopularityPath,
+  getHeatmapPath,
   getSubtitlePath,
+  getViewCountPath,
 } from '../../lib/helper.js';
 import { convertVtt } from '../../lib/convertVtt.js';
 import { setMostReplayedScore } from '../../lib/setMostReplayedScore.js';
@@ -26,10 +27,14 @@ await forEachEpisode(async (episode) => {
     basename,
   };
 
-  // Popularity
-  const popularityPath = await getPopularityPath(basename);
-  const { viewCount, heatmap } = await readJson(popularityPath);
+  // View count
+  const viewCountPath = await getViewCountPath(basename);
+  const { viewCount } = await readJson(viewCountPath);
   data.episode.viewCount = viewCount;
+
+  // Heatmap
+  const heatmapPath = await getHeatmapPath(basename);
+  const { heatmap } = await readJson(heatmapPath);
 
   // Get subtitles
   const subtitlePath = await getSubtitlePath(basename);

@@ -23,7 +23,8 @@
   },
   "scripts": {
     "setup:download-videos": "./scripts/setup/download-videos",
-    "update:popularity": "node ./scripts/update/popularity.js",
+    "update:viewcount": "node ./scripts/update/viewcount.js",
+    "update:heatmap": "node ./scripts/update/heatmap.js",
     "update:media": "node ./scripts/update/media.js",
     "generate:episodes": "node ./scripts/generate/episodes.js",
     "deploy:media": "./scripts/deploy/media",

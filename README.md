@@ -48,7 +48,8 @@ data/
 │
 ├── computed/                       # Computed data from external sources
 │   └── {episode}/
-│       ├── popularity.json         # View count and heatmap from YouTube API
+│       ├── viewcount.json          # View count from YouTube Data API
+│       ├── heatmap.json            # Most replayed heatmap from yt-dlp
 │       ├── media.json              # Media metadata (dimensions, LQIP, paths)
 │       ├── thumbnails/             # Symlink → ../brefsearch-media/media/{episode}/thumbnails/
 │       └── previews/               # Symlink → ../brefsearch-media/media/{episode}/previews/
@@ -86,7 +87,8 @@ yarn setup:download-videos
 ```bash
 # Update computed data
 yarn update:media            # Generate thumbnails/previews + media.json
-yarn update:popularity       # Fetch view counts (if needed)
+yarn update:viewcount        # Fetch view counts from YouTube API
+yarn update:heatmap          # Fetch heatmaps from yt-dlp (optional, manual only)
 
 # Generate final output
 yarn generate:episodes       # Merge input + computed → output
@@ -100,22 +102,25 @@ yarn deploy:media            # Sync media assets to CDN
 
 Different scripts require different credentials:
 
-- **`yarn update:popularity`**: `YOUTUBE_API_KEY` (used as a fallback for age-restricted videos)
-- **`yarn deploy:algolia`**: `ALGOLIA_ADMIN_API_KEY` to push to the index
+- **`yarn update:viewcount`**: `YOUTUBE_API_KEY` (required - uses YouTube Data API)
+- **`yarn update:heatmap`**: No credentials required (uses yt-dlp via Docker)
+- **`yarn deploy:algolia`**: `ALGOLIA_ADMIN_API_KEY` (required - pushes to Algolia index)
 - **`yarn deploy:media`**: SSH access configured for rsync
 
 ### GitHub Actions (Automated Weekly Updates)
 
 This repository includes a GitHub Actions workflow that automatically:
-1. Fetches fresh popularity data from YouTube
+1. Fetches fresh view counts from YouTube Data API
 2. Regenerates episode JSON files
 3. Commits changes with timestamp
 4. Deploys to Algolia
 
+**Note:** The CI workflow only updates view counts. Heatmaps must be updated manually using `yarn update:heatmap` (requires yt-dlp which may be blocked by YouTube's bot detection in CI environments).
+
 **Setup:**
 1. Configure repository secrets in GitHub Settings → Secrets and variables → Actions:
-   - `ALGOLIA_ADMIN_API_KEY`
-   - `YOUTUBE_API_KEY`
+   - `ALGOLIA_ADMIN_API_KEY` (required)
+   - `YOUTUBE_API_KEY` (required)
 
 2. The workflow runs automatically every Monday at 3:00 AM UTC
 
@@ -123,6 +128,15 @@ This repository includes a GitHub Actions workflow that automatically:
    - Go to Actions tab → Weekly Data Update → Run workflow
 
 **Workflow file:** `.github/workflows/weekly-update.yml`
+
+### Data Update Strategy
+
+**View Counts vs Heatmaps:**
+- **View counts** are fetched via YouTube Data API and updated automatically by CI weekly
+- **Heatmaps** (most replayed sections) are fetched via yt-dlp and must be updated manually
+  - yt-dlp may be blocked by YouTube's bot detection in CI environments
+  - Heatmaps are optional - if missing or empty, episodes still work (just without mostReplayedScore)
+  - Run `yarn update:heatmap` locally when you want to refresh heatmap data
 
 ### Scripts Overview
 
