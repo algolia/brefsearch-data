@@ -1,6 +1,6 @@
 /**
  * Add a new episode to the input directory
- * Usage: node scripts/setup/add-episode.js <videoId> <basename>
+ * Usage: node scripts/setup/add-episode.js <videoId> <slug>
  */
 import { absolute, firostError, readJsonUrl, writeJson } from 'firost';
 import { _ } from 'golgoth';
@@ -8,10 +8,10 @@ import config from '../../lib/config.js';
 import { getInputDir } from '../../lib/paths.js';
 
 const videoId = process.argv[2];
-const basename = process.argv[3];
+const slug = process.argv[3];
 
-if (!videoId || !basename) {
-  console.log('Usage: node scripts/setup/add-episode.js <videoId> <basename>');
+if (!videoId || !slug) {
+  console.log('Usage: node scripts/setup/add-episode.js <videoId> <slug>');
   process.exit(1);
 }
 
@@ -36,7 +36,6 @@ if (!response.items || response.items.length === 0) {
 
 const video = response.items[0];
 const name = video.snippet.title;
-const slug = _.camelCase(name);
 
 // Parse ISO 8601 duration (PT1M48S) to M:SS format
 const isoDuration = video.contentDetails.duration;
@@ -46,7 +45,7 @@ const seconds = parseInt(match[2] || 0);
 const duration = `${minutes}:${_.padStart(seconds, 2, '0')}`;
 
 // Create episode directory
-const episodeDir = absolute(getInputDir(), basename);
+const episodeDir = absolute(getInputDir(), slug);
 
 // Create metadata.json
 const metadata = {

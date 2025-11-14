@@ -7,7 +7,6 @@ import { exists, firostError, readJson, writeJson } from 'firost';
 import { _ } from 'golgoth';
 import { forEachEpisode } from '../../lib/helper.js';
 import {
-  getBasename,
   getEpisodePath,
   getHeatmapPath,
   getMediaPath,
@@ -21,14 +20,11 @@ const files = process.argv.slice(2);
 
 await forEachEpisode(
   async (episode) => {
-    const basename = getBasename(episode);
-
     const data = {};
 
     // Add .episode key
     data.episode = {
       ...episode,
-      basename,
     };
 
     // View count (validate existence)

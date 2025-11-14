@@ -9,7 +9,6 @@ import { _, pMap } from 'golgoth';
 import { dimensions, lqip } from 'imoen';
 import { forEachEpisode } from '../../lib/helper.js';
 import {
-  getBasename,
   getComputedDir,
   getMediaPath,
   getMediaRepoDir,
@@ -87,9 +86,8 @@ await forEachEpisode(
 );
 
 async function createSymlinks(episode) {
-  const basename = getBasename(episode);
-  const mediaThumbnails = `${mediaRepoDir}/${basename}/thumbnails`;
-  const mediaPreviews = `${mediaRepoDir}/${basename}/previews`;
+  const mediaThumbnails = `${mediaRepoDir}/${episode.slug}/thumbnails`;
+  const mediaPreviews = `${mediaRepoDir}/${episode.slug}/previews`;
 
   const computedThumbnails = getThumbnailsDir(episode);
   const computedPreviews = getPreviewsDir(episode);
