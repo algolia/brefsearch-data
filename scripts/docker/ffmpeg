@@ -3,8 +3,17 @@
 
 set -e
 
-# Run ffmpeg in Docker, passing all arguments
+# Get git root directory
+GIT_ROOT=$(git rev-parse --show-toplevel)
+
+# Get media repository directory (sibling to current repo)
+PARENT_DIR=$(dirname "$GIT_ROOT")
+MEDIA_ROOT="$PARENT_DIR/brefsearch-media"
+
+# Run ffmpeg in Docker, mounting both repos explicitly
 docker run --rm \
-  -v "$(pwd):/data" \
+  -v "$GIT_ROOT:/workspace/brefsearch-data" \
+  -v "$MEDIA_ROOT:/workspace/brefsearch-media" \
+  -w /workspace/brefsearch-data \
   brefsearch-tools \
   "ffmpeg $*"

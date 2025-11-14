@@ -24,7 +24,7 @@
   "scripts": {
     "setup:add-episode": "node ./scripts/setup/add-episode.js",
     "setup:download-audio": "node ./scripts/setup/download-audio.js",
-    "setup:download-videos": "./scripts/setup/download-videos",
+    "setup:download-video": "node ./scripts/setup/download-video.js",
     "update:viewcount": "node ./scripts/update/viewcount.js",
     "update:heatmap": "node ./scripts/update/heatmap.js",
     "update:media": "node ./scripts/update/media.js",

@@ -4,7 +4,7 @@
  * Creates symlinks to brefsearch-media repository
  * Usage: yarn run generate:media [metadata.json files...]
  */
-import { exists, symlink, writeJson } from 'firost';
+import { exists, mkdirp, symlink, writeJson } from 'firost';
 import { _, pMap } from 'golgoth';
 import { dimensions, lqip } from 'imoen';
 import { forEachEpisode } from '../../lib/helper.js';
@@ -30,16 +30,16 @@ const mediaRepoDir = getMediaRepoDir();
 
 await forEachEpisode(
   async (episode) => {
-    // Add symlinks to brefsearch-media
-    await createSymlinks(episode);
-
     // Get all timestamps that need a media
     const subtitles = await getSubtitles(episode);
     const timestamps = _.chain(subtitles).map('start').uniq().sortBy().value();
 
     // Create media.json content
     const media = {};
-    const computedDir = getComputedDir(episode);
+    const computedDir = getComputedDir();
+
+    // Add symlinks to brefsearch-media
+    await createSymlinks(episode);
 
     await pMap(
       timestamps,
@@ -86,12 +86,21 @@ await forEachEpisode(
 );
 
 async function createSymlinks(episode) {
+  // Create destination directories in media repo
   const mediaThumbnails = `${mediaRepoDir}/${episode.slug}/thumbnails`;
   const mediaPreviews = `${mediaRepoDir}/${episode.slug}/previews`;
 
+  await mkdirp(mediaThumbnails);
+  await mkdirp(mediaPreviews);
+
+  // Create relative symlinks from computed to media
+  // data/computed/{episode}/thumbnails -> ../../../../brefsearch-media/media/{episode}/thumbnails
   const computedThumbnails = getThumbnailsDir(episode);
   const computedPreviews = getPreviewsDir(episode);
 
-  await symlink(computedThumbnails, mediaThumbnails);
-  await symlink(computedPreviews, mediaPreviews);
+  const relativeThumbnails = `../../../../brefsearch-media/media/${episode.slug}/thumbnails`;
+  const relativePreviews = `../../../../brefsearch-media/media/${episode.slug}/previews`;
+
+  await symlink(computedThumbnails, relativeThumbnails);
+  await symlink(computedPreviews, relativePreviews);
 }
