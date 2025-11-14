@@ -1,0 +1,119 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.720
+Bref, l'autre fois j'ai eu une idée et je me suis dit que ce serait trop cool de tester
+
+00:00:04.720 --> 00:00:06.120
+mon appli avant la mise en prod.
+
+00:00:06.120 --> 00:00:09.280
+J'ai testé une fois à la main et ça a marché, j'ai testé deux fois à la main
+
+00:00:09.280 --> 00:00:10.280
+et ça a marché.
+
+00:00:10.280 --> 00:00:12.680
+J'ai voulu tester plein de fois avec plein de mains mais on a dit que ça allait coûter
+
+00:00:12.680 --> 00:00:14.000
+trop cher et prendre trop de temps.
+
+00:00:14.000 --> 00:00:15.240
+Du coup, j'avais un problème.
+
+00:00:15.240 --> 00:00:18.639
+Quand j'ai un problème, je vais toujours voir mon pote qui est toujours là pour m'aider
+
+00:00:18.639 --> 00:00:21.639
+et je lui ai demandé comment est-ce que je peux simuler une charge de plein d'utilisateurs
+
+00:00:21.639 --> 00:00:22.639
+sans que ça coûte une blinde.
+
+00:00:22.639 --> 00:00:24.320
+Il m'a dit fais du test de charge.
+
+00:00:24.320 --> 00:00:27.799
+Je lui ai dit c'est quoi un test de charge et il m'a répondu un truc que j'ai pas compris.
+
+00:00:28.600 --> 00:00:32.400
+Je l'ai regardé, il m'a regardé, je l'ai regardé, il m'a regardé.
+
+00:00:32.400 --> 00:00:36.160
+Je lui ai dit fais plus simple et plus court et là il m'a expliqué et il m'a dit ça
+
+00:00:36.160 --> 00:00:40.000
+te permet de simuler une charge avec plein d'utilisateurs virtuels et du coup c'est
+
+00:00:40.000 --> 00:00:41.000
+trop bien.
+
+00:00:41.000 --> 00:00:42.000
+Du coup, j'avais trouvé ma solution.
+
+00:00:42.000 --> 00:00:47.240
+Bref, quand j'ai commencé le test de charge, mon pote m'a dit il faut comprendre trois
+
+00:00:47.240 --> 00:00:48.240
+trucs.
+
+00:00:48.240 --> 00:00:50.599
+Le scénario, le protocole et le profil d'injection.
+
+00:00:50.599 --> 00:00:53.400
+Le scénario, c'est la liste des étapes que je veux tester.
+
+00:00:53.400 --> 00:00:56.680
+Sauf que les étapes, c'est pas des étapes, c'est des actions.
+
+00:00:56.680 --> 00:01:00.240
+Les actions, ça peut être un collage TTP, une pause, une boucle, un message WebSocket,
+
+00:01:00.240 --> 00:01:01.880
+un événement et plein d'autres trucs.
+
+00:01:01.880 --> 00:01:03.279
+Ça, c'était pour le scénario.
+
+00:01:03.279 --> 00:01:05.400
+Pour le protocole, c'était un truc un peu compliqué.
+
+00:01:05.400 --> 00:01:07.760
+Je croyais que c'était un REST Client, mais c'était pas ça.
+
+00:01:07.760 --> 00:01:11.000
+C'était un REST Client super misclé qui permettait d'ajouter plein d'utilisateurs.
+
+00:01:11.000 --> 00:01:14.440
+Et quand j'ai demandé à mon pote pour le profil d'injection, il m'a dit c'est la
+
+00:01:14.440 --> 00:01:16.120
+stratégie d'arrivée de mes utilisateurs.
+
+00:01:16.120 --> 00:01:17.120
+J'ai pas compris.
+
+00:01:17.120 --> 00:01:19.959
+Du coup, il m'a dit c'est comme le matin dans le métro.
+
+00:01:19.959 --> 00:01:22.519
+J'ai trouvé ça drôle, mais j'ai toujours pas compris.
+
+00:01:23.040 --> 00:01:24.040
+Du coup, il m'a expliqué.
+
+00:01:24.040 --> 00:01:27.320
+C'est pas du tout pareil si tout le monde arrive en même temps dans le métro ou si
+
+00:01:27.320 --> 00:01:30.080
+tout le monde arrive deux par deux au fur et à mesure ou si tout le monde arrive deux
+
+00:01:30.080 --> 00:01:32.000
+par deux au fur et à mesure de plus en plus rapidement.
+
+00:01:32.000 --> 00:01:33.800
+Et j'ai compris le profil d'injection.
+
+00:01:33.800 --> 00:01:36.120
+Bref, on va faire un test de charge ensemble.
+
