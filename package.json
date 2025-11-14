@@ -22,6 +22,7 @@
     "imoen": "2.0.0"
   },
   "scripts": {
+    "setup:add-episode": "node ./scripts/setup/add-episode.js",
     "setup:download-videos": "./scripts/setup/download-videos",
     "update:viewcount": "node ./scripts/update/viewcount.js",
     "update:heatmap": "node ./scripts/update/heatmap.js",
