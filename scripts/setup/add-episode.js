@@ -3,7 +3,7 @@
  * Usage: node scripts/setup/add-episode.js <videoId> <basename>
  */
 import { absolute, firostError, readJsonUrl, writeJson } from 'firost';
-import { _, dayjs } from 'golgoth';
+import { _ } from 'golgoth';
 import config from '../../lib/config.js';
 import { getInputDir } from '../../lib/paths.js';
 
@@ -40,9 +40,9 @@ const slug = _.camelCase(name);
 
 // Parse ISO 8601 duration (PT1M48S) to M:SS format
 const isoDuration = video.contentDetails.duration;
-const parsed = dayjs.duration(isoDuration);
-const minutes = parsed.minutes();
-const seconds = parsed.seconds();
+const match = isoDuration.match(/PT(?:(\d+)M)?(?:(\d+)S)?/);
+const minutes = parseInt(match[1] || 0);
+const seconds = parseInt(match[2] || 0);
 const duration = `${minutes}:${_.padStart(seconds, 2, '0')}`;
 
 // Create episode directory
@@ -58,4 +58,4 @@ const metadata = {
 };
 
 const metadataPath = absolute(episodeDir, 'metadata.json');
-await writeJson(metadata, metadataPath);
+await writeJson(metadata, metadataPath, { sort: false });
