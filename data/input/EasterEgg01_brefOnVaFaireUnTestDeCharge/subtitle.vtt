@@ -25,28 +25,29 @@ Du coup, j'avais un problème.
 Quand j'ai un problème, je vais toujours voir mon pote qui est toujours là pour m'aider
 
 00:00:18.639 --> 00:00:21.639
-et je lui ai demandé comment est-ce que je peux simuler une charge de plein d'utilisateurs
+et je lui ai demandé "Comment est-ce que je peux simuler une charge de plein d'utilisateurs
 
 00:00:21.639 --> 00:00:22.639
-sans que ça coûte une blinde.
+sans que ça coûte une blinde ?"
 
 00:00:22.639 --> 00:00:24.320
-Il m'a dit fais du test de charge.
+Il m'a dit "Fais du test de charge."
 
 00:00:24.320 --> 00:00:27.799
-Je lui ai dit c'est quoi un test de charge et il m'a répondu un truc que j'ai pas compris.
+Je lui ai dit "C'est quoi un test de charge ?" et il m'a répondu un truc que j'ai pas compris.
 
 00:00:28.600 --> 00:00:32.400
 Je l'ai regardé, il m'a regardé, je l'ai regardé, il m'a regardé.
 
 00:00:32.400 --> 00:00:36.160
-Je lui ai dit fais plus simple et plus court et là il m'a expliqué et il m'a dit ça
+Je lui ai dit fais plus simple et plus court et là il m'a expliqué et il m'a dit
+"Ça
 
 00:00:36.160 --> 00:00:40.000
 te permet de simuler une charge avec plein d'utilisateurs virtuels et du coup c'est
 
 00:00:40.000 --> 00:00:41.000
-trop bien.
+trop bien."
 
 00:00:41.000 --> 00:00:42.000
 Du coup, j'avais trouvé ma solution.
@@ -67,7 +68,7 @@ Le scénario, c'est la liste des étapes que je veux tester.
 Sauf que les étapes, c'est pas des étapes, c'est des actions.
 
 00:00:56.680 --> 00:01:00.240
-Les actions, ça peut être un collage TTP, une pause, une boucle, un message WebSocket,
+Les actions, ça peut être un call HTTP, une pause, une boucle, un message WebSocket,
 
 00:01:00.240 --> 00:01:01.880
 un événement et plein d'autres trucs.
@@ -82,19 +83,19 @@ Pour le protocole, c'était un truc un peu compliqué.
 Je croyais que c'était un REST Client, mais c'était pas ça.
 
 00:01:07.760 --> 00:01:11.000
-C'était un REST Client super misclé qui permettait d'ajouter plein d'utilisateurs.
+C'était un REST Client super musclé qui permettait d'ajouter plein d'utilisateurs.
 
 00:01:11.000 --> 00:01:14.440
-Et quand j'ai demandé à mon pote pour le profil d'injection, il m'a dit c'est la
+Et quand j'ai demandé à mon pote pour le profil d'injection, il m'a dit "C'est la
 
 00:01:14.440 --> 00:01:16.120
-stratégie d'arrivée de mes utilisateurs.
+stratégie d'arrivée de mes utilisateurs."
 
 00:01:16.120 --> 00:01:17.120
 J'ai pas compris.
 
 00:01:17.120 --> 00:01:19.959
-Du coup, il m'a dit c'est comme le matin dans le métro.
+Du coup, il m'a dit "C'est comme le matin dans le métro."
 
 00:01:19.959 --> 00:01:22.519
 J'ai trouvé ça drôle, mais j'ai toujours pas compris.
@@ -116,4 +117,3 @@ Et j'ai compris le profil d'injection.
 
 00:01:33.800 --> 00:01:36.120
 Bref, on va faire un test de charge ensemble.
-
