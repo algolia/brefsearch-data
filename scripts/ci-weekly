@@ -16,7 +16,7 @@ echo ""
 echo "3/ Commit changes"
 TIMESTAMP=$(date +"%Y-%m-%d")
 git add data/computed/ data/output/
-git commit -m "chore(viewcount): update viewcount [${TIMESTAMP}]"
+git commit -m "chore(viewcount): weekly update [${TIMESTAMP}]"
 echo ""
 
 # 4. Deploy to Algolia
