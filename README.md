@@ -98,6 +98,21 @@ yarn deploy:algolia          # Push records to Algolia index
 yarn deploy:media            # Sync media assets to CDN
 ```
 
+**Processing specific episodes:**
+
+All scripts that process episodes accept optional metadata.json file paths. If provided, only those episodes will be processed. If no files are specified, all episodes are processed.
+
+```bash
+# Process a single episode
+yarn update:viewcount data/input/S01E01_brefJaiDragueCetteFille/metadata.json
+yarn update:heatmap data/input/S01E01_brefJaiDragueCetteFille/metadata.json
+yarn update:media data/input/S01E01_brefJaiDragueCetteFille/metadata.json
+yarn generate:episodes data/input/S01E01_brefJaiDragueCetteFille/metadata.json
+
+# Process multiple episodes
+yarn update:viewcount data/input/S01E1*/metadata.json
+```
+
 ### Environment Variables
 
 Different scripts require different credentials:
