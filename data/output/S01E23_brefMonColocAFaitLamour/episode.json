@@ -1,11 +1,10 @@
 {
   "episode": {
-    "basename": "S01E23_brefMonColocAFaitLamour",
     "duration": "1:47",
     "id": "2u0BYLUyyBI",
     "index": 23,
     "name": "Bref. Mon coloc' a fait l'amour.",
-    "slug": "brefMonColocAFaitLamour",
+    "slug": "S01E23_brefMonColocAFaitLamour",
     "viewCount": 12409743
   },
   "subtitles": [

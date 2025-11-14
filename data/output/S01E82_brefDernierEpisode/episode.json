@@ -1,11 +1,10 @@
 {
   "episode": {
-    "basename": "S01E82_brefDernierEpisode",
     "duration": "1:58",
     "id": "1cZ_H0rgwCU",
     "index": 82,
     "name": "Bref. Dernier épisode.",
-    "slug": "brefDernierEpisode",
+    "slug": "S01E82_brefDernierEpisode",
     "viewCount": 7656012
   },
   "subtitles": [

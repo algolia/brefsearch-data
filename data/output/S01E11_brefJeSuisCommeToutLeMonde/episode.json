@@ -1,11 +1,10 @@
 {
   "episode": {
-    "basename": "S01E11_brefJeSuisCommeToutLeMonde",
     "duration": "1:31",
     "id": "tkMoSaUMsiM",
     "index": 11,
     "name": "Bref. Je suis comme tout le monde.",
-    "slug": "brefJeSuisCommeToutLeMonde",
+    "slug": "S01E11_brefJeSuisCommeToutLeMonde",
     "viewCount": 8698779
   },
   "subtitles": [

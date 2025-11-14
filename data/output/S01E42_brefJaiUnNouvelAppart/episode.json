@@ -1,11 +1,10 @@
 {
   "episode": {
-    "basename": "S01E42_brefJaiUnNouvelAppart",
     "duration": "2:01",
     "id": "c-51sCEAiCg",
     "index": 42,
     "name": "Bref. J'ai un nouvel appart.",
-    "slug": "brefJaiUnNouvelAppart",
+    "slug": "S01E42_brefJaiUnNouvelAppart",
     "viewCount": 8058369
   },
   "subtitles": [

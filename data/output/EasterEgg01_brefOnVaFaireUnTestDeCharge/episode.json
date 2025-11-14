@@ -1,0 +1,402 @@
+{
+  "episode": {
+    "duration": "1:44",
+    "id": "RbC7S4WgxCw",
+    "index": null,
+    "name": "Bref. On va faire un test de charge.",
+    "slug": "EasterEgg01_brefOnVaFaireUnTestDeCharge",
+    "viewCount": 11
+  },
+  "subtitles": [
+    {
+      "content": "Bref, l'autre fois j'ai eu une idée et je me suis dit que ce serait trop cool de tester\nmon appli avant la mise en prod.",
+      "index": 0,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAADklEQVR4nGNgGAVDEgAAAbkAAftY4pIAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/000.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/000.png",
+        "width": 640
+      },
+      "mostReplayedScore": 1,
+      "start": 0
+    },
+    {
+      "content": "J'ai testé une fois à la main et ça a marché, j'ai testé deux fois à la main\net ça a marché.",
+      "index": 1,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA00lEQVR4nGPg4GRjJwUxoPE5uNjREDt+DcyszMyszCwQko2FmZUJpwY2DlYOTjZ1DWUVNSUFJVllFQVZeWktbTVObg4IwqJBSkbSwtLExMxAR0/TxNTQxs7S1t6Kl5+HkZGRmYUZ4jwGdk6EKwWE+PgFefkF+Xj4uDW1Ndo6Wjdu3jBhUv/8hfPMLc0YGBk4uTlQNLBxsLKys7Cyg0gTU+NVa1b+/vv75KkTrW0tjk4ODAwYGpDDysHJPiEpPi0jNT4xjoeXh4UVm5NQQoORAQ6QxQH2Iibn43MWPQAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/006.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/006.png",
+        "width": 640
+      },
+      "mostReplayedScore": 1,
+      "start": 6
+    },
+    {
+      "content": "J'ai voulu tester plein de fois avec plein de mains mais on a dit que ça allait coûter\ntrop cher et prendre trop de temps.",
+      "index": 2,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPElEQVR4nGPg4GRj52Rj42AVFBKwd7RLTU+xtrWytrWWkZZmB0uxoyIGiAZ2TjZefp7I6IgHj+4/fvLo+Kljs5fP5uLlYudk4+BiR9EAEWJmZdLQUm9qady1d+fhw4cjEsMVG5XY+dmZmZmwaIA4iYePR1hUSFtXQ99AR0tHXUlTXlZBSktbjZObA4JQNLBzsrGys0hIiZmZGxkZ62lpq5mYGNrYWdjaW/Hy8zAyMjKzMHNwsbNxsCI0sHOyCQjx8wvyCQgJ8PBxa+lotHW0bty8YcLk/nmz5poZmjEwM3BwsaNoYONgZWVnYWVnZWVnNTE1XrVm5e9/v08cPtGxtsM5x4mBgYGThwNFAxxxcLE7ONknJMWnZ6bFRcSK2ony2PKyMbKycyH5AT28GRmggJGBlYWFjQWkmp2DFQDzvT1t+I+RuwAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/010.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/010.png",
+        "width": 640
+      },
+      "mostReplayedScore": 1,
+      "start": 10
+    },
+    {
+      "content": "Du coup, j'avais un problème.",
+      "index": 3,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABjUlEQVR4nGNg52RnZWcREhGyc3QIiwgvKC6KS4z39vW2d7AJcDFzsbfwDvBz9XAzNjPl4GJn52Rj4OTmYGBgMLe2vH7vwf2nzx89f/Xw+cvmjsnGhg5nNs3cumBiem7d7Ucv9h09yc3LxcrOAtVgaWN1896Da3fv3X/6dOX6rUxMogwMEvyCBiKi2gwMbMmZjScvXuHiQdJgZWN9++Hju0+efvj2rbN/FgODrJqum7VHmophEAODVmBEwalLV7l5uREarO1snrx68/zdh7///9e3TGJg4LW2cJ43e15YUhUDg5K7T/LJS9d5+JA02NjZPHvz7vWnr7///1+xcb+FheeK/upn53eoWcYwMIjZO4YcOnWBl58HocHWwfbVh0/vv33/+P37s/eft61b9vPGtncnN+hbxTAwiLp6RB49exlJAxODnoHemk2b127ZunrTpo3bt1rZ+yopm9hZuXPx6TAw8Lu4+U+bM58b4ml2TjYI4uBihyM2DjZGJiYGRkZWdhZ2TjZuHg5Obg6IMgAeoZCAO5geiwAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/014.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/014.png",
+        "width": 640
+      },
+      "mostReplayedScore": 1,
+      "start": 14
+    },
+    {
+      "content": "Quand j'ai un problème, je vais toujours voir mon pote qui est toujours là pour m'aider\net je lui ai demandé comment est-ce que je peux simuler une charge de plein d'utilisateurs",
+      "index": 4,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABsklEQVR4nGNg52Rn42BlZGZk52STlJZQUVNWUtHU1dfV0dPW0tFUVlUSFRdhY2dlZmFiY2dl52Rj4OBiZ2FjYWJmkpGTNre0jI713rQxND4xwD8wIDDYz9XN2djUUFxSlIGBgZWNhZ0LrIGZlYmHl8vU3NjJxTEoxPPAvpz8guSI6JjCkpL8wsLU9PTo2BgDI0NmFmYOLnYGdk6QDda2tvFJiYUlRdl5+Tl5JWWVFb3d9TWlcaVF8UkJfqFBjnbmajzcLGycbAxsnOzc3Kz2lpqZyQF1lamdzTnFJXmpGZml+ZE1lRn9zdUd6ZFBjqaCwjzs7CzsnOwM7FzsrGzMwsI8lpaGPr4euane6WmxCckpJXnRMXGhNRnJT6c13q6Nd9ZRYmBg4OJmB3ualZmVnVVNU83a3jEhyi06KjAwNCwlISAqzMfSyakpyuP/4oJQY5AGbh4OkA0sbCwMDAwCQvyqGup+7sbeXo7uXl7R4e5+3vZmlpaq6kq7J/TPn71bUEyKlY0J5GlWdlA8gMKKn1dDRUJNTUFZTdVAT1ldTV5MUoyPnyc4uqqpZ7uuoTUDEwMAeAVeZcqtUckAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/015.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/015.png",
+        "width": 640
+      },
+      "mostReplayedScore": 1,
+      "start": 15
+    },
+    {
+      "content": "sans que ça coûte une blinde.",
+      "index": 5,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAiElEQVR4nJ2QTQ6CQAyFSez/lHgDoYwL44h6/9MZHAIaXSjJly6a99rXNqzMSr/TbDBQhQRfQYYFEmDFqpk3AO3ERJM+q5hbatOCuSFPU+ZIyMDC53Iab5cylut97OIQOYZjRO4jRz907d4nWTWQIBCYqyY1N3P9SEhV/fUGqKvfWTtbvvSf4QHZ+BAMPKyZNAAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/021.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/021.png",
+        "width": 640
+      },
+      "mostReplayedScore": 1,
+      "start": 21
+    },
+    {
+      "content": "Il m'a dit fais du test de charge.",
+      "index": 6,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAkElEQVR4nJWPWwrDQAhFA1GvOhO6gyaT9KM0Tdv9r65MXh3oTwIHhYsHtYKJKB+nOi2IrgKDSgg1oybJMKjcAJiQ1OpqweaqHj00YcejMxjGMMkCg6B4jPfp/Ryn8fWZ2nTth9TfUhq6NKSub5tLnJ1ZEGUS8mgWzKN7tL/HZJlehNyKiXzuHm6sye+H45wWvh+eD4tpHlD7AAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/022.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/022.png",
+        "width": 640
+      },
+      "mostReplayedScore": 2,
+      "start": 22
+    },
+    {
+      "content": "Je lui ai dit c'est quoi un test de charge et il m'a répondu un truc que j'ai pas compris.",
+      "index": 7,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAmUlEQVR4nJ2QyxKCMAxFqzTNo9SK7oXQlYod/v/rHLSgbnB05iyyOcnNNcjuJ8z/giN4B9AuOLLI8CFYV5EgeyIh9iS1+OAXpBbAaUsRAKfpMpzzeBvyNY+51ZMm7ZNq6jRp17ch1oC2CI6hstMFknLhkfDFHHiO5Ah88M1h3xwbFjZmrYkisNAuhhADCW7t5ntLSy3Pz1aEO/0NEE8wiZGrAAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/024.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/024.png",
+        "width": 640
+      },
+      "mostReplayedScore": 2,
+      "start": 24
+    },
+    {
+      "content": "Je l'ai regardé, il m'a regardé, je l'ai regardé, il m'a regardé.",
+      "index": 8,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABPUlEQVR4nGWRvUoDQRSF7/zPzm7WzO5OZjcxURBxDQQb01mKWNimFRRFbIKVtVjFEA1C8Och7NKohU8g6INYWiuzRtR4+YoL55zmHBAe/4MS0pdSCYfvSSWnDDDl5owwggjFCCOCgFHMJGViApcMKCeEYQcnGIGq5zOLq416LW+tVNsbwVwzDL1Qh2G5FJZLLoAJguIQoQDQ6JzsDx+u+r1u93h7/D6/M9QemMwmlcRY4wIq8Iw1NrUmtWWF2we9+5e3x+vR2vpu5+mjtTcIGMS2omMtlUQYIEp0vryUN/OsVvUl2jo6ux0/31xe9M9Hp3evC5uHusRNao1NoiTCFAGX7AvKCSCI4ni2VtdJFMdRmmVeECACmGJMEWGICfrTklTC8yUTxAmcUPdgIdmk4oJ/tX4nC3gxgjP93uETVQYrUTZ7594AAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/028.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/028.png",
+        "width": 640
+      },
+      "mostReplayedScore": 2,
+      "start": 28
+    },
+    {
+      "content": "Je lui ai dit fais plus simple et plus court et là il m'a expliqué et il m'a dit ça\nte permet de simuler une charge avec plein d'utilisateurs virtuels et du coup c'est",
+      "index": 9,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABR0lEQVR4nE2Ry07CUBCG59wvbenp4bRFY1xwCyJiQONK0JUYN+rLeHkJX0EixpWRWBL1oTTudOHGlEZk8i8mk/9PZr4BqYRQvJDy5KIvJLWQ+t8gFIdFgEuGMHDJltyccoowYpIxQZmgXDKgnBCGMcVcsmqjKiTHFBGGCcOIgLGm1qh6gQ6jUskEeQATRAgBgNHo6Of7azAcAACZFwBcXl18fL7XmzVjTVJJuOSgPZVU0igyvb2dm8fJRqcdWZOkcZzGQomz89Pp8zRdSY01SiuEAayLWu1WvVFrbrWvn8auksSJc3MpTw0Ph9kss866xJXjMqYov1JqAQi2e9231xcThflKDFOer9Tf7WezLPwbMkGhoAkAg4P927txp7uJCGhfaV9hio5PRvcPk7X1VcJwAT0PFEz9khdZ4wV6mXoQ+saGy6/4BfYbLQe97nw/AAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/032.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/032.png",
+        "width": 640
+      },
+      "mostReplayedScore": 2,
+      "start": 32
+    },
+    {
+      "content": "trop bien.",
+      "index": 10,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAoUlEQVR4nJWQjQrCMAyEh8tfi6TJispW9/6vKe3c5kRE4aPl2gvHpZNA/J3YWGW3XBJZIm+vUh1VIsMrJNix4CoOf8gACLfxWuapzKXM03QfW4JQck2uahXPZp5sSJ49mabB8iV7dg4Uz6EmSGA1tcHUlIVJqMLEQsgIBEgICD2eOGBNWBwc6gkEQP1HFs9eeuva2j930Kq/7+Mw8At/DzwA49IOUBsQNMEAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/040.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/040.png",
+        "width": 640
+      },
+      "mostReplayedScore": 2,
+      "start": 40
+    },
+    {
+      "content": "Du coup, j'avais trouvé ma solution.",
+      "index": 11,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABvUlEQVR4nGNgZWdhYWNmYmZk52STlJZQUVNWUtHU1dfR0dPW0tFUVlUSFRdhZWdlYmFi52Bj42BlYGJmYmAAkTJyUuaWltGx3ps2hsQnBvoHBgQG+7m6ORubGopLijIwMAgJC3JyczCwsbOysrHy8HKbmhs7OTsGhXju35eTX5AcER1TWFKcV1iYmp4WHRtjYGQEMpeFiUFIWEhCUsLSxjo+MbGwpCg7ryAnr6S8sqK3u6GmNK60MC4x0S802NHeXE1IgIuRmZmBl59PXEzA3kIjIzmgrjK1szm3uCQvNTOjtCCqpjKzv7m6IzMqyNFMUIiHm4eDhY2VAeQhZgZhYR5LC0MfX8/cVO/0tNiE5OSSvOiYuNCajJQn0xrv1MU5aSuycnNzcXMwcHJz8PDysLCxqmmqWds7JkS5RUcFBoWGpST4R4b5WDo5NUV5/F+UH2qszMDAwMXNzsDBxc7Ny83AyCAgxKeqoeHnbuzt5ejm5Rkd7ubnbW9maammrrR7Qt/82buFxKVZ2ZkY2DjYmFmZmJiZmFmZePh4NVQl1NQUlFVVDPSUNdTkxCXF+Ph5gmMqm3q36xpaMzAxAAD6iF8KCdy47AAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/041.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/041.png",
+        "width": 640
+      },
+      "mostReplayedScore": 2,
+      "start": 41
+    },
+    {
+      "content": "Bref, quand j'ai commencé le test de charge, mon pote m'a dit il faut comprendre trois\ntrucs.",
+      "index": 12,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAKUlEQVR4nGNgJBEwDJAGZjAiSgMTSIhBjJlVnImFgZGBifo2EAS01wAAqOEB7ANYF+sAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/042.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/042.png",
+        "width": 640
+      },
+      "mostReplayedScore": 3,
+      "start": 42
+    },
+    {
+      "content": "Le scénario, le protocole et le profil d'injection.",
+      "index": 13,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAnElEQVR4nJWP3QrCMAxGR5ufpi1lTkUEp9ucAxG8UC/0/V9MtmkR6UDhI4TASU4yNkhDWIiENCogPU6SyWKnQQHBfDELuUeGSYCH3QpU1ZT3x+V6O6/WS42KZRogg8iQFyEvgkaNDL3ee05JgAd7FtpWm0PXtF29q8t9Wx9PnXXmE3sB8W9xRpyxXqzvqw8uXksAo8NX0kq/52/gCW4zDsTAONrzAAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/048.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/048.png",
+        "width": 640
+      },
+      "mostReplayedScore": 3,
+      "start": 48
+    },
+    {
+      "content": "Le scénario, c'est la liste des étapes que je veux tester.",
+      "index": 14,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA50lEQVR4nH2P606DQBBGy9x2txCC2LosVKSoraFmbaCm+v4vZmBNrU01OT9mJjkz882UZplQRsQIMpBgmCABUHRqA7NThQQkdLu4SbOEBE2s/b6rmyrNkl+CMqKMAEPT3n989sPBW7dEBtG8sHm32xyPvassMowvjMLksaIsT7M8JUZWpOeiDJNQBBELmVifXQgBNIcd5apYt3X7+LCqy6atty/P88Scx/gWAibWZVW4yhZu6SrrSuvKu/DJFYHVeNq/7frBP23Ww/u+P/judfunEAAEIEAGQIwwAhrT/ycoI1PiHy6EL8/fFEMVWZ1AAAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/050.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/050.png",
+        "width": 640
+      },
+      "mostReplayedScore": 3,
+      "start": 50
+    },
+    {
+      "content": "Sauf que les étapes, c'est pas des étapes, c'est des actions.",
+      "index": 15,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAqklEQVR4nI2Q7wqCQBDEPW9v985TL/FLGN4VQhkpFVgU9AY9Ru/Q8wca/QG1YD4t82NmxyMpsBUpJIWAHBC6S6+8F8AFFwhJasJYCxpkPEEgCHxg1mWH4+50bnKXceGTwn4g0NIYrSO9XBWbqtzua7ewgHwwoXDT++1a1Ws7z3M7S9KJ0nLshzBSl6aMjSaFHPyR9k8ASTDGOl/bu7/610oy+DT9YN6z/qkH/AERJg8HZkMAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/053.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/053.png",
+        "width": 640
+      },
+      "mostReplayedScore": 3,
+      "start": 53
+    },
+    {
+      "content": "Les actions, ça peut être un collage TTP, une pause, une boucle, un message WebSocket,\nun événement et plein d'autres trucs.",
+      "index": 16,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAzUlEQVR4nI2QS2sCQRCEd52u7p7tbEZ8gFHHlYguPvEg5pQcPPo38h/y+4MTCT6SEKhb1UcVlYkyK1ghnsUzwYFJFBBAiJW+3G9lZ8DDpWizEywYsfMmVooWfAtAQEINymM12L9s3/a72TAW5vvD9mIZe4NW6rkACtMQCittWk/Wq/mh3i6fRlBoWij+ruG56n28H9ebeTWOcdQP3SAPCj55uI6eASv9665+DMZeHDXAxKcNnPQTwII8zyAuHSW/5S4A5esr/gH8nbgBPgFKHxIzvYV71AAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/056.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/056.png",
+        "width": 640
+      },
+      "mostReplayedScore": 3,
+      "start": 56
+    },
+    {
+      "content": "Ça, c'était pour le scénario.",
+      "index": 17,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA6ElEQVR4nH2Qy06DUBCGgTOXc6EeBLFaOGBsyqUU00XDrjs3PocP4esbIBbDosm3++fLPzMeS6QJVsSKAAUSsETkkTmif3g3QUyj0ZM11gAJqVkbZkVrARmAIQDfldkwnK/DpXJOG5nlSdfnmUvm8kXQRlqrw42u6n1/aj6r82lXCIbH2LbHqijzQPhAYhHey+3P91f/0RZvzhU7m0YcSoEiim3XNYd6//L6nG6TW4kXbtT1Uj9YM54BARIQI9Ao1O2hOVZJGisjlwZi9H0fGVa7siKpx6ORYU7/BIlSr19xh1G4C00swi+7wxU4H3BPlwAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/061.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/061.png",
+        "width": 640
+      },
+      "mostReplayedScore": 3,
+      "start": 61
+    },
+    {
+      "content": "Pour le protocole, c'était un truc un peu compliqué.",
+      "index": 18,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAqElEQVR4nJXP2wqCQBQFUHXOZcZRB/EhMMbpAlmUYXQBH/qAvqOP6PfDhEBQI9hPh73gbI8l0iesiBUBCSDRXQbjfYFAgQRpZqJEI8MoQAZgCMC3bn691U1zti4XGLCiYRBqaUyo43BTrveHbX2q3NICCZYjYOVmr+ejOu6KhbVFnmZGaYkTG6JY3S9lYnQ7AwIgmGi3gBh93+9Wjv3dBxJl+LvXA3/lDe9aERU7DaHDAAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/063.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/063.png",
+        "width": 640
+      },
+      "mostReplayedScore": 4,
+      "start": 63
+    },
+    {
+      "content": "Je croyais que c'était un REST Client, mais c'était pas ça.",
+      "index": 19,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA0klEQVR4nJWP20rDQBCGd3eOm226liDB1k2qgrFHItViL3wAn8OH8PVFFxIKogjfzQz/NwcjSvyNeBbPyIAMuQPoHNihzJhBAAJinFWxjAEZfNB9v2mW19OLyZlAgijo0KZ28XzsT6dDaudAjpUu62q97Y4vh6tFDeTE85dQBI2xCGVx391ttg/94669ScggnoGcdYYYfdBxw21bf7y/7farZplSM59V0Qel8TFhZRIchUnpX5+6aQz5S2Qc0j9iWMham2fkK3/HsJIWf+fOhH/xCX9hExZy3aeoAAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/065.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/065.png",
+        "width": 640
+      },
+      "mostReplayedScore": 4,
+      "start": 65
+    },
+    {
+      "content": "C'était un REST Client super misclé qui permettait d'ajouter plein d'utilisateurs.",
+      "index": 20,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA3ElEQVR4nI2QaU4CQRCFp7uW3mamwZElg22jBpE4CkQcdw/gNTyE1zfQCYKaaPL+vLz6qvIqU5p4I2VYGUYGZEgWCSTKZLfKtgAQEGO38kXpkEFbnl1O6qNB4fM9gBSiQoEixFHbLu4fb0KsJcr+8PC2XT6/3j08rYZ1H0gqw2vAOu29dYU9n541zcV82cSTACRtbkqfh+NR1TtQZufCaRx8vL9dX83iOIRYd6uOcTplyHLTAUnhF5AX5mU1Lb1jzfCjYvrEfgdNQoi041v2qzI2pO3fczvAv0cT8AnYBRRIz0bS7gAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/067.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/067.png",
+        "width": 640
+      },
+      "mostReplayedScore": 4,
+      "start": 67
+    },
+    {
+      "content": "Et quand j'ai demandé à mon pote pour le profil d'injection, il m'a dit c'est la\nstratégie d'arrivée de mes utilisateurs.",
+      "index": 21,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAA7UlEQVR4nI2Q20rDQBRFM51zm5kmaQwiVOJUW5MUE6NYiwh9bBG/QUTwI/x9GQOhAUFhP5yHtdmsE5FgHzbEhoA0kCZBZBDLZV0mswQFBiwi83MZ1KiRIMvTOHFAmgU3j937x9vhZT/QoYAMwKBAFf58u717en4o/FzjJMvTm6Zqu/X+sFtdXyit2FAoWCdpal1sy2rZNHV33/jLAkiL5Wni8tOTtlnWtY+GwtXi7Ovz9bZd+0VR+HmWz4yTfj2MByUAOnKYxma3qZLUsSENE+BgfJTwiZEDC0YqmPSPGtO/JGJDYv/mRoX/0yT4DUQWFskcp3l5AAAAAElFTkSuQmCC",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/071.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/071.png",
+        "width": 640
+      },
+      "mostReplayedScore": 4,
+      "start": 71
+    },
+    {
+      "content": "J'ai pas compris.",
+      "index": 22,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABKklEQVR4nFWQ3U7CQBCF2e7M7G63u9s/IMGUBtFStLVFoWhivIPoO5ho4kP4+qZCCCRzMRffOTnnDEji4YQioQiIA3GSiAKkEkVZ2NCghBM2OH0cORJEiQusBuqJ9ab5+v7cv+9OTC9AASDAA5blV5uufX55yvIJRy9KwvtqUTflbv92cztlnAlFvcDX0jmtjS4W86ou21WdzzIgrrQ0TifDpKquy3I6OAmu8/Hvz0f9sMxnWTad2NCQ6ONx8DzOPM4A+SHhMZI26nVdWKf7ogTpKB6OkySN0lGcjuIkjQ7GZ6UFMsZQcBSgtGxX1bprFst5t11128emvZM+4ZEmktSvJP2jh1DCRWEYhy5ygQkCGwTWnOe5mPVfKWxobWS18ZVWHD1+WYAk/gFS8xtDSJiAswAAAABJRU5ErkJggg==",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/076.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/076.png",
+        "width": 640
+      },
+      "mostReplayedScore": 4,
+      "start": 76
+    },
+    {
+      "content": "Du coup, il m'a dit c'est comme le matin dans le métro.",
+      "index": 23,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABXklEQVR4nE2QOy+DURjHz+k5z7n29LQxENGott6qatVLE6qCtHlDggUxuDU6WCwsuouhkbglbovE4BuQiBh8ArPFJzCbCZW24/Pk/3suP8QlYwKYAC4Zl0AZBc7qTaGlk0wEggYErWeYAPQPSCBAgEPISr8ChLGPYDebKK+veDNeI/0LAKeUUx/F4UhXbjhVWFiOjXrhcGcuPz40t5bIF71SPt7bjQmuj0ZKC2u1NtpJOhmnM7t9ull7vDyq7e1WNx6+erbO+iM2mYqiBhDtbt+vzKYzyUisp6NNuJXDp7fPp4vzsany4st3fPUAIQRSNk/SRhZGnIDVQkuE0FL1+P71/e764urm9uT5o29+hyDEtWgCjAPGGDgBTrlkhYnxUnE6PTgwPVnwvKKbc7lsfMyYYOhXn2qY5cYaEzQBa5RWUknt15Q1nf5taCmE4jYYsCHrN0r5JWGUAKGMtAI/t/Q2VqrLzxoAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/077.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/077.png",
+        "width": 640
+      },
+      "mostReplayedScore": 4,
+      "start": 77
+    },
+    {
+      "content": "J'ai trouvé ça drôle, mais j'ai toujours pas compris.",
+      "index": 24,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABJUlEQVR4nF2Q2U7CYBCF+3eWf+tCKahB2woKFGkpGDZNuIToM3ihiQ/h65tagmIyF5PJ+U7OGUcqZkWsSGqWmpEBGVgRSVRGjvJR0ApIYaNhRc4JAAJijOLQDyxyrViuqvePt8PL/qSuAZKEEgWKJLteredPz8sk6wG5Udx6KMZlNdkfdvfDVICQurZ2jFVhaKxvRuO7aZnPF+VtP0UGbZUf2rgbF8Ugz1PnBAyyq6/P19lskvWTm7QXtnxW5JIL6LogXBBA0CQ8RvJ8vVuOg9DWRRk7F+3uZRx3op+lHXejxvgXYElCOCSRJBhPVYvpal3lk+Fm+7jZLooy/w9IxcocTyRRG+0FXhAG1ve0UY5w/uY5e2sz1jfW08bTUjOQiwwkz4BvQ2Ua0F+T+/cAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/079.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/079.png",
+        "width": 640
+      },
+      "mostReplayedScore": 5,
+      "start": 79
+    },
+    {
+      "content": "Du coup, il m'a expliqué.",
+      "index": 25,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAVklEQVR4nJXOQQqAMAxE0S5MZtLsLaHF+x9TcCESRFv4ZBNeSIHpUgWGNcAfgGvKPNAM0kusaLFHb+PofQRrPldAVcozc5jT3MyZVkp5AYLtbgp8twxOQtQMql4nZ38AAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/083.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/083.png",
+        "width": 640
+      },
+      "mostReplayedScore": 5,
+      "start": 83
+    },
+    {
+      "content": "C'est pas du tout pareil si tout le monde arrive en même temps dans le métro ou si\ntout le monde arrive deux par deux au fur et à mesure ou si tout le monde arrive deux",
+      "index": 26,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABhUlEQVR4nGNg52Bj42Bl52RjZGZQUpJva6lJiAmJDfVJiYuqKsgoLkivaCrvWjUnZU6PQ2mOUoAXA1wDAyODto7W9L6O1Ei/po7a3lkTJ21dWnd4c8miqc7blrLPb9t9cNOEiU1QDWycbCysjIKSkhZmViZ6OllT2qJrc+On1CfN705OCnOf0y7cXzGhsayzvQOmAYzYudj5uQUjvb12bF44c/6EzjUzk3pr3CJ8TWc3MGYFR3vaZ8VHIJzEyMIoLyepq2vqHhD76NTKs9sXfH524f2bywcOrNp0aUf9hplVc3ocooKR/MDEoK6mFBYcaunku2fdpPc3190+ufL4rsU3Tm/9/+nm75eXvr27unb1TCQbmBnk5WUyE6JtLYxCAtzO75v97d7mYxt6N8zruH9mx7tbR77fP7F90USEH1jZWbh4OKWkxAQEeQUEeeXlJW0t9azMtPW1lXS0VCxM9SxN9bQ0lFE8zcrOwsTKxMLOwsrOzMTCxAAGjEyMjEyMEDYTEyMAbkOE/uKviNoAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/084.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/084.png",
+        "width": 640
+      },
+      "mostReplayedScore": 5,
+      "start": 84
+    },
+    {
+      "content": "par deux au fur et à mesure de plus en plus rapidement.",
+      "index": 27,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABwUlEQVR4nGNg52Rj52Ll4mFjYGJQUpZva6lNiAmJDfVJiYuqKsgozk+vbCzvXDUnZU63Q0mOYoAnAyMri4Y8X6yXCgMDg46u1oy+9tRIv6aO2p5ZEyduXVp/eFPJoqnO25ayz2/bc3DThIlNDGwcrBwcrCICPIzMDIJSkuam1qZ6WllTWqJqc+On1CfN60lOCHWf0yHcVz6hsayzvYOBm4tdUUZQXUFERJiXlZOdn1so0strx+aFM+f3d66ZkdRb7RrhYza7gTErOMrTLishkoGTi11WQlBFVoSbh0NOTlJXz8zdP/bRqVVnt8///Pz8h9eXDh5YtenSjvoNM6pndztEBzNwcbNz83Lw8rJzcjKrqyuHBYdaOfnsWTfp/c31d06tPL5r8Y1TW/5/uvn75YVv766uWT2LQUqE18VMKdBSwddKXlZBLjM+ytbCKCTA7fy+2d/ubT6+oW/D/PYHZ3a8u3Xk2/0T2xZNYuDgZGPnZOPgYmfnZOPm4ZSSEhcU5BMU4lOQl7Kz0rcx1zHQUdLVVrU007cy09fWVGZg52QFIQ4QYuNgZWZlYmVnYWNnYWZhYgADRmZGRmZGCJuJmQkAZduJhQYqXmgAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/090.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/090.png",
+        "width": 640
+      },
+      "mostReplayedScore": 5,
+      "start": 90
+    },
+    {
+      "content": "Et j'ai compris le profil d'injection.",
+      "index": 28,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABu0lEQVR4nGNg42Bl52Ll4mFjYGJQUpZva6lNiAmJDfVJiYuqKsgozk+vbCzvXDUnZU63Q0mOYoAnAwMLs4Y8X6yXCgMDg46u1oy+9tRIv6aO2p5ZEyduXVp/eFPJoqnO25ayz2/bc3DThIlNDKzsrBwcrCICPIzMDIJSkuam1qZ6WllTWqJqc+On1CfN60lOCHWf0yHcVz6hsayzvYOBi4tNUUZQQ0FERJiHlYONn1so0strx+aFM+f3d66ZkdRb7RrhYza7gTErOMrTLishkoGDk01WQlBFVoSbm11WVkJXz8zdP/bRqVVnt8///Pz8h9eXDh5YtenSjoYNM6pndztEBzNwcrFx87Dz8LBxcDCpqSmFBYdaOfnsWTfp/c31d06uPL5r8Y1TW/5/uvn75YVv766uWT2LQVKEx9VMKdBSwddSXkZeNjM+ytbCKCTA7fy+2d/ubT6+oW/D/PYHZ3a8u3Xk2/0T2xZNYmDnYAUjNjYOVi5uDilJMQEBXgFBXnl5SVtLPWszbX1tRR0tFUtTPUtTPS0NJQY2DlY4YmVnYWJlYmFnYWVnZmJhYgADRiZGRiZGCJuJiREAMdWJH/NrSqAAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/092.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/092.png",
+        "width": 640
+      },
+      "mostReplayedScore": 5,
+      "start": 92
+    },
+    {
+      "content": "Bref, on va faire un test de charge ensemble.",
+      "index": 29,
+      "media": {
+        "height": 360,
+        "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAC0SDtlAAAACXBIWXMAAAPoAAAD6AG1e1JrAAABN0lEQVR4nFWQ206DQBCGgZ0DC7ssFEovaItNT2BLpaS00cR4o43xHYwmPoIXvr7BmlqTufy/mfk/i12kn2FJLAlIAAlyERlcj5fFIggDdOGUIRetMyBQIEEUG20UELDEXVu/vb8en5/O6Q5ABmBwwBrnWXvY3t7tRnnmoBPF4WpdVDfXj8eH2Ty3hc2SOsDzXWN8X3uLYrquyrrZ5JMRkJC+1MaP+3G1npVlbp2B6dXg6+Ol2hTjyXA0zoJQE3fvCXAcYTvCBhRAFx2UlvftMjB+V5Sgn8bpIIn7UZLGSdqLk+gk4w8gRtu2kQEZPCW3TdXu66Kc7w/N/tBs6hVLEuj8s+R6vwtYsonCsBeayCitVKCUUuhh9jmUqYsAJC+0UkdyEOogDHztSV8KdAQIYNBzxYqIuwvfr8UcSuJqa9YAAAAASUVORK5CYII=",
+        "previewPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/previews/093.mp4",
+        "thumbnailPath": "EasterEgg01_brefOnVaFaireUnTestDeCharge/thumbnails/093.png",
+        "width": 640
+      },
+      "mostReplayedScore": 5,
+      "start": 93
+    }
+  ]
+}

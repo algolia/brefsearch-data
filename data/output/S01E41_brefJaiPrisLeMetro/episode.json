@@ -1,11 +1,10 @@
 {
   "episode": {
-    "basename": "S01E41_brefJaiPrisLeMetro",
     "duration": "1:50",
     "id": "aqrab4lKVm0",
     "index": 41,
     "name": "Bref. J'ai pris le métro.",
-    "slug": "brefJaiPrisLeMetro",
+    "slug": "S01E41_brefJaiPrisLeMetro",
     "viewCount": 7992189
   },
   "subtitles": [
