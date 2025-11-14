@@ -9,6 +9,7 @@ import { dimensions, lqip } from 'imoen';
 import { forEachEpisode } from '../../lib/helper.js';
 import {
   getBasename,
+  getComputedDir,
   getMediaPath,
   getMediaRepoDir,
   getPreviewPath,
@@ -16,6 +17,7 @@ import {
   getSubtitlePath,
   getThumbnailPath,
   getThumbnailsDir,
+  getTimestampKey,
 } from '../../lib/paths.js';
 import { convertVtt } from '../../lib/convertVtt.js';
 import { buildImage } from '../../lib/docker.js';
@@ -26,8 +28,6 @@ await buildImage();
 const mediaRepoDir = getMediaRepoDir();
 
 await forEachEpisode(async (episode) => {
-  const basename = getBasename(episode);
-
   // Add symlinks to brefsearch-media
   await createSymlinks(episode);
 
@@ -38,15 +38,15 @@ await forEachEpisode(async (episode) => {
 
   // Create media.json content
   const media = {};
+  const computedDir = getComputedDir(episode);
+
   await pMap(
     timestamps,
     async (timestamp) => {
-      const key = _.padStart(timestamp, 3, '0');
-
       // extract thumbnail if missing
       const thumbnailPath = getThumbnailPath(episode, timestamp);
       if (!(await exists(thumbnailPath))) {
-        await extractThumbnail(episode, timestamp, thumbnailPath);
+        await extractThumbnail(episode, timestamp);
       }
 
       // Get thumbnail metadata
@@ -56,12 +56,14 @@ await forEachEpisode(async (episode) => {
       // extract preview if missing
       const previewPath = getPreviewPath(episode, timestamp);
       if (!(await exists(previewPath))) {
-        await extractPreview(episode, timestamp, previewPath);
+        await extractPreview(episode, timestamp);
       }
 
-      const thumbnailPrefixPath = `${basename}/thumbnails/${key}.png`;
-      const previewPrefixPath = `${basename}/previews/${key}.mp4`;
+      // Derive relative paths from absolute paths
+      const thumbnailPrefixPath = thumbnailPath.replace(`${computedDir}/`, '');
+      const previewPrefixPath = previewPath.replace(`${computedDir}/`, '');
 
+      const key = getTimestampKey(timestamp);
       const value = {
         thumbnailPath: thumbnailPrefixPath,
         previewPath: previewPrefixPath,
@@ -74,21 +76,16 @@ await forEachEpisode(async (episode) => {
     { concurrency: 10 },
   );
 
-  const mediaJsonPath = getMediaPath(episode);
-  await writeJson(media, mediaJsonPath);
+  await writeJson(media, getMediaPath(episode));
 });
 
-/**
- * Create symlinks between computed/ and brefsearch-media repo
- * @param episode
- */
 async function createSymlinks(episode) {
   const basename = getBasename(episode);
-  const computedThumbnails = getThumbnailsDir(episode);
-  const computedPreviews = getPreviewsDir(episode);
-
   const mediaThumbnails = `${mediaRepoDir}/${basename}/thumbnails`;
   const mediaPreviews = `${mediaRepoDir}/${basename}/previews`;
+
+  const computedThumbnails = getThumbnailsDir(episode);
+  const computedPreviews = getPreviewsDir(episode);
 
   await symlink(computedThumbnails, mediaThumbnails);
   await symlink(computedPreviews, mediaPreviews);
