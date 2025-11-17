@@ -1,6 +1,9 @@
 {
   "episode": {
     "duration": "1:44",
+    "easterEgg": {
+      "takima": true
+    },
     "id": "RbC7S4WgxCw",
     "index": "Takima",
     "name": "Bref. On va faire un test de charge.",

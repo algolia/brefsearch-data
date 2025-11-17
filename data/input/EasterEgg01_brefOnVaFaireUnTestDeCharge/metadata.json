@@ -3,5 +3,8 @@
   "slug": "EasterEgg01_brefOnVaFaireUnTestDeCharge",
   "index": "Takima",
   "id": "RbC7S4WgxCw",
-  "duration": "1:44"
+  "duration": "1:44",
+  "easterEgg": {
+    "takima": true
+  }
 }
