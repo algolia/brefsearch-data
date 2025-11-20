@@ -3,7 +3,7 @@
  */
 import { consoleError } from 'firost';
 import config from '../../lib/config.js';
-import { indexData, setRules, setSynonyms } from '../../lib/algolia.js';
+import { indexData, setSynonyms } from '../../lib/algolia.js';
 
 // Validate required environment variables
 if (!config.algolia.apiKey) {
@@ -13,4 +13,3 @@ if (!config.algolia.apiKey) {
 
 await indexData();
 await setSynonyms();
-await setRules();
