@@ -2,14 +2,13 @@
   "episode": {
     "duration": "1:44",
     "easterEgg": {
-      "keyword": "takima",
       "takima": true
     },
     "id": "RbC7S4WgxCw",
     "index": "Takima",
     "name": "Bref. On va faire un test de charge.",
     "slug": "EasterEgg01_brefOnVaFaireUnTestDeCharge",
-    "viewCount": 12
+    "viewCount": 14
   },
   "subtitles": [
     {
