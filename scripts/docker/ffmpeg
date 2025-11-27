@@ -15,5 +15,5 @@ docker run --rm \
   -v "$GIT_ROOT:/workspace/brefsearch-data" \
   -v "$MEDIA_ROOT:/workspace/brefsearch-media" \
   -w /workspace/brefsearch-data \
-  brefsearch-tools \
+  brefsearch-data \
   "ffmpeg $*"
