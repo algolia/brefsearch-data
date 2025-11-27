@@ -7,8 +7,8 @@ ARG GROUP_ID=1000
 # Install FFmpeg, pipx (to install yt-dlp) and deno (deno dependency)
 RUN apk add --no-cache \
     ffmpeg~=6.1 \
-    pipx~=1.7.1 \
-    deno~=2.3.1
+    pipx~=1.7 \
+    deno~=2.3
 
 # Create user with same UID/GID as host user
 RUN addgroup -g ${GROUP_ID} appuser && \
